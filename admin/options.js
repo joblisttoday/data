@@ -5,12 +5,12 @@ export default {
 	load_config_file: false,
 	display_url: window.location.origin,
 
+	publish_mode: 'editorial_workflow',
 	backend: {
 	    name: 'github',
 	    repo: 'joblistcity/companies',
-	    open_authoring: true,
+	    open_authoring: true
 	},
-	publish_mode: 'editorial_workflow',
 
 	media_folder: 'media/uploads',
 	public_folder: 'media/uploads',

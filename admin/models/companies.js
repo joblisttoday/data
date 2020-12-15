@@ -20,7 +20,6 @@ import body from '../fields/body.js'
 import title from '../fields/title.js'
 
 const companies  = {
-    format: 'toml-frontmatter',
     name: 'companies',
     label: 'Companies',
     label_singular: 'Company',
@@ -30,6 +29,10 @@ const companies  = {
     extension: 'toml',
     create: true,
     slug: '{{title}}',
+    /* filter: {
+       field: 'city',
+       value: 'berlin'
+     * }, */
     editor: {
 	preview: false
     },
