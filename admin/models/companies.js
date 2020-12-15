@@ -27,6 +27,7 @@ const companies  = {
     folder: 'content/companies',
     media_folder: '',
     path: '{{slug}}/index',
+    extension: 'toml',
     create: true,
     slug: '{{title}}',
     editor: {
