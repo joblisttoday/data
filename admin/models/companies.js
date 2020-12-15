@@ -1,7 +1,6 @@
 import jobBoardUrl from '../fields/jobBoardUrl.js'
 import jobBoardProvider from '../fields/jobBoardProvider.js'
 import jobBoardHostname from '../fields/jobBoardHostname.js'
-import draft from '../fields/draft.js'
 import updatedAt from '../fields/updatedAt.js'
 import createdAt from '../fields/createdAt.js'
 import facebookUrl from '../fields/facebookUrl.js'
@@ -25,7 +24,7 @@ const companies  = {
     name: 'companies',
     label: 'Companies',
     label_singular: 'Company',
-    folder: 'content/',
+    folder: '/content/companies',
     media_folder: '',
     path: '{{slug}}/index',
     create: true,
@@ -35,26 +34,25 @@ const companies  = {
     },
     fields: [
 	jobBoardUrl,
-	/* jobBoardProvider,
-	   jobBoardHostname,
-	   draft,
-	   updatedAt,
-	   createdAt,
-	   facebookUrl,
-	   instagramUrl,
-	   twitterUrl,
-	   linkedinUrl,
-	   longitude,
-	   latitude,
-	   slug,
-	   companyUrl,
-	   postalCode,
-	   city,
-	   country,
-	   address,
-	   tags,
-	   body,
-	   title */
+	jobBoardProvider,
+	jobBoardHostname,
+	updatedAt,
+	createdAt,
+	facebookUrl,
+	instagramUrl,
+	twitterUrl,
+	linkedinUrl,
+	longitude,
+	latitude,
+	slug,
+	companyUrl,
+	postalCode,
+	city,
+	country,
+	address,
+	tags,
+	body,
+	title
     ]
 }
 
