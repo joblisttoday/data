@@ -1,4 +1,6 @@
 job_board_url = "https://dentolo-jobs.personio.de/"
+job_board_provider = "personio"
+job_board_hostname = "dentolo-jobs"
 title = "Dentolo"
 body = "Dental insurance and ecosystem."
 tags = ["insurance", "startup", "dental"]

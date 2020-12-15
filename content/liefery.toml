@@ -1,4 +1,6 @@
 job_board_url = "https://liefery-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "liefery-jobs"
 title = "Liefery"
 body = "Logistics startup, building an online marketplace for shops and couriers that enables the next generation of fast and customer friendly delivery experiences. Liefery is providing customized delivery features like same-day-delivery or delivery in selectable time-window to some of the biggest online shops."
 tags = ["startup", "logistics"]

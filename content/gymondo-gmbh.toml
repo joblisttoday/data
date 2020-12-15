@@ -1,4 +1,6 @@
 job_board_url = "https://gymondo-gmbh-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "gymondo-gmbh-jobs"
 title = "Gymondo"
 body = "Gymondo is a leading health and fitness app offering short and effective workouts and customized meal plans to users united by the desire to get fit and feel happy."
 tags = ["startup", "healt", "fitness", "app"]

@@ -1,4 +1,6 @@
 job_board_url = "https://heartbeat-med-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "heartbeat-med-jobs"
 title = "Heartbeat"
 body = "Heartbeat medical is an expert in Patient Reported Outcome Measures (PROMs) and offers a software to optimize workflows, save time in the everyday clinical routine and automate the tracking of PROMs."
 tags = ["startup", "medical"]

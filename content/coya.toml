@@ -1,4 +1,6 @@
 job_board_url = "https://coya-jobs.personio.de/"
+job_board_provider = "personio"
+job_board_hostname = "coya-jobs"
 title = "Coya"
 body = "Insurance startup"
 tags = ["startup", "insurance"]

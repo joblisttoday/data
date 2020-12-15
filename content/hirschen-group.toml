@@ -1,4 +1,6 @@
 job_board_url = "https://hirschen-group-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "hirschen-group-jobs"
 title = "Hirschen Group"
 body = "Platform for a wide variety of communication and consulting agency brands that offer creative advice for communication, digitization and public opinion."
 tags = ["agency", "communication", "consulting", "public-opinion"]

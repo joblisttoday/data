@@ -1,4 +1,6 @@
 job_board_url = "https://partum-gmbh-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "partum-gmbh-jobs"
 title = "Construyo"
 body = "Offers a complete project management service that connects the architecture, engineering and construction (AEC) industry."
 tags = ["startup", "architecture", "construction"]

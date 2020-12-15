@@ -1,4 +1,6 @@
 job_board_url = "https://verimi-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "verimi-jobs"
 title = "Verimi"
 body = "Solutions for digital identity management."
 tags = ["startup", "digital-identity"]

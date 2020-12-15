@@ -1,4 +1,6 @@
 job_board_url = "https://yaslife-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "yaslife-jobs"
 title = "YAS.life"
 body = "Develops digital applications for health insurance companies, insurance companies and enterprises in the field of health management and prevention"
 tags = ["startup", "applications", "health", "insurance"]

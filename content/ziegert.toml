@@ -1,4 +1,6 @@
 job_board_url = "https://ziegert-jobs.personio.de"
+job_board_provider = "personio"
+job_board_hostname = "ziegert-jobs"
 title = "Ziegert"
 body = "Real estate consultancy in Berlin."
 tags = ["consulting", "real-estate"]
