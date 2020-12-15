@@ -9,11 +9,13 @@ export default {
 	backend: {
 	    name: 'github',
 	    repo: 'joblistcity/companies',
-	    open_authoring: true
+	    open_authoring: true,
+	    use_graphql: true
 	},
 
 	media_folder: 'media/uploads',
 	public_folder: 'media/uploads',
+	logo_url: './edit/joblist-logo.png',
 
 	collections
     }
