@@ -15,7 +15,7 @@ export default {
 
 	media_folder: 'media/uploads',
 	public_folder: 'media/uploads',
-	logo_url: './edit/joblist-logo.png',
+	logo_url: './joblist-logo.png',
 
 	collections
     }
