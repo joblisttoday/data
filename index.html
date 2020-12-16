@@ -5,12 +5,81 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Companies | joblist.city</title>
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	<style>
+	 html {
+	     box-sizing: border-box;
+	 }
+	 *, *:before, *:after {
+	     box-sizing: inherit;
+	 }
+	 :root {
+	     --size: 1rem;
+	     --size-container: 40rem;
+	     --color-background: whitesmoke;
+	     --color-link: blue;
+	     --color-link-hover; var(--color-background);
+	 }
+	 html,
+	 body {
+	     display: flex;
+	     flex-grow: 1;
+	     min-height: 100%;
+	 }
+	 html {
+	     font-size: 17px;
+	     line-height: 1.6;
+	 }
+	 body {
+	     background-color: var(--color-background);
+	     display: flex;
+	     justify-content: center;
+	     align-items: center;
+	     padding: var(--size);
+	 }
+	 main {
+	     max-width: var(--size-container);
+	 }
+	 nav {
+	     flex-wrap: wrap;
+	     display: flex;
+	     flex-direction: column;
+	 }
+	 @media (min-width: 40rem) {
+	     nav {
+		 flex-direction: row;
+	     }
+	 }
+	 nav a {
+	     text-decoration: none;
+	     padding: var(--size);
+	     color: var(--color-link);
+	     transition: background-color 200ms ease-in-out, color 200ms ease-in-out;
+	 }
+	 nav a:hover {
+	     color: var(--color-background);
+	     background-color: var(--color-link);
+	 }
+	</style>
     </head>
     <body>
-	<h1>Companies CMS</h1>
-	<a href="/edit/">All companies</a>
-	<a href="/edit/#/collections/companies/new">Submit new company</a>
-	<a href="/edit/#/workflow">Companies in review</a>
+	<main>
+	    <h1>Companies CMS</h1>
+	    <p>
+		On <a href="https://joblist.city">joblist.city</a> you can search the available jobs from a list of companies.
+	    </p>
+	    <p>
+		This list of companies hirring, is available on this site, and in "open authoring mode". This means that anyone, with a free <a href="https://github.com">Github</a> account, can contribute to this list.
+	    </p>
+	    <p>
+		Feel free to add a new company, edit the informations about existing ones, or discuss the improvements to these sites.
+	    </p>
+	    
+	    <nav>
+		<a href="/edit/">All companies</a>
+		<a href="/edit/#/collections/companies/new">Submit new company</a>
+		<a href="/edit/#/workflow">Companies in review</a>
+	    </nav>
+	</main>
 
 	<script>
 	 if (window.netlifyIdentity) {
