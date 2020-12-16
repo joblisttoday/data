@@ -1,0 +1,10 @@
+title = "example"
+slug = "example"
+company_url = "https://example.com"
+job_board_url = "https://example.com/careers"
+body = "a test"
+tags = ["dede"]
+country = "germany"
+city = "berlin"
+updated_at = "2020-12-16"
+created_at = "2020-12-16"
