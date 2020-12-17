@@ -1,0 +1,3 @@
+[submodule ".themes/companies-theme"]
+	path = .themes/companies-theme
+	url = https://gitlab.com/joblist/companies-theme.git
