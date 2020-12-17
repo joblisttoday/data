@@ -4,13 +4,12 @@ A List of companies.
 
 ## How to contribute
 
-The most straight forward way to contribute, is by loggin in the [https://edit.joblist.city](edit.joblist.city) with your free Github account.
+The most straight forward way to contribute, is by loggin in the CMS at [edit.joblist.city](https://edit.joblist.city), with your free Github account.
 
-That way, netlify-CMS (in open authoring) will handle all the the hard work (based on git), to add a contribution to this project (as when used in software dedevelopment), and to create/edit the data keys and values for each companies (stored in toml files).
+That way, netlify-CMS (in *open-authoring* mode) will handle all the the work, to add a contribution to this project, to create/edit the data for each companies.
 
-> The other way is by making a PR editting any part of this
-> repository's content. The diff result of this operation should be
-> the same as when done through the cms.
+> The other way is by making a PR to this repository, editting any
+> part of this content.
 
 ## How is this list used
 
