@@ -1,4 +1,4 @@
-title = "Companies"
+title = "Profiles"
 contentDir = "."
 theme = "companies-theme"
 themesDir = ".themes"
@@ -7,3 +7,6 @@ languageCode = "en-us"
 
 [taxonomies]
 tag = "tags"
+
+[Params]
+editNetlifyCmsUrl = "https://companies.joblist.city/edit/#/collections"
