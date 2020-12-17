@@ -22,3 +22,20 @@ This list is also used as a data source, cloned in [gitlab/joblist/workers](http
 
 - the repo on Gitlab is mirrorring the one on Github, by pulling changes from it (cms edits github, gitlab pulls github)
 - `gitlab-ci.yml` allows some trigger to be executed when gitlab pull changes.
+
+
+## Development notes
+
+### Convert markdown files with hugo
+
+If you have all companies in the `./companies` folder:
+
+```
+mkdir output
+hugo convert toYAML --config config.toml  -o output/
+```
+
+Where the content of `./config.toml` is:
+```
+contentDir = 'companies'
+```

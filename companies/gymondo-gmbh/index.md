@@ -1,24 +1,29 @@
-+++
-job_board_url = "https://gymondo-gmbh-jobs.personio.de"
-job_board_provider = "personio"
-job_board_hostname = "gymondo-gmbh-jobs"
-title = "Gymondo"
-body = "Gymondo is a leading health and fitness app offering short and effective workouts and customized meal plans to users united by the desire to get fit and feel happy."
-tags = ["startup", "healt", "fitness", "app"]
-address = "Rungestr. 22-24"
-postal_code = "10179"
-city="berlin"
-country="germany"
-company_url = "https://www.gymondo.com"
-slug = "gymondo-gmbh"
-latitude = 52.512493
-longitude = 13.418757
-linkedin_url = "https://www.linkedin.com/company/gymondo-gmbh"
-twitter_url = ""
-instagram_url = "https://www.instagram.com/gymondo_official"
-facebook_url = ""
-created_at = "2020-09-08T16:23:18.626Z"
-updated_at = "2020-09-08T16:23:18.626Z"
-is_approved = true
-draft = false
-+++
+---
+address: Rungestr. 22-24
+body: Gymondo is a leading health and fitness app offering short and effective workouts
+  and customized meal plans to users united by the desire to get fit and feel happy.
+city: berlin
+company_url: https://www.gymondo.com
+country: germany
+created_at: "2020-09-08T16:23:18.626Z"
+draft: false
+facebook_url: ""
+instagram_url: https://www.instagram.com/gymondo_official
+is_approved: true
+job_board_hostname: gymondo-gmbh-jobs
+job_board_provider: personio
+job_board_url: https://gymondo-gmbh-jobs.personio.de
+latitude: 52.512493
+linkedin_url: https://www.linkedin.com/company/gymondo-gmbh
+longitude: 13.418757
+postal_code: "10179"
+slug: gymondo-gmbh
+tags:
+- startup
+- healt
+- fitness
+- app
+title: Gymondo
+twitter_url: ""
+updated_at: "2020-09-08T16:23:18.626Z"
+---

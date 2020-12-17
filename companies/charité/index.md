@@ -1,12 +1,16 @@
-+++
-body = "The Charité – Universitätsmedizin Berlin is Europe's largest University clinic. #health # clinic #university #medicine"
-created_at = "2018-02-09T19:51:48.859Z"
-is_approved = true
-job_board_url = "https://www.charite.de/karriere/"
-latitude = 52.5273921
-longitude = 13.3781312
-slug = "charité"
-tags = ["health", "university", "medicine"]
-title = "Charité"
-updated_at = "2019-06-16T10:36:08.537Z"
-+++
+---
+body: 'The Charité – Universitätsmedizin Berlin is Europe''s largest University clinic.
+  #health # clinic #university #medicine'
+created_at: "2018-02-09T19:51:48.859Z"
+is_approved: true
+job_board_url: https://www.charite.de/karriere/
+latitude: 52.5273921
+longitude: 13.3781312
+slug: charité
+tags:
+- health
+- university
+- medicine
+title: Charité
+updated_at: "2019-06-16T10:36:08.537Z"
+---
