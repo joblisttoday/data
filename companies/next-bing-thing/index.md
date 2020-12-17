@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://nextbigthingag2.recruitee.com"
 title = "Next Bing Thing"
 slug = "next-bing-thing"
@@ -14,4 +14,4 @@ created_at = "2020-04-04T14:10:09.626Z"
 updated_at = "2020-04-04T14:10:09.626Z"
 is_approved = true
 draft = false
----
++++

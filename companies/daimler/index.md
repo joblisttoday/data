@@ -1,4 +1,4 @@
----
++++
 body = "#transport #multinational #auto"
 created_at = "2019-05-18T08:41:36.897Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "daimler"
 tags = ["transport", "multinational", "auto"]
 title = "Daimler"
 updated_at = "2019-06-16T10:37:09.000Z"
----
++++

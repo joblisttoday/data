@@ -1,4 +1,4 @@
----
++++
 body = "#real-estate #software #startup"
 created_at = "2018-02-01T21:55:54.282Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "architrave-gmbh"
 tags = ["real-estate", "software", "startup"]
 title = "Architrave GmbH"
 updated_at = "2019-06-16T10:36:08.536Z"
----
++++

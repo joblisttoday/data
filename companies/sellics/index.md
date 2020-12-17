@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://sellicsjobs.recruitee.com"
 title = "Sellics"
 slug = "sellics"
@@ -20,4 +20,4 @@ created_at = "2020-04-04T16:57:08.626Z"
 updated_at = "2020-04-04T16:57:08.626Z"
 is_approved = true
 draft = false
----
++++

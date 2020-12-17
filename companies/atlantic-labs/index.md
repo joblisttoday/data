@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://atlanticlabs.recruitee.com"
 title = "Atlantic Labs"
 slug = "atlantic-labs"
@@ -16,4 +16,4 @@ company_url = "https://www.atlanticlabs.de"
 linkedin_url = "https://www.linkedin.com/company/atlantic-labs/"
 is_approved = true
 draft = false
----
++++

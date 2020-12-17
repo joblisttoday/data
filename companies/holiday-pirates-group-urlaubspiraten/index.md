@@ -1,4 +1,4 @@
----
++++
 body = "online #travel #startup"
 created_at = "2018-02-07T20:39:19.785Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "holiday-pirates-group-urlaubspiraten"
 tags = ["travel", "startup"]
 title = "Holiday Pirates Group (Urlaubspiraten)"
 updated_at = "2019-06-16T10:36:09.625Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "#fintech #startup"
 created_at = "2018-03-01T11:00:43.538Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "spotcap-global-services"
 tags = ["fintech", "startup"]
 title = "Spotcap Global Services"
 updated_at = "2019-06-16T10:36:09.731Z"
----
++++

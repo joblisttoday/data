@@ -1,4 +1,4 @@
----
++++
 body = "Germany's largest residential property company. #real-estate #facility-management"
 created_at = "2019-11-17T08:21:35.569Z"
 is_approved = true
@@ -6,4 +6,4 @@ job_board_url = "https://karriere.vonovia.de/de-de/stellenboerse?Term=&Location=
 slug = "vonovia"
 tags = ["real-estate", "facility-management"]
 title = "Vonovia"
----
++++

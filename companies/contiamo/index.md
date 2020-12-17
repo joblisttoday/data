@@ -1,4 +1,4 @@
----
++++
 body = "#dataScience platform. #startup"
 created_at = "2018-03-14T13:36:31.845Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "contiamo"
 tags = ["dataScience", "startup"]
 title = "Contiamo"
 updated_at = "2019-06-16T10:36:09.631Z"
----
++++

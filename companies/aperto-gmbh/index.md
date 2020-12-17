@@ -1,4 +1,4 @@
----
++++
 body = "Aperto is a  #digital-agency part of IBM interactive Experience (IBM iX); #advertising #marketing #social-media #web-design"
 created_at = "2018-02-04T18:12:22.932Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "aperto-gmbh"
 tags = ["digital-agency", "advertising", "marketing", "social-media", "web-design"]
 title = "Aperto GmbH"
 updated_at = "2019-06-16T10:36:09.736Z"
----
++++

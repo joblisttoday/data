@@ -1,4 +1,4 @@
----
++++
 body = "Online #fashion store and #agency; #ecommerce #startup"
 created_at = "2018-02-14T07:29:11.441Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "lala-berlin"
 tags = ["fashion", "agency", "ecommerce", "startup"]
 title = "lala berlin"
 updated_at = "2019-06-16T10:36:08.540Z"
----
++++

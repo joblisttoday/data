@@ -1,4 +1,4 @@
----
++++
 body = "#recruiting #agency handpicking candidates for businesses. #job-board #hr"
 created_at = "2018-01-27T14:56:07.489Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "cogs-agency"
 tags = ["recruiting", "agency", "job-board", "hr"]
 title = "Cogs Agency"
 updated_at = "2019-06-16T10:36:08.535Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "Medigo is an #international #network of #medical experts"
 created_at = "2017-06-28T20:33:03.513Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "medigo"
 tags = ["international", "network", "medical"]
 title = "Medigo"
 updated_at = "2019-06-16T10:36:09.626Z"
----
++++

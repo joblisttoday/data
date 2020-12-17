@@ -1,4 +1,4 @@
----
++++
 body = "Aldi is the common brand of two German discount #supermarket #chains with over 10,000 stores in 20 countries"
 created_at = "2018-02-01T06:59:16.041Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "aldi"
 tags = ["supermarket", "chains"]
 title = "Aldi"
 updated_at = "2019-06-16T10:36:09.640Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "Skoove is a #music #tech #startup making interactive #apps to learn piano and guitar. #music-education #online-marketing"
 created_at = "2018-01-29T17:05:27.334Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "skoove"
 tags = ["music", "tech", "startup", "apps", "music-education", "online-marketing"]
 title = "Skoove"
 updated_at = "2019-06-16T10:36:09.741Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "#it-security #startup; #it #software"
 created_at = "2018-10-05T20:11:40.451Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "cobaltio"
 tags = ["it-security", "startup", "it", "software"]
 title = "Cobalt.io"
 updated_at = "2019-06-16T10:36:08.540Z"
----
++++

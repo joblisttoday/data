@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://up42gmbh.recruitee.com/"
 title = "UP42"
 body = "UP42 brings data from satellites, drones, and IoT devices together with analytics tools to detect changes, monitor trends, and identify objects. We’re making it easy to not only see our planet but to understand it too. "
@@ -19,4 +19,4 @@ created_at = "2020-04-24T19:35:18.626Z"
 updated_at = "2020-04-24T19:35:18.626Z"
 is_approved = true
 draft = false
----
++++

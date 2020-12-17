@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://ziegert-jobs.personio.de"
 job_board_provider = "personio"
 job_board_hostname = "ziegert-jobs"
@@ -21,4 +21,4 @@ created_at = "2020-09-08T16:53:09.626Z"
 updated_at = "2020-09-08T16:53:09.626Z"
 is_approved = true
 draft = false
----
++++

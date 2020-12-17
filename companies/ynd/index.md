@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://ynd1.recruitee.com"
 slug = "ynd"
 title = "YND"
@@ -19,4 +19,4 @@ created_at = "2020-04-04T17:11:08.626Z"
 updated_at = "2020-04-04T17:11:08.626Z"
 is_approved = true
 draft = false
----
++++

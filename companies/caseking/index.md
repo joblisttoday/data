@@ -1,4 +1,4 @@
----
++++
 body = "#ecommerce site for #computer #gaming hardware"
 created_at = "2018-02-01T20:53:21.440Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "caseking"
 tags = ["ecommerce", "computer", "gaming"]
 title = "caseking"
 updated_at = "2019-06-16T10:36:08.535Z"
----
++++

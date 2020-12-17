@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://pauaventures1.recruitee.com"
 slug = "paua-ventures"
 title = "Paua Ventures"
@@ -13,4 +13,4 @@ linkedin_url = "https://www.linkedin.com/company/paua-ventures-gmbh"
 twitter_url = "https://twitter.com/pauaventures"
 is_approved = true
 draft = false
----
++++

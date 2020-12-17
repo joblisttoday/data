@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://lingoda.recruitee.com"
 title = "Lingoda"
 slug = "lingoda"
@@ -18,4 +18,4 @@ linkedin_url = "https://www.linkedin.com/company/lingoda-gmbh"
 twitter_url = "https://twitter.com/lingoda"
 is_approved = true
 draft = false
----
++++

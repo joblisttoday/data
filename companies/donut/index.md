@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://donut.recruitee.com"
 title = "Donut"
 slug = "donut"
@@ -18,4 +18,4 @@ linkedin_url = "https://www.linkedin.com/company/trydonut/"
 twitter_url = "https://twitter.com/donut__app"
 is_approved = true
 draft = false
----
++++

@@ -1,4 +1,4 @@
----
++++
 slug = "point-nine-capital"
 title = "Point Nine Capital"
 body = "Point Nine Capital is an #early-stage #venture #capital firm primarily focused on SaaS and online marketplaces"
@@ -14,4 +14,4 @@ created_at = "2017-06-28T20:32:41.806Z"
 updated_at = "2020-04-04T17:21:41.806Z"
 is_approved = true
 draft = false
----
++++

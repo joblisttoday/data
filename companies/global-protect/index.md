@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://www.global-protect.de/karriere"
 job_board_provider = "smartrecruiters"
 job_board_hostname = "HRDpt"
@@ -17,4 +17,4 @@ created_at = "2020-07-04T23:05:18.626Z"
 updated_at = "2020-07-04T23:05:18.626Z"
 is_approved = true
 draft = false
----
++++

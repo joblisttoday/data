@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://boards.greenhouse.io/fenixinternational"
 title = "Fenix International"
 body = "Fenix International produces solar panel solutions."
@@ -14,4 +14,4 @@ created_at = "2020-09-08T12:35:18.626Z"
 updated_at = "2020-09-08T12:35:18.626Z"
 is_approved = true
 draft = false
----
++++

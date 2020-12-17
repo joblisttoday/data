@@ -1,4 +1,4 @@
----
++++
 body = "online #media for #football; #startup"
 created_at = "2018-02-03T18:15:24.172Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "onefootball"
 tags = ["media", "football", "startup"]
 title = "Onefootball"
 updated_at = "2019-06-16T10:36:09.730Z"
----
++++

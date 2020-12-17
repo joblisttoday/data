@@ -1,4 +1,4 @@
----
++++
 body = "Co-living provider. #tech #real-estate"
 created_at = "2018-02-14T22:29:23.167Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "medici-living-group"
 tags = ["tech", "real-estate"]
 title = "Medici Living Group"
 updated_at = "2019-06-16T10:36:08.539Z"
----
++++

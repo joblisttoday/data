@@ -1,4 +1,4 @@
----
++++
 body = "Just Music in an online #music #shop allowing you to purchase any kind of #instruments"
 created_at = "2017-06-28T20:32:11.151Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "just-music"
 tags = ["music", "shop", "instruments"]
 title = "Just Music"
 updated_at = "2019-06-16T10:36:09.624Z"
----
++++

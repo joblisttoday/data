@@ -1,4 +1,4 @@
----
++++
 body = "Judicial enforcement of compensation payments for air passengers #flight #airline #law"
 created_at = "2018-02-01T16:44:44.600Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "flightright"
 tags = ["flight", "airline", "law"]
 title = "Flightright"
 updated_at = "2019-06-16T10:36:08.539Z"
----
++++

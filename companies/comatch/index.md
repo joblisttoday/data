@@ -1,4 +1,4 @@
----
++++
 body = "Hand-picked consultants. #consulting"
 created_at = "2020-02-29T18:07:02.000Z"
 is_approved = true
@@ -11,4 +11,4 @@ longitude = 13.3419823
 slug = "comatch"
 tags = ["consulting"]
 title = "comatch"
----
++++

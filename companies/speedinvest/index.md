@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://speedinvestgmbh.recruitee.com"
 title = "Speedinvest"
 slug = "speedinvest"
@@ -16,4 +16,4 @@ company_url = "https://speedinvest.com/"
 googleMapsUrl = "https://g.page/speedinvest-berlin"
 is_approved = true
 draft = false
----
++++

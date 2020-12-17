@@ -1,4 +1,4 @@
----
++++
 body = "Tracks and Fields helps you to find the best #music for your projects in #advertising, #film and #interactive. All according to your music briefing, time constraints and budge"
 created_at = "2017-06-28T20:31:23.024Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "tracks-and-fields"
 tags = ["music", "advertising", "film", "interactive"]
 title = "Tracks and Fields"
 updated_at = "2019-06-16T10:36:08.531Z"
----
++++

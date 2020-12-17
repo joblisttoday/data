@@ -1,4 +1,4 @@
----
++++
 body = "#startup provinding an app for #yoga and #fitness practice"
 created_at = "2018-02-02T10:46:55.589Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "asana-rebel"
 tags = ["startup", "yoga", "fitness"]
 title = "Asana Rebel"
 updated_at = "2019-06-16T10:36:09.742Z"
----
++++

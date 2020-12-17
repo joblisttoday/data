@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://recaregmbh.recruitee.com"
 title = "Recare"
 slug = "recare"
@@ -17,4 +17,4 @@ linkedin_url = "https://www.linkedin.com/company/recare"
 twitter_url = ""
 is_approved = true
 draft = false
----
++++

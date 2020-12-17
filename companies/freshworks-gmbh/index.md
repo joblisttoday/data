@@ -1,4 +1,4 @@
----
++++
 body = "Customer engagement #software #startup"
 created_at = "2019-05-10T09:21:13.523Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "freshworks-gmbh"
 tags = ["software", "startup"]
 title = "Freshworks GmbH"
 updated_at = "2019-06-16T10:36:09.735Z"
----
++++

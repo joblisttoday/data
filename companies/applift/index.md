@@ -1,4 +1,4 @@
----
++++
 body = "AppLift offers a #solution to empower businesses to connect with and activate customers on #mobile"
 created_at = "2017-06-28T20:29:29.930Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "applift"
 tags = ["solution", "mobile"]
 title = "AppLift"
 updated_at = "2019-06-16T10:36:09.737Z"
----
++++

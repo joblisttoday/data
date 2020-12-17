@@ -1,4 +1,4 @@
----
++++
 body = "#startup #big-data #mathematics #software"
 created_at = "2018-02-08T08:46:54.014Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "celeraone"
 tags = ["startup", "big-data", "mathematics", "software"]
 title = "Celeraone"
 updated_at = "2019-06-16T10:36:08.540Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "#fintech #venture-capita based in Berlin. #vc"
 created_at = "2017-12-13T19:47:05.630Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "finleap"
 tags = ["fintech", "venture-capita", "vc"]
 title = "FinLeap"
 updated_at = "2019-06-16T10:36:09.736Z"
----
++++

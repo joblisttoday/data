@@ -1,4 +1,4 @@
----
++++
 body = "#startup provinding #coworking space and shared-office space"
 created_at = "2018-02-05T21:27:18.884Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "mindspace"
 tags = ["startup", "coworking"]
 title = "Mindspace"
 updated_at = "2019-06-16T10:36:08.535Z"
----
++++

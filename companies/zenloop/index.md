@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://zenloopgmbh.recruitee.com"
 title = "zenloop"
 slug = "Zenloop"
@@ -20,4 +20,4 @@ googleMapsUrl = "https://g.page/zenloop-gmbh"
 crunchBaseUrl = "https://www.crunchbase.com/organization/zenloop"
 is_approved = true
 draft = false
----
++++

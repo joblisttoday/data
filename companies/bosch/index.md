@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://www.bosch.com/careers"
 job_board_provider = "smartrecruiters"
 job_board_hostname = "BoschGroup"
@@ -14,4 +14,4 @@ created_at = "2020-07-04T18:26:18.626Z"
 updated_at = "2020-07-04T18:26:18.626Z"
 is_approved = true
 draft = false
----
++++

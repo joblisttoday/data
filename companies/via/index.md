@@ -1,4 +1,4 @@
----
++++
 body = "#startup #navigation #ride-sharing #transport"
 created_at = "2018-02-09T06:44:05.203Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "via"
 tags = ["startup", "navigation", "ride-sharing", "transport"]
 title = "Via"
 updated_at = "2019-06-16T10:36:08.533Z"
----
++++

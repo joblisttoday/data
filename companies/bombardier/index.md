@@ -1,4 +1,4 @@
----
++++
 body = "World's leading manufacturer of both planes and trains. Everywhere people travel by land and in the air, a Bombardier product is ready to transport them. #train #aviation #engineering"
 created_at = "2018-02-09T14:03:42.416Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "bombardier"
 tags = ["train", "aviation", "engineering"]
 title = "Bombardier"
 updated_at = "2019-06-16T10:36:09.730Z"
----
++++

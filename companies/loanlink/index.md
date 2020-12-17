@@ -1,4 +1,4 @@
----
++++
 title = "Loanlink"
 slug = "loanlink"
 body = "Loanlink is a fast growing startup reinventing the home buying experience in Germany by transforming an outdated and painful process with technology and innovation."
@@ -13,4 +13,4 @@ country="germany"
 created_at = "2020-04-04T13:39:09.626Z"
 updated_at = "2020-04-04T13:39:09.626Z"
 is_approved = true
----
++++

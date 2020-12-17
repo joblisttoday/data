@@ -1,4 +1,4 @@
----
++++
 body = "Funding #marketplace where entrepreneurs in search of funding meet investors in search of a simple #investment opportunity"
 created_at = "2018-11-20T16:23:35.353Z"
 is_approved = true
@@ -11,4 +11,4 @@ slug = "kapilendo"
 tags = ["marketplace", "investment"]
 title = "Kapilendo"
 updated_at = "2019-06-16T10:36:08.533Z"
----
++++

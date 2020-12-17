@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://www.mcmakler.de/en/careers"
 job_board_provider = "smartrecruiters"
 job_board_hostname = "McMaklerGmbH1"
@@ -22,4 +22,4 @@ created_at = "2020-04-04T17:44:18.626Z"
 updated_at = "2020-04-04T17:44:18.626Z"
 is_approved = true
 draft = false
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "Private #clinic group"
 created_at = "2018-02-09T18:59:36.015Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "sana-kliniken"
 tags = ["clinic", "medical", "health"]
 title = "Sana Kliniken"
 updated_at = "2019-06-16T10:36:09.639Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "#hr management platform. #software #startup #tech"
 created_at = "2017-08-05T13:20:55.147Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "heavenhr"
 tags = ["hr", "software", "startup", "tech"]
 title = "HeavenHR"
 updated_at = "2019-06-16T10:36:09.625Z"
----
++++

@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://jobs.lever.co/beyondmeat"
 title = "Beyond Meat"
 body = "Producer of plant-based meat substitutes."
@@ -15,4 +15,4 @@ created_at = "2020-09-08T13:00:18.626Z"
 updated_at = "2020-09-08T13:00:18.626Z"
 is_approved = true
 draft = false
----
++++

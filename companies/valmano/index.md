@@ -1,4 +1,4 @@
----
++++
 body = "online shop for #watches and #jewelery. #ecommerce #startup"
 created_at = "2018-02-02T10:45:57.381Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "valmano"
 tags = ["watches", "jewelery", "ecommerce", "startup"]
 title = "Valmano"
 updated_at = "2019-06-16T10:36:09.623Z"
----
++++

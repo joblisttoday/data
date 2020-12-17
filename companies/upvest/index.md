@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://upvestco.recruitee.com"
 title = "upvest"
 slug = "upvest"
@@ -17,4 +17,4 @@ linkedin_url = "https://www.linkedin.com/company/upvest"
 twitter_url = "https://twitter.com/upvestco"
 is_approved = true
 draft = false
----
++++

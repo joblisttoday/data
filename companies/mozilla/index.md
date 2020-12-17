@@ -1,4 +1,4 @@
----
++++
 body = "#nonprofit organization building browsers, app, code and tools with the aim to keep the Internet open; #tech #software"
 created_at = "2017-06-28T20:40:15.891Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "mozilla"
 tags = ["nonprofit", "tech", "software"]
 title = "Mozilla"
 updated_at = "2019-06-16T10:36:09.625Z"
----
++++

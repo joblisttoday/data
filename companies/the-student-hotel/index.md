@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://thestudenthotel.recruitee.com/"
 title = "The Student Hotel"
 slug = "the-student-hotel"
@@ -19,4 +19,4 @@ facebook_url = "https://www.facebook.com/TheStudentHotel"
 googleMapsUrl = "https://g.page/the-student-hotel-berlin"
 is_approved = true
 draft = false
----
++++

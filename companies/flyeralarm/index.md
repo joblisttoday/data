@@ -1,4 +1,4 @@
----
++++
 body = "online #printing service"
 created_at = "2017-06-28T20:33:33.753Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "flyeralarm"
 tags = ["printing"]
 title = "FlyerAlarm"
 updated_at = "2019-06-16T10:36:09.783Z"
----
++++

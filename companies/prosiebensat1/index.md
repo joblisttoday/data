@@ -1,4 +1,4 @@
----
++++
 body = "ProSiebenSat.1 Group is one of Europe's leading media companies. TV entertainment, leading broadcasting, digital entertainment, and commerce powerhouse. #media #tv"
 created_at = "2018-02-10T15:09:43.597Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "prosiebensat1"
 tags = ["media", "tv"]
 title = "ProSiebenSat.1"
 updated_at = "2019-06-16T10:36:09.631Z"
----
++++

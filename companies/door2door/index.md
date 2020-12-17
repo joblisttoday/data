@@ -1,4 +1,4 @@
----
++++
 body = "Door2door solution provides an economical and on-demand #transportation for citizens, employees or rural areas."
 created_at = "2017-06-28T20:41:02.619Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "door2door"
 tags = ["transportation"]
 title = "Door2door"
 updated_at = "2019-06-16T10:36:09.626Z"
----
++++

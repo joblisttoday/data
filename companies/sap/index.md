@@ -1,4 +1,4 @@
----
++++
 body = "SAP is a German-based European #multinational #software corporation that makes enterprise software to manage #business operations and #customer-relations"
 created_at = "2018-02-01T10:57:03.285Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "sap"
 tags = ["multinational", "software", "business", "customer-relations"]
 title = "SAP"
 updated_at = "2019-06-16T10:36:08.535Z"
----
++++

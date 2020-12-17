@@ -1,4 +1,4 @@
----
++++
 body = "On-demand, digital printing company that prints custom fabric, wallpaper, and gift wrap. #print #startup #fashion"
 created_at = "2019-11-12T09:24:22.991Z"
 is_approved = true
@@ -8,4 +8,4 @@ longitude = 13.4500108
 slug = "spoonflower"
 tags = ["print", "startup", "fashion"]
 title = "Spoonflower"
----
++++

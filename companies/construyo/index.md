@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://partum-gmbh-jobs.personio.de"
 job_board_provider = "personio"
 job_board_hostname = "partum-gmbh-jobs"
@@ -21,4 +21,4 @@ created_at = "2020-09-08T16:27:18.626Z"
 updated_at = "2020-09-08T16:27:18.626Z"
 is_approved = true
 draft = false
----
++++

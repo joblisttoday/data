@@ -1,4 +1,4 @@
----
++++
 body = "Volders helps users #monitoring their #personal #contracts, such as mobile phone, electricity or gym, from everywhere at any time. Before your contracts are automatically renewed, users are given the option to terminate, prolong or switch contracts via a simple and straightforward process"
 created_at = "2017-06-28T20:32:00.892Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "volders"
 tags = ["monitoring", "personal", "contracts"]
 title = "Volders"
 updated_at = "2019-06-16T10:36:08.537Z"
----
++++

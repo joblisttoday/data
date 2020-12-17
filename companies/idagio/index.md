@@ -1,4 +1,4 @@
----
++++
 body = "#classical-music streaming service. #music #startup #technology"
 created_at = "2018-02-06T17:26:06.765Z"
 is_approved = true
@@ -12,4 +12,4 @@ slug = "idagio"
 tags = ["classical-music", "music", "startup", "technology"]
 title = "Idagio"
 updated_at = "2019-06-16T10:36:08.540Z"
----
++++

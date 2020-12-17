@@ -1,4 +1,4 @@
----
++++
 body = "#open-source #software #startup; #tech"
 created_at = "2017-06-28T20:20:43.742Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "travis-ci"
 tags = ["open-source", "software", "startup", "tech"]
 title = "Travis-ci"
 updated_at = "2019-06-16T10:36:09.728Z"
----
++++

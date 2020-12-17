@@ -1,4 +1,4 @@
----
++++
 body = "Booking platform for air freight. #startup #transport #aviation"
 created_at = "2018-12-21T07:23:32.382Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "cargoone"
 tags = ["startup", "transport", "aviation"]
 title = "Cargo.one"
 updated_at = "2019-06-16T10:36:09.730Z"
----
++++

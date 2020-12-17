@@ -1,4 +1,4 @@
----
++++
 
 job_board_url = "https://idealocareer.recruitee.com"
 title = "Idealo"
@@ -19,4 +19,4 @@ created_at = "2020-08-04T19:35:18.626Z"
 updated_at = "2020-08-04T19:35:18.626Z"
 is_approved = true
 draft = false
----
++++

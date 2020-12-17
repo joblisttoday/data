@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://firmadeen.recruitee.com"
 title = "Firma"
 slug = "firma"
@@ -19,4 +19,4 @@ facebook_url = "https://www.facebook.com/durchstartenmitsystem"
 instagram_url = "https://www.instagram.com/1firma"
 is_approved = true
 draft = false
----
++++

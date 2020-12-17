@@ -1,4 +1,4 @@
----
++++
 body = "Insurance #startup"
 created_at = "2019-04-11T09:34:04.273Z"
 is_approved = true
@@ -11,4 +11,4 @@ slug = "wefox"
 tags = ["startup"]
 title = "wefox"
 updated_at = "2019-06-16T10:36:08.532Z"
----
++++

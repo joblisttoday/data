@@ -1,4 +1,4 @@
----
++++
 body = "Berlin public #university ; #culture"
 created_at = "2019-05-05T06:01:41.013Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "freien-universität-berlin"
 tags = ["university", "culture"]
 title = "Freien Universität Berlin"
 updated_at = "2019-06-16T10:36:09.624Z"
----
++++

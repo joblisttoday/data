@@ -1,4 +1,4 @@
----
++++
 body = "Fyber is a #technology company, developing a #monetization #platform for #mobile #publishers"
 created_at = "2017-06-28T20:32:32.069Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "fyber"
 tags = ["technology", "monetization", "platform", "mobile", "publishers"]
 title = "Fyber"
 updated_at = "2019-06-16T10:36:09.638Z"
----
++++

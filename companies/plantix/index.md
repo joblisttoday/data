@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://plantix.recruitee.com/"
 title = "PLantix (PEAT)"
 slug = "plantix-peat"
@@ -19,4 +19,4 @@ created_at = "2020-03-04T17:11:18.626Z"
 updated_at = "2020-03-04T17:11:18.626Z"
 is_approved = true
 draft = false
----
++++

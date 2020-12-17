@@ -1,4 +1,4 @@
----
++++
 body = "#startup providing #ecommerce #software"
 created_at = "2017-06-28T20:27:29.082Z"
 is_approved = true
@@ -12,4 +12,4 @@ slug = "commercetools-gmbh"
 tags = ["startup", "ecommerce", "software"]
 title = "Commercetools Gmbh"
 updated_at = "2020-04-20T03:30:09.625Z"
----
++++

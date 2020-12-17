@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://pylotjobs.recruitee.com/"
 title = "Pylot"
 slug = "pylot"
@@ -17,4 +17,4 @@ twitter_url = "https://twitter.com/wearepylot"
 linkedin_url = "https://www.linkedin.com/company/pylot-de"
 is_approved = true
 draft = false
----
++++

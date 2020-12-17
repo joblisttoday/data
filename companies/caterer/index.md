@@ -1,4 +1,4 @@
----
++++
 body = "#job-board for jobs in the #hospitality sector"
 created_at = "2018-02-01T13:24:22.604Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "caterer"
 tags = ["job-board", "hospitality"]
 title = "Caterer"
 updated_at = "2019-06-16T10:36:09.640Z"
----
++++

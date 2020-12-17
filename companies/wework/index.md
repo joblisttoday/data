@@ -1,4 +1,4 @@
----
++++
 body = "WeWork is a foreign corporation that provides shared #workspaces, technology #startup subculture communities, and services for entrepreneurs, freelancers, startups, small businesses and large enterprises."
 created_at = "2018-01-29T19:19:26.915Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "wework"
 tags = ["workspaces", "startup"]
 title = "WeWork"
 updated_at = "2019-06-16T10:36:09.734Z"
----
++++

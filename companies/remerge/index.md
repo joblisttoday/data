@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://remerge.recruitee.com"
 title = "Remerge"
 slug = "remerge"
@@ -18,4 +18,4 @@ twitter_url = "https://twitter.com/remergeio"
 facebook_url = "https://www.facebook.com/remerge.io"
 is_approved = true
 draft = false
----
++++

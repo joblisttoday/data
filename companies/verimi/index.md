@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://verimi-jobs.personio.de"
 job_board_provider = "personio"
 job_board_hostname = "verimi-jobs"
@@ -21,4 +21,4 @@ created_at = ""
 updated_at = "2020-09-08T20:33:18.626Z"
 is_approved = true
 draft = false
----
++++

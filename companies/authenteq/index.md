@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://authenteq.recruitee.com"
 title = "Authenteq"
 slug = "authenteq"
@@ -16,4 +16,4 @@ company_url = "https://authenteq.com"
 googleMapsUrl = "https://goo.gl/maps/pGQ1rK1SYFqNgm2G8"
 is_approved = true
 draft = false
----
++++

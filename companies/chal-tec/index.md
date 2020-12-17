@@ -1,4 +1,4 @@
----
++++
 body = "Chal-Tel is a #brand #incubator operating all over Europe through various distribution channels"
 created_at = "2017-06-28T20:31:32.366Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "chal-tec"
 tags = ["brand", "incubator"]
 title = "Chal-Tec"
 updated_at = "2019-06-16T10:36:09.730Z"
----
++++

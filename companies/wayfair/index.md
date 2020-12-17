@@ -1,4 +1,4 @@
----
++++
 body = "Wayfair is an American #ecommerce company that sells #home goods"
 created_at = "2018-02-01T14:32:37.450Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "wayfair"
 tags = ["ecommerce", "home"]
 title = "Wayfair "
 updated_at = "2019-06-16T10:36:09.639Z"
----
++++

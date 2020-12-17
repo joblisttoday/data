@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://huuuge.recruitee.com/"
 title = "Huuuge"
 slug = "huuuge"
@@ -19,4 +19,4 @@ created_at = "2020-04-04T17:11:18.626Z"
 updated_at = "2020-04-04T17:11:18.626Z"
 is_approved = true
 draft = false
----
++++

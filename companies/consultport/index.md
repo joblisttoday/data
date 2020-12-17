@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://consultport.recruitee.com"
 title = "Consultport"
 slug = "consultport"
@@ -17,4 +17,4 @@ googleMapsUrl = "https://goo.gl/maps/rZDjMWDiAGS1ogpy6"
 linkedin_url = "https://www.linkedin.com/company/consultport/"
 is_approved = true
 draft = false
----
++++

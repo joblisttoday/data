@@ -1,4 +1,4 @@
----
++++
 body = "#digital #design #agency"
 created_at = "2019-01-24T08:42:12.489Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "goodpatch"
 tags = ["digital", "design", "agency"]
 title = "Goodpatch"
 updated_at = "2019-06-16T10:36:08.534Z"
----
++++

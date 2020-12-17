@@ -1,4 +1,4 @@
----
++++
 body = "#fitness"
 created_at = "2018-02-01T20:36:36.701Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "rsg-group-gmbh-mc-fit"
 tags = ["fitness"]
 title = " RSG Group GmbH (Mc Fit)"
 updated_at = "2019-06-16T10:36:09.731Z"
----
++++

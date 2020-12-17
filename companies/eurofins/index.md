@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://careers.eurofins.com"
 job_board_provider = "smartrecruiters"
 job_board_hostname = "Eurofins"
@@ -21,4 +21,4 @@ created_at = "2020-07-04T16:30:18.626Z"
 updated_at = "2020-07-04T16:30:18.626Z"
 is_approved = true
 draft = false
----
++++

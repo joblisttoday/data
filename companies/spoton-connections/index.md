@@ -1,4 +1,4 @@
----
++++
 body = "general #job-board offering personalised recruitment"
 created_at = "2018-02-06T09:03:33.573Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "spoton-connections"
 tags = ["job-board"]
 title = "SpotOn Connections"
 updated_at = "2019-06-16T10:36:09.623Z"
----
++++

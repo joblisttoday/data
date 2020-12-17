@@ -1,4 +1,4 @@
----
++++
 body = "#open-source #software and #it solutions; #multinational"
 created_at = "2017-06-28T20:34:34.972Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "red-hat"
 tags = ["open-source", "software", "it", "multinational"]
 title = "Red Hat"
 updated_at = "2019-06-16T10:36:09.735Z"
----
++++

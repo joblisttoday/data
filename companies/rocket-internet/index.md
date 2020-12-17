@@ -1,4 +1,4 @@
----
++++
 body = "Rocket Internet #incubates and #invests in #Internet #companies with proven #business models"
 created_at = "2017-06-28T20:24:09.883Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "rocket-internet"
 tags = ["incubates", "invests", "Internet", "companies", "business"]
 title = "Rocket Internet"
 updated_at = "2019-06-16T10:36:08.540Z"
----
++++

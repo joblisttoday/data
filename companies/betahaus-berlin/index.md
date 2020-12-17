@@ -1,4 +1,4 @@
----
++++
 body = "#coworking space #startup #freelance"
 created_at = "2017-06-28T20:22:43.838Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "betahaus-berlin"
 tags = ["coworking", "startup", "freelance"]
 title = "Betahaus Berlin"
 updated_at = "2019-06-16T10:36:09.741Z"
----
++++

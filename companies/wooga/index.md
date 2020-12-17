@@ -1,4 +1,4 @@
----
++++
 body = "Developing #games for #mobile devices; #software"
 created_at = "2017-06-28T20:28:06.936Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "wooga"
 tags = ["games", "mobile", "software"]
 title = "Wooga"
 updated_at = "2019-06-16T10:36:09.732Z"
----
++++

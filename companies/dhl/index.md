@@ -1,4 +1,4 @@
----
++++
 body = "DHL is the global market leader in the logistics industry. DHL commits its expertise in international parcel, express, air and ocean freight, road and rail ... #logistics"
 created_at = "2018-02-09T14:43:02.723Z"
 is_approved = true
@@ -7,4 +7,4 @@ slug = "dhl"
 tags = ["logistics"]
 title = "DHL"
 updated_at = "2019-06-16T10:36:09.626Z"
----
++++

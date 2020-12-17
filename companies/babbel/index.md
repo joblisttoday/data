@@ -1,4 +1,4 @@
----
++++
 body = "Babbel is the new way to #learn a foreign #language. The comprehensive learning system combines effective #education methods with state-of-the-art technology"
 created_at = "2017-06-28T20:25:36.920Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "babbel"
 tags = ["learn", "languages", "education"]
 title = "Babbel"
 updated_at = "2019-06-16T10:36:09.624Z"
----
++++

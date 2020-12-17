@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://cherryventures.recruitee.com/"
 title = "Cherry Ventures"
 slug = "cherry-ventures"
@@ -13,4 +13,4 @@ longitude = 13.396951
 created_at = "2020-04-04T13:39:09.626Z"
 updated_at = "2020-04-04T13:39:09.626Z"
 is_approved = true
----
++++

@@ -1,4 +1,4 @@
----
++++
 body = "automobile; #transport "
 created_at = "2019-05-09T09:18:52.833Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "mercedes-benzio"
 tags = ["transport"]
 title = "Mercedes-Benz.io"
 updated_at = "2019-06-16T10:46:49.000Z"
----
++++

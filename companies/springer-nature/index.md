@@ -1,4 +1,4 @@
----
++++
 body = "#academic #publishing; #science"
 created_at = "2017-06-28T20:38:45.228Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "springer-nature"
 tags = ["academic", "publishing", "science"]
 title = "Springer Nature"
 updated_at = "2019-06-16T10:36:09.728Z"
----
++++

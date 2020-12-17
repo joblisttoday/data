@@ -1,4 +1,4 @@
----
++++
 body = "#startup #solar #energy-transformation"
 created_at = "2018-06-07T12:00:02.629Z"
 is_approved = true
@@ -11,4 +11,4 @@ slug = "solytic"
 tags = ["startup", "solar", "energy-transformation"]
 title = "SOLYTIC"
 updated_at = "2019-06-16T10:36:08.539Z"
----
++++

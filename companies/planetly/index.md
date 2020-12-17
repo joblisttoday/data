@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://planetly-jobs.personio.de"
 job_board_provider = "personio"
 job_board_hostname = "planetly-jobs"
@@ -20,4 +20,4 @@ facebook_url = "https://www.facebook.com/planetly"
 created_at = "2020-09-08T12:50:18.626Z"
 updated_at = "2020-09-08T12:50:18.626Z"
 is_approved = true
-draft = false---
+draft = false+++

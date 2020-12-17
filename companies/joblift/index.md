@@ -1,4 +1,4 @@
----
++++
 body = "general purpose #job-board"
 created_at = "2018-02-01T13:22:24.348Z"
 is_approved = true
@@ -9,4 +9,4 @@ slug = "joblift"
 tags = ["job-board"]
 title = "Joblift"
 updated_at = "2019-06-16T10:36:09.626Z"
----
++++

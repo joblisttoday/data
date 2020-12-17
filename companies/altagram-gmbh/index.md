@@ -1,4 +1,4 @@
----
++++
 job_board_url = "https://altagram.com/careers"
 job_board_provider = "smartrecruiters"
 job_board_hostname = "AltagramGmbH"
@@ -23,4 +23,4 @@ created_at = "2018-02-09T07:12:52.566Z"
 updated_at = "2020-07-04T22:26:18.626Z"
 is_approved = true
 draft = false
----
++++
