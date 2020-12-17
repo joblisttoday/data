@@ -1,4 +1,9 @@
-Title = "Companies"
+title = "Companies"
 contentDir = "."
 theme = "companies-theme"
 themesDir = ".themes"
+baseURL = ""
+languageCode = "en-us"
+
+[taxonomies]
+tag = "tags"
