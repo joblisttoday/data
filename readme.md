@@ -26,6 +26,12 @@ This list is also used as a data source, cloned in [gitlab/joblist/workers](http
 
 ## Development notes
 
+### Serve the local hugo server
+
+```
+hugo server --config="./.themes/config.toml"
+```
+
 ### Convert markdown files with hugo
 
 If you have all companies in the `./companies` folder:

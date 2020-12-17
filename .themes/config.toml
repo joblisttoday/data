@@ -1,0 +1,4 @@
+Title = "Companies"
+contentDir = "."
+theme = "companies-theme"
+themesDir = ".themes"
