@@ -16,3 +16,9 @@ That way, netlify-CMS (in *open-authoring* mode) will handle the work to add a c
 This list is also used as a data source, cloned in [gitlab/joblist/workers](https://gitlab.com/joblist/workers) to:
 - extract jobs from companies and populate an algolia index (searchable at joblist.city)
 - generate a static API of companies
+
+
+## Github & Gitlab
+
+- the repo on Gitlab is mirrorring the one on Github, by pulling changes from it (cms edits github, gitlab pulls github)
+- `gitlab-ci.yml` allows some trigger to be executed when gitlab pull changes.
