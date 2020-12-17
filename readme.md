@@ -32,6 +32,11 @@ This list is also used as a data source, cloned in [gitlab/joblist/workers](http
 hugo server --config="./.themes/config.toml"
 ```
 
+### Gitlab mirroring
+
+- configuration/refresh page: https://gitlab.com/joblist/companies/-/settings/repository
+- pulling will trigger the CI
+
 ### Convert markdown files with hugo
 
 If you have all companies in the `./companies` folder:
