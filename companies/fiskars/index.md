@@ -1,0 +1,25 @@
+---
+job_board_url = "https://www.fiskarsgroup.com/careers"
+job_board_provider = "smartrecruiters"
+job_board_hostname = "FiskarsGermanyGmbH1"
+title = "Fiskars"
+slug = "fiskars"
+body = "Gardening Tools, Craft Supplies & Sewing Scissors. Get well-designed, reliable craft supplies and gardening tools from Fiskars."
+tags = ["gardening", "craft", "supplier"]
+address = "Münzstraße 7"
+postal_code = "10178"
+city="berlin"
+country="germany"
+latitude = 52.524227
+longitude = 13.408535
+company_url = "https://www.fiskars.com"
+linkedin_url = "https://www.linkedin.com/company/fiskars-group"
+crunchbase_url = ""
+twitter_url = "https://twitter.com/FiskarsGroup"
+facebook_url = "https://www.facebook.com/fiskarsamericas"
+instagram_url = "https://www.instagram.com/fiskarsamericas/"
+created_at = "2020-07-04T18:26:18.626Z"
+updated_at = "2020-07-04T18:26:18.626Z"
+is_approved = true
+draft = false
+---

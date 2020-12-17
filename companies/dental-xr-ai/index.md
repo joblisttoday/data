@@ -1,0 +1,19 @@
+---
+company_url = "https://dentalxr.ai"
+job_board_url = "https://dentalxrai.recruitee.com/"
+linkedin_url = "https://www.linkedin.com/company/dentalxr-ai"
+title = "dentalxr.ai"
+slug = "dental-xr-ai"
+body = "dentalxr.ai is a Berlin-based startup that revolutionizes dentistry with state-of-the-art artificial intelligence technology. We offer a decision support platform that helps dentists detect pathologies and anatomical structures on dental imagery such as x-rays. For the dentist, the advantages are time savings, better treatment decisions, and improved patient trust."
+tags = ["startup", "dentistry", "health", "ai", "artificial-intelligence"]
+address = "Aßmannshauser Str. 4-6"
+postal_code = "14197"
+city="berlin"
+country="germany"
+latitude = 52.476643
+longitude = 13.313573 
+created_at = "2020-04-04T14:15:09.626Z"
+updated_at = "2020-04-04T14:15:09.626Z"
+is_approved = true
+draft = false
+---

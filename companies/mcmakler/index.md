@@ -1,0 +1,25 @@
+---
+job_board_url = "https://www.mcmakler.de/en/careers"
+job_board_provider = "smartrecruiters"
+job_board_hostname = "McMaklerGmbH1"
+title = "McMakler"
+slug = "mcmakler"
+body = "We at McMakler are disrupting dusty structures and merging tradition with innovation. Our goal is to establish the real estate market within the age of digitalization while enhancing quality and efficiency sustainably. With our all-in-one solution we are combining the latest technology with the individual service of classic brokers. As a PropTech Startup founded and based in Berlin we are working on the realization of our innovative business model."
+tags = ["real-estate", "prop-tech", "broker"]
+address = "Torstraße 19"
+postal_code = "10119"
+city="berlin"
+country="germany"
+latitude = 52.528178
+longitude = 13.413491
+company_url = "https://www.mcmakler.de"
+googleMapsUrl = "https://g.page/mcmakler-berlin"
+linkedin_url = "https://www.linkedin.com/company/mcmakler-gmbh"
+twitter_url = "https://twitter.com/McMaklerDE"
+facebook_url = "https://www.facebook.com/mcmakler.de"
+instagram_url = "https://www.instagram.com/mcmakler.de"
+created_at = "2020-04-04T17:44:18.626Z"
+updated_at = "2020-04-04T17:44:18.626Z"
+is_approved = true
+draft = false
+---

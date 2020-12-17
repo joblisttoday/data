@@ -1,0 +1,22 @@
+---
+job_board_url = "https://huuuge.recruitee.com/"
+title = "Huuuge"
+slug = "huuuge"
+body = "Huuuge Games is a leading real-time mobile games developer, focused on the fast-growing multi-billion-dollar social casino gaming market worldwide."
+tags = ["startup", "mobile-game", "social", "gaming"]
+address = "Chausseestraße 84"
+postal_code = "10115"
+city="berlin"
+country="germany"
+latitude = 52.537757
+longitude = 13.373281
+company_url = "https://huuugegames.com"
+linkedin_url = "https://www.linkedin.com/company/huuugegames"
+twitter_url = "https://twitter.com/huuugegames"
+facebook_url = "https://www.facebook.com/HuuugeGamesCompany"
+instagram_url = "https://www.instagram.com/huuugegames"
+created_at = "2020-04-04T17:11:18.626Z"
+updated_at = "2020-04-04T17:11:18.626Z"
+is_approved = true
+draft = false
+---

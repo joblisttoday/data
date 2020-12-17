@@ -1,0 +1,22 @@
+---
+job_board_url = "https://usabilla.recruitee.com"
+slug = "usabilla"
+title = "Usabilla"
+body = "Help companies get feedback from their users"
+tags = ["startup", "customer-care", "feedback"]
+address = "Potsdamer Platz, Kemperpl. 1"
+postal_code = "10785"
+city="berlin"
+country="germany"
+latitude = 52.510782
+longitude = 13.372105
+company_url = "usabilla.com"
+linkedin_url = "https://www.linkedin.com/company/usabilla"
+twitter_url = "https://twitter.com/usabilla"
+facebook_url = "https://www.facebook.com/usabilla"
+instagram_url = "https://www.instagram.com/usabilla"
+created_at = "2020-04-04T16:57:08.626Z"
+updated_at = "2020-04-04T16:57:08.626Z"
+is_approved = true
+draft = false
+---
