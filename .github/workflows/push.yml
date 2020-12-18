@@ -3,19 +3,31 @@ name: github pages
 on:
   push:
     branches:
-    - master
+      - main  # Set a branch name to trigger deployment
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-18.04
     steps:
-    - uses: actions/checkout@master
-      with:
-        submodules: true
-    - name: build
-      uses: mattbailey/actions-hugo@v0.75.1
-      if: github.event.deleted == false
-      with:
-        args: --gc --minify --config="./.themes/config.toml" --baseURL="https://profiles.joblist.city"
-      env:
-        GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN_HUGO }}
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.74.3'
+
+      - name: Build
+        run: hugo --minify --config="./.themes/config.toml" --baseURL="https://profiles.joblist.city"
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          publish_dir: ./public
+
+
+
+        
