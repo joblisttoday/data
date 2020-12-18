@@ -21,7 +21,7 @@ test:
 build:
   stage: build-site
   script:
-  - hugo --config="./.themes/config.toml" --baseURL="https://companies.joblist.city"
+  - hugo --gc --minify --config="./.themes/config.toml" --baseURL="https://profiles.joblist.city"
   artifacts:
     paths:
     - public
