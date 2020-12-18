@@ -24,4 +24,6 @@ tags:
 title: Hirschen Group
 twitter_url: https://twitter.com/hirschengroup
 updated_at: "2020-09-08T16:48:18.626Z"
+cities:
+- berlin
 ---

@@ -33,4 +33,6 @@ tags:
 title: PLantix (PEAT)
 twitter_url: https://twitter.com/plantixApp
 updated_at: "2020-03-04T17:11:18.626Z"
+cities:
+- berlin
 ---

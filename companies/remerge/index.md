@@ -21,4 +21,6 @@ tags:
 title: Remerge
 twitter_url: https://twitter.com/remergeio
 updated_at: "2020-04-04T15:48:08.626Z"
+cities:
+- berlin
 ---

@@ -15,4 +15,6 @@ tags:
 - software
 title: Commercetools Gmbh
 updated_at: "2020-04-20T03:30:09.625Z"
+cities:
+- berlin
 ---

@@ -23,4 +23,6 @@ tags:
 - industry
 title: Atlantic Labs
 updated_at: "2020-04-04T14:47:08.626Z"
+cities:
+- berlin
 ---

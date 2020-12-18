@@ -23,4 +23,6 @@ tags:
 title: Coya
 twitter_url: https://twitter.com/hello_coya
 updated_at: "2020-09-08T20:27:18.626Z"
+cities:
+- berlin
 ---

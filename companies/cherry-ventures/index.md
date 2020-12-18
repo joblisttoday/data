@@ -21,4 +21,6 @@ tags:
 - early-stage
 title: Cherry Ventures
 updated_at: "2020-04-04T13:39:09.626Z"
+cities:
+- berlin
 ---

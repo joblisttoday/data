@@ -18,4 +18,6 @@ tags:
 - innovation
 title: Loanlink
 updated_at: "2020-04-04T13:39:09.626Z"
+cities:
+- berlin
 ---

@@ -15,4 +15,6 @@ tags:
 - business-travel
 title: Comtravo
 updated_at: "2019-06-16T10:36:09.622Z"
+cities:
+- berlin
 ---

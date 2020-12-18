@@ -11,4 +11,6 @@ tags:
 - music
 title: FluxFm
 updated_at: "2019-06-16T10:36:09.729Z"
+cities:
+- berlin
 ---

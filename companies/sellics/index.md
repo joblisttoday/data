@@ -25,4 +25,6 @@ tags:
 title: Sellics
 twitter_url: https://twitter.com/sellics_amz
 updated_at: "2020-04-04T16:57:08.626Z"
+cities:
+- berlin
 ---

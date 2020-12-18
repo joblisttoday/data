@@ -12,4 +12,6 @@ tags:
 - ecology
 - climate
 title: Klima.Metrix
+cities:
+- berlin
 ---

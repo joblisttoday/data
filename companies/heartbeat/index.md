@@ -25,4 +25,6 @@ tags:
 title: Heartbeat
 twitter_url: ""
 updated_at: "2020-09-08T16:16:18.626Z"
+cities:
+- berlin
 ---

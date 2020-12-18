@@ -8,4 +8,6 @@ tags:
 - job-board
 title: Ebay Kleinanzeigen
 updated_at: "2019-06-16T10:36:09.641Z"
+cities:
+- berlin
 ---

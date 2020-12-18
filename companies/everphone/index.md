@@ -12,4 +12,6 @@ tags:
 - phone
 - corporate
 title: everphone
+cities:
+- berlin
 ---

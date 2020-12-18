@@ -20,4 +20,6 @@ tags:
 - startup
 title: Speedinvest
 updated_at: "2020-04-04T15:00:08.626Z"
+cities:
+- berlin
 ---

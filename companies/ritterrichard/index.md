@@ -19,4 +19,6 @@ tags:
 - events
 title: RitterRichard
 updated_at: "2019-06-16T10:36:09.635Z"
+cities:
+- berlin
 ---

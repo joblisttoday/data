@@ -24,4 +24,6 @@ tags:
 title: Huuuge
 twitter_url: https://twitter.com/huuugegames
 updated_at: "2020-04-04T17:11:18.626Z"
+cities:
+- berlin
 ---

@@ -30,4 +30,6 @@ tags:
 title: McMakler
 twitter_url: https://twitter.com/McMaklerDE
 updated_at: "2020-04-04T17:44:18.626Z"
+cities:
+- berlin
 ---

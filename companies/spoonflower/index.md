@@ -12,4 +12,6 @@ tags:
 - startup
 - fashion
 title: Spoonflower
+cities:
+- berlin
 ---

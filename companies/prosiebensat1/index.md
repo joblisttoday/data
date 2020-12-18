@@ -10,4 +10,6 @@ tags:
 - tv
 title: ProSiebenSat.1
 updated_at: "2019-06-16T10:36:09.631Z"
+cities:
+- berlin
 ---

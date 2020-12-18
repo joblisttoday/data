@@ -26,4 +26,6 @@ tags:
 - platform
 title: Relimetrics
 updated_at: "2020-04-04T14:06:09.626Z"
+cities:
+- berlin
 ---

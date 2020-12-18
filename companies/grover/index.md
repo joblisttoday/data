@@ -8,4 +8,6 @@ slug: grover
 tags: []
 title: Grover
 updated_at: "2019-06-16T10:36:08.532Z"
+cities:
+- berlin
 ---

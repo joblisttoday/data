@@ -15,4 +15,6 @@ tags:
 - technologies
 title: Visual Meta
 updated_at: "2019-06-16T10:36:09.623Z"
+cities:
+- berlin
 ---

@@ -9,4 +9,6 @@ tags:
 - games
 title: Epic
 updated_at: "2019-06-16T10:36:09.736Z"
+cities:
+- berlin
 ---

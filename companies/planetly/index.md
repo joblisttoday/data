@@ -24,4 +24,6 @@ tags:
 title: Planetly
 twitter_url: https://twitter.com/planetly_berlin
 updated_at: "2020-09-08T12:50:18.626Z"
+cities:
+- berlin
 ---

@@ -24,4 +24,6 @@ tags:
 title: UP42
 twitter_url: https://twitter.com/up42official
 updated_at: "2020-04-24T19:35:18.626Z"
+cities:
+- berlin
 ---

@@ -17,4 +17,6 @@ tags:
 - information
 - startup
 title: Gnosis
+cities:
+- berlin
 ---

@@ -18,4 +18,6 @@ tags:
 - startup
 title: Perseus Technologies Gmbh
 updated_at: "2020-04-04T12:50:09.626Z"
+cities:
+- berlin
 ---

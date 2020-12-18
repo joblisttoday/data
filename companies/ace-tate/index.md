@@ -13,4 +13,6 @@ tags:
 - shop
 title: Ace & Tate
 updated_at: "2019-06-16T10:36:08.533Z"
+cities:
+- berlin
 ---

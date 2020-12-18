@@ -19,4 +19,6 @@ tags:
 - non-profit
 title: Imagine Zero
 updated_at: "2020-09-08T12:40:18.626Z"
+cities:
+- berlin
 ---

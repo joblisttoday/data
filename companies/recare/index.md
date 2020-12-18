@@ -24,4 +24,6 @@ tags:
 title: Recare
 twitter_url: ""
 updated_at: "2020-04-04T15:48:08.626Z"
+cities:
+- berlin
 ---

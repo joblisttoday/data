@@ -9,4 +9,6 @@ tags:
 - shops
 title: Lila Bäcker
 updated_at: "2019-06-16T10:36:08.534Z"
+cities:
+- berlin
 ---

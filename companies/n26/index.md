@@ -12,4 +12,6 @@ tags:
 - startup
 title: N26
 updated_at: "2019-06-16T10:36:09.782Z"
+cities:
+- berlin
 ---

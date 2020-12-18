@@ -15,4 +15,6 @@ tags:
 - tech
 title: Omio
 updated_at: "2019-06-16T10:36:09.730Z"
+cities:
+- berlin
 ---

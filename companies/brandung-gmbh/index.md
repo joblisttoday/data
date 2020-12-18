@@ -30,4 +30,6 @@ tags:
 title: Brandung GmbH
 twitter_url: https://twitter.com/brandung
 updated_at: "2020-07-04T18:26:18.626Z"
+cities:
+- berlin
 ---

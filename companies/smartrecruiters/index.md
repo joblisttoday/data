@@ -27,4 +27,6 @@ tags:
 title: SmartRecruiters
 twitter_url: https://twitter.com/Smartrecruiters
 updated_at: "2020-07-04T16:30:18.626Z"
+cities:
+- berlin
 ---

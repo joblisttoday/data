@@ -9,4 +9,6 @@ tags:
 - culture
 title: Freien Universität Berlin
 updated_at: "2019-06-16T10:36:09.624Z"
+cities:
+- berlin
 ---

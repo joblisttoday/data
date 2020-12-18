@@ -12,4 +12,6 @@ tags:
 - innovation
 - business
 title: SI Labs
+cities:
+- berlin
 ---

@@ -12,4 +12,6 @@ tags:
 - startup
 title: Qunomedical
 updated_at: "2019-06-16T10:36:08.537Z"
+cities:
+- berlin
 ---

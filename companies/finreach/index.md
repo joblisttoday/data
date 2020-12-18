@@ -11,4 +11,6 @@ tags:
 - bank
 - startup
 title: finreach
+cities:
+- berlin
 ---

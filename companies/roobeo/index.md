@@ -23,4 +23,6 @@ tags:
 title: Roobeo
 twitter_url: https://twitter.com/ROOBEO_GmbH
 updated_at: "2020-09-08T16:35:18.626Z"
+cities:
+- berlin
 ---

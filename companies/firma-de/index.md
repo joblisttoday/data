@@ -24,4 +24,6 @@ tags:
 title: Firma
 twitter_url: https://twitter.com/firma_de
 updated_at: "2020-04-04T15:48:08.626Z"
+cities:
+- berlin
 ---

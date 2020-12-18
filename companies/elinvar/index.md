@@ -11,4 +11,6 @@ tags:
 - finance
 title: Elinvar
 updated_at: "2019-06-16T10:36:09.625Z"
+cities:
+- berlin
 ---

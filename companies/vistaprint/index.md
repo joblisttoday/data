@@ -11,4 +11,6 @@ tags:
 - printing
 title: Vistaprint
 updated_at: "2019-06-16T10:36:08.536Z"
+cities:
+- berlin
 ---

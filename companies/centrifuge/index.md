@@ -12,4 +12,6 @@ tags:
 - startup
 - tech
 title: Centrifuge
+cities:
+- berlin
 ---

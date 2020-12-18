@@ -12,4 +12,6 @@ slug: comatch
 tags:
 - consulting
 title: comatch
+cities:
+- berlin
 ---

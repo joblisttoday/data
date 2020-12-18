@@ -14,4 +14,6 @@ tags:
 - hardware
 title: Ableton
 updated_at: "2019-06-16T10:36:09.626Z"
+cities:
+- berlin
 ---

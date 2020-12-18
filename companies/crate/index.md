@@ -11,4 +11,6 @@ tags:
 - database
 title: Crate
 updated_at: "2019-06-16T10:36:09.637Z"
+cities:
+- berlin
 ---

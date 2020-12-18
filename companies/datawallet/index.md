@@ -11,4 +11,6 @@ tags:
 - blockchain
 - startup
 title: Datawallet
+cities:
+- berlin
 ---

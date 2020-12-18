@@ -15,4 +15,6 @@ tags:
 - recruitment
 - agency
 title: Moyyn
+cities:
+- berlin
 ---

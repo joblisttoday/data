@@ -10,4 +10,6 @@ tags:
 - job-board
 title: Jobs in Berlin.eu
 updated_at: "2020-04-09T08:00:00.629Z"
+cities:
+- berlin
 ---

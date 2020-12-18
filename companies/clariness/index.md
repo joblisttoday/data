@@ -10,4 +10,6 @@ tags:
 - startup
 - life-science
 title: Clariness
+cities:
+- berlin
 ---

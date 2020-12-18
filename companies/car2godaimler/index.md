@@ -12,4 +12,6 @@ tags:
 - rental
 title: Car2go/Daimler
 updated_at: "2019-06-16T10:36:09.639Z"
+cities:
+- berlin
 ---

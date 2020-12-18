@@ -8,4 +8,6 @@ tags:
 - fashion
 title: Maison Baum
 updated_at: "2019-06-16T10:36:09.732Z"
+cities:
+- berlin
 ---

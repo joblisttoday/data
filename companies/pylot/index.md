@@ -25,4 +25,6 @@ tags:
 title: Pylot
 twitter_url: https://twitter.com/wearepylot
 updated_at: "2020-04-04T14:37:09.626Z"
+cities:
+- berlin
 ---

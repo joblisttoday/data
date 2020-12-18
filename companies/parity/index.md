@@ -16,4 +16,6 @@ tags:
 - startup
 title: Parity
 updated_at: "2020-08-24T20:35:18.626Z"
+cities:
+- berlin
 ---

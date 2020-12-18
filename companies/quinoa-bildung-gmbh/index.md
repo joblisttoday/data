@@ -21,4 +21,6 @@ tags:
 - teaching
 title: Quinoa Bildung
 updated_at: "2020-07-04T23:10:18.626Z"
+cities:
+- berlin
 ---

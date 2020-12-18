@@ -19,4 +19,6 @@ tags:
 - youth
 title: Oskar Lernt Englisch
 updated_at: "2020-04-04T13:54:09.626Z"
+cities:
+- berlin
 ---

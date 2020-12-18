@@ -22,4 +22,6 @@ tags:
 title: Usabilla
 twitter_url: https://twitter.com/usabilla
 updated_at: "2020-04-04T16:57:08.626Z"
+cities:
+- berlin
 ---

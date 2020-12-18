@@ -9,4 +9,6 @@ slug: hypofriend
 tags:
 - mortgage
 title: Hypofriend
+cities:
+- berlin
 ---

@@ -11,4 +11,6 @@ tags:
 - marketplace
 title: 'Pepper Media Holding '
 updated_at: "2019-06-16T10:36:09.740Z"
+cities:
+- berlin
 ---

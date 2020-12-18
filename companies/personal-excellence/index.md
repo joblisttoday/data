@@ -24,4 +24,6 @@ tags:
 title: Personal Excellence
 twitter_url: ""
 updated_at: "2020-07-04T22:27:18.626Z"
+cities:
+- berlin
 ---

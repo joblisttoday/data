@@ -24,4 +24,6 @@ tags:
 title: Dentolo
 twitter_url: ""
 updated_at: "2020-09-08T16:55:18.626Z"
+cities:
+- berlin
 ---

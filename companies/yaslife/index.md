@@ -26,4 +26,6 @@ tags:
 title: YAS.life
 twitter_url: ""
 updated_at: "2020-09-08T20:38:18.626Z"
+cities:
+- berlin
 ---

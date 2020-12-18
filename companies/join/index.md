@@ -13,4 +13,6 @@ tags:
 - HR
 - startup
 title: Join
+cities:
+- berlin
 ---

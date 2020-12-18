@@ -19,4 +19,6 @@ tags:
 title: Lime
 twitter_url: https://twitter.com/limebike
 updated_at: "2020-09-08T12:45:18.626Z"
+cities:
+- berlin
 ---

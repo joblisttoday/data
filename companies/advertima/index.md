@@ -16,4 +16,6 @@ tags:
 - spaces
 - retail
 title: Advertima
+cities:
+- berlin
 ---

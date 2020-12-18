@@ -11,4 +11,6 @@ slug: sandbox-interactive
 tags:
 - games
 title: Sandbox Interactive
+cities:
+- berlin
 ---

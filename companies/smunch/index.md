@@ -12,4 +12,6 @@ tags:
 - startup
 - delivery
 title: Smunch
+cities:
+- berlin
 ---

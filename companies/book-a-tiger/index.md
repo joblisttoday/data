@@ -11,4 +11,6 @@ tags:
 - cleaning
 title: Book A Tiger
 updated_at: "2019-06-16T10:36:09.743Z"
+cities:
+- berlin
 ---

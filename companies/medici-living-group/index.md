@@ -11,4 +11,6 @@ tags:
 - real-estate
 title: Medici Living Group
 updated_at: "2019-06-16T10:36:08.539Z"
+cities:
+- berlin
 ---

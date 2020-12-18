@@ -9,4 +9,6 @@ slug: commehr
 tags:
 - it
 title: commehr
+cities:
+- berlin
 ---

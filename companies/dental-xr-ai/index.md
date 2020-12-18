@@ -25,4 +25,6 @@ tags:
 - artificial-intelligence
 title: dentalxr.ai
 updated_at: "2020-04-04T14:15:09.626Z"
+cities:
+- berlin
 ---

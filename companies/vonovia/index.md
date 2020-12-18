@@ -8,4 +8,6 @@ tags:
 - real-estate
 - facility-management
 title: Vonovia
+cities:
+- berlin
 ---

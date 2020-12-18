@@ -13,4 +13,6 @@ tags:
 - nutrition
 - startup
 title: Pureganic
+cities:
+- berlin
 ---

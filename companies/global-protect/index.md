@@ -18,4 +18,6 @@ tags:
 - security
 title: Global Protect
 updated_at: "2020-07-04T23:05:18.626Z"
+cities:
+- berlin
 ---

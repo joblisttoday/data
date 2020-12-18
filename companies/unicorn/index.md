@@ -13,4 +13,6 @@ tags:
 - startup
 title: Unicorn
 updated_at: "2019-06-16T10:46:08.000Z"
+cities:
+- berlin
 ---

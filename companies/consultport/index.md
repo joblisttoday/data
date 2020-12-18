@@ -29,4 +29,6 @@ tags:
 - digital-transformation
 title: Consultport
 updated_at: "2020-04-04T15:48:08.626Z"
+cities:
+- berlin
 ---

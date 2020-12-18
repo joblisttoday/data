@@ -12,4 +12,6 @@ tags:
 - software
 title: Aeria Games
 updated_at: "2019-06-16T10:36:08.530Z"
+cities:
+- berlin
 ---

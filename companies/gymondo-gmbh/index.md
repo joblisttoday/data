@@ -26,4 +26,6 @@ tags:
 title: Gymondo
 twitter_url: ""
 updated_at: "2020-09-08T16:23:18.626Z"
+cities:
+- berlin
 ---

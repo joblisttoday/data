@@ -30,4 +30,6 @@ tags:
 title: AltagramGmbH
 twitter_url: https://twitter.com/Altagram_Group
 updated_at: "2020-07-04T22:26:18.626Z"
+cities:
+- berlin
 ---

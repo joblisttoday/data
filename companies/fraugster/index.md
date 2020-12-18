@@ -16,4 +16,6 @@ tags:
 - it
 - startup
 title: Fraugster
+cities:
+- berlin
 ---

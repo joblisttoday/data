@@ -11,4 +11,6 @@ tags:
 - startup
 title: Eyeem
 updated_at: "2019-06-16T10:36:08.542Z"
+cities:
+- berlin
 ---

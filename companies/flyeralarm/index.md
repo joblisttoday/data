@@ -10,4 +10,6 @@ tags:
 - printing
 title: FlyerAlarm
 updated_at: "2019-06-16T10:36:09.783Z"
+cities:
+- berlin
 ---

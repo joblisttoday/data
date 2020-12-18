@@ -10,4 +10,6 @@ tags:
 - hotels
 title: Marriott Hotels
 updated_at: "2019-06-16T10:36:09.627Z"
+cities:
+- berlin
 ---

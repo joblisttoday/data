@@ -15,4 +15,6 @@ tags:
 - cinema
 title: JustWatch
 updated_at: "2019-06-16T10:36:09.747Z"
+cities:
+- berlin
 ---

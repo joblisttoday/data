@@ -12,4 +12,6 @@ tags:
 - ecommerce
 title: Fit Analytics
 updated_at: "2019-06-16T10:36:09.739Z"
+cities:
+- berlin
 ---

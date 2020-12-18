@@ -18,4 +18,6 @@ tags:
 - platform
 title: Perdoo
 updated_at: "2020-04-04T13:59:09.626Z"
+cities:
+- berlin
 ---

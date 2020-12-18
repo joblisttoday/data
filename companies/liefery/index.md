@@ -26,4 +26,6 @@ tags:
 title: Liefery
 twitter_url: https://twitter.com/liefery_de
 updated_at: "2020-09-08T20:42:18.626Z"
+cities:
+- berlin
 ---

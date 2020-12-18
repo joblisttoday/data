@@ -13,4 +13,6 @@ tags:
 - software
 title: Cobalt.io
 updated_at: "2019-06-16T10:36:08.540Z"
+cities:
+- berlin
 ---

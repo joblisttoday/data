@@ -13,4 +13,6 @@ tags:
 - electronic-music
 title: Resident Advisor
 updated_at: "2019-06-16T10:36:08.538Z"
+cities:
+- berlin
 ---

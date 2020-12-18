@@ -28,4 +28,6 @@ tags:
 title: Shiji Group
 twitter_url: https://twitter.com/ShijiGroup
 updated_at: "2020-07-04T22:47:18.626Z"
+cities:
+- berlin
 ---

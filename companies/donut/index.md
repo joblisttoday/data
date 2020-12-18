@@ -23,4 +23,6 @@ tags:
 title: Donut
 twitter_url: https://twitter.com/donut__app
 updated_at: "2020-04-04T15:47:08.626Z"
+cities:
+- berlin
 ---

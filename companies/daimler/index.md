@@ -10,4 +10,6 @@ tags:
 - auto
 title: Daimler
 updated_at: "2019-06-16T10:37:09.000Z"
+cities:
+- berlin
 ---

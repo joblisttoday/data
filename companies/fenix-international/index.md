@@ -16,4 +16,6 @@ tags:
 title: Fenix International
 twitter_url: https://twitter.com/fenixintl
 updated_at: "2020-09-08T12:35:18.626Z"
+cities:
+- berlin
 ---

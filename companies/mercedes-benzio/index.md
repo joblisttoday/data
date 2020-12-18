@@ -10,4 +10,6 @@ tags:
 - transport
 title: Mercedes-Benz.io
 updated_at: "2019-06-16T10:46:49.000Z"
+cities:
+- berlin
 ---

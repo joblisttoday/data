@@ -10,4 +10,6 @@ tags:
 - hr
 title: Global-m
 updated_at: "2019-06-16T10:36:09.639Z"
+cities:
+- berlin
 ---

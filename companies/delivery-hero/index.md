@@ -11,4 +11,6 @@ tags:
 - delivery
 title: Delivery Hero
 updated_at: "2019-06-16T10:36:09.729Z"
+cities:
+- berlin
 ---

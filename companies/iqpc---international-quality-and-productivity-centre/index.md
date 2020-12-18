@@ -11,4 +11,6 @@ tags:
 - networking
 title: IQPC - International Quality and Productivity Centre
 updated_at: "2019-06-16T10:36:09.731Z"
+cities:
+- berlin
 ---

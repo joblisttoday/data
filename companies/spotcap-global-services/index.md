@@ -11,4 +11,6 @@ tags:
 - startup
 title: Spotcap Global Services
 updated_at: "2019-06-16T10:36:09.731Z"
+cities:
+- berlin
 ---

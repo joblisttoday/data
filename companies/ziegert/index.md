@@ -23,4 +23,6 @@ tags:
 title: Ziegert
 twitter_url: ""
 updated_at: "2020-09-08T16:53:09.626Z"
+cities:
+- berlin
 ---

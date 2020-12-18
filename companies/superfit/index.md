@@ -11,4 +11,6 @@ tags:
 - yoga
 title: SuperFit
 updated_at: "2019-06-16T10:36:09.638Z"
+cities:
+- berlin
 ---

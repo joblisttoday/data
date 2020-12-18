@@ -23,4 +23,6 @@ tags:
 title: The Student Hotel
 twitter_url: https://twitter.com/TheStudentHotel
 updated_at: "2020-04-04T15:48:08.626Z"
+cities:
+- berlin
 ---

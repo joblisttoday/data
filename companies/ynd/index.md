@@ -31,4 +31,6 @@ tags:
 title: YND
 twitter_url: https://twitter.com/yndconsult
 updated_at: "2020-04-04T17:11:08.626Z"
+cities:
+- berlin
 ---

@@ -18,4 +18,6 @@ tags:
 title: Point Nine Capital
 twitter_url: https://twitter.com/PointNineCap
 updated_at: "2020-04-04T17:21:41.806Z"
+cities:
+- berlin
 ---

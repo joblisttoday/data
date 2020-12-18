@@ -11,4 +11,6 @@ tags:
 - teaching
 title: Berlin International School
 updated_at: "2019-06-16T10:36:09.635Z"
+cities:
+- berlin
 ---

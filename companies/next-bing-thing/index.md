@@ -24,4 +24,6 @@ tags:
 - innovation
 title: Next Bing Thing
 updated_at: "2020-04-04T14:10:09.626Z"
+cities:
+- berlin
 ---

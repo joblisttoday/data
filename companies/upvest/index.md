@@ -20,4 +20,6 @@ tags:
 title: upvest
 twitter_url: https://twitter.com/upvestco
 updated_at: "2020-04-04T14:22:09.626Z"
+cities:
+- berlin
 ---

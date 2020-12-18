@@ -12,4 +12,6 @@ tags:
 - b2c
 title: Kaeuferportal
 updated_at: "2019-06-16T10:36:09.728Z"
+cities:
+- berlin
 ---

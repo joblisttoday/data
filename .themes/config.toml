@@ -7,6 +7,29 @@ languageCode = "en-us"
 
 [taxonomies]
 tag = "tags"
+city = "cities"
 
 [Params]
-editNetlifyCmsUrl = "https://companies.joblist.city/edit/#/collections"
+editNetlifyCmsUrl = "https://edit.joblist.city/#/collections"
+
+
+[menu]
+[[menu.main]]
+name = "Companies"
+url = "/companies"
+weight = -110
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = -100
+
+[[menu.main]]
+name = "Cities"
+url = "/cities"
+weight = -90
+
+# [[menu.main]]
+# name = "Map"
+# url = "/map"
+# weight = -80

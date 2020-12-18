@@ -12,4 +12,6 @@ tags:
 - agency
 title: ThePowerHouse
 updated_at: "2019-06-16T10:36:09.641Z"
+cities:
+- berlin
 ---

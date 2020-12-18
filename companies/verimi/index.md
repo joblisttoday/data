@@ -23,4 +23,6 @@ tags:
 title: Verimi
 twitter_url: https://twitter.com/VERIMI_Now
 updated_at: "2020-09-08T20:33:18.626Z"
+cities:
+- berlin
 ---

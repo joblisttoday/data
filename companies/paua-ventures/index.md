@@ -17,4 +17,6 @@ tags:
 title: Paua Ventures
 twitter_url: https://twitter.com/pauaventures
 updated_at: "2019-06-16T10:36:09.745Z"
+cities:
+- berlin
 ---

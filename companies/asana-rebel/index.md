@@ -12,4 +12,6 @@ tags:
 - fitness
 title: Asana Rebel
 updated_at: "2019-06-16T10:36:09.742Z"
+cities:
+- berlin
 ---

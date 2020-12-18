@@ -15,4 +15,6 @@ tags:
 - b2b
 title: movingimage
 updated_at: "2019-06-16T10:36:08.528Z"
+cities:
+- berlin
 ---

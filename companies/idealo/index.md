@@ -21,4 +21,6 @@ tags:
 title: Idealo
 twitter_url: https://twitter.com/idealo_de
 updated_at: "2020-08-04T19:35:18.626Z"
+cities:
+- berlin
 ---

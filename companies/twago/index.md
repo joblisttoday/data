@@ -22,4 +22,6 @@ tags:
 title: Twgao
 twitter_url: https://twitter.com/twago_inside
 updated_at: "2020-07-04T18:26:18.626Z"
+cities:
+- berlin
 ---

@@ -17,4 +17,6 @@ tags:
 title: Bosch
 twitter_url: https://twitter.com/BoschGlobal
 updated_at: "2020-07-04T18:26:18.626Z"
+cities:
+- berlin
 ---

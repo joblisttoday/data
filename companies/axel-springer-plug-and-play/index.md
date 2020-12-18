@@ -13,4 +13,6 @@ tags:
 - finance
 title: Axel Springer Plug And Play
 updated_at: "2019-06-16T10:36:09.728Z"
+cities:
+- berlin
 ---
