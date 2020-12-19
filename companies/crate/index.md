@@ -1,14 +1,14 @@
 ---
 title: Crate
 slug: crate
-body: 'CrateDB is an #open-source and distributed SQL #database management system.'
+description: 'CrateDB is an #open-source and distributed SQL #database management system.'
 tags:
   - open-source
   - database
 job_board_url: 'https://crate.io/jobs/'
-positions:
-  - position: '{"type":"Point","coordinates":[52.503673,13.407628]}'
 created_at: '2017-06-28T20:41:10.602Z'
 updated_at: '2019-06-16T10:36:09.637Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.503673,13.407628]}'
 ---
 

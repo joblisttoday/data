@@ -1,7 +1,7 @@
 ---
 title: Skoove
 slug: skoove
-body: >-
+description: >-
   Skoove is a #music #tech #startup making interactive #apps to learn piano and
   guitar. #music-education #online-marketing
 tags:
@@ -12,9 +12,9 @@ tags:
   - music-education
   - online-marketing
 job_board_url: 'https://www.skoove.com/en/jobs'
-positions:
-  - position: '{"type":"Point","coordinates":[52.5173974,13.4390715]}'
 created_at: '2018-01-29T17:05:27.334Z'
 updated_at: '2019-06-16T10:36:09.741Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.5173974,13.4390715]}'
 ---
 

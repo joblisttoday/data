@@ -1,7 +1,7 @@
 ---
 title: Pureganic
 slug: pureganic
-body: >-
+description: >-
   PUREGANIC stands for sustainable and natural nutritional supplements adapted
   to your individual needs. We have developed an intelligent algorithm that uses
   up-to-date scientific data and the ability to individually and meaningfully

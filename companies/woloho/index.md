@@ -1,7 +1,7 @@
 ---
 title: Woloho
 slug: woloho
-body: '#creative #tech and #general job #newsletter'
+description: '#creative #tech and #general job #newsletter'
 tags:
   - creative
   - tech

@@ -1,7 +1,7 @@
 ---
 title: robinhood.berlin
 slug: robinhoodberlin
-body: >-
+description: >-
   #startup building collaborative and collective homes as small pods in Berlin.
   #housing #architecture #coworking space
 tags:

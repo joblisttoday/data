@@ -1,7 +1,7 @@
 ---
 title: Construyo
 slug: construyo-partum-gmbh
-body: >-
+description: >-
   Offers a complete project management service that connects the architecture,
   engineering and construction (AEC) industry.
 tags:
@@ -15,12 +15,12 @@ job_board_hostname: partum-gmbh-jobs
 linkedin_url: 'https://www.linkedin.com/company/wirsindconstruyo'
 instagram_url: 'https://www.instagram.com/wirsindconstruyo'
 facebook_url: 'https://www.facebook.com/wirsindConstruyo'
+created_at: '2020-09-08T16:27:18.626Z'
+updated_at: '2020-09-08T16:27:18.626Z'
 positions:
   - country: germany
     postal_code: '10115'
     address: Borsigstraße 8
     position: '{"type":"Point","coordinates":[52.529284,13.390135]}'
-created_at: '2020-09-08T16:27:18.626Z'
-updated_at: '2020-09-08T16:27:18.626Z'
 ---
 

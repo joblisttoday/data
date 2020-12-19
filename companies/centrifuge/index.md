@@ -1,7 +1,7 @@
 ---
 title: Centrifuge
 slug: centrifuge
-body: >-
+description: >-
   Centrifuge is the decentralized operating system to power global trade and
   commerce. We are building the systems and tools on public blockchain
   infrastructure to enable open, fair, and transparent business within the

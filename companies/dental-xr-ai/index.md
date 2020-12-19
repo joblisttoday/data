@@ -1,7 +1,7 @@
 ---
 title: dentalxr.ai
 slug: dental-xr-ai
-body: >-
+description: >-
   dentalxr.ai is a Berlin-based startup that revolutionizes dentistry with
   state-of-the-art artificial intelligence technology. We offer a decision
   support platform that helps dentists detect pathologies and anatomical
@@ -16,12 +16,12 @@ tags:
 company_url: 'https://dentalxr.ai'
 job_board_url: 'https://dentalxrai.recruitee.com/'
 linkedin_url: 'https://www.linkedin.com/company/dentalxr-ai'
+created_at: '2020-04-04T14:15:09.626Z'
+updated_at: '2020-04-04T14:15:09.626Z'
 positions:
   - country: germany
     postal_code: '14197'
     address: Aßmannshauser Str. 4-6
     position: '{"type":"Point","coordinates":[52.476643,13.313573]}'
-created_at: '2020-04-04T14:15:09.626Z'
-updated_at: '2020-04-04T14:15:09.626Z'
 ---
 

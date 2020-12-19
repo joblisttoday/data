@@ -1,7 +1,7 @@
 ---
 title: ProSiebenSat.1
 slug: prosiebensat1
-body: >-
+description: >-
   ProSiebenSat.1 Group is one of Europe's leading media companies. TV
   entertainment, leading broadcasting, digital entertainment, and commerce
   powerhouse. #media #tv

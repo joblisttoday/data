@@ -1,7 +1,7 @@
 ---
 title: Lila Bäcker
 slug: lila-bäcker
-body: 'Lila Bäcker is a #bakery network owning several #shops in Germany'
+description: 'Lila Bäcker is a #bakery network owning several #shops in Germany'
 tags:
   - bakery
   - shops

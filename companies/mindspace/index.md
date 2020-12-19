@@ -1,7 +1,7 @@
 ---
 title: Mindspace
 slug: mindspace
-body: '#startup provinding #coworking space and shared-office space'
+description: '#startup provinding #coworking space and shared-office space'
 tags:
   - startup
   - coworking

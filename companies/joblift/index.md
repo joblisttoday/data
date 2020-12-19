@@ -1,7 +1,7 @@
 ---
 title: Joblift
 slug: joblift
-body: 'general purpose #job-board'
+description: 'general purpose #job-board'
 tags:
   - job-board
 job_board_url: 'https://joblift-jobs.personio.de'

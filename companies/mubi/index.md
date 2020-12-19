@@ -1,7 +1,7 @@
 ---
 title: Mubi
 slug: mubi
-body: '#movie streaming website; #startup #media'
+description: '#movie streaming website; #startup #media'
 tags:
   - movie
   - startup

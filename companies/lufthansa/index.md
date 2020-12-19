@@ -1,7 +1,7 @@
 ---
 title: Lufthansa
 slug: lufthansa
-body: >-
+description: >-
   Lufthansa, is the largest German airline and, when combined with its
   subsidiaries, also the largest airline in Europe both in terms of fleet size
   and passengers carried during 2017. #aviation

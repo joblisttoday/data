@@ -1,7 +1,7 @@
 ---
 title: Creative City Berlin
 slug: creative-city-berlin
-body: '#artist and #creative oriented #job-board'
+description: '#artist and #creative oriented #job-board'
 tags:
   - artist
   - creative

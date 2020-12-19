@@ -1,7 +1,7 @@
 ---
 title: Zalando
 slug: zalando
-body: >-
+description: >-
   Zalando is a German electronic #commerce company based in Berlin. The company
   maintains a #cross-platform online store that sells #shoes, #fashion and
   #beauty items

@@ -1,7 +1,7 @@
 ---
 title: Clariness
 slug: clariness
-body: >-
+description: >-
   Providing online patient recruitment, retention, patient surveys, study
   feasibility and site selection services for clinical trials. #health #startup
   #life-science

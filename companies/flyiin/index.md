@@ -1,7 +1,7 @@
 ---
 title: flyiin
 slug: flyiin
-body: >-
+description: >-
   #startup building user-centric #flight booking experiences based on direct
   connections to their partner airlines. Designs experiences for travelers to
   easily search, compare and buy flights and services directly with airlines.
@@ -12,9 +12,9 @@ tags:
   - airline
   - aviation
 job_board_url: 'https://www.flyiin.com/jobs'
-positions:
-  - position: '{"type":"Point","coordinates":[52.50317,13.372]}'
 created_at: '2019-01-10T10:07:53.750Z'
 updated_at: '2019-06-16T10:36:09.626Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.50317,13.372]}'
 ---
 

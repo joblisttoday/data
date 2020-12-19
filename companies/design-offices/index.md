@@ -1,7 +1,7 @@
 ---
 title: Design Offices
 slug: design-offices
-body: '#coworking spaces in Germany'
+description: '#coworking spaces in Germany'
 tags:
   - coworking
 job_board_url: 'https://www.designoffices.de/karriere/jobs/jobboerse/'

@@ -1,7 +1,7 @@
 ---
 title: ' Planet Labs Germany GmbH'
 slug: planet-labs-germany-gmbh
-body: >-
+description: >-
   Planet Labs is an imaging company that designs and manufactures miniature
   #satellites, equipped with #telescope and camera to capture Earth. The
   satellite constellation provides a complete image of Earth once per day at
@@ -13,9 +13,9 @@ tags:
   - climate
   - urban-planning
 job_board_url: 'https://www.planet.com/company/careers/?office=Berlin%2C%20Germany'
-positions:
-  - position: '{"type":"Point","coordinates":[52.5350925,13.4135843]}'
 created_at: '2018-01-29T19:13:54.360Z'
 updated_at: '2019-06-16T10:36:09.730Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.5350925,13.4135843]}'
 ---
 

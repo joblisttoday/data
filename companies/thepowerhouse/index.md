@@ -1,7 +1,7 @@
 ---
 title: ThePowerHouse
 slug: thepowerhouse
-body: >
+description: >
   Agency for FashionTech, WearableTechnologies, Internet of Things (IoT),
   Industry 4.0 and SmartTextiles Manufacturing. #fashion #iot #startup #agency
 tags:

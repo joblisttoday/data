@@ -1,7 +1,7 @@
 ---
 title: Caterer
 slug: caterer
-body: '#job-board for jobs in the #hospitality sector'
+description: '#job-board for jobs in the #hospitality sector'
 tags:
   - job-board
   - hospitality

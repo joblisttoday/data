@@ -1,7 +1,7 @@
 ---
 title: Epic
 slug: epic
-body: 'Video game and #software development company; #games'
+description: 'Video game and #software development company; #games'
 tags:
   - software
   - games

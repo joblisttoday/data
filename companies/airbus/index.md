@@ -1,7 +1,7 @@
 ---
 title: Airbus
 slug: airbus
-body: >-
+description: >-
   Airbus is an international pioneer in the aerospace industry. #aerospace
   #aviation #engineering
 tags:

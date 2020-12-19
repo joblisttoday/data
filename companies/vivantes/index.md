@@ -1,7 +1,7 @@
 ---
 title: ' Vivantes'
 slug: vivantes
-body: 'Clinic group, network for health.'
+description: 'Clinic group, network for health.'
 tags:
   - health
   - clinic

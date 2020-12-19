@@ -1,7 +1,7 @@
 ---
 title: Knotel
 slug: knotel
-body: '#coworking spaces in Berlin'
+description: '#coworking spaces in Berlin'
 tags:
   - coworking
 job_board_url: 'https://www.knotel.com/careers/'

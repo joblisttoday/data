@@ -1,7 +1,7 @@
 ---
 title: Via
 slug: via
-body: '#startup #navigation #ride-sharing #transport'
+description: '#startup #navigation #ride-sharing #transport'
 tags:
   - startup
   - navigation

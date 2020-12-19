@@ -1,7 +1,7 @@
 ---
 title: Brandung GmbH
 slug: brandung
-body: >-
+description: >-
   We are brandung! The independent digital full-service agency for digital
   communication, eCommerce and online marketing. We provide solutions in a
   complete package: ranging from strategic consulting through design and
@@ -21,12 +21,12 @@ twitter_url: 'https://twitter.com/brandung'
 linkedin_url: 'https://www.linkedin.com/company/brandung-gmbh-&-co-kg '
 instagram_url: 'https://www.instagram.com/agentur_brandung '
 facebook_url: 'https://www.facebook.com/brandung'
+created_at: '2020-07-04T18:26:18.626Z'
+updated_at: '2020-07-04T18:26:18.626Z'
 positions:
   - country: germany
     postal_code: '10999'
     address: Leuschnerdamm 13
     position: '{"type":"Point","coordinates":[52.504636,13.418955]}'
-created_at: '2020-07-04T18:26:18.626Z'
-updated_at: '2020-07-04T18:26:18.626Z'
 ---
 

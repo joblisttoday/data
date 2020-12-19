@@ -1,7 +1,7 @@
 ---
 title: FitnessFirst
 slug: fitnessfirst
-body: >-
+description: >-
   Fitness First is the largest privately owned health club group in the world.
   It consists of more than 360 Fitness First clubs worldwide. #gym #fitness
   #sport

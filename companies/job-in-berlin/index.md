@@ -1,7 +1,7 @@
 ---
 title: Job in Berlin
 slug: job-in-berlin
-body: '#job-board for #english language jobs'
+description: '#job-board for #english language jobs'
 tags:
   - job-board
   - english

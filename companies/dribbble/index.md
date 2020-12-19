@@ -1,7 +1,7 @@
 ---
 title: Dribbble
 slug: dribbble
-body: '#job-board for #graphic-design, #web-design, #illustration, #photography'
+description: '#job-board for #graphic-design, #web-design, #illustration, #photography'
 tags:
   - job-board
   - graphic-design

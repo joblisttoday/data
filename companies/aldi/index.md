@@ -1,7 +1,7 @@
 ---
 title: Aldi
 slug: aldi
-body: >-
+description: >-
   Aldi is the common brand of two German discount #supermarket #chains with over
   10,000 stores in 20 countries
 tags:

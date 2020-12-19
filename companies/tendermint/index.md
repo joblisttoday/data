@@ -1,7 +1,7 @@
 ---
 title: Tendermint
 slug: tendermint
-body: '#it company building #software for public #blockchain'
+description: '#it company building #software for public #blockchain'
 tags:
   - it
   - software

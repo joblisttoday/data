@@ -1,7 +1,7 @@
 ---
 title: Hotel Career
 slug: hotel-career
-body: '#job-board for career in german #hotels. #hospitality'
+description: '#job-board for career in german #hotels. #hospitality'
 tags:
   - job-board
   - hotels

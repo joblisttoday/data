@@ -1,7 +1,7 @@
 ---
 title: Adjust
 slug: adjust
-body: >-
+description: >-
   Adjust has developed a #mobile solution tunify all #marketing activities into
   one #platform, giving the insights you need to scale your bus.
 tags:
@@ -9,9 +9,9 @@ tags:
   - marketing
   - platform
 job_board_url: 'https://adjust.bamboohr.co.uk/jobs/'
-positions:
-  - position: '{"type":"Point","coordinates":[52.5283174,13.4152739]}'
 created_at: '2017-06-28T20:36:43.172Z'
 updated_at: '2019-06-16T10:36:09.623Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.5283174,13.4152739]}'
 ---
 

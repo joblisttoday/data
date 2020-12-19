@@ -1,15 +1,15 @@
 ---
 title: Berlin International School
 slug: berlin-international-school
-body: '#school #teaching'
+description: '#school #teaching'
 tags:
   - school
   - teaching
 job_board_url: >-
   http://www.berlin-international-school.de/index.php/en/job-opportunities-bis-en.html
-positions:
-  - position: '{"type":"Point","coordinates":[52.4704836,13.2935995]}'
 created_at: '2018-02-15T07:18:54.738Z'
 updated_at: '2019-06-16T10:36:09.635Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.4704836,13.2935995]}'
 ---
 

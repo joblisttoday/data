@@ -1,7 +1,7 @@
 ---
 title: SmartRecruiters
 slug: smartrecruiters
-body: >-
+description: >-
   SmartRecruiters has a simple goal: To make hiring easy. To help businesses get
   the talent they need to succeed. And to help people find a job they love.
 tags:
@@ -18,12 +18,12 @@ twitter_url: 'https://twitter.com/Smartrecruiters'
 linkedin_url: 'https://www.linkedin.com/company/smartrecruiters'
 instagram_url: 'https://instagram.com/smartrecruiters'
 facebook_url: 'https://twitter.com/Smartrecruiters'
+created_at: '2020-07-04T16:30:18.626Z'
+updated_at: '2020-07-04T16:30:18.626Z'
 positions:
   - country: germany
     postal_code: '10405'
     address: Winsstraße 62/63
     position: '{"type":"Point","coordinates":[52.533475,13.424052]}'
-created_at: '2020-07-04T16:30:18.626Z'
-updated_at: '2020-07-04T16:30:18.626Z'
 ---
 

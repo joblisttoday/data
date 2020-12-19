@@ -1,7 +1,7 @@
 ---
 title: Meritocracy
 slug: meritocracy
-body: '#startup #job-board'
+description: '#startup #job-board'
 tags:
   - startup
   - job-board

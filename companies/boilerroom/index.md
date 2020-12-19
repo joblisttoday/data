@@ -1,7 +1,7 @@
 ---
 title: Boilerroom
 slug: boilerroom
-body: >-
+description: >-
   Boiler Room is a global online #music #broadcasting #platform commissioning
   and #streaming live music sessions around the world
 tags:

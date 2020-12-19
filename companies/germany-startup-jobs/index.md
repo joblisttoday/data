@@ -1,7 +1,7 @@
 ---
 title: Germany Startup Jobs
 slug: germany-startup-jobs
-body: >-
+description: >-
   Germany Startup Jobs is a #job-board helping people to find right English and
   German speaking jobs within #startups
 tags:

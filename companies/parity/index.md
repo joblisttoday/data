@@ -7,9 +7,9 @@ tags:
   - startup
 company_url: 'https://www.parity.io/jobs'
 job_board_url: 'https://www.parity.io/jobs'
-positions:
-  - country: germany
 created_at: 2020-08-24T20:35:18.626Z
 updated_at: 2020-08-24T20:35:18.626Z
+positions:
+  - country: germany
 ---
 

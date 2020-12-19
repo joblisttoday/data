@@ -1,7 +1,7 @@
 ---
 title: Homify
 slug: homify
-body: '#interior-design #ecommerce platform; #startup #design'
+description: '#interior-design #ecommerce platform; #startup #design'
 tags:
   - interior-design
   - ecommerce

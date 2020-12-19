@@ -1,7 +1,7 @@
 ---
 title: Ritual.co
 slug: ritualco
-body: >-
+description: >-
   Social ordering app that is changing the way people order food online.
   #startup #delivery #food
 tags:

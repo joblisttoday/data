@@ -1,7 +1,7 @@
 ---
 title: Heimat
 slug: heimat
-body: '#pr #advertising #agency'
+description: '#pr #advertising #agency'
 tags:
   - pr
   - advertising

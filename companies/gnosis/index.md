@@ -1,7 +1,7 @@
 ---
 title: Gnosis
 slug: gnosis
-body: >-
+description: >-
   We believe in a redistributed future. Gnosis builds new #market mechanisms to
   make this future possible. Through blockchain-based, decentralized platforms,
   we enable the redistribution of resources—from assets to incentives, and
@@ -15,8 +15,8 @@ tags:
   - information
   - startup
 job_board_url: 'https://gnosis.io/team'
+created_at: '2020-02-18T15:48:55.981Z'
 positions:
   - position: '{"type":"Point","coordinates":[52.500339730516956,13.436279296875002]}'
-created_at: '2020-02-18T15:48:55.981Z'
 ---
 

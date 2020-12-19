@@ -1,7 +1,7 @@
 ---
 title: Craigslist
 slug: craigslist
-body: 'Generalist #job-board'
+description: 'Generalist #job-board'
 tags:
   - job-board
 job_board_url: 'http://berlin.en.craigslist.de'

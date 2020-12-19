@@ -1,7 +1,7 @@
 ---
 title: DHL
 slug: dhl
-body: >-
+description: >-
   DHL is the global market leader in the logistics industry. DHL commits its
   expertise in international parcel, express, air and ocean freight, road and
   rail ... #logistics

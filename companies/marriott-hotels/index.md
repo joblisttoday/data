@@ -1,7 +1,7 @@
 ---
 title: Marriott Hotels
 slug: marriott-hotels
-body: '#multinational #hospitality company managing #hotels and resorts'
+description: '#multinational #hospitality company managing #hotels and resorts'
 tags:
   - multinational
   - hospitality

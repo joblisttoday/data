@@ -1,7 +1,7 @@
 ---
 title: PayPal
 slug: paypal
-body: >-
+description: >-
   Online payments system provider, that supports online money transfers and
   serves as an electronic alternative to traditional paper methods like checks
   and money orders. #technology #fintech #bank
@@ -11,9 +11,9 @@ tags:
   - bank
 job_board_url: >-
   https://jobsearch.paypal-corp.com/en-US/search?keywords=&location=berlin&facetcountry=de
-positions:
-  - position: '{"type":"Point","coordinates":[52.4465324,13.2576329]}'
 created_at: '2018-02-06T11:49:51.369Z'
 updated_at: '2019-06-16T10:36:08.536Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.4465324,13.2576329]}'
 ---
 

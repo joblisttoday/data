@@ -1,7 +1,7 @@
 ---
 title: Join
 slug: join
-body: >-
+description: >-
   JOIN represents the future of #recruiting and is in an exceptional position to
   conquer the #HR Tech world by storm. You are the only missing piece in the
   puzzle! #startup
@@ -10,8 +10,8 @@ tags:
   - HR
   - startup
 job_board_url: 'https://join.join.com'
+created_at: '2020-03-01T16:23:12.377Z'
 positions:
   - position: '{"type":"Point","coordinates":[52.538563,13.413107]}'
-created_at: '2020-03-01T16:23:12.377Z'
 ---
 

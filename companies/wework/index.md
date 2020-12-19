@@ -1,7 +1,7 @@
 ---
 title: WeWork
 slug: wework
-body: >-
+description: >-
   WeWork is a foreign corporation that provides shared #workspaces, technology
   #startup subculture communities, and services for entrepreneurs, freelancers,
   startups, small businesses and large enterprises.

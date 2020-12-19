@@ -1,7 +1,7 @@
 ---
 title: Etsy
 slug: etsy
-body: >-
+description: >-
   Etsy platform enables you to find the perfect #handmade #gift, #vintage &
   on-trend #clothes, unique #jewelry, and more
 tags:

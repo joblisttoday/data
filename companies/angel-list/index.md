@@ -1,7 +1,7 @@
 ---
 title: Angel List
 slug: angel-list
-body: 'General #job-board for #startup companies'
+description: 'General #job-board for #startup companies'
 tags:
   - job-board
   - startup

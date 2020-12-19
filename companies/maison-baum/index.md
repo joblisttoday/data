@@ -1,7 +1,7 @@
 ---
 title: Maison Baum
 slug: maison-baum
-body: '#fashion store'
+description: '#fashion store'
 tags:
   - fashion
 job_board_url: 'https://maisonbaum.com/pages/jobs'

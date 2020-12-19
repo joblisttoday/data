@@ -1,7 +1,7 @@
 ---
 title: Freien Universität Berlin
 slug: freien-universität-berlin
-body: 'Berlin public #university ; #culture'
+description: 'Berlin public #university ; #culture'
 tags:
   - university
   - culture

@@ -1,7 +1,7 @@
 ---
 title: SuperFit
 slug: superfit
-body: 'Fitness center group #fitness #sport #gym #yoga'
+description: 'Fitness center group #fitness #sport #gym #yoga'
 tags:
   - fitness
   - sport

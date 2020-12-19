@@ -1,7 +1,7 @@
 ---
 title: McMakler
 slug: mcmakler
-body: >-
+description: >-
   We at McMakler are disrupting dusty structures and merging tradition with
   innovation. Our goal is to establish the real estate market within the age of
   digitalization while enhancing quality and efficiency sustainably. With our
@@ -20,12 +20,12 @@ twitter_url: 'https://twitter.com/McMaklerDE'
 linkedin_url: 'https://www.linkedin.com/company/mcmakler-gmbh'
 instagram_url: 'https://www.instagram.com/mcmakler.de'
 facebook_url: 'https://www.facebook.com/mcmakler.de'
+created_at: '2020-04-04T17:44:18.626Z'
+updated_at: '2020-04-04T17:44:18.626Z'
 positions:
   - country: germany
     postal_code: '10119'
     address: Torstraße 19
     position: '{"type":"Point","coordinates":[52.528178,13.413491]}'
-created_at: '2020-04-04T17:44:18.626Z'
-updated_at: '2020-04-04T17:44:18.626Z'
 ---
 

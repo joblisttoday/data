@@ -1,7 +1,7 @@
 ---
 title: Appjobs
 slug: appjobs
-body: '#job-board for #app-based-job (can be done through an app?) #apps'
+description: '#job-board for #app-based-job (can be done through an app?) #apps'
 tags:
   - job-board
   - app-based-job

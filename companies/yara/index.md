@@ -1,7 +1,7 @@
 ---
 title: yara
 slug: yara
-body: >-
+description: >-
   Norwegian #chemical company specialized in the production of nitrogen
   fertilizers and other nitrogen-based chemicals
 tags:

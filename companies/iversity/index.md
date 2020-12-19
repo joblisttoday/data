@@ -1,7 +1,7 @@
 ---
 title: Iversity
 slug: iversity
-body: >-
+description: >-
   iversity.org is an online #learning platform for higher #education and
   professional development #courses provided by experts from all over Europe
 tags:
@@ -9,9 +9,9 @@ tags:
   - education
   - courses
 job_board_url: 'https://iversity.org/en/pages/jobs'
-positions:
-  - position: '{"type":"Point","coordinates":[52.5648306,13.4398136]}'
 created_at: '2017-06-28T20:30:06.351Z'
 updated_at: '2019-06-16T10:36:08.519Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.5648306,13.4398136]}'
 ---
 

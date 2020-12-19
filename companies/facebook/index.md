@@ -1,7 +1,7 @@
 ---
 title: Facebook
 slug: facebook
-body: '#social-media service. #multinational'
+description: '#social-media service. #multinational'
 tags:
   - social-media
   - multinational

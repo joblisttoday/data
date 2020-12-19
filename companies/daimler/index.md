@@ -1,7 +1,7 @@
 ---
 title: Daimler
 slug: daimler
-body: '#transport #multinational #auto'
+description: '#transport #multinational #auto'
 tags:
   - transport
   - multinational

@@ -1,16 +1,16 @@
 ---
 title: Fit Analytics
 slug: fit-analytics
-body: >-
+description: >-
   #startup doing clothing size recommendations for online customers by measuring
   individual dimensions via webcams #ecommerce
 tags:
   - startup
   - ecommerce
 job_board_url: 'https://boards.greenhouse.io/fitanalytics'
-positions:
-  - position: '{"type":"Point","coordinates":[52.514651,13.467961]}'
 created_at: '2018-02-02T10:44:25.886Z'
 updated_at: '2019-06-16T10:36:09.739Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.514651,13.467961]}'
 ---
 

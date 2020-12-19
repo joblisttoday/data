@@ -1,7 +1,7 @@
 ---
 title: Here
 slug: here
-body: >-
+description: >-
   Provides mapping and location data and related services to individuals and
   companies #tech #map
 tags:

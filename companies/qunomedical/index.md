@@ -1,15 +1,15 @@
 ---
 title: Qunomedical
 slug: qunomedical
-body: 'Find the right doctors at home or abroad; #health #doctor #startup'
+description: 'Find the right doctors at home or abroad; #health #doctor #startup'
 tags:
   - health
   - doctor
   - startup
 job_board_url: 'https://www.qunomedical.com/en/careers'
-positions:
-  - position: '{"type":"Point","coordinates":[52.5282605,13.3863227]}'
 created_at: '2019-05-29T12:05:21.437Z'
 updated_at: '2019-06-16T10:36:08.537Z'
+positions:
+  - position: '{"type":"Point","coordinates":[52.5282605,13.3863227]}'
 ---
 

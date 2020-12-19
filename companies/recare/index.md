@@ -1,7 +1,7 @@
 ---
 title: Recare
 slug: recare
-body: >-
+description: >-
   Recare is a web-based, digital platform that facilitates an effective patient
   transfer from hospital to care providers. Our smart search tool sends targeted
   requests to potential providers and enables real-time, secure communication
@@ -14,12 +14,12 @@ tags:
 company_url: 'https://www.recaresolutions.com'
 job_board_url: 'https://recaregmbh.recruitee.com'
 linkedin_url: 'https://www.linkedin.com/company/recare'
+created_at: '2020-04-04T15:48:08.626Z'
+updated_at: '2020-04-04T15:48:08.626Z'
 positions:
   - country: germany
     postal_code: '10559'
     address: Alt-Moabit 103
     position: '{"type":"Point","coordinates":[52.524779,13.347322]}'
-created_at: '2020-04-04T15:48:08.626Z'
-updated_at: '2020-04-04T15:48:08.626Z'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Berlin startup jobs
 slug: berlin-startup-jobs
-body: '#startup #job-board #tech'
+description: '#startup #job-board #tech'
 tags:
   - startup
   - job-board

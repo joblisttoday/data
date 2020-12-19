@@ -1,7 +1,7 @@
 ---
 title: Gruenderszene
 slug: gruenderszene
-body: '#german #language #job-board'
+description: '#german #language #job-board'
 tags:
   - german
   - languages

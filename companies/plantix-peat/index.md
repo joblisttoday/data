@@ -1,7 +1,7 @@
 ---
 title: PLantix (PEAT)
 slug: plantix-peat
-body: >-
+description: >-
   Startup with the passion of bringing meaningful change and security to food
   production worldwide. We empower family farmers and growers to fight crop
   shortfalls and unnecessary pesticide use, with the help of our smart and free
@@ -22,12 +22,12 @@ company_url: 'https://plantix.net'
 job_board_url: 'https://plantix.recruitee.com/'
 twitter_url: 'https://twitter.com/plantixApp'
 facebook_url: 'https://www.facebook.com/Plantix'
+created_at: '2020-03-04T17:11:18.626Z'
+updated_at: '2020-03-04T17:11:18.626Z'
 positions:
   - country: germany
     postal_code: '10435'
     address: Kastanienallee 4
     position: '{"type":"Point","coordinates":[52.54045,13.410877]}'
-created_at: '2020-03-04T17:11:18.626Z'
-updated_at: '2020-03-04T17:11:18.626Z'
 ---
 

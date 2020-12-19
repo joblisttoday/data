@@ -1,7 +1,7 @@
 ---
 title: Honeypot
 slug: honeypot
-body: 'Honeypot is a #tech focused #job-board #europe'
+description: 'Honeypot is a #tech focused #job-board #europe'
 tags:
   - tech
   - job-board

@@ -1,7 +1,7 @@
 ---
 title: Coya
 slug: coya
-body: Insurance startup
+description: Insurance startup
 tags:
   - startup
   - insurance
@@ -13,12 +13,12 @@ twitter_url: 'https://twitter.com/hello_coya'
 linkedin_url: 'https://www.linkedin.com/company/coya'
 instagram_url: 'https://www.instagram.com/coya'
 facebook_url: 'https://www.facebook.com/hellocoya'
+created_at: '2020-09-08T20:27:18.626Z'
+updated_at: '2020-09-08T20:27:18.626Z'
 positions:
   - country: germany
     postal_code: '10999'
     address: Ohlauer Str. 43
     position: '{"type":"Point","coordinates":[52.493964,13.430118]}'
-created_at: '2020-09-08T20:27:18.626Z'
-updated_at: '2020-09-08T20:27:18.626Z'
 ---
 

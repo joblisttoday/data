@@ -1,7 +1,7 @@
 ---
 title: Perdoo
 slug: perdoo
-body: >-
+description: >-
   Perdoo is a simple yet powerful goal management platform used by thousands of
   employees in hundreds of companies across the world.
 tags:
@@ -9,12 +9,12 @@ tags:
   - goal-mangement
   - platform
 job_board_url: 'https://perdoo.recruitee.com/'
+created_at: '2020-04-04T13:58:09.626Z'
+updated_at: '2020-04-04T13:59:09.626Z'
 positions:
   - country: germany
     postal_code: '10243'
     address: 'Straße der Pariser Kommune, 8 '
     position: '{"type":"Point","coordinates":[52.513058,13.439078]}'
-created_at: '2020-04-04T13:58:09.626Z'
-updated_at: '2020-04-04T13:59:09.626Z'
 ---
 

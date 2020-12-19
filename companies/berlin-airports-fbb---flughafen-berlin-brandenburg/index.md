@@ -1,7 +1,7 @@
 ---
 title: Berlin Airports (FBB - Flughafen Berlin Brandenburg)
 slug: berlin-airports-fbb---flughafen-berlin-brandenburg
-body: >-
+description: >-
   The tww airports operating in Berlin and the commercial zone arround.
   #aviation #logistics #shops
 tags:

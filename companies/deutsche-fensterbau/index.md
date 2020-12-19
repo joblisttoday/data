@@ -1,7 +1,7 @@
 ---
 title: Deutsche Fensterbau
 slug: deutsche-fensterbau
-body: 'Windows and door manufacturing and setup. #industry'
+description: 'Windows and door manufacturing and setup. #industry'
 tags:
   - industry
 job_board_url: 'https://www.deutsche-fensterbau.de/jobs/'

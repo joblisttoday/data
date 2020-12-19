@@ -1,7 +1,7 @@
 ---
 title: Landing.jobs
 slug: landingjobs
-body: 'candidate driven #technology #job-board'
+description: 'candidate driven #technology #job-board'
 tags:
   - technology
   - job-board

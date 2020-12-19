@@ -1,7 +1,7 @@
 ---
 title: tiktok
 slug: tiktok
-body: >-
+description: >-
   TikTok is the destination for short-form mobile videos. Our mission is to
   capture and present the worldwide creativity, knowledge, and precious life
   moments, directly from the mobile phone. #startup #video

@@ -1,7 +1,7 @@
 ---
 title: Advertima
 slug: advertima
-body: >-
+description: >-
   Advertima uses #computer-vision and #machine-learning to interpret the visual
   appearance, walking paths, and body language of people in real-time. This data
   enables different real-time applications like fully automated customer
@@ -14,8 +14,8 @@ tags:
   - spaces
   - retail
 job_board_url: 'https://www.advertima.com/company/career-opportunity'
+created_at: '2020-02-29T12:58:55.000Z'
 positions:
   - position: '{"type":"Point","coordinates":[52.52995,13.3901214]}'
-created_at: '2020-02-29T12:58:55.000Z'
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Airbnb
 slug: airbnb
-body: >-
+description: >-
   Airbnb operates an online #marketplace and #hospitality service which is
   accessible via its websites and mobile apps. Members can use the #service to
   arrange or offer #lodging, primarily #homestays, or #tourism #experiences.

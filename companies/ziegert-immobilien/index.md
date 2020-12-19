@@ -1,7 +1,7 @@
 ---
 title: Ziegert
 slug: ziegert-immobilien
-body: Real estate consultancy in Berlin.
+description: Real estate consultancy in Berlin.
 tags:
   - consulting
   - real-estate
@@ -12,12 +12,12 @@ job_board_hostname: ziegert-jobs
 linkedin_url: 'https://www.linkedin.com/company/ziegert-bank--&-real-estate-consulting-gmbh'
 instagram_url: 'https://www.instagram.com/ziegert_immobilien'
 facebook_url: 'https://www.facebook.com/ZiegertBankundImmobilienconsulting/'
+created_at: '2020-09-08T16:53:09.626Z'
+updated_at: '2020-09-08T16:53:09.626Z'
 positions:
   - country: germany
     postal_code: '10969'
     address: Zimmerstr. 16
     position: '{"type":"Point","coordinates":[52.50761,13.389152]}'
-created_at: '2020-09-08T16:53:09.626Z'
-updated_at: '2020-09-08T16:53:09.626Z'
 ---
 

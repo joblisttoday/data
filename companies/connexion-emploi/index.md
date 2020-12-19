@@ -1,7 +1,7 @@
 ---
 title: Connexion Emploi
 slug: connexion-emploi
-body: '#french speaking #language #job-board'
+description: '#french speaking #language #job-board'
 tags:
   - french
   - languages

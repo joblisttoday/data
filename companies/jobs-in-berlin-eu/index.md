@@ -1,7 +1,7 @@
 ---
 title: Jobs in Berlin.eu
 slug: jobs-in-berlin-eu
-body: English speaking language job board
+description: English speaking language job board
 tags:
   - english
   - languages

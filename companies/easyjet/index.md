@@ -1,7 +1,7 @@
 ---
 title: EasyJet
 slug: easyjet
-body: 'EasyJet is a British airline. #aviation #airline'
+description: 'EasyJet is a British airline. #aviation #airline'
 tags:
   - aviation
   - airline

@@ -1,7 +1,7 @@
 ---
 title: Beyond Meat
 slug: beyond-meat
-body: Producer of plant-based meat substitutes.
+description: Producer of plant-based meat substitutes.
 tags:
   - food
   - startup
@@ -11,9 +11,9 @@ twitter_url: 'https://twitter.com/beyondmeat'
 linkedin_url: 'https://www.linkedin.com/company/beyond-meat/'
 instagram_url: 'https://www.instagram.com/beyondmeat'
 facebook_url: 'https://www.facebook.com/beyondmeat'
-positions:
-  - country: germany
 created_at: '2020-09-08T13:00:18.626Z'
 updated_at: '2020-09-08T13:00:18.626Z'
+positions:
+  - country: germany
 ---
 

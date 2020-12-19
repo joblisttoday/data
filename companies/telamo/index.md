@@ -1,7 +1,7 @@
 ---
 title: Telamo
 slug: telamo
-body: 'Telamo is a german #music #label'
+description: 'Telamo is a german #music #label'
 tags:
   - music
   - label

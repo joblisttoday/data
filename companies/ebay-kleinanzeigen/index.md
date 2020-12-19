@@ -1,7 +1,7 @@
 ---
 title: Ebay Kleinanzeigen
 slug: ebay-kleinanzeigen
-body: 'Generalist #job-board'
+description: 'Generalist #job-board'
 tags:
   - job-board
 job_board_url: 'http://kleinanzeigen.ebay.de/anzeigen/s-jobs/berlin/c102l3331'

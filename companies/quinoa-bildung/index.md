@@ -1,7 +1,7 @@
 ---
 title: Quinoa Bildung
 slug: quinoa-bildung
-body: School and youth formations
+description: School and youth formations
 tags:
   - school
   - teaching
@@ -11,12 +11,12 @@ job_board_provider: smartrecruiters
 job_board_hostname: QuinoaBildungGGmbH
 instagram_url: 'https://www.instagram.com/quinoabildung'
 facebook_url: 'https://www.facebook.com/quinoabildung'
+created_at: '2020-07-04T23:10:18.626Z'
+updated_at: '2020-07-04T23:10:18.626Z'
 positions:
   - country: germany
     postal_code: '13409'
     address: Kühnemannstrasse 26
     position: '{"type":"Point","coordinates":[52.566119,13.381054]}'
-created_at: '2020-07-04T23:10:18.626Z'
-updated_at: '2020-07-04T23:10:18.626Z'
 ---
 

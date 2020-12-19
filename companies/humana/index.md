@@ -1,7 +1,7 @@
 ---
 title: Humana
 slug: humana
-body: 'Humana is a #retail #second-hand brand with #physical #shop in germany.'
+description: 'Humana is a #retail #second-hand brand with #physical #shop in germany.'
 tags:
   - retail
   - second-hand

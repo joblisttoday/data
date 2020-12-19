@@ -1,7 +1,7 @@
 ---
 title: Europe Language Jobs
 slug: europe-language-jobs
-body: '#job-board for #language (multilangual) related jobs'
+description: '#job-board for #language (multilangual) related jobs'
 tags:
   - job-board
   - languages

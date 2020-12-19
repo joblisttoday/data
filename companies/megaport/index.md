@@ -1,7 +1,7 @@
 ---
 title: Megaport
 slug: megaport
-body: 'Springer Nature is an #academic #publishing company'
+description: 'Springer Nature is an #academic #publishing company'
 tags:
   - academic
   - publishing

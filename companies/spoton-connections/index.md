@@ -1,7 +1,7 @@
 ---
 title: SpotOn Connections
 slug: spoton-connections
-body: 'general #job-board offering personalised recruitment'
+description: 'general #job-board offering personalised recruitment'
 tags:
   - job-board
 job_board_url: 'https://www.spotonconnections.com/job-search-results/?keyword&location=Berlin'

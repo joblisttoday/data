@@ -1,7 +1,7 @@
 ---
 title: Loanlink
 slug: loanlink
-body: >-
+description: >-
   Loanlink is a fast growing startup reinventing the home buying experience in
   Germany by transforming an outdated and painful process with technology and
   innovation.
@@ -11,12 +11,12 @@ tags:
   - technology
   - innovation
 job_board_url: 'https://loanlinkgmbh.recruitee.com'
+created_at: '2020-04-04T13:39:09.626Z'
+updated_at: '2020-04-04T13:39:09.626Z'
 positions:
   - country: germany
     postal_code: '10435'
     address: ' Schönhauser Allee 149'
     position: '{"type":"Point","coordinates":[52.539117,13.41177]}'
-created_at: '2020-04-04T13:39:09.626Z'
-updated_at: '2020-04-04T13:39:09.626Z'
 ---
 

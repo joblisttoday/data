@@ -1,7 +1,7 @@
 ---
 title: Roobeo
 slug: roobeo-gmbh
-body: >-
+description: >-
   Platform for digitizing material procurement - processes made easy for craft
   businesses, retail and industry.
 tags:
@@ -13,12 +13,12 @@ job_board_hostname: roobeo-jobs
 twitter_url: 'https://twitter.com/ROOBEO_GmbH'
 linkedin_url: 'https://www.linkedin.com/company/roobeo'
 facebook_url: 'https://www.facebook.com/ROOBEOgmbh'
+created_at: '2020-09-08T16:35:18.626Z'
+updated_at: '2020-09-08T16:35:18.626Z'
 positions:
   - country: germany
     postal_code: '10178'
     address: Kleine Präsidentenstraße 1
     position: '{"type":"Point","coordinates":[52.522636,13.400513]}'
-created_at: '2020-09-08T16:35:18.626Z'
-updated_at: '2020-09-08T16:35:18.626Z'
 ---
 

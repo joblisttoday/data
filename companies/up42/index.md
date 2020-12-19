@@ -1,7 +1,7 @@
 ---
 title: UP42
 slug: up42
-body: >-
+description: >-
   UP42 brings data from satellites, drones, and IoT devices together with
   analytics tools to detect changes, monitor trends, and identify objects. We’re
   making it easy to not only see our planet but to understand it too. 
@@ -15,12 +15,12 @@ twitter_url: 'https://twitter.com/up42official'
 linkedin_url: 'https://www.linkedin.com/company/up42'
 instagram_url: 'https://www.instagram.com/up42official'
 facebook_url: 'https://www.facebook.com/up42Official'
+created_at: '2020-04-24T19:35:18.626Z'
+updated_at: '2020-04-24T19:35:18.626Z'
 positions:
   - country: germany
     postal_code: '10999'
     address: Ohlauer Str. 43
     position: '{"type":"Point","coordinates":[52.493882,13.430114]}'
-created_at: '2020-04-24T19:35:18.626Z'
-updated_at: '2020-04-24T19:35:18.626Z'
 ---
 

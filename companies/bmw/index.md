@@ -1,7 +1,7 @@
 ---
 title: BMW
 slug: bmw
-body: >-
+description: >-
   BMW is a German multinational company which currently produces luxury
   automobiles and motorcycles #automobile
 tags:

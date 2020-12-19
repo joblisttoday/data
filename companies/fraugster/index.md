@@ -1,7 +1,7 @@
 ---
 title: Fraugster
 slug: fraugster
-body: >-
+description: >-
   Fraugster is a payment security company with the goal of eliminating fraud and
   increasing our customers’ profits. Over the last few years we’ve invented an
   artificial intelligence technology that combines human-like accuracy with
@@ -13,8 +13,8 @@ tags:
   - it
   - startup
 job_board_url: 'https://fraugster.com/jobs/'
+created_at: '2020-02-25T07:48:07.548Z'
 positions:
   - position: '{"type":"Point","coordinates":[52.50640031375411,13.393020629882814]}'
-created_at: '2020-02-25T07:48:07.548Z'
 ---
 

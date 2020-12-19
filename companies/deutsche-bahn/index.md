@@ -1,7 +1,7 @@
 ---
 title: Deutsche Bahn
 slug: deutsche-bahn
-body: 'German railway company. #db #train #transport #railway'
+description: 'German railway company. #db #train #transport #railway'
 tags:
   - db
   - train

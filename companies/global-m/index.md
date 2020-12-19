@@ -1,7 +1,7 @@
 ---
 title: Global-m
 slug: global-m
-body: '#recruiting agency specialists in #technology; #hr'
+description: '#recruiting agency specialists in #technology; #hr'
 tags:
   - recruiting
   - technology

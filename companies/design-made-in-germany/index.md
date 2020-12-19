@@ -1,7 +1,7 @@
 ---
 title: Design Made In Germany
 slug: design-made-in-germany
-body: '#job-board for #creative #design and #web professionals in Germany'
+description: '#job-board for #creative #design and #web professionals in Germany'
 tags:
   - job-board
   - creative

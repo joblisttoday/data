@@ -1,7 +1,7 @@
 ---
 title: BVG
 slug: bvg
-body: >-
+description: >-
   The Berliner Verkehrsbetriebe is the main #public #transport company of
   Berlin. It manages the city's U-Bahn underground #railway, #tram, #bus,
   replacement services and #ferry networks, but not the S-Bahn urban rail system

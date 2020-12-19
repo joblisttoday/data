@@ -1,7 +1,7 @@
 ---
 title: Resident Advisor
 slug: resident-advisor
-body: >-
+description: >-
   Resident Advisor (RA) is an online #music #magazine and #community #platform
   dedicated to showcasing #electronic-music, artists and events across the globe
 tags:

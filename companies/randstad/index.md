@@ -1,7 +1,7 @@
 ---
 title: Randstad
 slug: randstad
-body: >-
+description: >-
   #employment-agency and #recruitment-agency for #temporary-work and permanent
   staffing; #workforce #job-board
 tags:

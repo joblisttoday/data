@@ -1,7 +1,7 @@
 ---
 title: Home24.de
 slug: home24de
-body: 'Home24 is an online #shop presenting #fournitures and #decoration items'
+description: 'Home24 is an online #shop presenting #fournitures and #decoration items'
 tags:
   - shop
   - fournitures

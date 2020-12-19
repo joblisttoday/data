@@ -1,7 +1,7 @@
 ---
 title: Vonovia
 slug: vonovia
-body: >-
+description: >-
   Germany's largest residential property company. #real-estate
   #facility-management
 tags:

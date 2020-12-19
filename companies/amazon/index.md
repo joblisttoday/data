@@ -1,7 +1,7 @@
 ---
 title: Amazon
 slug: amazon
-body: >-
+description: >-
   Amazon is an Online #shopping #platform presenting the earth's biggest
   #selection of books, magazines, music, DVDs, videos, electronics, computers,
   software, apparel & accessories, shoes, ...

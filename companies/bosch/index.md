@@ -1,7 +1,7 @@
 ---
 title: Bosch
 slug: bosch
-body: 'German multinational engineering and technology company '
+description: 'German multinational engineering and technology company '
 tags:
   - multinational
   - technology
