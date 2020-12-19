@@ -1,27 +1,23 @@
 ---
-address: Potsdamer Platz, Kemperpl. 1
-body: Help companies get feedback from their users
-city: berlin
-company_url: usabilla.com
-country: germany
-created_at: "2020-04-04T16:57:08.626Z"
-draft: false
-facebook_url: https://www.facebook.com/usabilla
-instagram_url: https://www.instagram.com/usabilla
-is_approved: true
-job_board_url: https://usabilla.recruitee.com
-latitude: 52.510782
-linkedin_url: https://www.linkedin.com/company/usabilla
-longitude: 13.372105
-postal_code: "10785"
-slug: usabilla
-tags:
-- startup
-- customer-care
-- feedback
 title: Usabilla
-twitter_url: https://twitter.com/usabilla
-updated_at: "2020-04-04T16:57:08.626Z"
-cities:
-- berlin
+slug: usabilla
+body: Help companies get feedback from their users
+tags:
+  - startup
+  - customer-care
+  - feedback
+company_url: usabilla.com
+job_board_url: 'https://usabilla.recruitee.com'
+twitter_url: 'https://twitter.com/usabilla'
+linkedin_url: 'https://www.linkedin.com/company/usabilla'
+instagram_url: 'https://www.instagram.com/usabilla'
+facebook_url: 'https://www.facebook.com/usabilla'
+positions:
+  - country: germany
+    postal_code: '10785'
+    address: 'Potsdamer Platz, Kemperpl. 1'
+    position: '{"type":"Point","coordinates":[13.372105,52.510782]}'
+created_at: '2020-04-04T16:57:08.626Z'
+updated_at: '2020-04-04T16:57:08.626Z'
 ---
+

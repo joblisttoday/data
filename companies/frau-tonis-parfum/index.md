@@ -1,16 +1,14 @@
 ---
-body: 'Company providing #perfume for #corporate gifts'
-created_at: "2018-02-02T10:46:30.180Z"
-is_approved: true
-job_board_url: https://www.frau-tonis-parfum.com/karriere-jobs/
-latitude: 52.507474
-longitude: 13.388228
-slug: frau-tonis-parfum
-tags:
-- perfume
-- corporate
 title: Frau Tonis Parfum
-updated_at: "2019-06-16T10:36:08.537Z"
-cities:
-- berlin
+slug: frau-tonis-parfum
+body: 'Company providing #perfume for #corporate gifts'
+tags:
+  - perfume
+  - corporate
+job_board_url: 'https://www.frau-tonis-parfum.com/karriere-jobs/'
+positions:
+  - position: '{"type":"Point","coordinates":[13.388228,52.507474]}'
+created_at: '2018-02-02T10:46:30.180Z'
+updated_at: '2019-06-16T10:36:08.537Z'
 ---
+

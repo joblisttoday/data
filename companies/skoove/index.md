@@ -1,21 +1,20 @@
 ---
-body: 'Skoove is a #music #tech #startup making interactive #apps to learn piano and
-  guitar. #music-education #online-marketing'
-created_at: "2018-01-29T17:05:27.334Z"
-is_approved: true
-job_board_url: https://www.skoove.com/en/jobs
-latitude: 52.5173974
-longitude: 13.4390715
-slug: skoove
-tags:
-- music
-- tech
-- startup
-- apps
-- music-education
-- online-marketing
 title: Skoove
-updated_at: "2019-06-16T10:36:09.741Z"
-cities:
-- berlin
+slug: skoove
+body: >-
+  Skoove is a #music #tech #startup making interactive #apps to learn piano and
+  guitar. #music-education #online-marketing
+tags:
+  - music
+  - tech
+  - startup
+  - apps
+  - music-education
+  - online-marketing
+job_board_url: 'https://www.skoove.com/en/jobs'
+positions:
+  - position: '{"type":"Point","coordinates":[13.4390715,52.5173974]}'
+created_at: '2018-01-29T17:05:27.334Z'
+updated_at: '2019-06-16T10:36:09.741Z'
 ---
+
