@@ -19,7 +19,7 @@ positions:
   - country: germany
     postal_code: '12435'
     address: Lohmühlenstraße 65
-    position: '{"type":"Point","coordinates":[13.446298,52.494119]}'
+    position: '{"type":"Point","coordinates":[52.494119,13.446298]}'
 created_at: '2020-04-04T14:10:09.626Z'
 updated_at: '2020-04-04T14:10:09.626Z'
 ---

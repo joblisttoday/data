@@ -16,7 +16,7 @@ positions:
   - country: germany
     postal_code: '10969'
     address: Ritterstraße 11
-    position: '{"type":"Point","coordinates":[13.4113,52.501372]}'
+    position: '{"type":"Point","coordinates":[52.501372,13.4113]}'
 created_at: '2020-08-04T19:35:18.626Z'
 updated_at: '2020-08-04T19:35:18.626Z'
 ---

@@ -18,7 +18,7 @@ positions:
   - country: germany
     postal_code: '10115'
     address: 'Linienstraße, 165'
-    position: '{"type":"Point","coordinates":[13.396951,52.528529]}'
+    position: '{"type":"Point","coordinates":[52.528529,13.396951]}'
 created_at: '2020-04-04T13:39:09.626Z'
 updated_at: '2020-04-04T13:39:09.626Z'
 ---

@@ -10,7 +10,7 @@ tags:
   - financial
 job_board_url: 'https://www.financeads.com/uk-en/aboutus/jobs/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3553899,52.5219252]}'
+  - position: '{"type":"Point","coordinates":[52.5219252,13.3553899]}'
 created_at: '2018-02-01T09:33:27.651Z'
 updated_at: '2019-06-16T10:36:08.532Z'
 ---

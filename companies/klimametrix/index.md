@@ -11,7 +11,7 @@ tags:
   - climate
 job_board_url: 'https://klimametrix.join.com/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.413276672363283,52.500757728600306]}'
+  - position: '{"type":"Point","coordinates":[52.500757728600306,13.413276672363283]}'
 created_at: '2020-03-01T16:25:05.750Z'
 ---
 

@@ -10,7 +10,7 @@ tags:
   - food
 job_board_url: 'https://naturalmojo.workable.com/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3895422,52.515117]}'
+  - position: '{"type":"Point","coordinates":[52.515117,13.3895422]}'
 created_at: '2018-02-09T06:53:04.451Z'
 updated_at: '2019-06-16T10:36:09.623Z'
 ---

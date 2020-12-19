@@ -13,7 +13,7 @@ tags:
   - healthy
 job_board_url: 'https://yoursuperfoods.de/pages/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3776897,52.5352256]}'
+  - position: '{"type":"Point","coordinates":[52.5352256,13.3776897]}'
 created_at: '2018-02-08T09:11:03.908Z'
 updated_at: '2019-06-16T10:36:08.532Z'
 ---

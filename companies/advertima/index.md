@@ -15,7 +15,7 @@ tags:
   - retail
 job_board_url: 'https://www.advertima.com/company/career-opportunity'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3901214,52.52995]}'
+  - position: '{"type":"Point","coordinates":[52.52995,13.3901214]}'
 created_at: '2020-02-29T12:58:55.000Z'
 ---
 

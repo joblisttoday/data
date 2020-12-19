@@ -17,7 +17,7 @@ positions:
   - country: germany
     postal_code: '10999'
     address: Ohlauer Str. 43
-    position: '{"type":"Point","coordinates":[13.430118,52.493964]}'
+    position: '{"type":"Point","coordinates":[52.493964,13.430118]}'
 created_at: '2020-09-08T20:27:18.626Z'
 updated_at: '2020-09-08T20:27:18.626Z'
 ---

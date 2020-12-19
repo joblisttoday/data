@@ -17,7 +17,7 @@ positions:
   - country: germany
     postal_code: '10179'
     address: Alexanderstraße 40
-    position: '{"type":"Point","coordinates":[13.417794,52.51757]}'
+    position: '{"type":"Point","coordinates":[52.51757,13.417794]}'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
 ---

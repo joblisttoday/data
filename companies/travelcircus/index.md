@@ -9,7 +9,7 @@ tags:
   - startup
 job_board_url: 'https://www.travelcircus.de/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3541097,52.5639598]}'
+  - position: '{"type":"Point","coordinates":[52.5639598,13.3541097]}'
 created_at: '2018-11-20T16:14:01.931Z'
 updated_at: '2019-06-16T10:36:09.638Z'
 ---

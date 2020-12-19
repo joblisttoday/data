@@ -21,7 +21,7 @@ positions:
   - country: germany
     postal_code: '12489'
     address: Volmerstrasse 9B
-    position: '{"type":"Point","coordinates":[13.538042,52.429374]}'
+    position: '{"type":"Point","coordinates":[52.429374,13.538042]}'
 created_at: '2020-04-04T14:06:09.626Z'
 updated_at: '2020-04-04T14:06:09.626Z'
 ---

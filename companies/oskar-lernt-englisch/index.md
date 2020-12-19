@@ -14,7 +14,7 @@ positions:
   - country: germany
     postal_code: '12159'
     address: Lauterstraße 21
-    position: '{"type":"Point","coordinates":[13.335566,52.473134]}'
+    position: '{"type":"Point","coordinates":[52.473134,13.335566]}'
 created_at: '2020-04-04T13:54:09.626Z'
 updated_at: '2020-04-04T13:54:09.626Z'
 ---

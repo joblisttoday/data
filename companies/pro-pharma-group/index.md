@@ -19,7 +19,7 @@ positions:
   - country: germany
     postal_code: '13627'
     address: Siemensdamm 62
-    position: '{"type":"Point","coordinates":[13.280331,52.533348]}'
+    position: '{"type":"Point","coordinates":[52.533348,13.280331]}'
 created_at: '2020-07-04T18:26:18.626Z'
 updated_at: '2020-07-04T18:26:18.626Z'
 ---

@@ -16,7 +16,7 @@ positions:
   - country: germany
     postal_code: '10435'
     address: ' Bernauer str 49'
-    position: '{"type":"Point","coordinates":[13.40382,52.540293]}'
+    position: '{"type":"Point","coordinates":[52.540293,13.40382]}'
 created_at: '2020-04-04T14:47:08.626Z'
 updated_at: '2020-04-04T14:47:08.626Z'
 ---

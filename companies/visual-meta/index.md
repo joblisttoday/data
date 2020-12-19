@@ -12,7 +12,7 @@ tags:
   - technologies
 job_board_url: 'http://visual-meta.com/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4146475,52.5237681]}'
+  - position: '{"type":"Point","coordinates":[52.5237681,13.4146475]}'
 created_at: '2017-06-28T20:25:47.487Z'
 updated_at: '2019-06-16T10:36:09.623Z'
 ---

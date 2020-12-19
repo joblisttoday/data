@@ -10,7 +10,7 @@ tags:
   - software
 job_board_url: 'https://careers.mozilla.org/listings/?location=Berlin'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4492571,52.4994658]}'
+  - position: '{"type":"Point","coordinates":[52.4994658,13.4492571]}'
 created_at: '2017-06-28T20:40:15.891Z'
 updated_at: '2019-06-16T10:36:09.625Z'
 ---

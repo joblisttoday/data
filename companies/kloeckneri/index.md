@@ -11,7 +11,7 @@ tags:
   - industry
 job_board_url: 'https://www.kloeckner-i.com/en/jobs/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3834999,52.53153]}'
+  - position: '{"type":"Point","coordinates":[52.53153,13.3834999]}'
 created_at: '2018-02-14T06:55:29.433Z'
 updated_at: '2019-06-16T10:36:09.735Z'
 ---

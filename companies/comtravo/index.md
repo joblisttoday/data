@@ -13,7 +13,7 @@ tags:
   - business-travel
 job_board_url: 'https://comtravo.com/de/work-with-us/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4230699,52.49445]}'
+  - position: '{"type":"Point","coordinates":[52.49445,13.4230699]}'
 created_at: '2019-05-23T10:45:44.890Z'
 updated_at: '2019-06-16T10:36:09.622Z'
 ---

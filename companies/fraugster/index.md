@@ -14,7 +14,7 @@ tags:
   - startup
 job_board_url: 'https://fraugster.com/jobs/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.393020629882814,52.50640031375411]}'
+  - position: '{"type":"Point","coordinates":[52.50640031375411,13.393020629882814]}'
 created_at: '2020-02-25T07:48:07.548Z'
 ---
 

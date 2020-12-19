@@ -23,7 +23,7 @@ positions:
   - country: germany
     postal_code: '10115'
     address: Rheinsberger Str. 73
-    position: '{"type":"Point","coordinates":[13.395743,52.536988]}'
+    position: '{"type":"Point","coordinates":[52.536988,13.395743]}'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
 ---

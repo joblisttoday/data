@@ -6,7 +6,7 @@ tags:
   - fitness
 job_board_url: 'https://www.mcfit-global-group.com/de/karriere/jobs/mcfit/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.41623,52.52871]}'
+  - position: '{"type":"Point","coordinates":[52.52871,13.41623]}'
 created_at: '2018-02-01T20:36:36.701Z'
 updated_at: '2019-06-16T10:36:09.731Z'
 ---

@@ -24,7 +24,7 @@ positions:
   - country: germany
     postal_code: '10119'
     address: Torstraße 19
-    position: '{"type":"Point","coordinates":[13.413491,52.528178]}'
+    position: '{"type":"Point","coordinates":[52.528178,13.413491]}'
 created_at: '2020-04-04T17:44:18.626Z'
 updated_at: '2020-04-04T17:44:18.626Z'
 ---

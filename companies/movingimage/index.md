@@ -14,7 +14,7 @@ tags:
   - b2b
 job_board_url: 'https://www.movingimage.com/career/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.454663,52.50002]}'
+  - position: '{"type":"Point","coordinates":[52.50002,13.454663]}'
 created_at: '2018-02-07T20:55:50.637Z'
 updated_at: '2019-06-16T10:36:08.528Z'
 ---

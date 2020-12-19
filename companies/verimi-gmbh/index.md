@@ -15,7 +15,7 @@ positions:
   - country: germany
     postal_code: '10969'
     address: Oranienstr. 91
-    position: '{"type":"Point","coordinates":[13.412471,52.503221]}'
+    position: '{"type":"Point","coordinates":[52.503221,13.412471]}'
 updated_at: '2020-09-08T20:33:18.626Z'
 ---
 

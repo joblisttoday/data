@@ -17,7 +17,7 @@ positions:
   - country: germany
     postal_code: '10997'
     address: Wrangelstraße 100
-    position: '{"type":"Point","coordinates":[13.434926,52.50178]}'
+    position: '{"type":"Point","coordinates":[52.50178,13.434926]}'
 created_at: '2020-04-04T12:54:09.626Z'
 updated_at: '2020-04-04T12:54:09.626Z'
 ---

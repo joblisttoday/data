@@ -26,7 +26,7 @@ positions:
   - country: germany
     postal_code: '10435'
     address: Kastanienallee 4
-    position: '{"type":"Point","coordinates":[13.410877,52.54045]}'
+    position: '{"type":"Point","coordinates":[52.54045,13.410877]}'
 created_at: '2020-03-04T17:11:18.626Z'
 updated_at: '2020-03-04T17:11:18.626Z'
 ---

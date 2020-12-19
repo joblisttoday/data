@@ -13,7 +13,7 @@ positions:
   - country: germany
     postal_code: '10623'
     address: Hardenbergstrasse 32
-    position: '{"type":"Point","coordinates":[13.329163,52.508453]}'
+    position: '{"type":"Point","coordinates":[52.508453,13.329163]}'
 created_at: '2020-04-04T12:50:09.626Z'
 updated_at: '2020-04-04T12:50:09.626Z'
 ---

@@ -7,7 +7,7 @@ tags:
   - real-estate
 job_board_url: 'https://www.medici-living-group.com/career'
 positions:
-  - position: '{"type":"Point","coordinates":[13.39635,52.49449]}'
+  - position: '{"type":"Point","coordinates":[52.49449,13.39635]}'
 created_at: '2018-02-14T22:29:23.167Z'
 updated_at: '2019-06-16T10:36:08.539Z'
 ---

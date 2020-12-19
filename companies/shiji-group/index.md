@@ -22,7 +22,7 @@ positions:
   - country: germany
     postal_code: '10963'
     address: Tempelhofer Ufer 1
-    position: '{"type":"Point","coordinates":[13.390323,52.497334]}'
+    position: '{"type":"Point","coordinates":[52.497334,13.390323]}'
 created_at: '2020-07-04T22:47:18.626Z'
 updated_at: '2020-07-04T22:47:18.626Z'
 ---

@@ -8,7 +8,7 @@ tags:
   - startup
 job_board_url: 'https://www.architrave.de/ueber-uns/karriere/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4512515,52.4923632]}'
+  - position: '{"type":"Point","coordinates":[52.4923632,13.4512515]}'
 created_at: '2018-02-01T21:55:54.282Z'
 updated_at: '2019-06-16T10:36:08.536Z'
 ---

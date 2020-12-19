@@ -14,7 +14,7 @@ tags:
   - urban-planning
 job_board_url: 'https://www.planet.com/company/careers/?office=Berlin%2C%20Germany'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4135843,52.5350925]}'
+  - position: '{"type":"Point","coordinates":[52.5350925,13.4135843]}'
 created_at: '2018-01-29T19:13:54.360Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 ---

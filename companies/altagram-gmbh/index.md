@@ -19,7 +19,7 @@ positions:
   - country: germany
     postal_code: '10243'
     address: Str. der Pariser Kommune 12-16
-    position: '{"type":"Point","coordinates":[13.438416,52.510681]}'
+    position: '{"type":"Point","coordinates":[52.510681,13.438416]}'
 created_at: 2018-02-09T07:12:52.566Z
 updated_at: 2020-12-19T00:00:00.000Z
 ---

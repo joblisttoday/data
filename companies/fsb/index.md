@@ -16,7 +16,7 @@ tags:
   - spaces
 job_board_url: 'https://www.fsb.de/en/company/dac/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.312013,52.568976]}'
+  - position: '{"type":"Point","coordinates":[52.568976,13.312013]}'
 created_at: '2020-02-18T15:50:28.296Z'
 ---
 

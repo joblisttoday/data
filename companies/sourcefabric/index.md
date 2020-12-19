@@ -10,7 +10,7 @@ tags:
   - tech
 job_board_url: 'https://www.sourcefabric.org/en/home/jobs/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.418136,52.503296]}'
+  - position: '{"type":"Point","coordinates":[52.503296,13.418136]}'
 created_at: '2017-11-07T07:31:06.276Z'
 updated_at: '2019-06-16T10:36:08.537Z'
 ---

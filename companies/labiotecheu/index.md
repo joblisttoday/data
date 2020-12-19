@@ -12,7 +12,7 @@ tags:
   - europe
 job_board_url: 'https://labiotech.eu/join-us'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4109338,52.5548763]}'
+  - position: '{"type":"Point","coordinates":[52.5548763,13.4109338]}'
 created_at: '2018-02-07T19:56:27.312Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 ---

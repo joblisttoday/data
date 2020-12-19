@@ -16,7 +16,7 @@ tags:
   - navigation
 job_board_url: 'https://www.komoot.com/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.0583386,52.3878585]}'
+  - position: '{"type":"Point","coordinates":[52.3878585,13.0583386]}'
 created_at: '2018-02-08T09:03:21.280Z'
 updated_at: '2019-06-16T10:36:09.636Z'
 ---

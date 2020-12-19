@@ -9,7 +9,7 @@ tags:
   - operations
 job_board_url: 'https://www.tillhub.de/jobs/'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3584261,52.5031011]}'
+  - position: '{"type":"Point","coordinates":[52.5031011,13.3584261]}'
 created_at: '2019-06-28'
 ---
 

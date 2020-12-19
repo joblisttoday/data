@@ -11,7 +11,7 @@ tags:
   - marketing
 job_board_url: 'http://www.optiopay.com/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.4619499,52.4954784]}'
+  - position: '{"type":"Point","coordinates":[52.4954784,13.4619499]}'
 created_at: '2017-06-28T20:33:42.998Z'
 updated_at: '2019-06-16T10:36:09.627Z'
 ---

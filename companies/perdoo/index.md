@@ -13,7 +13,7 @@ positions:
   - country: germany
     postal_code: '10243'
     address: 'Straße der Pariser Kommune, 8 '
-    position: '{"type":"Point","coordinates":[13.439078,52.513058]}'
+    position: '{"type":"Point","coordinates":[52.513058,13.439078]}'
 created_at: '2020-04-04T13:58:09.626Z'
 updated_at: '2020-04-04T13:59:09.626Z'
 ---

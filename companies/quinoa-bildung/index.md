@@ -15,7 +15,7 @@ positions:
   - country: germany
     postal_code: '13409'
     address: Kühnemannstrasse 26
-    position: '{"type":"Point","coordinates":[13.381054,52.566119]}'
+    position: '{"type":"Point","coordinates":[52.566119,13.381054]}'
 created_at: '2020-07-04T23:10:18.626Z'
 updated_at: '2020-07-04T23:10:18.626Z'
 ---

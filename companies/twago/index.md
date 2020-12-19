@@ -16,7 +16,7 @@ positions:
   - country: germany
     postal_code: '10969'
     address: Friedrichstraße 224
-    position: '{"type":"Point","coordinates":[13.390684,52.504221]}'
+    position: '{"type":"Point","coordinates":[52.504221,13.390684]}'
 created_at: '2020-07-04T18:26:18.626Z'
 updated_at: '2020-07-04T18:26:18.626Z'
 ---

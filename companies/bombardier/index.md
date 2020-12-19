@@ -12,7 +12,7 @@ tags:
 job_board_url: >-
   https://jobs.bombardier.com/go/Jobs-in-Germany/325728/?q=&q2=&locationsearch=&title=&location=berlin&date=
 positions:
-  - position: '{"type":"Point","coordinates":[13.3448715,52.4929142]}'
+  - position: '{"type":"Point","coordinates":[52.4929142,13.3448715]}'
 created_at: '2018-02-09T14:03:42.416Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 ---

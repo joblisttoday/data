@@ -16,7 +16,7 @@ positions:
   - country: germany
     postal_code: '10117'
     address: Zimmerstraße 69
-    position: '{"type":"Point","coordinates":[13.392802,52.508087]}'
+    position: '{"type":"Point","coordinates":[52.508087,13.392802]}'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
 ---

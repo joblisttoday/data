@@ -14,7 +14,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: 'Dircksenstraße 47 '
-    position: '{"type":"Point","coordinates":[13.404904,52.523689]}'
+    position: '{"type":"Point","coordinates":[52.523689,13.404904]}'
 created_at: '2020-04-04T15:00:08.626Z'
 updated_at: '2020-04-04T15:00:08.626Z'
 ---

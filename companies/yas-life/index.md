@@ -20,7 +20,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Dircksenstraße 40
-    position: '{"type":"Point","coordinates":[13.41406,52.519956]}'
+    position: '{"type":"Point","coordinates":[52.519956,13.41406]}'
 created_at: '2020-09-08T20:38:18.626Z'
 updated_at: '2020-09-08T20:38:18.626Z'
 ---

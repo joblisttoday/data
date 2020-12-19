@@ -11,7 +11,7 @@ tags:
   - startup
 job_board_url: 'https://join.join.com'
 positions:
-  - position: '{"type":"Point","coordinates":[13.413107,52.538563]}'
+  - position: '{"type":"Point","coordinates":[52.538563,13.413107]}'
 created_at: '2020-03-01T16:23:12.377Z'
 ---
 

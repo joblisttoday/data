@@ -12,7 +12,7 @@ tags:
   - web-design
 job_board_url: 'http://www.aperto.com/en/jobs'
 positions:
-  - position: '{"type":"Point","coordinates":[13.3866469,52.5278904]}'
+  - position: '{"type":"Point","coordinates":[52.5278904,13.3866469]}'
 created_at: '2018-02-04T18:12:22.932Z'
 updated_at: '2019-06-16T10:36:09.736Z'
 ---
