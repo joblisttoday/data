@@ -20,6 +20,7 @@ positions:
   - country: germany
     postal_code: '10559'
     address: Alt-Moabit 103
-    position: '{"type":"Point","coordinates":[52.524779,13.347322]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.347322,52.524779]}'
 ---
 

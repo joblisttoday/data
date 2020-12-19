@@ -17,6 +17,7 @@ positions:
   - country: germany
     postal_code: '10119'
     address: Schönhauser Allee 10-11
-    position: '{"type":"Point","coordinates":[52.530415,13.411787]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.411787,52.530415]}'
 ---
 

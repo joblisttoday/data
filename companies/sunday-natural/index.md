@@ -12,6 +12,8 @@ job_board_url: 'https://www.sunday.de/jobs/'
 created_at: '2019-02-18T07:12:17.483Z'
 updated_at: '2019-06-16T10:36:08.531Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5021,13.36613]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.36613,52.5021]}'
 ---
 

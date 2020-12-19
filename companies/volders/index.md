@@ -14,6 +14,8 @@ job_board_url: 'https://www.volders.de/karriere'
 created_at: '2017-06-28T20:32:00.892Z'
 updated_at: '2019-06-16T10:36:08.537Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.502278,13.40785]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.40785,52.502278]}'
 ---
 

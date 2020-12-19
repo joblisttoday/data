@@ -18,6 +18,7 @@ positions:
   - country: germany
     postal_code: '10405'
     address: Greifswalder Str. 212
-    position: '{"type":"Point","coordinates":[52.538271,13.435621]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.435621,52.538271]}'
 ---
 

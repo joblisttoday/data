@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '10119'
     address: Gormannstraße 12
-    position: '{"type":"Point","coordinates":[52.528307,13.405662]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.405662,52.528307]}'
 ---
 

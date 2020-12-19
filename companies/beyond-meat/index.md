@@ -15,5 +15,6 @@ created_at: '2020-09-08T13:00:18.626Z'
 updated_at: '2020-09-08T13:00:18.626Z'
 positions:
   - country: germany
+    city: berlin
 ---
 

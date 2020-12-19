@@ -13,6 +13,8 @@ job_board_url: 'https://www.arvato.com/en/career/job-offers.html'
 created_at: '2018-02-22T09:56:41.837Z'
 updated_at: '2019-06-16T10:36:09.626Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5338172,13.2679368]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.2679368,52.5338172]}'
 ---
 

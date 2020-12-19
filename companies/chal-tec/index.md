@@ -11,6 +11,8 @@ job_board_url: 'http://chal-tec.com/karriere/'
 created_at: '2017-06-28T20:31:32.366Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5105306,13.4070539]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.4070539,52.5105306]}'
 ---
 

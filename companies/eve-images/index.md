@@ -19,6 +19,7 @@ positions:
   - country: germany
     postal_code: '10997'
     address: Wrangelstraße 100
-    position: '{"type":"Point","coordinates":[52.50178,13.434926]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.434926,52.50178]}'
 ---
 

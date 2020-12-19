@@ -19,6 +19,7 @@ positions:
   - country: germany
     postal_code: '10409'
     address: Erich-Weinert-Str. 145
-    position: '{"type":"Point","coordinates":[52.544114,13.440539]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.440539,52.544114]}'
 ---
 

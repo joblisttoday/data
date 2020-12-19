@@ -19,6 +19,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Kleine Präsidentenstraße 1
-    position: '{"type":"Point","coordinates":[52.522636,13.400513]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.400513,52.522636]}'
 ---
 

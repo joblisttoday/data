@@ -11,6 +11,8 @@ job_board_url: 'https://cobalt-labs.workable.com/'
 created_at: '2018-10-05T20:11:40.451Z'
 updated_at: '2019-06-16T10:36:08.540Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5111932,13.3911237]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.3911237,52.5111932]}'
 ---
 

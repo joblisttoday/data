@@ -27,6 +27,7 @@ positions:
   - country: germany
     postal_code: '10999'
     address: Leuschnerdamm 13
-    position: '{"type":"Point","coordinates":[52.504636,13.418955]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.418955,52.504636]}'
 ---
 

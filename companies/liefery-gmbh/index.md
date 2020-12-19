@@ -23,6 +23,7 @@ positions:
   - country: germany
     postal_code: '13355'
     address: Brunnenstraße 128
-    position: '{"type":"Point","coordinates":[52.539526,13.39465]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.39465,52.539526]}'
 ---
 

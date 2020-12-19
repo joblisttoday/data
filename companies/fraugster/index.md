@@ -15,6 +15,8 @@ tags:
 job_board_url: 'https://fraugster.com/jobs/'
 created_at: '2020-02-25T07:48:07.548Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.50640031375411,13.393020629882814]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.393020629882814,52.50640031375411]}'
 ---
 

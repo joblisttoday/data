@@ -27,6 +27,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Monbijouplatz 5
-    position: '{"type":"Point","coordinates":[52.523263,13.399036]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.399036,52.523263]}'
 ---
 

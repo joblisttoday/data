@@ -16,6 +16,8 @@ created_at: '2017-06-28T20:32:41.806Z'
 updated_at: '2020-04-04T17:21:41.806Z'
 positions:
   - address: 'Point Nine Capital, Chausseestraße 19, 10115 Berlin, Germany'
-    position: '{"type":"Point","coordinates":[52.5303059,13.3842365]}'
+    country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.3842365,52.5303059]}'
 ---
 

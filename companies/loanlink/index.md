@@ -17,6 +17,7 @@ positions:
   - country: germany
     postal_code: '10435'
     address: ' Schönhauser Allee 149'
-    position: '{"type":"Point","coordinates":[52.539117,13.41177]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.41177,52.539117]}'
 ---
 

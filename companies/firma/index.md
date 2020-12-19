@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Poststraße 21-22
-    position: '{"type":"Point","coordinates":[52.516404,13.407282]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.407282,52.516404]}'
 ---
 

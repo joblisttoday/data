@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://albiononline.com/en/jobs'
 created_at: '2020-01-25T15:59:24.912Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5429975,13.4116673]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.4116673,52.5429975]}'
 ---
 

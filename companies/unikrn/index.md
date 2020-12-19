@@ -15,6 +15,8 @@ job_board_provider: personio
 job_board_hostname: unikrn-jobs
 created_at: '2020-02-24T10:43:44.425Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.542928,13.422926]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.422926,52.542928]}'
 ---
 

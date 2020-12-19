@@ -15,6 +15,8 @@ job_board_url: 'https://www.flyiin.com/jobs'
 created_at: '2019-01-10T10:07:53.750Z'
 updated_at: '2019-06-16T10:36:09.626Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.50317,13.372]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.372,52.50317]}'
 ---
 

@@ -12,5 +12,6 @@ positions:
   - country: germany
     postal_code: '13629'
     address: 'Startup Incubator Berlin, Rohrdamm 88'
+    city: berlin
 ---
 

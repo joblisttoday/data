@@ -14,6 +14,8 @@ job_board_url: 'https://www.tracksandfields.com/blog/category/jobs/'
 created_at: '2017-06-28T20:31:23.024Z'
 updated_at: '2019-06-16T10:36:08.531Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5361833,13.4024721]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.4024721,52.5361833]}'
 ---
 

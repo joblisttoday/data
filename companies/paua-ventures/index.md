@@ -15,6 +15,8 @@ linkedin_url: 'https://www.linkedin.com/company/paua-ventures-gmbh'
 created_at: '2017-06-28T20:21:09.264Z'
 updated_at: '2019-06-16T10:36:09.745Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.523591,13.404883]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.404883,52.523591]}'
 ---
 

@@ -21,6 +21,7 @@ positions:
   - country: germany
     postal_code: '10115'
     address: Chausseestraße 84
-    position: '{"type":"Point","coordinates":[52.537757,13.373281]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.373281,52.537757]}'
 ---
 

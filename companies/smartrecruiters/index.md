@@ -24,6 +24,7 @@ positions:
   - country: germany
     postal_code: '10405'
     address: Winsstraße 62/63
-    position: '{"type":"Point","coordinates":[52.533475,13.424052]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.424052,52.533475]}'
 ---
 

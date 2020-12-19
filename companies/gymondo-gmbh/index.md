@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '10179'
     address: Rungestr. 22-24
-    position: '{"type":"Point","coordinates":[52.512493,13.418757]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.418757,52.512493]}'
 ---
 

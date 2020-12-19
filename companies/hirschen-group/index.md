@@ -21,5 +21,6 @@ positions:
   - country: germany
     postal_code: '10997'
     address: 'Schlesische Straße 26, Aufgang C-IV'
+    city: berlin
 ---
 

@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '14197'
     address: Aßmannshauser Str. 4-6
-    position: '{"type":"Point","coordinates":[52.476643,13.313573]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.313573,52.476643]}'
 ---
 

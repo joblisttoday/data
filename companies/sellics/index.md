@@ -21,6 +21,7 @@ positions:
   - country: germany
     postal_code: '10119'
     address: Linienstraße 214
-    position: '{"type":"Point","coordinates":[52.52865,13.405936]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.405936,52.52865]}'
 ---
 

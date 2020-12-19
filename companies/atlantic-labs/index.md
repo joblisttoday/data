@@ -21,6 +21,7 @@ positions:
   - country: germany
     postal_code: '10119'
     address: Rosenthaler Straße 13
-    position: '{"type":"Point","coordinates":[52.527573,13.402867]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.402867,52.527573]}'
 ---
 

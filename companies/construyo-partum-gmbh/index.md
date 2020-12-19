@@ -21,6 +21,7 @@ positions:
   - country: germany
     postal_code: '10115'
     address: Borsigstraße 8
-    position: '{"type":"Point","coordinates":[52.529284,13.390135]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.390135,52.529284]}'
 ---
 

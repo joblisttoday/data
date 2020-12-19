@@ -14,6 +14,7 @@ positions:
   - country: germany
     postal_code: '12527'
     address: Regattastr. 189
-    position: '{"type":"Point","coordinates":[52.412671,13.58559]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.58559,52.412671]}'
 ---
 

@@ -23,6 +23,7 @@ positions:
   - country: germany
     postal_code: '12435'
     address: Elsenstraße 106
-    position: '{"type":"Point","coordinates":[52.489769,13.455388]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.455388,52.489769]}'
 ---
 

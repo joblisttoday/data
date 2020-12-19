@@ -18,6 +18,7 @@ positions:
   - country: germany
     postal_code: '10969'
     address: Zimmerstr. 16
-    position: '{"type":"Point","coordinates":[52.50761,13.389152]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.389152,52.50761]}'
 ---
 

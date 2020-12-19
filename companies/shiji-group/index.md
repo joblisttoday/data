@@ -24,6 +24,7 @@ positions:
   - country: germany
     postal_code: '10963'
     address: Tempelhofer Ufer 1
-    position: '{"type":"Point","coordinates":[52.497334,13.390323]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.390323,52.497334]}'
 ---
 

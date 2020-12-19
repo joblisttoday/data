@@ -14,6 +14,8 @@ job_board_url: >-
 created_at: '2018-02-09T14:03:42.416Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.4929142,13.3448715]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.3448715,52.4929142]}'
 ---
 

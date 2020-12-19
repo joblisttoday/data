@@ -9,6 +9,8 @@ job_board_url: 'https://crate.io/jobs/'
 created_at: '2017-06-28T20:41:10.602Z'
 updated_at: '2019-06-16T10:36:09.637Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.503673,13.407628]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.407628,52.503673]}'
 ---
 

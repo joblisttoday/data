@@ -24,6 +24,7 @@ positions:
   - country: germany
     postal_code: '10409'
     address: Greifswalder Str. 156
-    position: '{"type":"Point","coordinates":[52.543733,13.44123]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.44123,52.543733]}'
 ---
 

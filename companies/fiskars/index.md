@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Münzstraße 7
-    position: '{"type":"Point","coordinates":[52.524227,13.408535]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.408535,52.524227]}'
 ---
 

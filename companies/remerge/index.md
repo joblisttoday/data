@@ -17,6 +17,7 @@ positions:
   - country: germany
     postal_code: '10117'
     address: Oranienburger Str. 27
-    position: '{"type":"Point","coordinates":[52.524764,13.394987]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.394987,52.524764]}'
 ---
 

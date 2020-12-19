@@ -13,6 +13,8 @@ job_board_url: 'https://uberall.com/en/careers?city=berlin'
 created_at: '2018-02-07T20:33:02.290Z'
 updated_at: '2019-06-16T10:36:09.631Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5164364,13.3834469]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.3834469,52.5164364]}'
 ---
 

@@ -15,6 +15,7 @@ positions:
   - country: germany
     postal_code: '10777'
     address: Bamberger Str. 8
-    position: '{"type":"Point","coordinates":[52.495612,13.336943]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.336943,52.495612]}'
 ---
 

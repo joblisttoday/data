@@ -18,6 +18,7 @@ positions:
   - country: germany
     postal_code: '10785'
     address: 'Potsdamer Platz, Kemperpl. 1'
-    position: '{"type":"Point","coordinates":[52.510782,13.372105]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.372105,52.510782]}'
 ---
 

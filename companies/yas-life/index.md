@@ -22,6 +22,7 @@ positions:
   - country: germany
     postal_code: '10178'
     address: Dircksenstraße 40
-    position: '{"type":"Point","coordinates":[52.519956,13.41406]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.41406,52.519956]}'
 ---
 

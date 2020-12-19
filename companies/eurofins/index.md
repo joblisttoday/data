@@ -21,6 +21,7 @@ positions:
   - country: germany
     postal_code: '12489'
     address: Rudower Chaussee 29
-    position: '{"type":"Point","coordinates":[52.428835,13.528514]}'
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.528514,52.428835]}'
 ---
 

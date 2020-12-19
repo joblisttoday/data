@@ -12,6 +12,8 @@ job_board_url: 'https://www.car2go.com/EU/career/'
 created_at: '2017-06-28T20:40:27.858Z'
 updated_at: '2019-06-16T10:36:09.639Z'
 positions:
-  - position: '{"type":"Point","coordinates":[52.5274243,13.3670105]}'
+  - country: germany
+    city: berlin
+    map: '{"type":"Point","coordinates":[13.3670105,52.5274243]}'
 ---
 
