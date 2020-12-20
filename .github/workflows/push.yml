@@ -27,7 +27,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: companies.joblist.city
+          cname: profiles.joblist.city
 
 
 
