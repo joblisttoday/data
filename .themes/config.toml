@@ -5,6 +5,7 @@ themesDir = ".themes"
 baseURL = ""
 languageCode = "en-us"
 
+
 [taxonomies]
 tag = "tags"
 city = "cities"
@@ -12,6 +13,7 @@ position = "positions"
 
 [Params]
 editNetlifyCmsUrl = "https://edit.joblist.city/#/collections"
+featured_taxonomies = ["tags", "cities"]
 
 
 [menu]
