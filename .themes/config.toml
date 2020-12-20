@@ -8,6 +8,7 @@ languageCode = "en-us"
 [taxonomies]
 tag = "tags"
 city = "cities"
+position = "positions"
 
 [Params]
 editNetlifyCmsUrl = "https://edit.joblist.city/#/collections"
@@ -29,7 +30,7 @@ name = "Cities"
 url = "/cities"
 weight = -90
 
-# [[menu.main]]
-# name = "Map"
-# url = "/map"
-# weight = -80
+[[menu.main]]
+name = "Positions (map)"
+url = "/positions"
+weight = -80
