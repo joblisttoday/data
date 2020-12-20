@@ -11,5 +11,7 @@ job_board_url: >-
   https://www.dpdhl.jobs/search-jobs/Berlin%2C%20Land%20Berlin%2C%20Germany/1886/4/2921044-2950157-2950159/52x52437/13x41053/50/2
 created_at: '2018-02-09T14:43:02.723Z'
 updated_at: '2019-06-16T10:36:09.626Z'
+cities:
+  - berlin
 ---
 

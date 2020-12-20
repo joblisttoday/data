@@ -8,6 +8,8 @@ tags:
 job_board_url: 'https://contiamo.com/careers/'
 created_at: '2018-03-14T13:36:31.845Z'
 updated_at: '2019-06-16T10:36:09.631Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

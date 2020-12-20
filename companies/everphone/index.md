@@ -10,6 +10,8 @@ tags:
   - corporate
 job_board_url: 'https://everphone.join.com/'
 created_at: '2020-02-29T13:03:56.000Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

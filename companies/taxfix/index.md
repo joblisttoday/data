@@ -9,6 +9,8 @@ tags:
 job_board_url: 'https://taxfix.de/jobs/'
 created_at: '2018-02-02T10:17:11.963Z'
 updated_at: '2019-06-16T10:36:08.518Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

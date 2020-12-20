@@ -12,6 +12,8 @@ tags:
 job_board_url: 'http://www.optiopay.com/jobs'
 created_at: '2017-06-28T20:33:42.998Z'
 updated_at: '2019-06-16T10:36:09.627Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

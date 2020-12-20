@@ -9,6 +9,8 @@ tags:
 job_board_url: 'https://www.frasec.de/stellenanzeigen/stellenangebote.html'
 created_at: '2017-06-28T20:38:35.878Z'
 updated_at: '2019-06-16T10:36:09.728Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

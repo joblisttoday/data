@@ -15,6 +15,8 @@ linkedin_url: 'https://www.linkedin.com/company/zenloop'
 facebook_url: 'https://www.facebook.com/zenloop'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10409'

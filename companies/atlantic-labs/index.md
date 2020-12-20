@@ -17,6 +17,8 @@ job_board_url: 'https://atlanticlabs.recruitee.com'
 linkedin_url: 'https://www.linkedin.com/company/atlantic-labs/'
 created_at: '2020-04-04T14:47:08.626Z'
 updated_at: '2020-04-04T14:47:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10119'

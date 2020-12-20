@@ -11,6 +11,8 @@ tags:
   - climate
 job_board_url: 'https://klimametrix.join.com/'
 created_at: '2020-03-01T16:25:05.750Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

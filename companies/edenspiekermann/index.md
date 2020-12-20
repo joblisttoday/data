@@ -12,6 +12,8 @@ tags:
 job_board_url: 'https://jobs.edenspiekermann.com/'
 created_at: '2017-06-28T20:35:40.962Z'
 updated_at: '2019-06-16T10:36:08.518Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

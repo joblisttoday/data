@@ -9,6 +9,8 @@ tags:
 job_board_url: 'http://www.recordsale.de/ger/php/jobs.php'
 created_at: '2017-06-28T20:30:45.610Z'
 updated_at: '2019-06-16T10:36:09.728Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

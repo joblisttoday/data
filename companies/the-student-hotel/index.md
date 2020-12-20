@@ -15,6 +15,8 @@ linkedin_url: 'https://www.linkedin.com/company/the-student-hotel'
 facebook_url: 'https://www.facebook.com/TheStudentHotel'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10179'

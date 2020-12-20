@@ -9,6 +9,8 @@ tags:
   - games
 job_board_url: 'https://albiononline.com/en/jobs'
 created_at: '2020-01-25T15:59:24.912Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

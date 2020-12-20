@@ -8,6 +8,8 @@ tags:
 job_board_url: 'https://www.deliveryhero.com/career/jobs/#!/'
 created_at: '2017-06-28T20:29:58.350Z'
 updated_at: '2019-06-16T10:36:09.729Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

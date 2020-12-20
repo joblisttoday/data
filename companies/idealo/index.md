@@ -14,6 +14,8 @@ linkedin_url: 'https://www.linkedin.com/company/idealo-internet-gmbh'
 instagram_url: 'https://www.instagram.com/idealo'
 created_at: '2020-08-04T19:35:18.626Z'
 updated_at: '2020-08-04T19:35:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10969'

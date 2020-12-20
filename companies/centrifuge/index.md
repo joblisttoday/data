@@ -12,5 +12,7 @@ tags:
   - tech
 job_board_url: 'https://centrifuge.io/careers'
 created_at: '2020-01-06T14:33:38.000Z'
+cities:
+  - berlin
 ---
 

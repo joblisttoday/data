@@ -12,6 +12,8 @@ company_url: 'https://speedinvest.com/'
 job_board_url: 'https://speedinvestgmbh.recruitee.com'
 created_at: '2020-04-04T15:00:08.626Z'
 updated_at: '2020-04-04T15:00:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10178'

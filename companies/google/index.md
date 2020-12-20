@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://www.google.com/about/careers/search#t=sq&q=j&jl=Berlin,Germany'
 created_at: '2017-06-28T20:25:02.894Z'
 updated_at: '2019-06-16T10:36:09.624Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

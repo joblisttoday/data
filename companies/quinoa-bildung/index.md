@@ -13,6 +13,8 @@ instagram_url: 'https://www.instagram.com/quinoabildung'
 facebook_url: 'https://www.facebook.com/quinoabildung'
 created_at: '2020-07-04T23:10:18.626Z'
 updated_at: '2020-07-04T23:10:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '13409'

@@ -15,6 +15,8 @@ twitter_url: 'https://twitter.com/donut__app'
 linkedin_url: 'https://www.linkedin.com/company/trydonut/'
 created_at: '2020-04-04T15:47:08.626Z'
 updated_at: '2020-04-04T15:47:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

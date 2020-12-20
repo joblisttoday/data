@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://www.gigmit.com/en/jobs'
 created_at: '2018-02-09T06:14:38.933Z'
 updated_at: '2019-06-16T10:36:09.622Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

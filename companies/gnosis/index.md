@@ -16,6 +16,8 @@ tags:
   - startup
 job_board_url: 'https://gnosis.io/team'
 created_at: '2020-02-18T15:48:55.981Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

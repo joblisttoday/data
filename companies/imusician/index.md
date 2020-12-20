@@ -13,6 +13,8 @@ tags:
 job_board_url: 'https://www.imusiciandigital.com/en/about-us/jobs/'
 created_at: '2018-02-03T19:09:49.445Z'
 updated_at: '2019-06-16T10:36:08.538Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

@@ -14,6 +14,8 @@ tags:
   - startup
 job_board_url: 'https://fraugster.com/jobs/'
 created_at: '2020-02-25T07:48:07.548Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

@@ -13,6 +13,8 @@ tags:
 job_board_url: 'https://www.wine-in-black.de/karriere'
 created_at: '2017-06-28T20:25:57.675Z'
 updated_at: '2019-06-16T10:36:08.535Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

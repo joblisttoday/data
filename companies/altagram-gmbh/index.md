@@ -17,6 +17,8 @@ instagram_url: 'https://www.instagram.com/altagram.localization'
 facebook_url: 'https://www.facebook.com/altagram.localization'
 created_at: 2018-02-09T07:12:52.566Z
 updated_at: 2020-12-19T00:00:00.000Z
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10243'

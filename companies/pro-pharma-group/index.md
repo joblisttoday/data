@@ -17,6 +17,8 @@ twitter_url: 'https://twitter.com/propharmagroup'
 linkedin_url: 'https://www.linkedin.com/company/propharma-group'
 created_at: '2020-07-04T18:26:18.626Z'
 updated_at: '2020-07-04T18:26:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '13627'

@@ -12,6 +12,8 @@ tags:
 job_board_url: 'https://www.sap.com/germany/about/careers.html'
 created_at: '2018-02-01T10:57:03.285Z'
 updated_at: '2019-06-16T10:36:08.535Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

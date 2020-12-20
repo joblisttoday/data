@@ -12,5 +12,7 @@ tags:
 job_board_url: 'https://thepowerhouse.group/jobs/'
 created_at: '2018-02-18T10:43:37.704Z'
 updated_at: '2019-06-16T10:36:09.641Z'
+cities:
+  - berlin
 ---
 

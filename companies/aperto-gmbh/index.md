@@ -13,6 +13,8 @@ tags:
 job_board_url: 'http://www.aperto.com/en/jobs'
 created_at: '2018-02-04T18:12:22.932Z'
 updated_at: '2019-06-16T10:36:09.736Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

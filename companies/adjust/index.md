@@ -11,6 +11,8 @@ tags:
 job_board_url: 'https://adjust.bamboohr.co.uk/jobs/'
 created_at: '2017-06-28T20:36:43.172Z'
 updated_at: '2019-06-16T10:36:09.623Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

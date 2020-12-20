@@ -17,6 +17,8 @@ instagram_url: 'https://www.instagram.com/wirsindconstruyo'
 facebook_url: 'https://www.facebook.com/wirsindConstruyo'
 created_at: '2020-09-08T16:27:18.626Z'
 updated_at: '2020-09-08T16:27:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10115'

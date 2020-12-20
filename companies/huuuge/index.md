@@ -17,6 +17,8 @@ instagram_url: 'https://www.instagram.com/huuugegames'
 facebook_url: 'https://www.facebook.com/HuuugeGamesCompany'
 created_at: '2020-04-04T17:11:18.626Z'
 updated_at: '2020-04-04T17:11:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10115'

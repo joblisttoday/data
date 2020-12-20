@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://port-zero.com/jobs'
 created_at: '2018-11-20T15:32:15.590Z'
 updated_at: '2019-06-16T10:36:08.537Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

@@ -12,6 +12,8 @@ tags:
 job_board_url: 'https://www.kloeckner-i.com/en/jobs/'
 created_at: '2018-02-14T06:55:29.433Z'
 updated_at: '2019-06-16T10:36:09.735Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

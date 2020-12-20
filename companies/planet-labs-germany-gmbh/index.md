@@ -15,6 +15,8 @@ tags:
 job_board_url: 'https://www.planet.com/company/careers/?office=Berlin%2C%20Germany'
 created_at: '2018-01-29T19:13:54.360Z'
 updated_at: '2019-06-16T10:36:09.730Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

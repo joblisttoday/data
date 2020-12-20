@@ -24,6 +24,8 @@ twitter_url: 'https://twitter.com/plantixApp'
 facebook_url: 'https://www.facebook.com/Plantix'
 created_at: '2020-03-04T17:11:18.626Z'
 updated_at: '2020-03-04T17:11:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10435'

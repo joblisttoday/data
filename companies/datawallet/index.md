@@ -9,6 +9,8 @@ tags:
   - startup
 job_board_url: 'https://angel.co/company/datawallet/jobs'
 created_at: '2019-11-15T18:10:42.138Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

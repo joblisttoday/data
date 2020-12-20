@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://cobalt-labs.workable.com/'
 created_at: '2018-10-05T20:11:40.451Z'
 updated_at: '2019-06-16T10:36:08.540Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

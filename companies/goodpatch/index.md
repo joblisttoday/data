@@ -9,6 +9,8 @@ tags:
 job_board_url: 'https://goodpatch.com/studios/berlin?lng=en'
 created_at: '2019-01-24T08:42:12.489Z'
 updated_at: '2019-06-16T10:36:08.534Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

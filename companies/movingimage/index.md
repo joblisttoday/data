@@ -15,6 +15,8 @@ tags:
 job_board_url: 'https://www.movingimage.com/career/'
 created_at: '2018-02-07T20:55:50.637Z'
 updated_at: '2019-06-16T10:36:08.528Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

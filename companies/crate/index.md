@@ -8,6 +8,8 @@ tags:
 job_board_url: 'https://crate.io/jobs/'
 created_at: '2017-06-28T20:41:10.602Z'
 updated_at: '2019-06-16T10:36:09.637Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

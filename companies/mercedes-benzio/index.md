@@ -7,6 +7,8 @@ tags:
 job_board_url: 'https://www.mercedes-benz.io/jobs/'
 created_at: '2019-05-09T09:18:52.833Z'
 updated_at: '2019-06-16T10:46:49.000Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

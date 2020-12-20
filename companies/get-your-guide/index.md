@@ -13,6 +13,8 @@ tags:
 job_board_url: 'http://careers.getyourguide.com'
 created_at: '2017-06-28T20:28:38.190Z'
 updated_at: '2019-06-16T10:36:08.541Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

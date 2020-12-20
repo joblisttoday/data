@@ -12,6 +12,8 @@ job_board_provider: personio
 job_board_hostname: commercetools-jobs
 created_at: '2017-06-28T20:27:29.082Z'
 updated_at: '2020-04-20T03:30:09.625Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

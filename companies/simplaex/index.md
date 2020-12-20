@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://www.simplaex.com/careers/'
 created_at: '2018-02-07T20:19:08.534Z'
 updated_at: '2019-06-16T10:36:09.730Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

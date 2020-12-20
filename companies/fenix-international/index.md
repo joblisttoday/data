@@ -12,6 +12,8 @@ linkedin_url: 'https://www.linkedin.com/company/fenix-international'
 facebook_url: 'https://www.facebook.com/fenixintl'
 created_at: '2020-09-08T12:35:18.626Z'
 updated_at: '2020-09-08T12:35:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

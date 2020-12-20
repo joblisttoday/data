@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://www.valmano.de/karriere'
 created_at: '2018-02-02T10:45:57.381Z'
 updated_at: '2019-06-16T10:36:09.623Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

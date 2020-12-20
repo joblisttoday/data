@@ -14,6 +14,8 @@ tags:
 job_board_url: 'https://www.skoove.com/en/jobs'
 created_at: '2018-01-29T17:05:27.334Z'
 updated_at: '2019-06-16T10:36:09.741Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

@@ -10,6 +10,8 @@ job_board_provider: personio
 job_board_hostname: makers-jobs
 created_at: '2017-06-28T20:30:15.466Z'
 updated_at: '2019-06-16T10:36:09.624Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

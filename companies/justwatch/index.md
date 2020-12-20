@@ -13,6 +13,8 @@ tags:
 job_board_url: 'https://www.justwatch.com/us/talent'
 created_at: '2017-06-28T20:38:00.741Z'
 updated_at: '2019-06-16T10:36:09.747Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

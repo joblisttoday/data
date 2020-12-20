@@ -18,6 +18,8 @@ job_board_url: 'https://dentalxrai.recruitee.com/'
 linkedin_url: 'https://www.linkedin.com/company/dentalxr-ai'
 created_at: '2020-04-04T14:15:09.626Z'
 updated_at: '2020-04-04T14:15:09.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '14197'

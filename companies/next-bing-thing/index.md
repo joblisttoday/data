@@ -17,6 +17,8 @@ tags:
 job_board_url: 'https://nextbigthingag2.recruitee.com'
 created_at: '2020-04-04T14:10:09.626Z'
 updated_at: '2020-04-04T14:10:09.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '12435'

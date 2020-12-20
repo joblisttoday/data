@@ -12,6 +12,8 @@ twitter_url: 'https://twitter.com/upvestco'
 linkedin_url: 'https://www.linkedin.com/company/upvest'
 created_at: '2020-04-04T14:22:09.626Z'
 updated_at: '2020-04-04T14:22:09.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10178'

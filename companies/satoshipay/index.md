@@ -19,6 +19,8 @@ tags:
 job_board_url: 'https://satoshipay.io/jobs'
 created_at: '2017-07-12T13:09:59.693Z'
 updated_at: '2019-06-16T10:36:08.540Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

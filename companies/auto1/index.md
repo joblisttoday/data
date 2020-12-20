@@ -11,6 +11,8 @@ tags:
 job_board_url: 'https://www.auto1.com/de/jobs'
 created_at: '2018-02-01T20:29:56.549Z'
 updated_at: '2019-06-16T10:36:09.624Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

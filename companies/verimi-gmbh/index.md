@@ -12,6 +12,8 @@ job_board_hostname: verimi-jobs
 twitter_url: 'https://twitter.com/VERIMI_Now'
 linkedin_url: 'https://linkedin.com/company/verimi'
 updated_at: '2020-09-08T20:33:18.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10969'

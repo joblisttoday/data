@@ -7,6 +7,8 @@ tags:
 job_board_url: 'http://about.beatport.com/careers'
 created_at: '2017-06-28T20:19:59.841Z'
 updated_at: '2019-06-16T10:36:08.531Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

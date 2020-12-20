@@ -13,6 +13,8 @@ tags:
 job_board_url: 'https://www.tracksandfields.com/blog/category/jobs/'
 created_at: '2017-06-28T20:31:23.024Z'
 updated_at: '2019-06-16T10:36:08.531Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

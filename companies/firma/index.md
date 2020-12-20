@@ -18,6 +18,8 @@ instagram_url: 'https://www.instagram.com/1firma'
 facebook_url: 'https://www.facebook.com/durchstartenmitsystem'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
+cities:
+  - berlin
 positions:
   - country: germany
     postal_code: '10178'

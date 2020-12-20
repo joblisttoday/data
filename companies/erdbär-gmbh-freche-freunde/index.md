@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://frechefreunde.de/jobs'
 created_at: '2018-02-02T10:43:41.836Z'
 updated_at: '2019-06-16T10:36:09.744Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

@@ -14,6 +14,8 @@ tags:
 job_board_url: 'https://yoursuperfoods.de/pages/jobs'
 created_at: '2018-02-08T09:11:03.908Z'
 updated_at: '2019-06-16T10:36:08.532Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

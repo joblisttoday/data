@@ -12,6 +12,8 @@ tags:
 job_board_url: 'https://basecase.com/company/careers'
 created_at: '2018-02-14T08:12:20.191Z'
 updated_at: '2019-06-16T10:36:09.730Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

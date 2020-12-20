@@ -10,6 +10,8 @@ tags:
 job_board_url: 'https://zipjet.bamboohr.co.uk/jobs/'
 created_at: '2018-02-09T06:57:19.281Z'
 updated_at: '2019-06-16T10:36:09.741Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin

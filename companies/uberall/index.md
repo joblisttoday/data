@@ -12,6 +12,8 @@ tags:
 job_board_url: 'https://uberall.com/en/careers?city=berlin'
 created_at: '2018-02-07T20:33:02.290Z'
 updated_at: '2019-06-16T10:36:09.631Z'
+cities:
+  - berlin
 positions:
   - country: germany
     city: berlin
