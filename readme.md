@@ -28,13 +28,19 @@ That way, netlify-CMS (in *open-authoring* mode) will handle the work to add a c
 
 ## How is this list used
 
+### Data source
+
 This list is also used as a data source, cloned in [gitlab/joblist/workers](https://gitlab.com/joblist/workers) to:
 
 - extract jobs from companies and populate an algolia index (searchable at joblist.city)
 - generate a static API of companies
 
+### Automatic backup to Gitlab
 
-## Development notes
+There is an automatic synchronisation of this github repository to gitlab.
+
+
+## Development
 
 In the repository, is also setup a gohugo.io project with the [companies-theme](https://gitlab.com/joblist/companies-theme) as a git submodule.
 
@@ -57,6 +63,17 @@ Where the content of `./config.toml` is:
 ```
 contentDir = 'companies'
 ```
+
+### Deployment
+
+In the Github action `.github/workflows/push.yml` is decribed a job
+that builds the hugo site, and deploys a static Github page.
+
+Each time a change is made to the branch `master` of this repo, the
+data and the hugo theme (installed as submodule), and built into a new
+version of the site.
+
+The DNS points the Github page to [profiles.joblist.city](https://profiles.joblist.city).
 
 ## Licenses
 
