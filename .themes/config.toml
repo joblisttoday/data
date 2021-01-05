@@ -36,3 +36,8 @@ weight = -90
 name = "Positions (map)"
 url = "/positions"
 weight = -80
+
+[[menu.main]]
+name = "Search jobs"
+url = "https://joblist.city"
+weight = -70
