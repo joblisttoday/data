@@ -1,5 +1,5 @@
 ---
-title: https://enote-gmbh-jobs.personio.de/job/226225#apply
+title: Enote
 slug: enote-gmbh
 description: Music app, making sheet music more accessible, affordable and powerful.
 tags:
