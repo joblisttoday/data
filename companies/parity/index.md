@@ -1,7 +1,7 @@
 ---
 title: Parity
 slug: parity
-description: future now
+description: Blockchain technologies and web3 internet layers.
 tags:
   - blockchain
   - software
