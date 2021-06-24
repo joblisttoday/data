@@ -11,22 +11,24 @@ The folders of this projects are as follow:
 
 ## How to use the project
 
-- Add a new copany and edit existing ones on [edit.joblist.city](https://edit.joblist.city)
-- Search jobs that can automatically be indexed at [joblist.city](https://joblist.city).
-- Explore companies and their public data: [profiles.joblist.city](https://profiles.joblist.city)
+- Search jobs that can automatically be indexed at [joblist.gitlab.io](https://joblist.gitlab.io).
+- Add a new copany and edit existing ones on [joblist.gitlab.io/cms](https://joblist.gitlab.io/cms)
+- Explore companies and their public data: [joblist.gitlab.io/profiles](https://joblist.gitlab.io/profiles)
 
 The data and all software are accessible, reusable and open to contribution, check the licenses.
 
+> All the `joblist` code is on [gitlab/joblist](https://gitlab.com/joblist), this repository on Github is only used because netlify-cms open-authoring mode only works with Github (in editorial-workflow mode & graphql-api activated) as backend.
+
 ## How to contribute
 
-The most straight forward way to contribute, is by loggin in the CMS at [edit.joblist.city](https://edit.joblist.city), with your free Github account.
+The most straight forward way to contribute, is by loggin in the CMS at [joblist.gitlab.io/cms](https://joblist.gitlab.io/cms), with your free Github account.
 
 That way, netlify-CMS (in *open-authoring* mode) will handle the work to add a contribution to this project, to create/edit the data for each companies.
 
 > The other way is by making a PR to this (or any) repository, editting any
 > part of this content.
 
-## How is this list used
+## How is the data of this repository used
 
 ### Data source
 
@@ -37,7 +39,7 @@ This list is also used as a data source, cloned in [gitlab/joblist/workers](http
 
 ### Automatic backup to Gitlab
 
-There is an automatic synchronisation of this github repository to gitlab.
+There is an automatic synchronisation of this github repository to gitlab; see the deployment section.
 
 
 ## Development
@@ -49,6 +51,21 @@ In the repository, is also setup a gohugo.io project with the [companies-theme](
 ```
 hugo server --config="./.themes/config.toml"
 ```
+
+### Update the hugo theme
+
+The gohugo.io theme
+([gitlab/joblist/companies-theme](https://gitlab.com/joblist/companies-theme))
+is installed in this repo as a git submodule.
+
+To update it:
+- `cd` in `./.themes/companies-theme`
+- `git pull`, to get the latest updates from the gitlab repo
+- `cd` back into this project
+- `git commit -m "theme update etc..."`, to validate the changes in
+  the git submodule of the theme
+- `git push`, to send the changes to this repo (on Github, then
+  auto-synced to Gitlab)
 
 ### Convert markdown files with hugo
 
@@ -66,14 +83,14 @@ contentDir = 'companies'
 
 ### Deployment
 
-In the Github action `.github/workflows/push.yml` is decribed a job
-that builds the hugo site, and deploys a static Github page.
+This repository is synchronised to the repo at
+[gitlab/joblist/profiles](https://gitlab.com/joblist/profiles),
+automatically by Gitlab.
 
-Each time a change is made to the branch `master` of this repo, the
-data and the hugo theme (installed as submodule), and built into a new
-version of the site.
-
-The DNS points the Github page to [profiles.joblist.city](https://profiles.joblist.city).
+Defined in the file `./gitlab-ci.yml`, each time a change is made to
+the branch `master` of this repo, a new version of the site is built
+by gohugo (see `./gitlab-ci.yml`), and deployed to the related gitlab
+page.
 
 ## Licenses
 
