@@ -1,0 +1,30 @@
+stages:
+  - build-site
+  - deploy-site
+
+default:
+  # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+  image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_PARAMS_GITPROJECTURL: https://gitlab.com/joblist/companies
+
+build:
+  stage: build-site
+  script:
+  - hugo --minify --config="./.themes/config.toml" --baseURL="https://joblist.gitlab.io/profiles"
+  artifacts:
+    paths:
+    - public
+
+pages:
+  stage: deploy-site
+  script:
+    - echo "Deploying to Gitlab page"
+    - ls -la public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
