@@ -12,7 +12,7 @@ city = "cities"
 position = "positions"
 
 [Params]
-editNetlifyCmsUrl = "https://edit.joblist.city/#/collections"
+editNetlifyCmsUrl = "https://joblist.gitlab.io/cms/#/collections"
 featured_taxonomies = ["tags", "cities"]
 
 
@@ -39,5 +39,5 @@ weight = -80
 
 [[menu.main]]
 name = "Search jobs"
-url = "https://joblist.city"
+url = "https://joblist.gitlab.io"
 weight = -70
