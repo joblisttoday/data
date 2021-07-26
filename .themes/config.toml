@@ -27,10 +27,10 @@ name = "Tags"
 url = "/tags"
 weight = -100
 
-[[menu.main]]
-name = "Cities"
-url = "/cities"
-weight = -90
+# [[menu.main]]
+# name = "Cities"
+# url = "/cities"
+# weight = -90
 
 [[menu.main]]
 name = "Positions (map)"
