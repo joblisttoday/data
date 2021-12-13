@@ -88,7 +88,7 @@ This repository is synchronised to the repo at
 automatically by Gitlab.
 
 Defined in the file `./gitlab-ci.yml`, each time a change is made to
-the branch `master` of this repo, a new version of the site is built
+the branch `main` of this repo, a new version of the site is built
 by gohugo (see `./gitlab-ci.yml`), and deployed to the related gitlab
 page.
 
