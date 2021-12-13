@@ -92,6 +92,30 @@ the branch `master` of this repo, a new version of the site is built
 by gohugo (see `./gitlab-ci.yml`), and deployed to the related gitlab
 page.
 
+### Open authoring
+
+For netlify-cms open-authoring to work, we will need to have the
+netlify-cms options setup pointing to this repository, and an instance
+of this site, deployed from git on netlify (so the gotrue api endpoint
+providing authentication work).
+
+```
+export default {
+	config: {
+		publish_mode: 'editorial_workflow',
+		backend: {
+			name: 'github',
+			repo: 'joblistcity/companies',
+			auth_scope: 'repo',
+			open_authoring: true,
+			use_graphql: true
+		},
+		// ...
+	}
+	// ...
+}
+```
+
 ## Licenses
 
 - code: GPLv3
