@@ -13,7 +13,7 @@ variables:
 build:
   stage: build-site
   script:
-  - hugo --minify --config="./.themes/config.toml" --baseURL="https://joblist.gitlab.io/profiles"
+  - hugo --minify --config="./.themes/config.toml" --baseURL="https://profiles.joblist.today"
   artifacts:
     paths:
     - public
