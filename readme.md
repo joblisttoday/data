@@ -11,9 +11,9 @@ The folders of this projects are as follow:
 
 ## How to use the project
 
-- Search jobs that can automatically be indexed at [joblist.gitlab.io](https://joblist.gitlab.io).
-- Add a new copany and edit existing ones on [joblist.gitlab.io/cms](https://joblist.gitlab.io/cms)
-- Explore companies and their public data: [joblist.gitlab.io/profiles](https://joblist.gitlab.io/profiles)
+- Search jobs that can automatically be indexed at [joblist.today](https://joblist.today).
+- Add a new copany and edit existing ones on [edit.joblist.today](https://edit.joblist.today)
+- Explore companies and their public data: [profiles.joblist.today](https://profiles.joblist.today)
 
 The data and all software are accessible, reusable and open to contribution, check the licenses.
 
@@ -21,7 +21,7 @@ The data and all software are accessible, reusable and open to contribution, che
 
 ## How to contribute
 
-The most straight forward way to contribute, is by loggin in the CMS at [joblist.gitlab.io/cms](https://joblist.gitlab.io/cms), with your free Github account.
+The most straight forward way to contribute, is by loggin in the CMS at [joblist.today/cms](https://joblist.today/cms), with your free Github account.
 
 That way, netlify-CMS (in *open-authoring* mode) will handle the work to add a contribution to this project, to create/edit the data for each companies.
 
