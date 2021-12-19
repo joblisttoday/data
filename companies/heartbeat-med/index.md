@@ -9,9 +9,9 @@ tags:
   - startup
   - medical
 company_url: 'https://heartbeat-med.com'
-job_board_url: 'https://heartbeat-med-jobs.personio.de'
+job_board_url: 'https://heartbeat-med.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: heartbeat-med-jobs
+job_board_hostname: heartbeat-med
 created_at: '2020-09-08T16:16:18.626Z'
 updated_at: '2020-09-08T16:16:18.626Z'
 cities:

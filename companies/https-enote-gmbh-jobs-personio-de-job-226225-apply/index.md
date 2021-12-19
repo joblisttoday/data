@@ -6,9 +6,9 @@ tags:
   - music
   - startup
 company_url: https://enote.com
-job_board_url: https://enote-gmbh-jobs.personio.de
+job_board_url: https://enote-gmbh.jobs.personio.de
 job_board_provider: personio
-job_board_hostname: enote-gmbh-jobs
+job_board_hostname: enote-gmbh
 twitter_url: https://twitter.com/enoteapp
 instagram_url: https://www.instagram.com/enoteapp
 facebook_url: https://www.facebook.com/enoteapp

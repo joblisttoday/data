@@ -13,9 +13,9 @@ tags:
   - ai
   - artificial-intelligence
 company_url: https://dentalxr.ai
-job_board_url: https://dentalxrai-jobs.personio.de/
+job_board_url: https://dentalxrai.jobs.personio.de/
 job_board_provider: personio
-job_board_hostname: dentalxrai-jobs
+job_board_hostname: dentalxrai
 linkedin_url: https://www.linkedin.com/company/dentalxr-ai
 cities:
   - berlin

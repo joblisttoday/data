@@ -10,9 +10,9 @@ tags:
   - consulting
   - public-opinion
 company_url: 'https://hirschen-group.com'
-job_board_url: 'https://hirschen-group-jobs.personio.de'
+job_board_url: 'https://hirschen-group.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: hirschen-group-jobs
+job_board_hostname: hirschen-group
 twitter_url: 'https://twitter.com/hirschengroup'
 linkedin_url: 'https://www.linkedin.com/company/hirschen-group-gmbh'
 created_at: '2020-09-08T16:48:18.626Z'

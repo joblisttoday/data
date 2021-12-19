@@ -5,9 +5,9 @@ description: 'Service #innovation and #business transformation'
 tags:
   - innovation
   - business
-job_board_url: 'https://si-labs-jobs.personio.de/'
+job_board_url: 'https://si-labs.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: si-labs-jobs
+job_board_hostname: si-labs
 created_at: '2020-02-29T16:32:31.000Z'
 cities:
   - berlin

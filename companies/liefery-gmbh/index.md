@@ -11,9 +11,9 @@ tags:
   - startup
   - logistics
 company_url: 'https://www.liefery.com'
-job_board_url: 'https://liefery-jobs.personio.de'
+job_board_url: 'https://liefery.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: liefery-jobs
+job_board_hostname: liefery
 twitter_url: 'https://twitter.com/liefery_de'
 linkedin_url: 'https://www.linkedin.com/company/5324005'
 instagram_url: 'https://www.instagram.com/liefery_inside'

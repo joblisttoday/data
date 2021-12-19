@@ -5,9 +5,9 @@ description: 'Agency that provides hourly care for the #elderly and those in nee
 tags:
   - elderly
   - care
-job_board_url: 'https://careship-jobs.personio.de/'
+job_board_url: 'https://careship.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: careship-jobs
+job_board_hostname: careship
 created_at: '2018-02-06T06:24:13.590Z'
 updated_at: '2019-06-16T10:36:09.735Z'
 cities:
