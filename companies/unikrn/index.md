@@ -10,9 +10,9 @@ tags:
   - esport
   - bet
   - gaming
-job_board_url: 'https://unikrn-jobs.personio.de/'
+job_board_url: 'https://unikrn.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: unikrn-jobs
+job_board_hostname: unikrn
 created_at: '2020-02-24T10:43:44.425Z'
 cities:
   - berlin

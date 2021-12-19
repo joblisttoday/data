@@ -10,9 +10,9 @@ tags:
   - health
   - insurance
 company_url: 'https://yas.life'
-job_board_url: 'https://yaslife-jobs.personio.de'
+job_board_url: 'https://yaslife.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: yaslife-jobs
+job_board_hostname: yaslife
 linkedin_url: 'https://de.linkedin.com/company/yas.life---magnum-est-digital-health-gmbh'
 instagram_url: 'https://www.instagram.com/yas.healthapp'
 facebook_url: 'https://www.facebook.com/yas.healthapp'

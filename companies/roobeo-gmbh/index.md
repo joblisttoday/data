@@ -7,9 +7,9 @@ description: >-
 tags:
   - startup
 company_url: 'https://www.roobeo.com'
-job_board_url: 'https://roobeo-jobs.personio.de'
+job_board_url: 'https://roobeo.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: roobeo-jobs
+job_board_hostname: roobeo
 twitter_url: 'https://twitter.com/ROOBEO_GmbH'
 linkedin_url: 'https://www.linkedin.com/company/roobeo'
 facebook_url: 'https://www.facebook.com/ROOBEOgmbh'

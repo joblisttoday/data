@@ -6,9 +6,9 @@ tags:
   - startup
   - insurance
 company_url: 'https://www.coya.com'
-job_board_url: 'https://coya-jobs.personio.de/'
+job_board_url: 'https://coya.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: coya-jobs
+job_board_hostname: coya
 twitter_url: 'https://twitter.com/hello_coya'
 linkedin_url: 'https://www.linkedin.com/company/coya'
 instagram_url: 'https://www.instagram.com/coya'

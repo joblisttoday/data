@@ -7,9 +7,9 @@ description: >-
 tags:
   - sport
   - startup
-job_board_url: 'https://urbansportsclub-jobs.personio.de/'
+job_board_url: 'https://urbansportsclub.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: urbansportsclub-jobs
+job_board_hostname: urbansportsclub
 created_at: '2018-02-24T09:22:05.414Z'
 updated_at: '2019-06-16T10:36:09.730Z'
 cities:

@@ -6,9 +6,9 @@ tags:
   - consulting
   - real-estate
 company_url: 'https://www.ziegert-immobilien.de'
-job_board_url: 'https://ziegert-jobs.personio.de'
+job_board_url: 'https://ziegert.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: ziegert-jobs
+job_board_hostname: ziegert
 linkedin_url: 'https://www.linkedin.com/company/ziegert-bank--&-real-estate-consulting-gmbh'
 instagram_url: 'https://www.instagram.com/ziegert_immobilien'
 facebook_url: 'https://www.facebook.com/ZiegertBankundImmobilienconsulting/'

@@ -11,9 +11,9 @@ tags:
   - fitness
   - app
 company_url: 'https://www.gymondo.com'
-job_board_url: 'https://gymondo-gmbh-jobs.personio.de'
+job_board_url: 'https://gymondo-gmbh.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: gymondo-gmbh-jobs
+job_board_hostname: gymondo-gmbh
 linkedin_url: 'https://www.linkedin.com/company/gymondo-gmbh'
 instagram_url: 'https://www.instagram.com/gymondo_official'
 created_at: '2020-09-08T16:23:18.626Z'

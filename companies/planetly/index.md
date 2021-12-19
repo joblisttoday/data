@@ -9,9 +9,9 @@ tags:
   - startup
   - climate
 company_url: 'https://www.planetly.org/'
-job_board_url: 'https://planetly-jobs.personio.de'
+job_board_url: 'https://planetly.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: planetly-jobs
+job_board_hostname: planetly
 twitter_url: 'https://twitter.com/planetly_berlin'
 linkedin_url: 'https://www.linkedin.com/company/planetly/'
 instagram_url: 'https://www.instagram.com/_planetly/'

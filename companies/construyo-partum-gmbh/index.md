@@ -9,9 +9,9 @@ tags:
   - architecture
   - construction
 company_url: 'https://www.construyo.de'
-job_board_url: 'https://partum-gmbh-jobs.personio.de'
+job_board_url: 'https://partum-gmbh.jobs.personio.de'
 job_board_provider: personio
-job_board_hostname: partum-gmbh-jobs
+job_board_hostname: partum-gmbh
 linkedin_url: 'https://www.linkedin.com/company/wirsindconstruyo'
 instagram_url: 'https://www.instagram.com/wirsindconstruyo'
 facebook_url: 'https://www.facebook.com/wirsindConstruyo'

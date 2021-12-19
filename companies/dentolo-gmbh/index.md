@@ -7,9 +7,9 @@ tags:
   - startup
   - dental
 company_url: 'https://www.dentolo.de'
-job_board_url: 'https://dentolo-jobs.personio.de/'
+job_board_url: 'https://dentolo.jobs.personio.de/'
 job_board_provider: personio
-job_board_hostname: dentolo-jobs
+job_board_hostname: dentolo
 facebook_url: 'https://www.facebook.com/dentolo.de'
 created_at: '2020-09-08T16:55:18.626Z'
 updated_at: '2020-09-08T16:55:18.626Z'
