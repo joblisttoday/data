@@ -9,6 +9,8 @@ tags:
   - web3
 company_url: https://www.parity.io/jobs
 job_board_url: https://www.parity.io/jobs
+job_board_provider: greenhouse
+job_board_hostname: parity
 cities:
   - berlin
 positions:
