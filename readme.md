@@ -72,17 +72,17 @@ Look in the `./gitlab-ci.yml` file.
 
 ## Notes
 
-> All the `joblist` code is stored on
-> [gitlab/joblist](https://gitlab.com/joblist), this repository on
-> Github is only used because netlify-cms open-authoring mode requires
-> a repository hosted on Github ( netlifcy-cms github backend, >
-> editorial-workflow mode & graphql-api activated).
-
 > The project is automatically synchronised to
 > https://gitlab.com/joblist/companies, which runs the `gitlab-ci.yml`
 > CI/CD pipelines.
 
+> This repository on
+> Github is only used because netlify-cms open-authoring mode requires
+> a repository hosted on Github ( netlifcy-cms github backend, >
+> editorial-workflow mode & graphql-api activated).
+
 ## Licenses
 
 - code: GPLv3
-- data: Creative Commons: Attribution + Noncommercial + ShareAlike (BY-NC-SA)
+- data & contributions: Creative Commons: Attribution +
+  Noncommercial + ShareAlike (BY-NC-SA) <- to the *joblist contributors*.
