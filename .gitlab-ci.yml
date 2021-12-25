@@ -7,4 +7,4 @@ variables:
 build-remote-site:
   stage: trigger-remote-build
   script:
-    - echo should call remote webhook: ${URL_REMOTE_THEME_REPO}
+    - echo should call remote webhook at ${URL_REMOTE_THEME_REPO}
