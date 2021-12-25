@@ -73,7 +73,7 @@ Look in the `./gitlab-ci.yml` file.
 ## Notes
 
 > The project is automatically synchronised to
-> https://gitlab.com/joblist/companies, which runs the `gitlab-ci.yml`
+> https://gitlab.com/joblist/data, which runs the `gitlab-ci.yml`
 > CI/CD pipelines.
 
 > This repository on
