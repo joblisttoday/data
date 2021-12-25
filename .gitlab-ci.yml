@@ -1,30 +1,10 @@
 stages:
-  - build-site
-  - deploy-site
-
-default:
-  # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-  image: registry.gitlab.com/pages/hugo:latest
+  - trigger-remote-build
 
 variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-  HUGO_PARAMS_GITPROJECTURL: https://gitlab.com/joblist/companies
+  URL_REMOTE_THEME_REPO: gitlab@job-profile-gatsby:pages
 
-build:
-  stage: build-site
+build-remote-site:
+  stage: trigger-remote-build
   script:
-  - hugo --minify --config="./.themes/config.toml" --baseURL="https://profiles.joblist.today"
-  artifacts:
-    paths:
-    - public
-
-pages:
-  stage: deploy-site
-  script:
-    - echo "Deploying to Gitlab page"
-    - ls -la public
-  artifacts:
-    paths:
-    - public
-  only:
-  - main
+  - echo "Should call remote webhook: $URL_REMOTE_THEME_REPO"

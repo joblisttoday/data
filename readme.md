@@ -11,22 +11,23 @@ The folders of this projects are as follow:
 
 ## How to use the project
 
-- Search jobs that can automatically be indexed at [joblist.today](https://joblist.today).
-- Add a new copany and edit existing ones on [edit.joblist.today](https://edit.joblist.today)
-- Explore companies and their public data: [profiles.joblist.today](https://profiles.joblist.today)
-
-The data and all software are accessible, reusable and open to contribution, check the licenses.
+- Add a new copany and edit existing ones on
+  [edit.joblist.today](https://edit.joblist.today). The other way is
+  by making a PR to this (or any) repository, editting any part of
+  this content.
+- Explore companies and their public data:
+  [profiles.joblist.today](https://profiles.joblist.today).
+- Search jobs that can automatically be indexed from the
+  `company.{provider_name,provider_hostname}` at
+  [joblist.today](https://joblist.today).
 
 > All the `joblist` code is on [gitlab/joblist](https://gitlab.com/joblist), this repository on Github is only used because netlify-cms open-authoring mode only works with Github (in editorial-workflow mode & graphql-api activated) as backend.
 
-## How to contribute
+## How to use netlify-cms & github authentication
 
 The most straight forward way to contribute, is by loggin in the CMS at [edit.joblist.today/cms](https://edit.joblist.today), with your free Github account.
 
-That way, netlify-CMS (in *open-authoring* mode) will handle the work to add a contribution to this project, to create/edit the data for each companies.
-
-> The other way is by making a PR to this (or any) repository, editting any
-> part of this content.
+Netlify-CMS (in *open-authoring* mode) will handle the work to add a contribution to this project, to create/edit the data for each companies, and to for the repository so you everyone can safely submit changes.
 
 ## How is the data of this repository used
 
@@ -37,108 +38,9 @@ This list is also used as a data source, cloned in [gitlab/joblist/workers](http
 - extract jobs from companies and populate an algolia index (searchable at joblist.today)
 - generate a static API of companies
 
-## Development
-
-In the repository, is also setup a gohugo.io project with the [companies-theme](https://gitlab.com/joblist/companies-theme) as a git submodule.
-
-### Serve the local hugo server
-
-```
-hugo server --config="./.themes/config.toml"
-```
-
-### Update the hugo theme
-
-The gohugo.io theme
-([gitlab/joblist/companies-theme](https://gitlab.com/joblist/companies-theme))
-is installed in this repo as a git submodule.
-
-To update it:
-- `cd` in `./.themes/companies-theme`
-- `git pull`, to get the latest updates from the gitlab repo
-- `cd` back into this project
-- `git commit -m "theme update etc..."`, to validate the changes in
-  the git submodule of the theme
-- `git push`, to send the changes to this repo (on Github, then
-  auto-synced to Gitlab)
-
-### Convert markdown files with hugo
-
-If you have all companies in the `./companies` folder:
-
-```
-mkdir output
-hugo convert toYAML --config config.toml  -o output/
-```
-
-Where the content of `./config.toml` is:
-```
-contentDir = 'companies'
-```
-
 ### Deployment
 
-This repository is synchronised to the repo at
-[gitlab/joblist/profiles](https://gitlab.com/joblist/profiles),
-automatically by Gitlab, and deployed to https://profiles.joblist.today
-
-Defined in the file `./gitlab-ci.yml`, each time a change is made to
-the branch `main` of this repo, a new version of the site is built
-by gohugo (see `./gitlab-ci.yml`), and deployed to the related gitlab
-page.
-
-### Open authoring
-
-For netlify-cms open-authoring to work, we will need to have the
-netlify-cms options setup pointing to this repository, and an instance
-of this site, deployed from git on netlify (so the gotrue api endpoint
-providing authentication work).
-
-```
-export default {
-  config: {
-    publish_mode: 'editorial_workflow',
-    backend: {
-      name: 'github',
-      repo: 'joblistcity/companies',
-      auth_scope: 'repo',
-      open_authoring: true,
-      use_graphql: true
-    },
-    // ...
-  }
-  // ...
-}
-```
-
-Also this site needs to be hosted on netlify, to benefit from the
-`.netlify.app/.netlify/identity` gotrue authentication endpoint.
-
-We need to have an OAuth App setup in the joblisttoday github
-organizations
-https://github.com/organizations/joblisttoday/settings/applications,
-and added to the netlify hosted site in the Access Control section of
-the project.
-
-It will have to have `https://api.netlify.com/auth/done` as `Authorization callback URL`.
-
-Documentation for the setup:
-- https://docs.netlify.com/visitor-access/oauth-provider-tokens/#using-an-authentication-provider
-- https://www.netlifycms.org/docs/open-authoring/
-- https://www.netlifycms.org/docs/github-backend
-
-### Automatic backup to Gitlab
-
-There is an automatic mirroring synchronisation of this github
-repository to gitlab.
-
-It uses ssh://github.com/joblisttoday/companies.git (see
-https://gitlab.com/joblist/profiles/-/settings/repository#js-push-remote-settings),
-which autogenerated SSH public key is copied here on github as a
-repository *deploy key*.
-
-Documentation:
-- https://docs.gitlab.com/ee/user/project/repository/mirror/index.html
+Look in the `./gitlab-ci.yml` file.
 
 ## Licenses
 
