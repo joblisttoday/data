@@ -5,8 +5,9 @@ variables:
   URL_REMOTE_THEME_REPO: gitlab@job-profile-gatsby:pages
   REF_THEME_REPO: main
   PROJECT_ID_THEME_REPO: 32362715
+
 build-remote-site:
   stage: trigger-remote-build
   script:
-  - echo "Calling remote webhook: $URL_REMOTE_THEME_REPO"
-  - curl --fail --request POST --form token=$TRIGGER_TOKEN_THEME_REPO --form ref=$REF_THEME_REPO https://gitlab.example.com/api/v4/projects/$PROJECT_ID_THEME_REPO/trigger/pipeline
+  - echo "Calling remote webhook $URL_REMOTE_THEME_REPO"
+  - "curl --fail --request POST --form token=$TRIGGER_TOKEN_THEME_REPO --form ref=$REF_THEME_REPO https://gitlab.example.com/api/v4/projects/$PROJECT_ID_THEME_REPO/trigger/pipeline"
