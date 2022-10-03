@@ -12,5 +12,5 @@ linkedin_url: https://www.linkedin.com/company/affirm
 twitter_url: https://twitter.com/Affirm
 facebook_url: https://www.facebook.com/AffirmInc
 description: 'Affirm is using technology to bring innovation to the financial industry'
-tags: ['finance'j1]
+tags: ['finance']
 ---
