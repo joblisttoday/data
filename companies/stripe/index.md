@@ -1,0 +1,13 @@
+---
+title: Stripe
+slug: stripe
+cities:
+- South San Francisco, CA, USA
+- San Francisco, CA, USA
+company_url: https://stripe.com
+job_board_url: https://stripe.com/jobs
+job_board_provider: greenhouse
+job_board_hostname: stripe
+description: Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Headquartered in San Francisco and Dublin, the company aims to increase the GDP of the internet.
+tags: ['finance']
+---
