@@ -1,7 +1,7 @@
 ---
-title:KKR
+title: KKR
 slug: kkr
-company_url: https://www.kkr.com/
+company_url: https://www.kkr.com
 job_board_url: kkr
 job_board_provider: greenhouse
 job_board_hostname: kkr

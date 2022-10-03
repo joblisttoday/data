@@ -11,7 +11,7 @@ job_board_url: https://instacart.careers
 job_board_provider: greenhouse
 job_board_hostname: instacart
 linkedin_url: https://www.linkedin.com/company/instacart
-instagram_url:https://www.instagram.com/tasteofinstacart
-description: Instacart is the leading online grocery platform in North America.
+instagram_url: https://www.instagram.com/tasteofinstacart
+description: 'Instacart is the leading online grocery platform in North America.;
 tags: ['startup', 'grocery']
 ---
