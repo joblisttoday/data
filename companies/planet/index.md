@@ -1,0 +1,16 @@
+---
+title: Planet
+slug: planet
+cities:
+- San Francisco, CA, USA
+company_url: https://planet.com
+job_board_url: https://www.planet.com/company/careers/
+job_board_provider: greenhouse
+job_board_hostname: planetlabs
+twitter_url: https://twitter.com/planet
+facebook_url: https://www.facebook.com/PlanetLabs/
+instagram_url: https://www.instagram.com/planetlabs/
+linkedin_url: https://www.linkedin.com/company/planet-labs/
+description: 'Planet is the leading provider of global, daily satellite imagery and insights. Planet is driven by a mission to image all of Earth’s landmass every day, and make global change visible, accessible, and actionable.'
+tags: ['satellite', 'insights']
+---

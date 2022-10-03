@@ -10,7 +10,9 @@ tags:
   - movies
   - tv-shows
 company_url: https://netflix.com
-job_board_url: https://jobs.netflix.com/search
+job_board_url: https://jobs.netflix.com
+job_board_provider: lever
+job_board_hostname: netflix
 twitter_url: https://twitter.com/netflix
 linkedin_url: https://www.linkedin.com/company/netflix
 instagram_url: https://www.instagram.com/netflix

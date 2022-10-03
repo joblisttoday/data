@@ -1,0 +1,17 @@
+---
+title: Nextdoor
+slug: nextdoor
+cities:
+- San Francisco, CA, USA
+- New York, NY, USA
+- Los Angeles, CA, USA
+- Chicago, IL, USA
+company_url: https://nextdoor.com
+job_board_url: https://about.nextdoor.com/careers-list/
+job_board_provider: greenhouse
+job_board_hostname: nextdoor
+twitter_url: https://twitter.com/nextdoor
+facebook_url: https://www.facebook.com/nextdoor
+description: Nextdoor is the world’s largest social network for the neighborhood.
+tags: ['social-media', 'neighborhood']
+---
