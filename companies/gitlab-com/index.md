@@ -4,8 +4,8 @@ slug: gitlab-com
 cities:
 - San Francisco, CA, USA
 company_url: https://gitlab.com
-job_board_url: https://about.gitlab.com/jobs/
-job_board_provider:greenhouse
+job_board_url: https://about.gitlab.com/jobs
+job_board_provider: greenhouse
 job_board_hostname: gitlab
 twitter_url: https://twitter.com/gitlab
 facebook_url: https://www.facebook.com/gitlab
