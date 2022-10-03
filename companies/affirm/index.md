@@ -1,0 +1,16 @@
+---
+title: Affirm
+slug: affirm
+cities:
+- San Francisco, CA, USA
+company_url: https://affirm.com
+job_board_url: https://www.affirm.com/careers
+job_board_provider: greenhouse
+job_board_hostname: affirm
+instagram_url: https://www.instagram.com/affirm/
+linkedin_url: https://www.linkedin.com/company/affirm
+twitter_url: https://twitter.com/Affirm
+facebook_url: https://www.facebook.com/AffirmInc
+description: 'Affirm is using technology to bring innovation to the financial industry'
+tags: ['finance'j1]
+---
