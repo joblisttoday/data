@@ -15,7 +15,7 @@ tags:
   - experiences
 job_board_url: https://www.airbnb.com/careers
 job_board_provider: greenhouse
-job_board_provider: airbnb
+job_board_hostname: airbnb
 facebook_url: https://www.facebook.com/airbnb
 twitter_url: https://twitter.com/airbnb
 instagram_url: https://www.instagram.com/airbnb
