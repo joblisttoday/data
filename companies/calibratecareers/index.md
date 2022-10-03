@@ -1,0 +1,13 @@
+---
+title: Calibrate
+slug: calibrate
+company_url: https://www.joincalibrate.com
+job_board_url: https://boards.greenhouse.io/calibratecareers
+job_board_provider: greenhouse
+job_board_hostname: calibratecareers
+twitter_url: https://twitter.com/calibrate
+instagram_url: https://instagram.com/joincalibrate
+facebook_url: https://facebook.com/joincalibrate
+description: We’re changing the way the world treats weight
+tags: ['health', 'weight']
+---

@@ -1,0 +1,14 @@
+---
+title: Team Rubicon
+slug: team-rubicon
+company_url: https://teamrubiconusa.org/about/
+job_board_url: https://boards.greenhouse.io/teamrubicon
+job_board_provider: greenhouse
+job_board_hostname: teamrubicon
+twitter_url: https://twitter.com/teamrubicon
+linkedin_url: https://www.linkedin.com/company/teamrubicon/
+instagram_url: https://instagram.com/teamrubicon/
+facebook_url: https://www.facebook.com/teamrubicon
+description: 'Since its inception, Team Rubicon’s mission has been one of disruption, tenacity, service to others above oneself, bringing order to chaos, doing good and creating hope. While our dual mission – “Disasters are our Business, Veterans are our Passion” – tends to resonate with most people, working at Team Rubicon is not for everyone.'
+tags: ['disaster-response']
+---

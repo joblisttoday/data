@@ -1,0 +1,12 @@
+---
+title: Twilio
+slug: twilio
+company_url: https://twilio.com
+job_board_url: https://www.twilio.com/company/jobs
+job_board_provider: greenhouse
+job_board_hostname: twilio
+twitter_url: https://twitter.com/twiliodotorg
+facebook_url: https://www.facebook.com/TeamTwilio/
+desription: Twilio powers personalized interactions and trusted global communications to connect you with customers.
+tags: ['communications']
+---

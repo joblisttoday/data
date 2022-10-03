@@ -1,0 +1,13 @@
+---
+title: Bright Healthcare
+slug: bright-healthcare
+company_url: https://brighthealthcare.com/
+job_board_url: https://boards.greenhouse.io/brighthealthgroup
+job_board_provider: greenhouse
+job_board_hostname: brighthealthgroup
+twitter_url: https://twitter.com/mybrighthealth
+linkedin_url: https://www.linkedin.com/company/bright-health/
+facebook_url: https://www.facebook.com/MyBrightHealth/
+description: Healthcare provider in the USA
+tags: ['healthcare']
+---

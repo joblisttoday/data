@@ -1,0 +1,12 @@
+---
+title: Protocol Labs
+slug: protocol-labs
+company_url: https://protocol.ai
+job_board_url: https://boards.greenhouse.io/protocollabs
+job_board_provider: greenhouse
+job_board_hostname: protocollabs
+twitter_url: https://twitter.com/protocollabs
+linkedin_url: https://www.linkedin.com/company/protocollabs/
+description: https://www.linkedin.com/company/protocollabs/
+tags: ['blockchain', 'decentralization', 'crypto-currency']
+---
