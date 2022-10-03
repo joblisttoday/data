@@ -10,5 +10,5 @@ linkedin_url: https://www.linkedin.com/company/remote.com
 instagram_url: https://www.instagram.com/remote
 facebook_url: https://www.facebook.com/remote
 description: International payroll, benefits, taxes, and compliance for businesses, big and small.
-tags: ['blockchain', 'crypto-currency', 'startup', 'dao']
+tags: ['human-ressources']
 ---
