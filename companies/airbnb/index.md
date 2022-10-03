@@ -13,7 +13,7 @@ tags:
   - homestays
   - tourism
   - experiences
-job_board_url: 'https://www.airbnb.com/careers/
+job_board_url: https://www.airbnb.com/careers
 job_board_provider: greenhouse
 job_board_provider: airbnb
 facebook_url: https://www.facebook.com/airbnb
