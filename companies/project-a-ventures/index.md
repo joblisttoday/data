@@ -13,11 +13,8 @@ tags:
 job_board_url: 'https://www.project-a.com/en/career/jobs'
 created_at: '2018-01-23T17:07:46.257Z'
 updated_at: '2019-06-16T10:36:09.631Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.384316,52.532285]}'
 ---
-

@@ -20,8 +20,6 @@ linkedin_url: 'https://www.linkedin.com/company/shijigroup'
 facebook_url: 'https://business.facebook.com/ShijiGroup'
 created_at: '2020-07-04T22:47:18.626Z'
 updated_at: '2020-07-04T22:47:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10963'
@@ -29,4 +27,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.390323,52.497334]}'
 ---
-

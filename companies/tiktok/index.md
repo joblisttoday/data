@@ -10,7 +10,4 @@ tags:
   - video
 job_board_url: 'https://careers.tiktok.com/position?keywords=&location=CT_6'
 created_at: '2020-01-02T14:41:43.000Z'
-cities:
-  - berlin
 ---
-

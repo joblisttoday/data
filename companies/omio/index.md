@@ -11,11 +11,8 @@ job_board_provider: smartrecruiters
 job_board_hostname: Omio1
 created_at: 2017-06-28T20:18:56.204Z
 updated_at: 2019-06-16T10:36:09.730Z
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.4109222,52.5308501]}'
 ---
-

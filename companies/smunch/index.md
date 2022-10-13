@@ -10,11 +10,8 @@ tags:
   - delivery
 job_board_url: 'https://www.smunch.co/en/career'
 created_at: '2019-09-10T09:04:11.438Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.3663816,52.5048705]}'
 ---
-

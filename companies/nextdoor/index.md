@@ -1,11 +1,6 @@
 ---
 title: Nextdoor
 slug: nextdoor
-cities:
-- San Francisco, CA, USA
-- New York, NY, USA
-- Los Angeles, CA, USA
-- Chicago, IL, USA
 company_url: https://nextdoor.com
 job_board_url: https://about.nextdoor.com/careers-list/
 job_board_provider: greenhouse

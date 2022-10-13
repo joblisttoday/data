@@ -13,10 +13,7 @@ instagram_url: 'https://www.instagram.com/beyondmeat'
 facebook_url: 'https://www.facebook.com/beyondmeat'
 created_at: '2020-09-08T13:00:18.626Z'
 updated_at: '2020-09-08T13:00:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
 ---
-

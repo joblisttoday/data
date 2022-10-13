@@ -9,7 +9,4 @@ tags:
 job_board_url: 'https://www.appjobs.com/berlin'
 created_at: '2018-02-05T13:04:41.879Z'
 updated_at: '2019-06-16T10:36:09.631Z'
-cities:
-  - berlin
 ---
-

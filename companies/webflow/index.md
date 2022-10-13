@@ -1,9 +1,6 @@
 ---
 title: Webflow
 slug: webflow
-cities:
-- San Francisco, CA, USA
-- Mountain View, CA, USA
 company_url: https://webflow.com
 job_board_url: https://webflow.com/careers
 job_board_provider: greenhouse

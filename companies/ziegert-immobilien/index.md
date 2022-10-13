@@ -14,8 +14,6 @@ instagram_url: 'https://www.instagram.com/ziegert_immobilien'
 facebook_url: 'https://www.facebook.com/ZiegertBankundImmobilienconsulting/'
 created_at: '2020-09-08T16:53:09.626Z'
 updated_at: '2020-09-08T16:53:09.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10969'
@@ -23,4 +21,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.389152,52.50761]}'
 ---
-

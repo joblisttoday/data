@@ -21,6 +21,4 @@ twitter_url: https://twitter.com/airbnb
 instagram_url: https://www.instagram.com/airbnb
 created_at: '2017-06-28T20:24:41.890Z'
 updated_at: '2019-06-16T10:36:08.542Z'
-cities:
-  - Berlin, Germany
 ---

@@ -1,8 +1,6 @@
 ---
 title: Arcadia
 slug: arcadia
-cities:
-- Washington, DC, USA
 company_url: https://arcadia.com
 job_board_url: https://www.arcadia.com/careers
 job_board_provider: greenhouse

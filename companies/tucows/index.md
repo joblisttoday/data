@@ -1,8 +1,6 @@
 ---
 title: Tucows
 slug: tucows
-cities:
-- Toronto, ON, Canada
 company_url: https://tucows.com
 job_board_url: https://tucows.com/careers
 job_board_provider: greenhouse

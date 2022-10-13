@@ -14,7 +14,4 @@ tags:
 job_board_url: 'https://karriere.rewe-group.com/search/?q=&locationsearch=berlin'
 created_at: '2017-06-28T20:39:39.235Z'
 updated_at: '2019-06-16T10:36:09.735Z'
-cities:
-  - berlin
 ---
-

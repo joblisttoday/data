@@ -1,8 +1,6 @@
 ---
 title: PubNub
 slug: pubnub
-cities:
-- San Francisco, CA, USA
 company_url: https://pubnub.com
 job_board_url: https://www.pubnub.com/company/careers/
 job_board_provider: greenhouse

@@ -14,8 +14,6 @@ tags:
   - startup
 company_url: https://www.ableton.com/
 job_board_url: https://www.ableton.com/en/jobs
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

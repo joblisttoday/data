@@ -6,8 +6,6 @@ tags:
   - cryptocurrencies
 company_url: https://www.bitbond.com
 job_board_url: https://www.bitbond.com/jobs
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

@@ -1,8 +1,6 @@
 ---
 title: Duolingo
 slug: duolingo
-cities:
-- Pittsburgh, PA, USA
 company_url: https://duolingo.com
 job_board_url: https://jobs.duolingo.com
 job_board_provider: greenhouse

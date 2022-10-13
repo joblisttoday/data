@@ -1,9 +1,6 @@
 ---
 title: Intercom
 slug: intercom
-cities:
-- San Francisco, CA, USA
-- Chicago, IL, USA
 company_url: https://intercom.com
 job_board_url: https://www.intercom.com/careers
 job_board_provider: greenhouse

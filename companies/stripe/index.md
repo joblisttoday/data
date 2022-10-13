@@ -1,9 +1,6 @@
 ---
 title: Stripe
 slug: stripe
-cities:
-- South San Francisco, CA, USA
-- San Francisco, CA, USA
 company_url: https://stripe.com
 job_board_url: https://stripe.com/jobs
 job_board_provider: greenhouse

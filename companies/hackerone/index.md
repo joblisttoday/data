@@ -1,8 +1,6 @@
 ---
 title: HackerOne
 slug: hackerone
-cities:
-- San Francisco, CA, USA
 company_url: https://hackerone.com
 job_board_url: https://www.hackerone.com/careers
 job_board_provider: lever

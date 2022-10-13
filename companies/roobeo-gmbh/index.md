@@ -15,8 +15,6 @@ linkedin_url: 'https://www.linkedin.com/company/roobeo'
 facebook_url: 'https://www.facebook.com/ROOBEOgmbh'
 created_at: '2020-09-08T16:35:18.626Z'
 updated_at: '2020-09-08T16:35:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10178'
@@ -24,4 +22,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.400513,52.522636]}'
 ---
-

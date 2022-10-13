@@ -1,12 +1,6 @@
 ---
 title: King
 slug: king
-cities:
-- Stockholm, Sweden
-- London, UK
-- Salt Lake City, UT, USA
-- Berlin, Germany
-- Barcelona, Spain
 company_url: https://king.com
 job_board_url: https://careers.king.com/
 twitter_url: https://twitter.com/King_Games

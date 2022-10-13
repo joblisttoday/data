@@ -19,8 +19,6 @@ company_url: https://www.cozero.io/
 job_board_url: https://www.cozero.io/jobs
 twitter_url: https://twitter.com/io_cozero
 linkedin_url: https://www.linkedin.com/company/cozero-io
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

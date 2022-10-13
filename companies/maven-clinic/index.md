@@ -1,8 +1,6 @@
 ---
 title: Maven Clinic
 slug: maven-clinic
-cities:
-- New York, NY, USA
 company_url: https://mavenclinic.com
 job_board_url: https://boards.greenhouse.io/mavenclinic
 job_board_provider: greenhouse

@@ -15,16 +15,4 @@ job_board_hostname: flexport
 twitter_url: https://twitter.com/flexport
 linkedin_url: https://www.linkedin.com/company/flexport/
 facebook_url: https://facebook.com/flexport
-cities:
-  - nyc
-  - chicago
-  - shanghai
-  - singapore
-  - hong kong
-  - amsterdam
-  - hamburg
-  - frankfurt
-  - atlanta
-  - los angeles
-  - vancouver
 ---

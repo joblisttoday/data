@@ -1,8 +1,6 @@
 ---
 title: Patreon
 slug: patreon
-cities:
-- San Francisco, CA, USA
 company_url: https://patreon.com
 job_board_url: https://www.patreon.com/careers
 job_board_provider: greenhouse

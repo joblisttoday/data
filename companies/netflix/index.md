@@ -17,27 +17,6 @@ twitter_url: https://twitter.com/netflix
 linkedin_url: https://www.linkedin.com/company/netflix
 instagram_url: https://www.instagram.com/netflix
 facebook_url: https://www.facebook.com/netflix
-cities:
-  - amsterdam
-  - berlin
-  - london
-  - madrid
-  - paris
-  - rome
-  - istanbul
-  - hsinchu-city
-  - manila
-  - mumbai
-  - seoul
-  - singapore
-  - tokyo
-  - los-angeles
-  - los-gatos
-  - new-york
-  - salt-lake-city
-  - washington
-  - alphaville
-  - mexico-city
 positions:
   - country: germany
     city: berlin

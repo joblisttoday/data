@@ -1,8 +1,6 @@
 ---
 title: VMware
 slug: vmware
-cities:
-- Palo Alto, CA, USA
 company_url: https://vmware.com
 twitter_url: https://twitter.com/vmwarecareers
 facebook_url: https://www.facebook.com/vmwarecareers

@@ -14,9 +14,6 @@ company_url: https://www.ssf-berlin.de/
 job_board_url: https://ssf-berlin.softgarden.io/de/widgets/jobs
 job_board_provider: softgarden
 job_board_hostname: ssf-berlin
-cities:
-  - berlin
-  - hamburg
 positions:
   - country: germanny
     city: berlin

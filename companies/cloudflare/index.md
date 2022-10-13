@@ -1,8 +1,6 @@
 ---
 title: Cloudflare
 slug: cloudflare
-cities:
-- San Francisco, CA, USA
 company_url: https://cloudflare.com
 job_board_url: https://www.cloudflare.com/careers
 job_board_provider: greenhouse

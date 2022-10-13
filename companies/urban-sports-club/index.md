@@ -9,10 +9,6 @@ job_board_url: https://boards.greenhouse.io/urbansportsclub
 job_board_provider: greenhouse
 job_board_hostname: urbansportsclub
 created_at: '2018-02-24T09:22:05.414Z'
-cities:
-  - berlin, DE
-  - cologne, DE
-   munich, DE
 positions:
   - country: germany
     city: berlin

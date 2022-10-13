@@ -1,8 +1,6 @@
 ---
 title: monday.com
 slug: monday-com
-cities:
-- Tel Aviv-Yafo, Israel
 company_url: https://monday.com
 job_board_url: https://monday.com/careers
 job_board_provider: comeet

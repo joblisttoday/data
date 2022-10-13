@@ -1,8 +1,6 @@
 ---
 title: Affirm
 slug: affirm
-cities:
-- San Francisco, CA, USA
 company_url: https://affirm.com
 job_board_url: https://www.affirm.com/careers
 job_board_provider: greenhouse

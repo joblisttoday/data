@@ -1,8 +1,6 @@
 ---
 title: Coursera
 slug: coursera
-cities:
-- Mountain View, CA, USA
 company_url: https://coursera.org
 job_board_url: https://about.coursera.org/careers
 job_board_provider: greenhouse
