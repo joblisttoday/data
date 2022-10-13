@@ -13,8 +13,6 @@ linkedin_url: 'https://www.linkedin.com/company/remerge---app-retargeting/'
 facebook_url: 'https://www.facebook.com/remerge.io'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10117'
@@ -22,4 +20,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.394987,52.524764]}'
 ---
-

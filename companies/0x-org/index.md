@@ -1,8 +1,6 @@
 ---
 title: 0x
 slug: 0x-org
-cities:
-- San Francisco, CA, USA
 company_url: https://0x.org
 job_board_url: https://www.0x.org/about/jobs
 job_board_provider: greenhouse

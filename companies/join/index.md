@@ -11,11 +11,8 @@ tags:
   - startup
 job_board_url: 'https://join.join.com'
 created_at: '2020-03-01T16:23:12.377Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.413107,52.538563]}'
 ---
-

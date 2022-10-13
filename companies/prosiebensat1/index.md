@@ -12,7 +12,4 @@ job_board_url: >-
   https://www.prosiebensat1-jobs.com/stellenangebote.html?reset_search=0&search_mode=job_filter_advanced&filter%5Bvolltext%5D=&filter%5Bcountr%5D%5B%5D=41
 created_at: '2018-02-10T15:09:43.597Z'
 updated_at: '2019-06-16T10:36:09.631Z'
-cities:
-  - berlin
 ---
-

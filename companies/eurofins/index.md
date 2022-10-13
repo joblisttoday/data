@@ -17,8 +17,6 @@ job_board_provider: smartrecruiters
 job_board_hostname: Eurofins
 created_at: '2020-07-04T16:30:18.626Z'
 updated_at: '2020-07-04T16:30:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '12489'
@@ -26,4 +24,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.528514,52.428835]}'
 ---
-

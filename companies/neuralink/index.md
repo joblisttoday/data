@@ -12,7 +12,4 @@ job_board_url: https://neuralink.com/careers
 job_board_provider: greenhouse
 job_board_hostname: neuralink
 twitter_url: https://twitter.com/neuralink
-cities:
-  - Fremont, California, USA
-  - Austin, Texas, USA
 ---

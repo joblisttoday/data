@@ -11,8 +11,6 @@ company_url: https://aceandtate.com
 job_board_url: https://jobs.aceandtate.com/
 job_board_provider: lever
 job_board_hostname: aceandtate
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

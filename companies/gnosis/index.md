@@ -18,8 +18,6 @@ job_board_url: https://gnosis.io/team
 job_board_provider: greenhouse
 job_board_hostname: gnosis
 twitter_url: https://twitter.com/gnosisPM
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

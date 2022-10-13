@@ -14,7 +14,4 @@ tags:
   - startup
 job_board_url: 'https://pureganic.de'
 created_at: '2019-08-01T09:52:06.761Z'
-cities:
-  - berlin
 ---
-

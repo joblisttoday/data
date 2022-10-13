@@ -14,12 +14,9 @@ linkedin_url: 'https://www.linkedin.com/company/point-nine-capital'
 facebook_url: 'https://www.facebook.com/PointNineCap'
 created_at: '2017-06-28T20:32:41.806Z'
 updated_at: '2020-04-04T17:21:41.806Z'
-cities:
-  - berlin
 positions:
   - address: 'Point Nine Capital, Chausseestraße 19, 10115 Berlin, Germany'
     country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.3842365,52.5303059]}'
 ---
-

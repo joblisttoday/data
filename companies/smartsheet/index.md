@@ -1,8 +1,6 @@
 ---
 title: Smartsheet
 slug: smartsheet
-cities:
-- Bellevue, WA, USA
 company_url: https://smartsheet.com
 job_board_url: https://www.smartsheet.com/careers
 job_board_provider: greenhouse

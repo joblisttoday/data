@@ -14,10 +14,7 @@ job_board_url: 'https://imagine-zero.org/join'
 linkedin_url: 'https://www.linkedin.com/company/imagine-zero'
 created_at: '2020-09-08T12:40:18.626Z'
 updated_at: '2020-09-08T12:40:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
 ---
-

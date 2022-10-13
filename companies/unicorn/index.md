@@ -16,8 +16,6 @@ job_board_hostname: unicorn.de
 linkedin_url: https://www.linkedin.com/company/unicorn-workspaces/
 instagram_url: https://www.instagram.com/unicornworkspaces/
 facebook_url: https://www.facebook.com/unicornworkspaces/
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

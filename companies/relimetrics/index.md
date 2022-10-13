@@ -19,8 +19,6 @@ tags:
 job_board_url: 'https://relimetricsinc.recruitee.com'
 created_at: '2020-04-04T14:06:09.626Z'
 updated_at: '2020-04-04T14:06:09.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '12489'
@@ -28,4 +26,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.538042,52.429374]}'
 ---
-

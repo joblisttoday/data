@@ -1,7 +1,6 @@
 ---
 title: Shopify
 slug: shopify
-cities: []
 company_url: https://shopify.com
 job_board_url: https://www.shopify.com/careers
 job_board_provider: smartrecruiters

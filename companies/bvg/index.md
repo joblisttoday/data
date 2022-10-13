@@ -16,7 +16,4 @@ job_board_url: >-
   http://unternehmen.bvg.de/de/Unternehmen/Karriere-Ausbildung/Stellenangebote/Aktuelle-Stellenangebote
 created_at: '2018-02-01T10:40:19.276Z'
 updated_at: '2019-06-16T10:36:08.532Z'
-cities:
-  - berlin
 ---
-

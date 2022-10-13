@@ -11,7 +11,4 @@ tags:
   - life-science
 job_board_url: 'https://www.clariness.com/careers/'
 created_at: '2019-10-22T08:27:46.472Z'
-cities:
-  - berlin
 ---
-

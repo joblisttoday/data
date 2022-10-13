@@ -12,8 +12,6 @@ job_board_hostname: enote-gmbh
 twitter_url: https://twitter.com/enoteapp
 instagram_url: https://www.instagram.com/enoteapp
 facebook_url: https://www.facebook.com/enoteapp
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

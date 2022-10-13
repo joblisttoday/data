@@ -11,6 +11,4 @@ linkedin_url: https://www.linkedin.com/company/bill-com
 instagram_url: https://www.instagram.com/_Billcom
 description: Bill.com is a provider of cloud-based software that simplifies and automates  back-office financial operations.
 tags: ['software', 'finance']
-cities:
-- Palo Alto, CA, USA
 ---

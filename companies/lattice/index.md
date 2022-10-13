@@ -1,8 +1,6 @@
 ---
 title: Lattice
 slug: lattice
-cities:
-- San Francisco, CA, USA
 company_url: https://lattice.com
 job_board_url: https://lattice.com/careers
 job_board_provider: greenhouse

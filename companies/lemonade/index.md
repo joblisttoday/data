@@ -1,10 +1,6 @@
 ---
 title: Lemonade
 slug: lemonade
-cities:
-- New York, NY, USA
-- Tel Aviv, Israel
-- Amsterdam, Netherlands
 company_url: https://lemonade.com
 job_board_url: https://makers.lemonade.com/
 twitter_url: https://twitter.com/lemonade_inc

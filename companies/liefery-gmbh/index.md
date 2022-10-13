@@ -19,8 +19,6 @@ linkedin_url: 'https://www.linkedin.com/company/5324005'
 instagram_url: 'https://www.instagram.com/liefery_inside'
 facebook_url: 'https://www.facebook.com/same.day.delivery'
 updated_at: '2020-09-08T20:42:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '13355'
@@ -28,4 +26,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.39465,52.539526]}'
 ---
-

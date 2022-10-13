@@ -1,9 +1,6 @@
 ---
 title: Divvy
 slug: divvy
-cities:
-- San Jose, CA, USA
-- Draper, UT, USA
 company_url: https://getdivvy.com
 job_board_url: https://getdivvy.com/careers/
 job_board_provider: greenhouse

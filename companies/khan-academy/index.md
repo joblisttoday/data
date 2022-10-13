@@ -1,11 +1,6 @@
 ---
 title: Khan Academy
 slug: khan-academy
-cities:
-- California, CA, USA
-- Palo Alto, CA, USA
-- Mountain View, CA, USA
-- Manassas, VA, USA
 company_url: https://khanacademy.org
 job_board_url: https://www.khanacademy.org/careers
 job_board_provider: greenhouse

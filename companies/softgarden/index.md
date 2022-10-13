@@ -15,9 +15,6 @@ job_board_hostname: softgarden
 twitter_url: https://twitter.com/softgarden
 linkedin_url: https://www.linkedin.com/company/softgardengmbh
 facebook_url: https://www.facebook.com/softgarden/
-cities:
-  - berlin
-  - saarbrücken
 positions:
   - country: germany
     city: berlin

@@ -10,6 +10,4 @@ twitter_url: https://twitter.com/getsentry
 github_url: https://github.com/getsentry
 description: From error tracking to performance monitoring, Sentry helps developers see what actually matters, solve quicker, and learn continuously about their applications from the frontend to the backend.
 tags: ['software', 'testing']
-cities:
-- San Francisco, CA, USA
 ---

@@ -16,10 +16,7 @@ instagram_url: 'https://www.instagram.com/lime'
 facebook_url: 'https://www.facebook.com/limebike'
 created_at: '2020-09-08T12:45:18.626Z'
 updated_at: '2020-09-08T12:45:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
 ---
-

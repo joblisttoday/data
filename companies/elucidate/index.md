@@ -19,9 +19,6 @@ job_board_provider: peoplehr
 job_board_hostname: elucidate
 twitter_url: https://twitter.com/ElucidateGmbH
 linkedin_url: https://www.linkedin.com/company/elucidate-gmbh/
-cities:
-  - berlin
-  - ""
 positions:
   - country: germany
     city: berlin

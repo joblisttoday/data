@@ -1,8 +1,6 @@
 ---
 title: Nearpod
 slug: nearpod
-cities:
-- Seattle, WA, USA
 company_url: https://nearpod.com
 job_board_url: https://nearpod.com/careers
 job_board_provider: smartrecruiters

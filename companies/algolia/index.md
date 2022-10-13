@@ -1,8 +1,6 @@
 ---
 title: Algolia
 slug: algolia
-cities:
-- San Francisco, CA, USA
 company_url: https://algolia.com
 job_board_url: https://www.algolia.com/careers
 job_board_provider: greenhouse

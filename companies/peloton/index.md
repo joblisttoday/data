@@ -1,8 +1,6 @@
 ---
 title: Peloton
 slug: peloton
-cities:
-- New York, NY, USA
 company_url: https://onepeloton.com
 job_board_url: https://careers.onepeloton.com
 job_board_provider: greenhouse

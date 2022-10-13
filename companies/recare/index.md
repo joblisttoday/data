@@ -16,8 +16,6 @@ job_board_url: 'https://recaregmbh.recruitee.com'
 linkedin_url: 'https://www.linkedin.com/company/recare'
 created_at: '2020-04-04T15:48:08.626Z'
 updated_at: '2020-04-04T15:48:08.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10559'
@@ -25,4 +23,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.347322,52.524779]}'
 ---
-

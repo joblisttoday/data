@@ -18,8 +18,6 @@ instagram_url: 'https://www.instagram.com/_planetly/'
 facebook_url: 'https://www.facebook.com/planetly'
 created_at: '2020-09-08T12:50:18.626Z'
 updated_at: '2020-09-08T12:50:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10119'
@@ -27,4 +25,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.405662,52.528307]}'
 ---
-

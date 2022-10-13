@@ -1,11 +1,6 @@
 ---
 title: Instacart
 slug: instacart
-cities:
-- San Francisco, CA, USA
-- Atlanta, GA, USA
-- Toronto, Ontario, USA
-- Melbourne, Australia
 company_url: https://instacart.com
 job_board_url: https://instacart.careers
 job_board_provider: greenhouse

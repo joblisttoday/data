@@ -17,11 +17,8 @@ tags:
 job_board_url: 'https://www.komoot.com/jobs'
 created_at: '2018-02-08T09:03:21.280Z'
 updated_at: '2019-06-16T10:36:09.636Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.0583386,52.3878585]}'
 ---
-

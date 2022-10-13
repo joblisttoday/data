@@ -18,8 +18,6 @@ instagram_url: 'https://www.instagram.com/yas.healthapp'
 facebook_url: 'https://www.facebook.com/yas.healthapp'
 created_at: '2020-09-08T20:38:18.626Z'
 updated_at: '2020-09-08T20:38:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10178'
@@ -27,4 +25,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.41406,52.519956]}'
 ---
-

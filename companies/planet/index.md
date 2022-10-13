@@ -1,8 +1,6 @@
 ---
 title: Planet
 slug: planet
-cities:
-- San Francisco, CA, USA
 company_url: https://planet.com
 job_board_url: https://www.planet.com/company/careers/
 job_board_provider: greenhouse

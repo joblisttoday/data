@@ -20,8 +20,6 @@ job_board_hostname: share
 linkedin_url: https://www.linkedin.com/company/shareberlin/
 instagram_url: https://www.instagram.com/share/
 facebook_url: https://www.facebook.com/share.produkte/
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

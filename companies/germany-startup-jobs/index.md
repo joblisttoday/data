@@ -10,7 +10,4 @@ tags:
 job_board_url: 'http://www.germanystartupjobs.com/browse-jobs/?keywords=&location=berlin'
 created_at: '2017-06-28T20:36:16.598Z'
 updated_at: '2019-06-16T10:36:09.745Z'
-cities:
-  - berlin
 ---
-

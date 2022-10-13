@@ -1,8 +1,6 @@
 ---
 title: Squarespace
 slug: squarespace
-cities:
-- New York, NY, USA
 company_url: https://squarespace.com
 job_board_provider: greenhouse
 job_board_hostname: squarespace

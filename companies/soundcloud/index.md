@@ -11,8 +11,6 @@ job_board_provider: greenhouse
 job_board_hostname: soundcloud71
 created_at: '2017-06-28T20:20:54.577Z'
 updated_at: '2019-06-16T10:36:09.731Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin

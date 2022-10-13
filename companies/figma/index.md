@@ -1,9 +1,6 @@
 ---
 title: Figma
 slug: figma
-cities:
-- San Francisco, CA, USA
-- North Providence, RI, USA
 company_url: https://figma.com
 job_board_url: https://www.figma.com/careers
 job_board_provider: greenhouse

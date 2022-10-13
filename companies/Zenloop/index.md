@@ -14,8 +14,6 @@ job_board_hostname: zenloopgmbh
 twitter_url: https://twitter.com/zenloop_com
 linkedin_url: https://www.linkedin.com/company/zenloop
 facebook_url: https://www.facebook.com/zenloop
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: "10409"

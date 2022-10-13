@@ -16,11 +16,8 @@ tags:
 job_board_url: 'https://vimcar.de/career/jobs'
 created_at: '2018-02-09T06:49:26.337Z'
 updated_at: '2019-06-16T10:36:09.783Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.4276711,52.4999017]}'
 ---
-

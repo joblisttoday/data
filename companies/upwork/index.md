@@ -1,8 +1,6 @@
 ---
 title: Upwork
 slug: upwork
-cities:
-- Santa Clara, CA, USA
 company_url: https://upwork.com
 job_board_url: https://www.upwork.com/careers
 job_board_provider: greenhouse

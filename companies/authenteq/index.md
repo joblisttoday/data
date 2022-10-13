@@ -14,8 +14,6 @@ company_url: 'https://authenteq.com'
 job_board_url: 'https://authenteq.recruitee.com'
 created_at: '2020-04-04T14:47:08.626Z'
 updated_at: '2020-04-04T14:47:08.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10435'
@@ -23,4 +21,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.40382,52.540293]}'
 ---
-

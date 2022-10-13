@@ -17,12 +17,9 @@ twitter_url: 'https://twitter.com/hirschengroup'
 linkedin_url: 'https://www.linkedin.com/company/hirschen-group-gmbh'
 created_at: '2020-09-08T16:48:18.626Z'
 updated_at: '2020-09-08T16:48:18.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10997'
     address: 'Schlesische Straße 26, Aufgang C-IV'
     city: berlin
 ---
-

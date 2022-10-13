@@ -16,8 +16,6 @@ tags:
 job_board_url: 'https://cherryventures.recruitee.com/'
 created_at: '2020-04-04T13:39:09.626Z'
 updated_at: '2020-04-04T13:39:09.626Z'
-cities:
-  - berlin
 positions:
   - country: germany
     postal_code: '10115'
@@ -25,4 +23,3 @@ positions:
     city: berlin
     map: '{"type":"Point","coordinates":[13.396951,52.528529]}'
 ---
-

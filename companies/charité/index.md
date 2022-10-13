@@ -11,11 +11,8 @@ tags:
 job_board_url: 'https://www.charite.de/karriere/'
 created_at: '2018-02-09T19:51:48.859Z'
 updated_at: '2019-06-16T10:36:08.537Z'
-cities:
-  - berlin
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.3781312,52.5273921]}'
 ---
-

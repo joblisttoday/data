@@ -1,13 +1,6 @@
 ---
 title: SpaceX
 slug: spacex
-cities:
-- Hawthorne, CA, USA
-- Cape Canaveral, FL, USA
-- Brownsville, TX, USA
-- Redmond, WA, USA
-- McGregor, TX, United States
-- Vandenberg, CA, United States
 company_url: https://spacex.com
 job_board_url: https://www.spacex.com/careers
 job_board_provider: greenhouse

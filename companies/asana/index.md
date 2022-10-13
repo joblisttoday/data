@@ -1,8 +1,6 @@
 ---
 title: Asana
 slug: asana
-cities:
-- San Francisco, CA, USA
 company_url: https://asana.com
 job_board_url: https://asana.com/jobs
 job_board_provider: greenhouse

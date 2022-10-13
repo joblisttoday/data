@@ -15,8 +15,4 @@ job_board_provider: greenhouse
 job_board_hostname: symbiont
 twitter_url: https://twitter.com/SymbiontIO
 linkedin_url: https://www.linkedin.com/company/symbiont-io/
-cities:
-  - new-york
-  - amsterdam
-  - remote
 ---

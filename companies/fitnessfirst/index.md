@@ -12,7 +12,4 @@ tags:
 job_board_url: 'https://www.fitnessfirst.de/karriere/jobs?text=&type=All&location=959'
 created_at: '2018-02-09T15:06:12.336Z'
 updated_at: '2019-06-16T10:36:08.529Z'
-cities:
-  - berlin
 ---
-

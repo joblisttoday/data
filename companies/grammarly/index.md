@@ -1,9 +1,6 @@
 ---
 title: Grammarly
 slug: grammarly
-cities:
-- San Francisco, CA, USA
-- Seattle, WA, USA
 company_url: https://grammarly.com
 job_board_url: https://www.grammarly.com/jobs
 job_board_provider: greenhouse

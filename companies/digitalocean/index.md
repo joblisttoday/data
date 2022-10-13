@@ -1,8 +1,6 @@
 ---
 title: DigitalOcean
 slug: digitalocean
-cities:
-- New York, NY, USA
 company_url: https://digitalocean.com
 job_board_url: https://www.digitalocean.com/careers
 job_board_provider: greenhouse
