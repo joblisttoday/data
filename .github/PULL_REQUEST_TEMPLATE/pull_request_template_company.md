@@ -35,3 +35,7 @@ positions:
 created_at: 2022-02-22
 updated_at: 2022-03-15
 ---
+
+Here we can write more custom information about the company.
+
+This place space in the file can use Traditional **markdown**  syntax.
