@@ -10,12 +10,12 @@ tags:
   - startup
   - prop-tech
 company_url: https://www.unicorn.de/
-job_board_url: https://unicornjobs.heavenhr.com/jobs
-job_board_provider: heavenhr
-job_board_hostname: unicornjobs
+job_board_url: https://www.unicorn.de/en/jobs
+job_board_provider: unicorn.de
+job_board_hostname: unicorn.de
 linkedin_url: https://www.linkedin.com/company/unicorn-workspaces/
-instagram_url: https://www.instagram.com/unicorn.workspaces/
-facebook_url: https://www.facebook.com/unicornworkspaces
+instagram_url: https://www.instagram.com/unicornworkspaces/
+facebook_url: https://www.facebook.com/unicornworkspaces/
 cities:
   - berlin
 positions:
@@ -25,5 +25,5 @@ positions:
     address: Gustav-Meyer-Allee 25, Gebäude 12, Aufgang 2
     postal_code: "13355"
 created_at: 2020-01-10T09:30:50.000Z
-updated_at: 2020-12-20
+updated_at: 2021-12-14
 ---
