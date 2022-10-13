@@ -8,10 +8,18 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a new project! Your
-        submission will be reviewed, and eventually added to the
+        Thanks for taking the time to submit a new project!
+
+        Your submission will be reviewed, and eventually added to the
         database (this repository), or commented by the community of
         editors.
+
+        Do you know that it is possible to add a company to this database on your own?
+        Visit https://edit.joblist.today/#/collections/companies/new (also
+        with your github account) for a CMS interface that allows to
+        edit all available information fields.
+
+        If this way is not possible or there is an issue, continue with this form.
   - type: input
     id: title
     attributes:
@@ -26,11 +34,11 @@ body:
     attributes:
       label: Slug
       description: |
-        The slug, is a unique ID (company-name-separated-by-dashes), part of the URL address that will represent this project in the system.(ex: https://example.org/design-made-in-earth)
+        The slug, is a unique ID (company-name-separated-by-dashes), part of the URL address that will represent this project in the system.(ex: https://example.org/design-made-in-earth). Feel free to leave this empty if you don't have any preference.
       placeholder: design-made-in-earth
       value: example-slug-my-pr0ject
     validations:
-      required: true
+      required: false
   - type: textarea
     id: description
     attributes:
@@ -45,7 +53,7 @@ body:
     id: tags
     attributes:
       label: Tags
-      description: Tags that represent this project
+      description: Tags that represent what this project is about. Make a "comma separated list" of all tags
       placeholder: ex. health-care,culture,urban-planning
     validations:
       required: false
@@ -53,7 +61,7 @@ body:
     id: company_url
     attributes:
       label: Project URL
-      description: The URL address of this project's homepag'
+      description: The URL address of this company, the homepage of the project
       placeholder: ex. https://example.org
     validations:
       required: true
@@ -62,7 +70,7 @@ body:
     attributes:
       label: Job Board URL
       description: |
-        The URL address to the jobs/career's page for this project's job listing. If you are adding a company in this database, it is because it should currently be hirring people for work somewhere!
+        The URL address to the jobs page for this projects (the carreer's page, with the 'job listing). If you are now adding a company in this database, it is eventually that the company is currently hirring people for work (anywhere).
       placeholder: ex. https://example.org/jobs
     validations:
       required: true
