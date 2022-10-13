@@ -2,8 +2,8 @@
 title: RitterRichard
 slug: ritterrichard
 description: >-
-  ""#catering #agency doing #handmade kitchen creative #gastronomy; #hospitality
-  #restaurant #kitchen #cuisine #events""
+  #catering #agency doing #handmade kitchen creative #gastronomy; #hospitality
+  #restaurant #kitchen #cuisine #events
 tags:
   - catering
   - agency
