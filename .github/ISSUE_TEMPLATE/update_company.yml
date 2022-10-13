@@ -1,7 +1,7 @@
-name: Edit existing company
-description: New edits that should to be made to a project/company
-title: "[edit] example.org"
-labels: ["edit-company"]
+name: Update existing company
+description: Edits that should be made to a project/company already existing on the job list platform
+title: "[update] example.org"
+labels: ["update-company"]
 assignees:
   - user-09876
 body:
@@ -13,16 +13,15 @@ body:
         Do you know that it is actually possible to edit all content directly yourself?! Either:
         - edit the data you wish to change, in the file, on github (and submit a Pull Request)
         - use https://edit.joblist.today with your github account
-        - use https://profiles.joblist.today, and click the "edit" button on the content you wish to suggest changes for (github or cms editors).
 
         If you still have an issue with these methods, continue with this form!
 
   - type: input
     id: title
     attributes:
-      label: Title/Name/Slug
-      description: The title, name or slug of the project/company that you would like to edit.
-      placeholder: ex. example company
+      label: Company profile
+      description: The URL address to the profile for this company, on the https://profiles.joblist.today platform (use the direct link to the company profile page).
+      placeholder: ex. https://profiles.joblist.today/companies/ableton
     validations:
       required: true
   - type: textarea

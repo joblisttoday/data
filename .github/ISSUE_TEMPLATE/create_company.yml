@@ -1,14 +1,17 @@
-name: "New company/project"
+name: "Create new company/project"
 description: "Suggest a new project/company to the database (this git repository)"
-title: "[add]: example.org"
-labels: ["new-company"]
+title: "[create] example.org"
+labels: ["create-company"]
 assignees:
   - user-09876
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a new project!
+        Thanks for taking the time to submit a new project! Your
+        submission will be reviewed, and eventually added to the
+        database (this repository), or commented by the community of
+        editors.
   - type: input
     id: title
     attributes:

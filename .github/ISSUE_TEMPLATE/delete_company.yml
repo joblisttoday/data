@@ -1,0 +1,42 @@
+name: Delete existing company
+description: Request the deletion of an existing company.
+title: "[delete] example.org"
+labels: ["delete-company"]
+assignees:
+  - user-09876
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Would you like to remove content from this database?
+
+        It is actually possible to edit all content directly yourself, to speed up the process. Either:
+        - edit the data you wish to remove, in the file, on github (and submit a Pull Request)
+        - use https://edit.joblist.today with your github account
+
+        If you still have an issue with these methods, continue with this form!
+
+  - type: input
+    id: title
+    attributes:
+      label: Company profile
+      description: The URL address to the profile for this company, on the https://profiles.joblist.today platform (use the direct link to the company profile page).
+      placeholder: ex. https://profiles.joblist.today/companies/ableton
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Why would you like to remove this company/project?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Are you sure?
+      description: Are you sure that you would like to request removal of this project from this repository?
+      options:
+        - label: I am sure
+          required: true
