@@ -1,6 +1,6 @@
 name: "New company/project"
 description: "Suggest a new project/company to the database (this git repository)"
-title: "[New Company]: <company name>"
+title: "[add]: example.org"
 labels: ["new-company"]
 assignees:
   - user-09876
@@ -12,7 +12,7 @@ body:
   - type: input
     id: title
     attributes:
-      label: Title
+      label: Title/Name
       description: The title/name of the project/company (used in public)
       placeholder: ex. Microsoft, Design Made In Earth etc.
       value: Example
