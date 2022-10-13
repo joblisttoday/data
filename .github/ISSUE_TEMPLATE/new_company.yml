@@ -15,6 +15,7 @@ body:
       label: Title
       description: The title/name of the project/company (used in public)
       placeholder: ex. Microsoft, Design Made In Earth etc.
+      value: Example
     validations:
       required: true
   - type: input
@@ -24,6 +25,7 @@ body:
       description: |
         The slug, is a unique ID (company-name-separated-by-dashes), part of the URL address that will represent this project in the system.(ex: https://example.org/design-made-in-earth)
       placeholder: design-made-in-earth
+      value: example-slug-my-pr0ject
     validations:
       required: true
   - type: textarea
@@ -33,7 +35,7 @@ body:
       description: |
         A short text description of what the Project/Company is about (as defined by their public relations & objective informations).
       placeholder: "Decription of the project"
-      value: ""
+      value: "An example description for and example project."
     validations:
       required: true
   - type: input
@@ -41,7 +43,7 @@ body:
     attributes:
       label: Tags
       description: Tags that represent this project
-      placeholder: ex. design,startup,health-care
+      placeholder: ex. health-care,culture,urban-planning
     validations:
       required: false
   - type: input
