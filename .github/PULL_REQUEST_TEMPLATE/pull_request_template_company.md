@@ -9,7 +9,7 @@ tags:
   - bar-company
   - somthing-specific
 
-company_url: https://example.org/
+company_url: https://example.org
 job_board_url: https://www.example.org/jobs
 job_board_provider: greenhouse
 job_board_hostname: project-hostname-slug

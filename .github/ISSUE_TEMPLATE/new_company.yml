@@ -1,2 +1,81 @@
-name: New company/project
-description: Add a new project/company to the database (this git repository)
+name: "New company/project"
+description: "Suggest a new project/company to the database (this git repository)"
+title: "[New Company]: <company name>"
+labels: ["new-company"]
+assignees:
+  - user-09876
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a new project!
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: The title/name of the project/company (used in public)
+      placeholder: ex. Microsoft, Design Made In Earth etc.
+    validations:
+      required: true
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: |
+        The slug, is a unique ID (company-name-separated-by-dashes), part of the URL address that will represent this project in the system.(ex: https://example.org/design-made-in-earth)
+      placeholder: design-made-in-earth
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        A short text description of what the Project/Company is about (as defined by their public relations & objective informations).
+      placeholder: "Decription of the project"
+      value: ""
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Tags that represent this project
+      placeholder: ex. design,startup,health-care
+    validations:
+      required: false
+  - type: input
+    id: company_url
+    attributes:
+      label: Project URL
+      description: The URL address of this project's homepag'
+      placeholder: ex. https://example.org
+    validations:
+      required: true
+  - type: input
+    id: job_board_url
+    attributes:
+      label: Job Board URL
+      description: |
+        The URL address to the jobs/career's page for this project's job listing. If you are adding a company in this database, it is because it should currently be hirring people for work somewhere!
+      placeholder: ex. https://example.org/jobs
+    validations:
+      required: true
+  - type: input
+    id: job_board_provider
+    attributes:
+      label: Job Board Provider
+      description: |
+        The identification name of the job board provider that this project/company is using, in order to list and display their jobs offering. Check the full list of available providers here https://providers.joblist.today
+      placeholder: ex. greenhouse
+    validations:
+      required: false
+  - type: input
+    id: job_board_hostname
+    attributes:
+      label: Job Board Hostname
+      description: |
+        The identification name of company/project, as defined by the job board provider they are using in order to list and display their jobs offering. Try to display jobs with the provider identification name provided above https://providers.joblist.today
+      placeholder: ex. greenhouse
+    validations:
+      required: false
