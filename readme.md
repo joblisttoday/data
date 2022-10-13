@@ -1,4 +1,4 @@
-# Companies
+# Data
 
 A list of projects and companies potentially hirring, editable by
 everyone in full transparency with open authoring, each updates
