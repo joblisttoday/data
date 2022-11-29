@@ -1,0 +1,22 @@
+---
+created_at: 2022-11-29
+updated_at: 2022-11-29
+title: AKQA
+slug: akqa
+company_url: https://www.akqa.com
+job_board_url: https://www.akqa.com/careers
+job_board_provider: greenhouse
+job_board_hostname: akqa
+description: " AKQA is renowned as a global design and innovation agency."
+tags:
+  - design
+  - communication
+  - agency
+twitter_url: ""
+linkedin_url: https://www.linkedin.com/company/akqa/
+youtube_url: https://www.youtube.com/user/madeinakqa
+instagram_url: https://www.instagram.com/akqa/
+facebook_url: https://www.facebook.com/akqa/
+github_url: https://github.com/akqa
+wikipedia_url: https://en.wikipedia.org/wiki/AKQA
+---
