@@ -1,0 +1,24 @@
+---
+created_at: 2022-12-04
+updated_at: 2022-12-04
+title: IOHK
+slug: iohk
+company_url: https://iohk.io
+job_board_url: https://apply.workable.com/io-global/
+job_board_provider: workable
+job_board_hostname: io-global
+description: >
+  IO Global has created many innovative and exciting products and brands using
+  blockchain technology. These include  blockchains such as Cardano,
+  cryptocurrencies such as ADA, identity products to help empower millions, and
+  crypto wallets.
+tags:
+  - blockchain
+  - cryptocurrency
+twitter_url: https://twitter.com/inputoutputHK
+linkedin_url: https://www.linkedin.com/company/input-output-global/
+youtube_url: https://www.youtube.com/c/IohkIo
+instagram_url: https://www.instagram.com/iohkofficial
+facebook_url: https://www.facebook.com/iohk.io/
+github_url: https://www.github.com/input-output-hk
+---
