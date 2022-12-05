@@ -1,0 +1,19 @@
+---
+created_at: 2022-12-05
+updated_at: 2022-12-05
+title: Talon.one
+slug: talon-one
+company_url: https://www.talon.one
+job_board_url: https://www.talon.one/jobs
+job_board_provider: talonone
+job_board_hostname: greenhouse
+description: Talon.One is a solution for creating, managing, and analyzing
+  promotional marketing campaigns.
+tags:
+  - startup
+  - coupons
+twitter_url: https://twitter.com/talonone
+linkedin_url: https://www.linkedin.com/company/talon.one
+instagram_url: https://www.instagram.com/talon.one
+facebook_url: https://www.facebook.com/wearetalonone
+---
