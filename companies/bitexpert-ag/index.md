@@ -19,4 +19,10 @@ twitter_url: https://www.twitter.com/bitExpert
 linkedin_url: https://www.linkedin.com/company/bitexpert-ag/
 facebook_url: https://www.facebook.com/bitExpert
 github_url: https://www.github.com/bitExpert
+positions:
+  - country: Germany
+    city: Mannheim
+    postal_code: "68169"
+    address: Industriestrasse 35
+    map: '{"type":"Point","coordinates":[8.4672023,49.5124734]}'
 ---
