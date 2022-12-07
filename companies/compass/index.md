@@ -1,0 +1,22 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Compass
+slug: compass
+company_url: https://www.compass.com
+job_board_url: https://www.compass.com/careers
+job_board_provider: greenhouse
+job_board_hostname: adjacentservices
+description: Compass, Inc. is an American licensed real estate broker that
+  utilizes the Internet as a marketing medium with the use of real estate
+  technology. Compass employs more than 25,000 agents who earn a percentage of
+  the selling price and give a percentage of each commission to Compass,
+  consistent with the traditional real estate brokerage business model. Compass
+  specializes in high-margin, luxury homes in upscale markets
+tags:
+  - real-estate
+twitter_url: https://twitter.com/compass
+instagram_url: https://instagram.com/compass
+facebook_url: https://facebook.com/compass
+wikipedia_url: https://en.wikipedia.org/wiki/Compass,_Inc.
+---
