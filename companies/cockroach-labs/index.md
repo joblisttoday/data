@@ -1,0 +1,30 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Cockroach Labs
+slug: cockroach-labs
+company_url: https://www.cockroachlabs.com
+job_board_url: https://www.cockroachlabs.com/careers
+job_board_provider: greenhouse
+job_board_hostname: cockroachlabs
+description: CockroachDB makes it easier for companies to build and scale apps.
+  We’re cloud-native, open source, and damn near indestructible. Today,
+  Cockroach Labs helps organizations of all sizes—from single-person startups to
+  multinational enterprises—manage their data seamlessly.
+tags:
+  - database
+  - startup
+  - open-source
+twitter_url: https://twitter.com/cockroachdb
+linkedin_url: https://www.linkedin.com/company/cockroach-labs
+youtube_url: https://www.youtube.com/@cockroachdb
+facebook_url: https://en-gb.facebook.com/cockroachlabs/
+github_url: https://github.com/cockroachdb
+wikipedia_url: https://en.wikipedia.org/wiki/CockroachDB
+positions:
+  - country: " USA"
+    city: " New York City"
+    postal_code: " 10001"
+    address: " 125 W 25th Street"
+    map: '{"type":"Point","coordinates":[-73.9930481,40.744877]}'
+---
