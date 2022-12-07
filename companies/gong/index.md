@@ -1,0 +1,23 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Gong
+slug: gong
+company_url: https://www.gong.io
+job_board_url: https://www.gong.io/careers
+job_board_provider: lever
+job_board_hostname: gong
+description: Gong unlocks reality to help people and companies reach their full
+  potential. The patented Gong Revenue Intelligence Platform™ empowers
+  customer-facing teams to take advantage of their most valuable assets –
+  customer interactions, which the Gong platform automatically captures and
+  analyzes. Gong then delivers insights at scale, empowering revenue and
+  go-to-market teams to determine the best actions for winning outcomes.
+tags:
+  - data
+twitter_url: https://twitter.com/gong_io
+linkedin_url: https://www.linkedin.com/company/gong-io
+instagram_url: https://www.instagram.com/gong.io/
+facebook_url: https://www.facebook.com/To.GongIO/
+github_url: https://github.com/gong-io
+---
