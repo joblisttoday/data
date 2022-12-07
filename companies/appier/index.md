@@ -1,0 +1,18 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Appier
+slug: appier
+company_url: https://www.appier.com/en/
+job_board_url: https://www.appier.com/en/about/career/
+job_board_provider: greenhouse
+job_board_hostname: appier
+description: "Full-Funnel Marketing Made Smarter with AI "
+tags:
+  - marketing
+  - AI
+twitter_url: https://twitter.com/GoAppier
+linkedin_url: https://www.linkedin.com/company/appier
+youtube_url: https://www.youtube.com/channel/UCcHcKWPHdwQ6f2wVswvg9fw
+facebook_url: https://www.facebook.com/appierinc
+---
