@@ -1,0 +1,23 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Blend
+slug: blend
+company_url: https://blend.com
+job_board_url: https://blend.com/company/careers
+job_board_provider: greenhouse
+job_board_hostname: blend
+description: Blend is the cloud banking infrastructure powering billions of
+  dollars in financial transactions every day. See how it works Request a demo
+  Enabling financial services firms to process an average of more than $5
+  billion in transactions per day Delivering superior customer experiences while
+  maximizing operational efficiency.
+tags:
+  - banking
+  - finance
+twitter_url: https://twitter.com/blendlabsinc
+linkedin_url: https://www.linkedin.com/company/blend-
+instagram_url: https://www.instagram.com/blendlabs/
+facebook_url: https://www.facebook.com/BlendLabs
+github_url: https://github.com/blend
+---
