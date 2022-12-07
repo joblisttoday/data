@@ -1,0 +1,18 @@
+---
+created_at: 2022-12-07
+updated_at: 2022-12-07
+title: Away
+slug: awaytravel
+company_url: https://www.awaytravel.com
+job_board_url: https://www.awaytravel.com/careers
+job_board_provider: greenhouse
+job_board_hostname: away
+description: Luggage and travel accessories retailer
+tags:
+  - retailer
+  - travel
+twitter_url: https://twitter.com/away
+instagram_url: https://www.instagram.com/away
+facebook_url: https://www.facebook.com/away
+wikipedia_url: https://en.wikipedia.org/wiki/Away_(company)
+---
