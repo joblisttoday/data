@@ -1,0 +1,30 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Parcl
+slug: parcl-co
+company_url: https://www.parcl.co
+job_board_url: https://www.parcl.co/career
+job_board_provider: greenhouse
+job_board_hostname: parcl
+description: >-
+  Parcl is a synthetic asset protocol, built on and backed by Solana, that is on
+  a mission to deliver real estate to everyone. The Parcl protocol allows users
+  to invest in a digital square foot of real estate in neighborhoods worldwide.
+  It does so by allowing for the creation of synthetic “Parcls” which are tied
+  to a price feed that is representative of the average price per square
+  foot/meter within a given neighborhood.  
+
+
+  With Parcl’s blockchain-based trading system, you can benefit from broad (or highly granular) exposure to the world’s most desirable real estate markets. Parcl requires no minimum investment, is highly liquid, and carries low transaction fees.
+
+
+  In simple terms – you can trade your favorite neighborhoods just like you would trade any other crypto asset.
+tags:
+  - real-estate
+  - cryptocurrency
+  - blockchain
+twitter_url: https://twitter.com/parcl
+instagram_url: https://www.instagram.com/parclco
+github_url: https://github.com/ParclFinance
+---
