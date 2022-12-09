@@ -1,0 +1,22 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Stellar
+slug: stellar
+company_url: https://www.stellar.org
+job_board_url: https://www.stellar.org/foundation/careers
+job_board_provider: greenhouse
+job_board_hostname: stellar
+description: Stellar, or Stellar Lumens, is an open source, decentralized
+  protocol for digital currency to fiat money low-cost transfers which allows
+  cross-border transactions between any pair of currencies. The Stellar protocol
+  is supported by a Delaware nonprofit corporation, the Stellar Development
+  Foundation, though this organization does not enjoy 501(c) tax-exempt status
+  with the IRS.
+tags:
+  - cryptocurrency
+  - blockchain
+twitter_url: https://twitter.com/stellarorg
+linkedin_url: https://www.linkedin.com/company/stellar-development-foundation/
+wikipedia_url: https://en.wikipedia.org/wiki/Stellar_(payment_network)
+---
