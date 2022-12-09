@@ -1,0 +1,23 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Consensys
+slug: consensys
+company_url: https://consensys.net
+job_board_url: https://consensys.net/careers
+job_board_provider: greenhouse
+job_board_hostname: consensys
+description: ConsenSys is a blockchain software technology company, editor of Metamask.
+tags:
+  - blockchain
+  - cryptocurrency
+  - DID
+  - web3
+twitter_url: https://twitter.com/ConsenSys
+linkedin_url: https://www.linkedin.com/company/consensus-systems-consensys-
+youtube_url: https://www.youtube.com/channel/UCBeLEwM-yhIKuIxHTx0VzdQ
+instagram_url: https://www.instagram.com/consensysofficial
+facebook_url: https://www.facebook.com/ConsenSysOfficial
+github_url: https://github.com/ConsenSys
+wikipedia_url: https://en.wikipedia.org/wiki/ConsenSys
+---
