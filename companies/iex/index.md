@@ -1,0 +1,21 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: IEX
+slug: iex-io
+company_url: https://iex.io
+job_board_url: https://iex.io/careers
+job_board_provider: greenhouse
+job_board_hostname: iex
+description: IEX is building technology that moves industries forward. Our story
+  began when we built a stock exchange designed to deliver high-performance
+  results for all investors. Our belief is that technology should level the
+  playing field so that opportunity is equitable. We are applying what we
+  learned from building a high-performance stock exchange to build technology
+  that solves for complexity and accelerates growth in other areas. We aspire to
+  build a trusted, disciplined, and diversified business. Our goal is to build
+  transformative technology without ever compromising our integrity - and we’re
+  just getting started!
+tags:
+  - cryptocurrency
+---
