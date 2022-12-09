@@ -1,0 +1,16 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Aldrin
+slug: aldrin
+company_url: https://aldrin.com
+job_board_url: https://apply.workable.com/aldrin
+job_board_provider: workable
+job_board_hostname: aldrin
+description: The first company to simplify DeFi will change society forever. If
+  you believe in the power of decentralization and cryptocurrency
+tags:
+  - cryptocurrency
+  - defi
+twitter_url: https://twitter.com/Aldrin_Exchange
+---
