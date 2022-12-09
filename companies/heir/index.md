@@ -1,0 +1,26 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: HEIR
+slug: heir-app
+company_url: https://www.heir.app/
+job_board_url: https://www.heir.app/careers
+job_board_provider: greenhouse
+job_board_hostname: heir
+description: >-
+  We strive to recognize and reward culture creators with the latest web3
+  philosophies around ownership.
+
+
+  Heir Inc. was born out of the desire to uplift and empower the next generation of athletes (and creators) with innovative technology and tools to deepen engagement and monetization with their audiences. HEIR presents a new opportunity for athletes (and creators) to engage with their most loyal supporters, define new revenue streams and digital enterprises, and position their brands for the future, into the Web 3.0 universe.
+
+
+  Heir Inc.’s mission is to provide the next evolution of digital culture to the world. We aim to redefine the perspective and functionality of digital culture while creating benefits for original culture creators and those who consume it early.
+tags:
+  - blockchain
+  - sports
+  - web3
+twitter_url: https://twitter.com/Heir_Company
+linkedin_url: https://www.linkedin.com/company/heir-inc/
+instagram_url: https://www.instagram.com/heir_app/
+---
