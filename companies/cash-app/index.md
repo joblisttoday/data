@@ -1,0 +1,20 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Cash App
+slug: cash-app
+company_url: https://cash.app
+job_board_url: https://cash.app/careers
+job_board_provider: smartrecruiters
+job_board_hostname: Square
+description: It all started with an idea at Block in 2013. Initially built to
+  take the pain out of peer-to-peer payments, Cash App has gone from a simple
+  product with a single purpose to a dynamic app, bringing a better way to send,
+  spend, invest, borrow and save to our millions of monthly active users.
+tags:
+  - blockchain
+  - cryptocurrency
+twitter_url: https://twitter.com/cashapp
+linkedin_url: https://www.linkedin.com/company/cash-app
+instagram_url: https://instagram.com/cashapp
+---
