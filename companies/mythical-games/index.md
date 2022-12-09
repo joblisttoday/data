@@ -1,0 +1,19 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Mythical Games
+slug: mythical-games
+company_url: https://mythicalgames.com
+job_board_url: https://mythicalgames.com/careers
+job_board_provider: greenhouse
+job_board_hostname: mythicalgames
+description: We are Mythical Games, a next-generation game technology studio at
+  the intersection of blockchain and games.
+tags:
+  - games
+  - blockchain
+twitter_url: https://twitter.com/playmythical
+linkedin_url: https://www.linkedin.com/company/mythical/
+instagram_url: https://www.instagram.com/playmythical/
+facebook_url: http://facebook.com/playmythical
+---
