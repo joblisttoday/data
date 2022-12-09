@@ -1,0 +1,22 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: coinflip
+slug: coinflip-tech
+company_url: https://coinflip.tech/
+job_board_url: https://coinflip.tech/careers
+job_board_provider: lever
+job_board_hostname: CoinFlip
+description: CoinFlip, the world's leading bitcoin ATM operator, makes it so
+  flippin’ easy to buy and sell bitcoin via cash, card, or bank transfer.
+tags:
+  - cryptocurrency
+  - blockchain
+  - ATM
+  - bitcoin
+twitter_url: https://twitter.com/CoinFlip
+linkedin_url: https://www.linkedin.com/company/coinflip/
+youtube_url: https://www.youtube.com/channel/UCBW95iOTlj46FuraynCeV1w
+instagram_url: https://www.instagram.com/coinflip/
+facebook_url: https://www.facebook.com/coinflipatm/
+---
