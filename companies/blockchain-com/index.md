@@ -1,0 +1,27 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: Blockchain.com
+slug: blockchain-com
+company_url: https://www.blockchain.com
+job_board_url: https://www.blockchain.com/careers
+job_board_provider: greenhouse
+job_board_hostname: blockchain
+description: "Blockchain.com (formerly Blockchain.info) is a cryptocurrency
+  financial services company. The company began as the first Bitcoin blockchain
+  explorer in 2011 and later created a cryptocurrency wallet that accounted for
+  28% of bitcoin transactions between 2012 and 2020. It also operates a
+  cryptocurrency exchange and provides institutional markets lending business
+  and data, charts, and analytics. "
+tags:
+  - blockchain
+  - cryptocurrency
+  - finance
+twitter_url: https://twitter.com/blockchain
+linkedin_url: https://www.linkedin.com/company/blockchain
+youtube_url: https://www.youtube.com/c/BlockchainWallet
+instagram_url: https://www.instagram.com/blockchainofficial
+facebook_url: https://www.facebook.com/blockchain/
+github_url: https://github.com/blockchain
+wikipedia_url: https://en.wikipedia.org/wiki/Blockchain.com
+---
