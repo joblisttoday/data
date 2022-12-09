@@ -1,0 +1,20 @@
+---
+created_at: 2022-12-09
+updated_at: 2022-12-09
+title: SwissBorg
+slug: swissborg
+company_url: https://swissborg.com
+job_board_url: https://swissborg.com/careers
+job_board_provider: lever
+job_board_hostname: swissborg
+description: "SwissBorg is a European crypto currency exchange and wallet app. "
+tags:
+  - cryptocurrency
+  - cryptocurrency-wallet
+twitter_url: https://twitter.com/swissborg
+linkedin_url: https://www.linkedin.com/company/11040884
+youtube_url: https://www.youtube.com/channel/UC_Jyx7gJXh3yHFxZSJIlIhQ
+instagram_url: https://www.instagram.com/swissborg
+facebook_url: https://www.facebook.com/swissborg
+github_url: https://github.com/SwissBorg
+---
