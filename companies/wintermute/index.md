@@ -1,0 +1,23 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: Wintermute
+slug: wintermute
+company_url: https://wintermute.com
+job_board_url: https://wintermute.com/join-us
+job_board_provider: lever
+job_board_hostname: wintermute-trading
+description: >-
+  Wintermute is a leading algorithmic trading firm that is focused on the
+  innovative digital asset markets and is building the future of finance while
+  also empowering its employees to act like owners and achieve more than it’s
+  possible elsewhere.
+
+
+  Our Mission is to enable, empower and advance the truly decentralized world for more transparent, fair and efficient markets and products
+tags:
+  - trading
+  - cryptocurrency
+twitter_url: https://twitter.com/wintermute_t
+linkedin_url: https://www.linkedin.com/company/wintermute-trading/
+---
