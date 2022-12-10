@@ -1,0 +1,31 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: 1password
+slug: 1password
+company_url: https://1password.com
+job_board_url: https://1password.com/jobs
+job_board_provider: lever
+job_board_hostname: 1password
+description: 1Password is a password manager developed by AgileBits Inc. It
+  provides a place for users to store various passwords, software licenses, and
+  other sensitive information in a virtual vault that is locked with a
+  PBKDF2-guarded master password. By default, the user's encrypted vault is
+  hosted on AgileBits' servers for a monthly fee.
+tags:
+  - IT
+  - password-manager
+twitter_url: https://twitter.com/1Password
+linkedin_url: https://www.linkedin.com/company/1password/
+youtube_url: https://www.youtube.com/1PasswordVideos
+instagram_url: https://www.instagram.com/1passwordofficial/
+facebook_url: https://www.facebook.com/1Password
+github_url: https://github.com/1Password
+wikipedia_url: https://en.wikipedia.org/wiki/1Password
+positions:
+  - country: Canada
+    city: Toronto
+    postal_code: M2N 6K8
+    address: 4711 Yonge St, 10th Floor
+    map: '{"type":"Point","coordinates":[-79.4102025,43.7605323]}'
+---
