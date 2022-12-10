@@ -1,6 +1,6 @@
 ---
 created_at: 2018-01-23T17:07:46.257Z
-updated_at: 2019-06-16T10:36:09.631Z
+updated_at: 2022-12-10
 title: " Project A Ventures"
 slug: project-a-ventures
 company_url: https://www.project-a.com
