@@ -1,0 +1,18 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: Alpine Immune Sciences
+slug: alpine-immune-sciences
+company_url: https://www.alpineimmunesciences.com
+job_board_url: https://www.alpineimmunesciences.com/job-openings
+job_board_provider: lever
+job_board_hostname: alpineimmunesciences
+description: Alpine Immune Sciences is applying our platform discovery
+  technology to bring innovative new therapies to people living with serious or
+  life-threatening illnesses or conditions, such as cancer and
+  autoimmune/inflammatory diseases. Exciting challenges lie ahead—guided by our
+  core values, we’ll meet these challenges. Join us!
+tags:
+  - life-science
+  - cancer
+---
