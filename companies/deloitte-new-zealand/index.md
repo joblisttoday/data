@@ -1,0 +1,24 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: Deloitte New Zealand
+slug: deloitte-new-zealand
+company_url: https://www2.deloitte.com/nz
+job_board_url: https://jobs.lever.co/deloitte
+job_board_provider: lever
+job_board_hostname: deloitte
+description: Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte,
+  is an international professional services network headquartered in London,
+  England. Deloitte is the largest professional services network by revenue and
+  number of professionals in the world and is considered one of the Big Four
+  accounting firms.
+tags:
+  - consulting
+  - audit
+  - financial-advisory
+  - risk-advisory
+  - tax-and-legal
+  - accounting
+linkedin_url: https://www.linkedin.com/company/deloitte
+wikipedia_url: https://en.wikipedia.org/wiki/Deloitte
+---
