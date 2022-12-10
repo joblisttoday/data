@@ -1,0 +1,25 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: 21Shares
+slug: 21shares
+company_url: https://21shares.com
+job_board_url: https://21shares.com/careers
+job_board_provider: greenhouse
+job_board_hostname: amun
+description: >
+  21.co is the world’s leader in providing access to crypto through simple and
+  easy to use products. 21.co is the parent company of 21Shares and Amun, and
+  its mission is to build bridges into the crypto world.
+
+
+  21Shares is the world’s largest issuer of cryptocurrency exchange traded products (ETPs) and is powered by Onyx, a proprietary technology platform used to issue and operate cryptocurrency ETPs for 21Shares and third parties. 21Shares mission is to make crypto easy. Amun is a blockchain infrastructure company focused on making purchasing crypto more accessible by offering a suite of tools for passive strategies across major DeFi platforms. Amun’s mission is to simplify your crypto journey. 
+
+
+  The company was founded in 2018 by Hany Rashwan and Ophelia Snyder and is a global organization, with offices in Zürich and New York. Cathie Wood, Chief Executive Officer & Chief Investment Officer of ARK Invest is a board member.
+tags:
+  - cryptocurrency
+  - blockchain
+twitter_url: https://twitter.com/21shares
+linkedin_url: https://www.linkedin.com/company/21shares
+---
