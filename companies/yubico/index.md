@@ -1,0 +1,24 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: Yubico
+slug: yubico
+company_url: https://www.yubico.com
+job_board_url: https://www.yubico.com/careers
+job_board_provider: lever
+job_board_hostname: yubico
+description: The YubiKey is a hardware authentication device manufactured by
+  Yubico to protect access to computers, networks, and online services that
+  supports one-time passwords, public-key cryptography, and authentication, and
+  the Universal 2nd Factor and FIDO2 protocols developed by the FIDO Alliance.
+tags:
+  - authentication
+  - security
+twitter_url: https://twitter.com/Yubico
+linkedin_url: https://www.linkedin.com/company/Yubico
+youtube_url: https://www.youtube.com/c/Yubico
+instagram_url: https://www.instagram.com/Yubico
+facebook_url: https://www.facebook.com/Yubikey
+github_url: https://www.github.com/Yubico
+wikipedia_url: https://en.wikipedia.org/wiki/YubiKey
+---
