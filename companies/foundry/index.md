@@ -1,0 +1,30 @@
+---
+created_at: 2022-12-10
+updated_at: 2022-12-10
+title: Foundry
+slug: foundry
+company_url: https://www.foundry.com
+job_board_url: https://www.foundry.com/careers
+job_board_provider: workable
+job_board_hostname: foundry
+description: >-
+  We have been developing creative software for the Digital Design, Media and
+  Entertainment industries for over 20 years. Our products are used to create
+  breathtaking visual effects sequences on a wide range of feature films,
+  video-on-demand, television and commercials.
+
+
+  Our clients and partners include major feature film studios and post-production houses such as Pixar, ILM, MPC, Walt Disney Animation, Weta Digital, DNEG, and Framestore as well as automotive, footwear, apparel and technology companies such as Mercedes, New Balance, Adidas and Google.
+
+
+  We partner with companies to solve complex visualization challenges to turn incredible ideas into reality. This is why our software has been integral in the making of every VFX Oscar-winning film, award-winning TV shows and commercials for more than a decade.
+tags:
+  - vfx
+  - video
+  - multimedia
+twitter_url: https://twitter.com/TheFoundryTeam
+linkedin_url: https://www.linkedin.com/company/33583
+youtube_url: https://www.youtube.com/user/TheFoundryChannel
+instagram_url: https://www.instagram.com/foundryteam
+facebook_url: https://www.facebook.com/thefoundryteam
+---
