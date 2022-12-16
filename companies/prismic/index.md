@@ -1,0 +1,17 @@
+---
+created_at: 2022-12-16
+updated_at: 2022-12-16
+title: Prismic
+slug: prismic-io
+company_url: https://prismic.io
+job_board_url: https://prismic.io/jobs
+job_board_provider: lever
+job_board_hostname: prismic
+description: Prismic is a software company offering a headless content
+  management system for editing online content
+tags:
+  - CMS
+  - software
+twitter_url: https://twitter.com/prismicio
+youtube_url: https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/videos
+---
