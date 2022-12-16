@@ -1,0 +1,34 @@
+---
+created_at: 2022-12-16
+updated_at: 2022-12-16
+title: CLO Virtual Fashion
+slug: clo-virtual-fashion
+company_url: https://www.clovirtualfashion.com
+job_board_url: https://jobs.lever.co/clovirtualfashion
+job_board_provider: lever
+job_board_hostname: clovirtualfashion
+description: >-
+  We envision a future with less material waste, air travel, and water pollution
+  through igniting the physical to 3D movement.
+
+
+  Using 3D allows companies and users to create less physical samples, material, and resource waste.
+
+
+  As a leader in 3D, we have various touch points throughout the fashion industry value chain that allows us to facilitate more sustainable practices.
+
+
+  We strive to facilitate learning and awareness about this complex topic!
+
+
+  Please follow this to our sustainability resource center to learn more about the current environment of the fashion ecosystem and sustainability practices.
+tags:
+  - fashion
+  - virtual-fashion
+  - web3
+twitter_url: https://twitter.com/itsclo3d
+linkedin_url: https://www.linkedin.com/company/3214836
+youtube_url: https://www.youtube.com/channel/UCApF8J_2QeJ8QPXIAZ25uhw
+instagram_url: https://www.instagram.com/itsclo3d/
+facebook_url: https://www.facebook.com/clo3d
+---
