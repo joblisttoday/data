@@ -3,6 +3,10 @@ created_at: 2017-06-28T20:19:38.198Z
 updated_at: 2021-12-25
 title: Ableton
 slug: ableton
+company_url: https://www.ableton.com/
+job_board_url: https://www.ableton.com/en/jobs
+job_board_provider: personio
+job_board_hostname: abletonag
 description: "Ableton is a #music #software company that produces and
   distributes the production and performance program Ableton Live and a
   collection of related instruments and sample libraries, as well as their own
@@ -12,10 +16,17 @@ tags:
   - software
   - hardware
   - startup
-company_url: https://www.ableton.com/
-job_board_url: https://www.ableton.com/en/jobs
+twitter_url: http://twitter.com/ableton
+linkedin_url: https://www.linkedin.com/company/ableton
+youtube_url: http://youtube.com/ableton
+instagram_url: http://instagram.com/ableton
+facebook_url: http://facebook.com/ableton
+github_url: https://github.com/Ableton
+wikipedia_url: https://en.wikipedia.org/wiki/Ableton
 positions:
   - country: germany
     city: berlin
     map: '{"type":"Point","coordinates":[13.4103097,52.5296161]}'
+    postal_code: "10119"
+    address: Schönhauser Allee 6-7
 ---
