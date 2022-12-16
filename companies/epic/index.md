@@ -2,8 +2,8 @@
 created_at: 2018-02-05T13:24:34.907Z
 updated_at: 2019-06-16T10:36:09.736Z
 title: Epic
-slug: epic
-company_url: https://www.epicgames.com/
+slug: epic-games
+company_url: https://www.epicgames.com
 job_board_url: https://www.epicgames.com/site/careers
 job_board_provider: greenhouse
 job_board_hostname: epicgames
