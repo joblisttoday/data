@@ -1,12 +1,25 @@
 ---
+created_at: 2018-02-05T13:24:34.907Z
+updated_at: 2019-06-16T10:36:09.736Z
 title: Epic
-slug: epic
-description: 'Video game and #software development company; #games'
+slug: epic-games
+company_url: https://www.epicgames.com
+job_board_url: https://www.epicgames.com/site/careers
+job_board_provider: greenhouse
+job_board_hostname: epicgames
+description: Epic Games, Inc. is an American video game and software developer
+  and publisher based in Cary, North Carolina. The company was founded by Tim
+  Sweeney as Potomac Computer Systems in 1991, originally located in his
+  parents' house in Potomac, Maryland.
 tags:
+  - video-games
   - software
   - games
-job_board_url: >-
-  https://epicgames.wd5.myworkdayjobs.com/Epic_Games/1/refreshFacet/318c8bb6f553100021d223d9780d30be
-created_at: '2018-02-05T13:24:34.907Z'
-updated_at: '2019-06-16T10:36:09.736Z'
+twitter_url: https://twitter.com/epicgames
+linkedin_url: https://www.linkedin.com/company/epic-games
+youtube_url: http://youtube.com/epicgamesinc
+instagram_url: https://www.instagram.com/epicgames
+facebook_url: https://www.facebook.com/epicgames
+github_url: https://github.com/EpicGames
+wikipedia_url: https://en.wikipedia.org/wiki/Epic_Games
 ---
