@@ -1,0 +1,18 @@
+---
+created_at: 2022-12-16
+updated_at: 2022-12-16
+title: IntegriChain
+slug: integrichain
+company_url: https://www.integrichain.com
+job_board_url: https://www.integrichain.com/careers
+job_board_provider: lever
+job_board_hostname: integrichain
+description: IntegriChain is the data and application backbone for market access
+  departments of Life Sciences manufacturers. We deliver the data, the
+  applications, and the business process infrastructure for patient access and
+  therapy commercialization
+tags:
+  - life-science
+twitter_url: https://twitter.com/IntegriChain
+linkedin_url: https://www.linkedin.com/company/integrichain
+---
