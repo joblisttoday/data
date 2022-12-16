@@ -1,0 +1,21 @@
+---
+created_at: 2022-12-16
+updated_at: 2022-12-16
+title: Deliveroo
+slug: deliveroo
+company_url: https://deliveroo.co.uk
+job_board_url: https://careers.deliveroo.co.uk
+job_board_provider: greenhouse
+job_board_hostname: deliveroo
+description: Deliveroo is a British online food delivery company.
+tags:
+  - food
+  - delivery
+twitter_url: https://twitter.com/Deliveroo
+linkedin_url: https://www.linkedin.com/company/deliveroo
+youtube_url: https://www.youtube.com/@deliveroo
+instagram_url: https://instagram.com/deliveroo
+facebook_url: https://facebook.com/Deliveroo
+github_url: https://github.com/deliveroo
+wikipedia_url: https://en.wikipedia.org/wiki/Deliveroo
+---
