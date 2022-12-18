@@ -1,0 +1,27 @@
+---
+created_at: 2022-12-18
+updated_at: 2022-12-18
+title: Netlify
+slug: netlify
+company_url: https://www.netlify.com
+job_board_url: https://www.netlify.com/careers
+job_board_provider: greenhouse
+job_board_hostname: netlify
+description: Netlify is a remote-first cloud computing company that offers a
+  development platform that includes build, deploy, and serverless backend
+  services for web applications and dynamic websites. The platform is built on
+  open web standards, making it possible to integrate build tools, web
+  frameworks, APIs, and various web technologies into a unified developer
+  workflow.
+tags:
+  - development-platform
+  - cloud
+  - git
+twitter_url: https://twitter.com/Netlify
+linkedin_url: https://www.linkedin.com/company/netlify
+youtube_url: https://youtube.com/channel/UCMzabFudT_ntxlueP9R-3Vg
+instagram_url: https://www.instagram.com/netlify
+facebook_url: https://facebook.com/netlify
+github_url: https://github.com/netlify
+wikipedia_url: https://en.wikipedia.org/wiki/Netlify
+---
