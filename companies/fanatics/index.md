@@ -1,0 +1,20 @@
+---
+created_at: 2022-12-20
+updated_at: 2022-12-20
+title: Fanatics
+slug: fanatics-dot-com
+company_url: https://www.fanaticsinc.com
+job_board_url: https://www.fanaticsinc.com/careers
+job_board_provider: lever
+job_board_hostname: fanatics
+description: Fanatics, Inc. is an American online manufacturer and retailer of
+  licensed sportswear, sports collectibles, NFTs, trading cards, and sports
+  merchandise, as well as sports betting and iGaming.
+tags:
+  - sports
+twitter_url: https://twitter.com/Fanatics
+youtube_url: https://www.youtube.com/Fanatics
+instagram_url: https://www.instagram.com/fanatics
+facebook_url: https://www.facebook.com/Fanatics
+wikipedia_url: https://en.wikipedia.org/wiki/Fanatics,_Inc.
+---
