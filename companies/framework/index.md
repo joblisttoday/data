@@ -1,0 +1,22 @@
+---
+created_at: 2022-12-25
+updated_at: 2022-12-25
+title: Framework
+slug: framework
+company_url: https://frame.work
+job_board_url: https://jobs.lever.co/framework
+job_board_provider: lever
+job_board_hostname: framework
+description: We know consumer electronics can be better for you and for the
+  environment. Unlike most products, ours are open for you to repair and
+  upgrade.
+tags:
+  - electronics
+  - hardware
+  - open-source
+  - DIY
+twitter_url: http://www.twitter.com/FrameworkPuter
+linkedin_url: https://www.linkedin.com/company/frameworkcomputer
+instagram_url: http://www.instagram.com/FrameworkComputer
+facebook_url: https://www.facebook.com/FrameworkComputer
+---
