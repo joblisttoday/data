@@ -1,0 +1,18 @@
+---
+created_at: 2022-12-29
+updated_at: 2022-12-29
+title: MosaicML
+slug: mosaicml
+company_url: https://www.mosaicml.com
+job_board_url: https://www.mosaicml.com/careers
+job_board_provider: greenhouse
+job_board_hostname: mosaicml
+description: Improve efficiency of neural network training with algorithmic
+  methods that deliver speed, boost quality and reduce cost.
+tags:
+  - machine-learning
+  - startup
+twitter_url: https://twitter.com/mosaicml
+linkedin_url: https://www.linkedin.com/company/mosaicml
+github_url: https://github.com/mosaicml
+---
