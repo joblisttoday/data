@@ -1,0 +1,23 @@
+---
+created_at: 2022-12-29
+updated_at: 2022-12-29
+title: Retool
+slug: retool
+company_url: https://retool.com
+job_board_url: https://retool.com/careers
+job_board_provider: greenhouse
+job_board_hostname: retool
+description: "We’ve developed the fastest way to build internal tools, saving
+  companies time, resources, and engineering bandwidth. Whether it’s refunding
+  orders, underwriting loans, managing marketplaces, rolling out new features,
+  analyzing transactions, or providing customer support, Retool makes it
+  dramatically faster and easier to build internal tools that teams need. We
+  believe that the future of software development lies in being a force
+  multiplier for developers and technical builders, helping them move
+  considerably faster building a lot more software.  "
+tags:
+  - sass
+  - low-code
+twitter_url: https://twitter.com/retool
+linkedin_url: https://www.linkedin.com/company/tryretool
+---
