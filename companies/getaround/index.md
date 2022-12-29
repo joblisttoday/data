@@ -1,0 +1,21 @@
+---
+created_at: 2022-12-29
+updated_at: 2022-12-29
+title: Getaround
+slug: getaround
+company_url: https://getaround.com
+job_board_url: https://jobs.getaround.com
+job_board_provider: lever
+job_board_hostname: getaround
+description: "Getaround is an online car sharing or peer-to-peer carsharing
+  service that connects drivers who need to reserve cars with car owners who
+  share their cars in exchange for payment. "
+tags:
+  - carsharing
+  - peer-to-peer
+  - automotive
+twitter_url: https://twitter.com/getaround
+instagram_url: https://instagram.com/getaround
+facebook_url: https://facebook.com/Getaround
+wikipedia_url: https://en.wikipedia.org/wiki/Getaround
+---
