@@ -14,5 +14,5 @@ description: Hyperspace (hyperspace.xyz) is the most powerful NFT platform yet
 tags:
   - nft
   - cryptocurrency
-twitter_url: hyperspace
+twitter_url: https://twitter.com/hyperspacexyz
 ---
