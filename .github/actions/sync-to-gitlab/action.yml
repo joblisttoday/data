@@ -11,3 +11,4 @@ jobs:
           destination_repo: "git@gitlab.com:joblist/data.git"
           destination_branch: "main"
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+
