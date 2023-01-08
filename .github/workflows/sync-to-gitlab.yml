@@ -1,5 +1,7 @@
+name: Synchronise data to gitlab
+on: [push]
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: ./.github/actions/sync-to-gitlab@main
+      - uses: ./.github/actions/sync-to-gitlab
