@@ -1,3 +1,4 @@
+name: sync-to-gitlab
 on: push
 jobs:
   git-sync:
