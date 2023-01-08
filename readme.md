@@ -1,3 +1,5 @@
+[![.github/workflows/sync-to-gitlab.yml](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml/badge.svg)](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml)
+
 # Data
 
 A list of projects and companies potentially hirring, editable by
