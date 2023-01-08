@@ -1,8 +1,14 @@
-name: Synchronise data to gitlab
-on: [push]
+name: Synchronize data to gitlab
+on: push
 jobs:
-  sync:
+  git-sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: ./.github/actions/sync-to-gitlab
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          source_repo: "joblisttoday/data"
+          source_branch: "main"
+          destination_repo: "git@gitlab.com:joblist/data.git"
+          destination_branch: "main"
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
