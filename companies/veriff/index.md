@@ -15,4 +15,9 @@ description: "At Veriff we believe that your identity is who you are, it’s you
   safer internet for everyone.  "
 tags:
   - identity
+twitter_url: https://twitter.com/Veriff
+linkedin_url: https://www.linkedin.com/company/veriff/
+instagram_url: https://www.instagram.com/insideveriff/
+facebook_url: https://www.facebook.com/veriff/
+github_url: https://github.com/Veriff
 ---
