@@ -1,0 +1,21 @@
+---
+created_at: 2023-01-10
+updated_at: 2023-01-10
+title: Standard Cognition
+slug: standard-cognition
+company_url: https://standard.ai
+job_board_url: https://careers.standard.ai
+job_board_provider: greenhouse
+job_board_hostname: standardai
+description: Standard AI has transformed retail as we know it. With the first
+  autonomous retail solution that works in any existing store, we enable
+  customers to walk in, grab what they need, and walk out - without waiting in
+  line or stopping to pay. The company’s computer vision solution is the only
+  one that can be quickly and easily installed in retailers’ existing stores,
+  representing a giant leap forward for retail tech that enables retailers to
+  rapidly deliver amazing new shopping experiences to customers.
+tags:
+  - retail
+  - AI
+twitter_url: https://twitter.com/standardAI
+---
