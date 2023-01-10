@@ -1,0 +1,20 @@
+---
+created_at: 2023-01-10
+updated_at: 2023-01-10
+title: Modern Treasury
+slug: modern-treasury
+company_url: https://www.moderntreasury.com
+job_board_url: https://www.moderntreasury.com/careers
+job_board_provider: ashby
+job_board_hostname: moderntreasury
+description: Modern Treasury offers tools that automate the full cycle of money
+  movement—from payment initiation, through approvals, to reconciliation—and are
+  accessible through web application or API.
+tags:
+  - automation
+  - finance
+  - API
+twitter_url: https://twitter.com/ModernTreasury
+linkedin_url: https://linkedin.com/company/Modern-Treasury
+instagram_url: https://instagram.com/ModernTreasury
+---
