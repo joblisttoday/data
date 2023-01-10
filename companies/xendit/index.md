@@ -1,0 +1,21 @@
+---
+created_at: 2023-01-10
+updated_at: 2023-01-10
+title: Xendit
+slug: xendit
+company_url: https://www.xendit.co
+job_board_url: https://www.xendit.co/careers
+job_board_provider: greenhouse
+job_board_hostname: xendit
+description: Xendit provides payment infrastructure across Southeast Asia, with
+  a focus on Indonesia and the Philippines. We process payments, power
+  marketplaces, disburse payroll and loans, provide KYC solutions, prevent
+  fraud, and help businesses grow exponentially. We serve our customers by
+  providing a suite of world-class APIs, eCommerce platform integrations, and
+  easy to use applications for individual entrepreneurs, SMEs, and enterprises
+  alike.
+tags:
+  - payment-infrastructure
+twitter_url: https://twitter.com/xendit_co
+linkedin_url: https://www.linkedin.com/company/xendit
+---
