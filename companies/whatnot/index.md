@@ -1,0 +1,26 @@
+---
+created_at: 2023-01-10
+updated_at: 2023-01-10
+title: Whatnot
+slug: whatnot
+company_url: https://www.whatnot.com
+job_board_url: https://www.whatnot.com/careers
+job_board_provider: greenhouse
+job_board_hostname: whatnot
+description: >+
+  Whatnot is a livestream shopping platform and marketplace where you can buy,
+  sell, go live and geek out with collectors and other like-minded people. We're
+  focused on product categories that people are passionate about like Sports
+  Cards, Pokemon Cards, NFTs, Sneakers and more.
+
+
+tags:
+  - e-commerce
+  - livestream
+  - shopping
+  - NFT
+twitter_url: https://www.twitter.com/whatnot/
+linkedin_url: https://www.linkedin.com/company/whatnot-inc/
+instagram_url: https://www.instagram.com/whatnot/
+facebook_url: https://www.facebook.com/RealWhatnot/
+---
