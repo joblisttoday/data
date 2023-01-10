@@ -3,6 +3,7 @@ on: push
 jobs:
   git-sync:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: git-sync
         uses: wei/git-sync@v3
