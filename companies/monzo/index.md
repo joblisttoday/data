@@ -1,0 +1,23 @@
+---
+created_at: 2023-01-10
+updated_at: 2023-01-10
+title: Monzo
+slug: monzo
+company_url: https://monzo.com
+job_board_url: https://monzo.com/careers
+job_board_provider: greenhouse
+job_board_hostname: monzo
+description: Monzo Bank Ltd is an online bank based in the United Kingdom. Monzo
+  was one of the earliest of a number of new app-based challenger banks in the
+  UK.
+tags:
+  - online-bank
+  - finance
+twitter_url: https://twitter.com/monzo
+linkedin_url: https://www.linkedin.com/company/monzo-bank
+youtube_url: https://www.youtube.com/monzobank
+instagram_url: https://www.instagram.com/monzo
+facebook_url: https://www.facebook.com/monzobank
+github_url: https://github.com/monzo
+wikipedia_url: https://en.wikipedia.org/wiki/Monzo
+---
