@@ -1,0 +1,20 @@
+---
+created_at: 2023-01-11
+updated_at: 2023-01-11
+title: Element Biosciences
+slug: element-biosciences
+company_url: https://www.elementbiosciences.com
+job_board_url: https://www.elementbiosciences.com/careers
+job_board_provider: greenhouse
+job_board_hostname: elementbiosciences
+description: Element Biosciences is working to democratize science by making
+  powerful analytical instruments available to anyone who wants to ask the
+  questions that haven’t been asked, and find the answers that lead to new
+  understanding.  Our first instrument is Aviti, a powerful, affordable DNA
+  sequencer.  We are redefining an industry and the possibilities are endless. 
+tags:
+  - DNA
+  - bio-science
+twitter_url: https://twitter.com/elembio
+linkedin_url: https://www.linkedin.com/company/elembio
+---
