@@ -1,6 +1,12 @@
 ---
+created_at: 2021-01-04
+updated_at: 2021-01-04
 title: Cozero
 slug: cozero
+company_url: https://www.cozero.io/
+job_board_url: https://cozero.io/careers
+job_board_provider: join
+job_board_hostname: cozero
 description: Building the next generation Carbon Action Platform that enables
   companies to move their business towards carbon neutrality. Together, we can
   help reduce a major share of global carbon emissions and fight climate change.
@@ -15,8 +21,6 @@ tags:
   - environment
   - startup
   - ecology
-company_url: https://www.cozero.io/
-job_board_url: https://www.cozero.io/jobs
 twitter_url: https://twitter.com/io_cozero
 linkedin_url: https://www.linkedin.com/company/cozero-io
 positions:
@@ -25,6 +29,4 @@ positions:
     postal_code: "10119"
     address: Zionskirchstraße 73a
     map: '{"type":"Point","coordinates":[13.4092614,52.5326804]}'
-created_at: 2021-01-04
-updated_at: 2021-01-04
 ---
