@@ -1,0 +1,22 @@
+---
+created_at: 2023-01-11
+updated_at: 2023-01-11
+title: Egnyte
+slug: egnyte
+company_url: https://www.egnyte.com
+job_board_url: https://www.egnyte.com/careers
+job_board_provider: jobvite
+job_board_hostname: egnyte
+description: Egnyte transforms businesses through smarter content allowing
+  organizations to connect, protect, and unlock value from all their content.
+  Our content governance platform delivers smart content collaboration and
+  governance in the cloud or on-premises to thousands of businesses around the
+  world even the most regulated industries.
+tags:
+  - content
+  - content-governance
+twitter_url: https://twitter.com/Egnyte
+linkedin_url: https://www.linkedin.com/company/egnyte
+youtube_url: https://www.youtube.com/user/egnyte
+facebook_url: https://www.facebook.com/Egnyte/
+---
