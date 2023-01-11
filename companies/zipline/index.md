@@ -1,0 +1,26 @@
+---
+created_at: 2023-01-11
+updated_at: 2023-01-11
+title: Zipline
+slug: zipline
+company_url: https://www.flyzipline.com
+job_board_url: https://www.flyzipline.com/careers
+job_board_provider: greenhouse
+job_board_hostname: flyzipline
+description: "Zipline was founded to create the first logistics system that
+  serves all humans equally. Our aim is to solve the world’s most urgent and
+  complex access challenges. Leveraging expertise in robotics and autonomy,
+  Zipline designs, manufactures and operates the world’s largest automated
+  delivery system. Zipline serves tens of millions of people around the world
+  and is making good on the promise of building an equitable and more resilient
+  global supply chain.  "
+tags:
+  - delivery
+  - logistics
+  - supply-chain
+  - robotics
+  - aviation
+twitter_url: https://twitter.com/zipline
+linkedin_url: https://www.linkedin.com/company/flyzipline/
+instagram_url: https://www.instagram.com/zipline
+---
