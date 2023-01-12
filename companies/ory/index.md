@@ -1,0 +1,26 @@
+---
+created_at: 2023-01-12
+updated_at: 2023-01-12
+title: Ory
+slug: ory-corp
+company_url: https://www.ory.sh
+job_board_url: https://www.ory.sh/jobs/
+job_board_provider: personio
+job_board_hostname: ory
+description: Ory is the leading open-source authentication identity management,
+  account registration, login and authorization ecosystem and community in the
+  world. Our commercial product Ory Network combines our open-source know-how
+  and provides additional value add services on top. With this we establish a
+  global zero trust, scalable and secure platform for managing identities and
+  its distribution across various internet services, including IoT. Ory is a
+  modern software start-up founded in 2019 that promotes an open, diverse, and
+  collaborative working culture.
+tags:
+  - cyber-security
+  - authentication
+  - cloud
+twitter_url: https://twitter.com/orycorp
+linkedin_url: https://www.linkedin.com/company/ory-corp/
+youtube_url: https://www.youtube.com/channel/UC9hCxZZeviexX0GclD0brrw
+github_url: https://www.github.com/ory
+---
