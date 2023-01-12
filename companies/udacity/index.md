@@ -19,6 +19,9 @@ tags:
   - corporate-training
 twitter_url: https://twitter.com/udacity
 linkedin_url: https://www.linkedin.com/company/udacity
+youtube_url: https://www.youtube.com/@Udacity
 instagram_url: https://www.instagram.com/udacity
 facebook_url: https://www.facebook.com/Udacity
+github_url: https://github.com/udacity
+wikipedia_url: https://en.wikipedia.org/wiki/Udacity
 ---
