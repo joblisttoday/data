@@ -17,4 +17,5 @@ linkedin_url: https://www.linkedin.com/company/neuralink/
 youtube_url: https://www.youtube.com/@neuralink
 instagram_url: https://www.instagram.com/neura.link/
 github_url: https://github.com/neuralinkcorp
+wikipedia_url: https://en.wikipedia.org/wiki/Neuralink
 ---
