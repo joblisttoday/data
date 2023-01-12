@@ -1,0 +1,24 @@
+---
+created_at: 2023-01-12
+updated_at: 2023-01-12
+title: Tala
+slug: tala
+company_url: https://tala.co
+job_board_url: https://tala.co/careers
+job_board_provider: lever
+job_board_hostname: tala
+description: Tala offers digital financial services for the traditionally
+  underbanked to borrow, save and grow their money. Powered by advanced data
+  science and machine learning, Tala is building the world’s most accessible
+  financial services, underwriting overlooked populations who are excluded from
+  traditional services due to a lack of formal financial history.
+tags:
+  - financial-services
+  - data-science
+  - machine-learning
+twitter_url: https://twitter.com/talamobile
+linkedin_url: https://www.linkedin.com/company/tala-mobile
+youtube_url: https://www.youtube.com/channel/UCwOxJtVFsb1dYATcuGMpBNQ
+instagram_url: https://www.instagram.com/talamobile
+facebook_url: https://www.facebook.com/talamobile/
+---
