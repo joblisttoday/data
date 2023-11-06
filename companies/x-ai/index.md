@@ -1,0 +1,18 @@
+---
+created_at: 2023-11-06
+updated_at: 2023-11-06
+title: x.ai
+slug: x-ai
+company_url: https://x.ai
+job_board_url: https://boards.greenhouse.io/xai/
+job_board_provider: greenhouse
+job_board_hostname: xai
+description: At xAI, we want to create AI tools that assist humanity in its
+  quest for understanding and knowledge.
+tags:
+  - ai
+  - llm
+twitter_url: https://twitter.com/xai
+linkedin_url: https://www.linkedin.com/company/xai-updates/
+wikipedia_url: https://en.wikipedia.org/wiki/XAI_(company)
+---
