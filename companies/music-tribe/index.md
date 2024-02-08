@@ -29,4 +29,9 @@ positions:
     postal_code: "47877 "
     address: Otto-Brenner-Straße 4a
     map: '{"type":"Point","coordinates":[6.5147269,51.2743408]}'
+  - country: UK
+    city: "Manchester "
+    address: 5 Brindley Rd, Old Trafford, Stretford
+    postal_code: M16 9UN
+    map: '{"type":"Point","coordinates":[-2.2778005,53.464089]}'
 ---
