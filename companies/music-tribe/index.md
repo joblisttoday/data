@@ -34,4 +34,9 @@ positions:
     address: 5 Brindley Rd, Old Trafford, Stretford
     postal_code: M16 9UN
     map: '{"type":"Point","coordinates":[-2.2778005,53.464089]}'
+  - country: Denmark
+    city: Aarhus
+    postal_code: "8200"
+    map: '{"type":"Point","coordinates":[10.1466473,56.2165538]}'
+    address: Lisbjerg Parkvej
 ---
