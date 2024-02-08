@@ -23,4 +23,10 @@ instagram_url: https://www.instagram.com/mymusictribe/
 facebook_url: https://www.facebook.com/mymusictribe/
 github_url: https://github.com/music-tribe/
 wikipedia_url: https://en.wikipedia.org/wiki/Music_Tribe
+positions:
+  - country: Germany
+    city: Willich
+    postal_code: "47877 "
+    address: Otto-Brenner-Straße 4a
+    map: '{"type":"Point","coordinates":[6.5147269,51.2743408]}'
 ---
