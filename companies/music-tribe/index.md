@@ -39,4 +39,9 @@ positions:
     postal_code: "8200"
     map: '{"type":"Point","coordinates":[10.1466473,56.2165538]}'
     address: Lisbjerg Parkvej
+  - country: China
+    city: Dongguan
+    postal_code: "523850"
+    address: 4 东一巷, Shaputou
+    map: '{"type":"Point","coordinates":[113.798864,22.8059572]}'
 ---
