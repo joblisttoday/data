@@ -1,6 +1,6 @@
-[![.github/workflows/sync-to-gitlab.yml](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml/badge.svg)](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml)
+Github: [![.github/workflows/sync-to-gitlab.yml](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml/badge.svg)](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml) → to synchronise/backup this repo to gitlab
 
-[![pipelines](https://gitlab.com/joblist/data/badges/main/pipeline.svg](https://gitlab.com/joblist/data/-/pipelines)
+Gitlab: [![pipelines](https://gitlab.com/joblist/data/badges/main/pipeline.svg)](https://gitlab.com/joblist/data/-/pipelines) → to deploy [profiles.joblist.today](https://profiles.joblist.today/))
 
 # Data
 
