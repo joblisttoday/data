@@ -1,0 +1,21 @@
+---
+created_at: 2024-03-01
+updated_at: 2024-03-01
+title: Vannevar Labs
+slug: vannevarlabs
+company_url: https://www.vannevarlabs.com/
+job_board_url: https://www.vannevarlabs.com/careers
+job_board_provider: greenhouse
+job_board_hostname: vannevarlabs
+description: Vannevar Labs builds next generation defense software for the
+  public servants keeping our country safe.  As a team, we exist because we
+  believe in public service, and we think that our democracy and government
+  improve only if we put serious, collective effort into improving them,
+  including the technology our government uses.
+tags:
+  - defense
+  - technology
+twitter_url: https://twitter.com/vannevarlabs
+linkedin_url: https://www.linkedin.com/company/vannevar-labs/
+github_url: https://github.com/vannevar-labs
+---
