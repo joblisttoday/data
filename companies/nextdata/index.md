@@ -15,6 +15,8 @@ tags:
   - data-mesh
   - startup
   - decentralization
+  - ai
+  - analytics
 twitter_url: https://twitter.com/nextdatatec
 linkedin_url: https://www.linkedin.com/company/nextdata-technologies
 github_url: https://github.com/nextdata-technologies
