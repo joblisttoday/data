@@ -1,0 +1,27 @@
+---
+title: Muddy Machines
+slug: muddy-machines
+company_url: ''
+job_board_url: https://apply.workable.com/muddymachines
+job_board_provider: workable
+job_board_hostname: muddymachines
+description: >-
+  Britain requires 80,000 migrant workers every year during harvest season.
+  Crops that need to be selectively harvested are particularly labour intensive
+  because you need to carefully assess each plant to see if it/it's crop is
+  ready for harvest and most of the time you also cannot simply rip out the
+  plant but rather have to carefully remove the bit that you want to harvest.  
+  We are developing a new generation of field robots that help growers manage
+  labour-intensive crops by conducting fieldwork. Initially, we are focused on
+  developing selective harvesters with yield prediction. Our machines will
+  enable growers to grow more produce locally and ensure that the food we eat is
+  fresher, more sustainable and resilient to future disruption in trade and
+  labour.
+tags:
+  - food
+  - agtech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: London
+---

@@ -1,0 +1,24 @@
+---
+title: Graphcore
+slug: graphcore
+company_url: ''
+job_board_url: https://boards.greenhouse.io/graphcore
+job_board_provider: greenhouse
+job_board_hostname: graphcore
+description: >-
+  We believe our Intelligence Processing Unit (IPU) technology will become the
+  worldwide standard for machine intelligence compute. The Graphcore IPU is
+  going to be transformative across all industries whether you are a medical
+  researcher, roboticist or building autonomous cars.  We have created a
+  completely new processor, the IPU, specifically designed for AI compute. The
+  IPU’s unique architecture lets AI researchers undertake entirely new types of
+  work, not possible using current technologies, to drive the next advances in
+  machine intelligence.
+tags:
+  - hardware
+  - electronics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Bristol
+---

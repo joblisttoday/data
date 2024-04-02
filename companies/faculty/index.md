@@ -1,0 +1,26 @@
+---
+title: Faculty
+slug: faculty
+company_url: ''
+job_board_url: https://apply.workable.com/faculty
+job_board_provider: workable
+job_board_hostname: faculty
+description: >-
+  Faculty was founded in 2014 by Marc, Angie and Andrew. The business started
+  out with the fellowship to train and transition PhD and postdoc scientists
+  into professional data scientists. Fellows would work on eight-week real world
+  projects with a range of companies.  While collaborating with these companies
+  we were asked to work on bigger and bigger projects, so we developed our
+  services to deliver professional data science strategy, software and skills
+  training.  In 2016, recognising the need for bespoke software, we built
+  Faculty Platform to speed up AI deployment and increase the transparency and
+  oversight over machine learning models.  Faculty now has Europe’s most
+  experienced team of AI and ML specialists, able to support any organisation to
+  make AI real.
+tags:
+  - aiml
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: London
+---

@@ -1,0 +1,26 @@
+---
+title: ANYbotics
+slug: anybotics
+company_url: ''
+job_board_url: https://jobs.lever.co/anybotics
+job_board_provider: lever
+job_board_hostname: anybotics
+description: >-
+  ANYbotics is a Swiss robotics company pioneering the development of autonomous
+  mobile robotics. Our walking robots move beyond conventional, purpose-built
+  environments and solve customer problems in challenging infrastructure so far
+  only accessible to humans. Founded in 2016 as a spin-off from the
+  world-leading robotics labs at ETH Zurich, we are a fast-growing team of over
+  80 employees set out to revolutionize industries with robotics technologies.
+  Our customers include leading international energy, industrial processing, and
+  construction companies. In 2020, ANYbotics raised CHF 20 m in a Series A
+  financing round and won several prizes, including the Swiss Economic Forum
+  2020 award.
+tags:
+  - industry-4.0
+  - robotics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Zurich
+---

@@ -1,0 +1,21 @@
+---
+title: Halodi Robotics
+slug: halodi-robotics
+company_url: ''
+job_board_url: https://halodirobotics.recruitee.com/careers
+job_board_provider: recruitee
+job_board_hostname: halodirobotics
+description: >-
+  Halodi Robotics builds service robots for growing workforces in security,
+  retail, logistics, and healthcare. Around the world, our teams of roboticists
+  design and develop humanoid robots with the skill to operate in unstructured
+  environments. To work among your staff. Your customers. Your patients.
+  Handling a wide variety of tasks so your people don’t have to be so … robotic.
+tags:
+  - industry-4.0
+  - robotics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Moss
+---

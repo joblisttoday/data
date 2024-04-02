@@ -1,0 +1,27 @@
+---
+title: Exotec
+slug: exotec
+company_url: ''
+job_board_url: https://apply.workable.com/exotec
+job_board_provider: workable
+job_board_hostname: exotec
+description: >-
+  Exotec is the designer and manufacturer of the Goods to Person SKYPOD solution
+  which enables order preparation in retail logistics in any sector of activity.
+  The SKYPOD is a robotic order picking system but can also be used as a buffer
+  solution for prepared orders and can be installed in cool or ambient
+  environments. Upstream and downstream of SKYPOD, we customize according to the
+  level of automation sought, according to the logistics characteristics and
+  distribution channels of our customers. Our customers seek performance and
+  flexibility in our solution, therefore all our systems are dimensioned as
+  accurately as possible for the flow and stock required for each client. At
+  Exotec we can support the growth of any activity without interrupting
+  production by simply adding robots, stations or racks.
+tags:
+  - industry-4.0
+  - robotics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Lille
+---

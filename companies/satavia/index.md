@@ -1,0 +1,23 @@
+---
+title: Satavia
+slug: satavia
+company_url: ''
+job_board_url: https://apply.workable.com/satavia
+job_board_provider: workable
+job_board_hostname: satavia
+description: >-
+  SATAVIA applies AI, data analytics, and atmospheric science to make aviation
+  smarter and greener.  Combining deep connections in the aviation ecosystem
+  with an agile start-up culture, SATAVIA is able to scale quickly and adapt to
+  new opportunities and partnerships.  Rooted in scientific and technological
+  acumen and working with leading players ranging from Microsoft to Airbus,
+  SATAVIA embodies an entrepreneurial mindset with the ambition to transform the
+  relationship between aviation and the environment.
+tags:
+  - energy
+  - climate-tech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Cambridge
+---

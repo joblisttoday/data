@@ -1,0 +1,20 @@
+---
+title: Stenon
+slug: stenon
+company_url: ''
+job_board_url: https://stenon-gmbh.personio.de
+job_board_provider: personio
+job_board_hostname: stenon-gmbh
+description: >-
+  Sending soil samples to laboratories is a thing of the past. Thanks to
+  stenon’s sensor technology farmers can now analyse their soil as often as they
+  like and get immediate results. Instant access to soil data helps optimize
+  soil health and overall crop performance.
+tags:
+  - food
+  - agtech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Brandenburg
+---

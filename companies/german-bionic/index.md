@@ -1,0 +1,26 @@
+---
+title: German Bionic
+slug: german-bionic
+company_url: ''
+job_board_url: https://german-bionic.personio.de
+job_board_provider: personio
+job_board_hostname: german-bionic
+description: >-
+  German Bionic is the first German exoskeleton manufacturer for industrial use.
+  By focusing on increasing efficiency and productivity as well as reducing
+  costs and work related injuries, German Bionic Systems is in the forefront of
+  the Industry 4.0 revolution.  Located in Augsburg and Berlin, German Bionic
+  Systems develops and produces next generation industrial exoskeleton devices
+  to empower human machine interaction.  The model German Bionic CRAY is a
+  user-friendly intelligent wearable human-robotic exoskeleton, which supports
+  users in different industries while manual handling of goods and tools. It is
+  designed to reduce lower back compression forces and therefore protect the
+  user from lower back injuries.
+tags:
+  - industry-4.0
+  - robotics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Munich
+---

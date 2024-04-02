@@ -1,0 +1,26 @@
+---
+title: Seldon
+slug: seldon
+company_url: ''
+job_board_url: https://boards.greenhouse.io/seldon
+job_board_provider: greenhouse
+job_board_hostname: seldon
+description: >-
+  At Seldon, we’re connected. To an innovative community. And to the future of
+  data science itself. We’re driven with a passionate belief in enabling ever
+  better AI – sitting within a trusted, stable framework. And we constantly look
+  ahead.   We enable some of the world’s leading businesses to accelerate the
+  adoption of large scale machine learning to help solve their most pressing
+  challenges and shape the future.  In 2017 we created Seldon Core, our second
+  open-source release, which has grown into one of the world’s most popular
+  machine learning platforms. Today, Seldon Core has over 100k installs and our
+  fast-growing global network is founded on a community of AI specialists across
+  90 countries. Our contributors, customers and partners include the largest and
+  most innovative companies in finance and technology.
+tags:
+  - aiml
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: London
+---

@@ -1,0 +1,23 @@
+---
+title: Dark
+slug: dark
+company_url: ''
+job_board_url: https://apply.workable.com/dark
+job_board_provider: workable
+job_board_hostname: dark
+description: >-
+  Accessing space is mainly a question of physics. Still, incumbents have the
+  infrastructure and knowledge to do it consistently and well. That’s forced new
+  space projects into a difficult competition to cut costs and increase
+  availability. In the end, this focus has created solutions that are neither
+  better or worse, but equivalent. True leaps forward often come from features
+  such as availability or proximity that can’t be easily compared to technical
+  performance.
+tags:
+  - aerospace
+  - drones
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Paris
+---

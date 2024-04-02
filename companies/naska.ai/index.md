@@ -1,0 +1,23 @@
+---
+title: Naska.AI
+slug: naska.ai
+company_url: ''
+job_board_url: https://boards.greenhouse.io/naskaai
+job_board_provider: greenhouse
+job_board_hostname: naskaai
+description: >-
+  Construction impacts our daily lives in unique ways. The industry shapes the
+  cities we live in, producing the homes we dwell in and the infrastructure that
+  drives our economies.  With 200,000 people a day globally moving to urban
+  areas, the industry must respond to some of the biggest challenges of our
+  time, but it is plagued by waste and inefficiency.  This is why we are
+  building the next generation of tools that help reduce costs and prevent
+  costly overruns, to keep projects on track and on schedule.
+tags:
+  - industry-4.0
+  - robotics
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Barcelona
+---

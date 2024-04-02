@@ -1,0 +1,22 @@
+---
+title: Cardiologs
+slug: cardiologs
+company_url: ''
+job_board_url: https://jobs.lever.co/cardiologs
+job_board_provider: lever
+job_board_hostname: cardiologs
+description: >-
+  CardioLogs® provides an innovative software technology enabling any healthcare
+  professional to accurately and reliably screen patients for cardiovascular
+  diseases.  Founded in 2014, CardioLogs® leverages cutting-edge machine
+  learning technology and medical expertise to deliver top ECG interpretation
+  services.  Our mission is to empower healthcare professionals and bring
+  cardiology expertise closer to patients.
+tags:
+  - medtech
+  - healthtech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Paris
+---

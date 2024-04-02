@@ -1,0 +1,16 @@
+---
+title: Elliptic
+slug: elliptic
+company_url: ''
+job_board_url: https://apply.workable.com/elliptic
+job_board_provider: workable
+job_board_hostname: elliptic
+description: ''
+tags:
+  - web-3
+  - blockchain
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: London
+---

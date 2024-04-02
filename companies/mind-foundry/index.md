@@ -1,0 +1,24 @@
+---
+title: Mind Foundry
+slug: mind-foundry
+company_url: ''
+job_board_url: https://boards.greenhouse.io/mindfoundry
+job_board_provider: greenhouse
+job_board_hostname: mindfoundry
+description: >-
+  Mind Foundry is an artificial intelligence company operating at the
+  intersection of research, innovation, and usability to empower teams with AI
+  that is built for humans.  Founded by world-leading academics, Mind Foundry
+  develops AI solutions that help organisations in the public and private
+  sectors tackle high-stakes problems, focussing on human outcomes and the
+  long-term impact of AI interventions.  Our intrinsically collaborative
+  platform powers AI design, testing and deployment and enables stakeholders to
+  manage their AI investment responsibly with key focus on performance,
+  efficiency and ethical impact.
+tags:
+  - aiml
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Oxford
+---

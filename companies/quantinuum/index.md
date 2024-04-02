@@ -1,0 +1,21 @@
+---
+title: Quantinuum
+slug: quantinuum
+company_url: ''
+job_board_url: https://jobs.lever.co/quantinuum
+job_board_provider: lever
+job_board_hostname: quantinuum
+description: >-
+  Cambridge Quantum Computing (CQC) is a quantum computing software and
+  algorithms company, and in essence we solve one critical problem – to allow
+  our customers to get the most out of quantum computers and make them useful
+  both now and in the future. Our focus is in the areas of quantum chemistry,
+  quantum machine learning, quantum natural language processing and quantum
+  cybersecurity.
+tags:
+  - quantum-computing
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: London
+---

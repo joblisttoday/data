@@ -1,0 +1,15 @@
+---
+title: biomodal
+slug: biomodal
+company_url: ''
+job_board_url: https://apply.workable.com/biomodal
+job_board_provider: workable
+job_board_hostname: biomodal
+description: ''
+tags:
+  - biotech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Cambridge
+---

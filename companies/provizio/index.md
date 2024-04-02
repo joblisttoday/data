@@ -1,0 +1,15 @@
+---
+title: Provizio
+slug: provizio
+company_url: ''
+job_board_url: https://provizio.recruitee.com/careers
+job_board_provider: recruitee
+job_board_hostname: provizio
+description: null
+tags:
+  - mobility-tech
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Limerick
+---

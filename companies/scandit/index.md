@@ -17,6 +17,7 @@ description: Scandit is a high-growth tech scaleup from Switzerland with offices
   app. In addition we provide computer vision components for all Scandit
   products including augmented reality and shelf monitoring.
 tags:
+  - aiml
   - computer-vision
   - data
 twitter_url: https://twitter.com/Scandit
@@ -24,4 +25,6 @@ linkedin_url: https://www.linkedin.com/company/scandit/
 youtube_url: https://www.youtube.com/channel/UCdqGnNVZwfSJ-mhNeUeauXw
 instagram_url: https://www.instagram.com/scandit_official/
 facebook_url: https://www.facebook.com/Scandit-127334280653842/
+positions:
+  - city: Zürich
 ---

@@ -1,0 +1,28 @@
+---
+title: Volocopter
+slug: volocopter
+company_url: ''
+job_board_url: https://jobs.smartrecruiters.com/VolocopterGmbH
+job_board_provider: smartrecruiters
+job_board_hostname: VolocopterGmbH
+description: >-
+  Volocopter is building the world’s first sustainable and scalable urban air
+  mobility business to bring affordable air taxi services to megacities
+  worldwide. With a multi-range and multipurpose aircraft portfolio, Volocopter
+  is developing the first eVTOL family of aircraft (VoloCity, VoloConnect, and
+  VoloDrone) to provide complete, safe, and quiet urban mobility coverage for
+  passengers and logistics.  Volocopter leads and cooperates with partners in
+  infrastructure, operations, and air traffic management to build the ecosystem
+  necessary to ‘Bring Urban Air Mobility to Life’. In 2011, Volocopter performed
+  the first-ever crewed flight of a purely electric multicopter and has since
+  showcased numerous public flights with its full-scale aircraft— including
+  notable public test flights at Singapore’s Marina Bay in October 2019 and the
+  world’s first autonomous eVTOL flight in Dubai 2017.
+tags:
+  - aerospace
+  - drones
+twitter_url: ''
+linkedin_url: ''
+positions:
+  - city: Bruschal
+---
