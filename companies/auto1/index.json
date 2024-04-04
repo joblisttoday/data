@@ -1,0 +1,23 @@
+{
+    "title": "Auto1",
+    "description": "AUTO1 Group is one of Europe’s leading #car #trading #platform. It enables consumers as well as dealers to trade seamlessly throughout Europe",
+    "tags": [
+        "car",
+        "trading",
+        "platform"
+    ],
+    "job_board_url": "https://www.auto1.com/de/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3976753,
+                    52.4891729
+                ]
+            }
+        }
+    ]
+}

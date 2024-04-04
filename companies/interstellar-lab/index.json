@@ -1,0 +1,19 @@
+{
+    "title": "Interstellar Lab",
+    "company_url": "",
+    "job_board_url": "https://boards.greenhouse.io/interstellarlab",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "interstellarlab",
+    "description": "Using space exploration design and technologies, we have developed environment-controlled pods able to generate and recycle food, air, and water to support the life of a group of people.  Our pods work as fully regenerative habitats that automatically regulate air, pressure, water, temperature, and humidity to create the ideal environmental conditions for humans and plants.  Our pods work stand-alone and can be attached together to form modules. By combining modules, we can support life for larger groups and become a framework for sustainable cities on Earth and, in the future, in space.",
+    "tags": [
+        "aerospace",
+        "drones"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Paris"
+        }
+    ]
+}

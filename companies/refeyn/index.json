@@ -1,0 +1,19 @@
+{
+    "title": "Refeyn",
+    "company_url": "",
+    "job_board_url": "https://boards.greenhouse.io/refeyn",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "refeyn",
+    "description": "Our unique technology is delivering a disruptive new generation of analytical instruments that weigh individual molecules with light.   Just one year after being spun out of two world-class research groups in Oxford University, Refeyn Ltd is already providing instrumentation and software to early access customers. The software we are developing is a combination of instrument control (lasers, pointing systems, 3D positioners and high specification video camera detection) and data analysis of the received video images.    The goal is to seamlessly measure proteins in solution, providing scientists with key information about their mass distribution.",
+    "tags": [
+        "hardware",
+        "electronics"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Oxford"
+        }
+    ]
+}

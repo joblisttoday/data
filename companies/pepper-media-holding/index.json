@@ -1,0 +1,22 @@
+{
+    "title": "Pepper Media Holding ",
+    "description": "Shopping platform #startup ; #marketplace",
+    "tags": [
+        "startup",
+        "marketplace"
+    ],
+    "job_board_url": "https://join.pepper.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.39633,
+                    52.528782
+                ]
+            }
+        }
+    ]
+}

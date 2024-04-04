@@ -1,0 +1,23 @@
+{
+    "title": "Medigo",
+    "description": "Medigo is an #international #network of #medical experts",
+    "tags": [
+        "international",
+        "network",
+        "medical"
+    ],
+    "job_board_url": "https://www.medigo.com/en/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40285,
+                    52.5274944
+                ]
+            }
+        }
+    ]
+}

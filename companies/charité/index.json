@@ -1,0 +1,23 @@
+{
+    "title": "Charité",
+    "description": "The Charité – Universitätsmedizin Berlin is Europe's largest University clinic. #health # clinic #university #medicine",
+    "tags": [
+        "health",
+        "university",
+        "medicine"
+    ],
+    "job_board_url": "https://www.charite.de/karriere/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3781312,
+                    52.5273921
+                ]
+            }
+        }
+    ]
+}

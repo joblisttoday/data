@@ -1,0 +1,24 @@
+{
+    "title": "Cogs Agency",
+    "description": "#recruiting #agency handpicking candidates for businesses. #job-board #hr",
+    "tags": [
+        "recruiting",
+        "agency",
+        "job-board",
+        "hr"
+    ],
+    "job_board_url": "http://cogsagency.com/jobs/?discipline=&location=de_DE&s=",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3969146,
+                    52.5134128
+                ]
+            }
+        }
+    ]
+}

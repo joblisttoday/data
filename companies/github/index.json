@@ -1,0 +1,14 @@
+{
+    "title": "github",
+    "company_url": "https://github.com",
+    "job_board_url": "https://boards.greenhouse.io/github",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "github",
+    "twitter_url": "https://twitter.com/github",
+    "linkedin_url": "https://www.linkedin.com/company/github",
+    "facebook_url": "https://www.facebook.com/GitHub",
+    "description": "Code hosting platform, git respository as a service, devops platform",
+    "tags": [
+        "git"
+    ]
+}

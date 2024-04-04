@@ -1,0 +1,22 @@
+{
+    "title": "Bosch Software Innovations",
+    "description": "Internet of Things (#iot) #software company",
+    "tags": [
+        "iot",
+        "software"
+    ],
+    "job_board_url": "https://www.bosch-si.com/de/unternehmen/karriere/stellen/angebote.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3878757,
+                    52.4539579
+                ]
+            }
+        }
+    ]
+}

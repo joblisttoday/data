@@ -1,0 +1,19 @@
+{
+    "title": "Novoic",
+    "company_url": "",
+    "job_board_url": "https://jobs.lever.co/novoic",
+    "job_board_provider": "lever",
+    "job_board_hostname": "novoic",
+    "description": "Monitoring your brain health should be as easy as having a conversation. ‍ Our comprehensive speech analytics platform supports clinicians to identify and monitor subtle changes in speech patterns in neurological disease.",
+    "tags": [
+        "medtech",
+        "healthtech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

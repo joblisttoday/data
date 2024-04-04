@@ -1,0 +1,29 @@
+{
+    "title": "Dentolo",
+    "description": "Dental insurance and ecosystem.",
+    "tags": [
+        "insurance",
+        "startup",
+        "dental"
+    ],
+    "company_url": "https://www.dentolo.de",
+    "job_board_url": "https://dentolo.jobs.personio.de/",
+    "job_board_provider": "personio",
+    "job_board_hostname": "dentolo",
+    "facebook_url": "https://www.facebook.com/dentolo.de",
+    "positions": [
+        {
+            "country": "germany",
+            "postal_code": "10119",
+            "address": "Schönhauser Allee 10-11",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.411787,
+                    52.530415
+                ]
+            }
+        }
+    ]
+}

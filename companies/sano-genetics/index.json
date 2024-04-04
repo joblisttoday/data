@@ -1,0 +1,19 @@
+{
+    "title": "Sano Genetics",
+    "company_url": "",
+    "job_board_url": "https://boards.greenhouse.io/sanogenetics",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "sanogenetics",
+    "description": "Sano Genetics is a user-centric genetic data sharing platform. We act as ethical brokers to facilitate a direct connection between a patient and research institutions. We are values driven. We believe any company, but particularly companies specialising in DNA sequencing, should have ethical practices, transparent communication and a business model which is socially responsible.   We also use more advanced DNA sequencing technology (whole exome sequencing and whole genome sequencing) than most other companies, providing much more data and enhancing the quality of insights.",
+    "tags": [
+        "medtech",
+        "healthtech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Cambridge"
+        }
+    ]
+}

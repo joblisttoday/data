@@ -1,0 +1,23 @@
+{
+    "title": "Asana Rebel",
+    "description": "#startup provinding an app for #yoga and #fitness practice",
+    "tags": [
+        "startup",
+        "yoga",
+        "fitness"
+    ],
+    "job_board_url": "https://boards.greenhouse.io/asanarebel",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3785254,
+                    52.5044379
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "City Innovate",
+    "company_url": "https://www.cityinnovate.com",
+    "job_board_url": "https://www.cityinnovate.com/company/careers/",
+    "job_board_provider": "workable",
+    "job_board_hostname": "city-innovate",
+    "description": "City Innovate is a dynamic and forward-thinking technology company dedicated to transforming the way cities operate and improve the quality of life for urban residents. Our mission is to drive innovation and collaboration in the public sector by developing cutting-edge solutions that empower government agencies to make data-driven decisions, enhance public services, and address urban challenges. We are passionate about creating smart cities that are more sustainable, efficient, and responsive to the needs of their citizens.",
+    "tags": [
+        "public-services",
+        "startup"
+    ],
+    "twitter_url": "https://twitter.com/CityInnovate",
+    "linkedin_url": "https://www.linkedin.com/company/city-innovate/",
+    "github_url": ""
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Blacklane",
+    "description": "#startup company providing a #chauffeur portal connecting people to professional chauffeurs via their #mobile application",
+    "tags": [
+        "startup",
+        "chauffeur",
+        "mobile"
+    ],
+    "job_board_url": "https://www.blacklane.com/en/career",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.357146,
+                    52.48483
+                ]
+            }
+        }
+    ]
+}

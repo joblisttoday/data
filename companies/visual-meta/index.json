@@ -1,0 +1,24 @@
+{
+    "title": "Visual Meta",
+    "description": "Visual Meta is a top reference for connecting #online shops and #consumers. We create reach for the #shops and orientation for the consumers through our cutting-edge tools and #technologies",
+    "tags": [
+        "online",
+        "consumers",
+        "shops",
+        "technologies"
+    ],
+    "job_board_url": "http://visual-meta.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4146475,
+                    52.5237681
+                ]
+            }
+        }
+    ]
+}

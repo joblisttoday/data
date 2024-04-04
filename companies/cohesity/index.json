@@ -1,0 +1,18 @@
+{
+    "title": "Cohesity",
+    "company_url": "https://cohesity.com",
+    "job_board_url": "https://careers.cohesity.com",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "cohesity",
+    "description": "At Cohesity, we believe that simplicity is the foundation of modern data management. Our mission is to radically simplify how organizations secure and manage their data and unlock limitless value.",
+    "tags": [
+        "infrastructure",
+        "data",
+        "security"
+    ],
+    "twitter_url": "https://twitter.com/cohesity",
+    "linkedin_url": "https://www.linkedin.com/company/cohesity/",
+    "youtube_url": "https://www.youtube.com/channel/UCZNz4gmV-JGrEmIimFvp5EA",
+    "instagram_url": "https://www.instagram.com/cohesity",
+    "facebook_url": "https://www.facebook.com/cohesity/"
+}

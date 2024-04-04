@@ -1,0 +1,19 @@
+{
+    "title": "Daedalean AI",
+    "company_url": "",
+    "job_board_url": "https://jobs.lever.co/daedalean",
+    "job_board_provider": "lever",
+    "job_board_hostname": "daedalean",
+    "description": "We are building autonomous flight control software for civil aircraft of today and the advanced aerial mobility of tomorrow. We bring to market the first-ever machine-learning-based avionics in an onboard visual awareness system demonstrating capabilities on a path to certification for airworthiness.",
+    "tags": [
+        "aerospace",
+        "drones"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Zürich"
+        }
+    ]
+}

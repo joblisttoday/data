@@ -1,0 +1,24 @@
+{
+    "title": "Kapilendo",
+    "description": "Funding #marketplace where entrepreneurs in search of funding meet investors in search of a simple #investment opportunity",
+    "tags": [
+        "marketplace",
+        "investment"
+    ],
+    "job_board_url": "https://kapilendo-ag.jobs.personio.de/",
+    "job_board_provider": "personio",
+    "job_board_hostname": "kapilendo-ag",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.331367,
+                    52.501652
+                ]
+            }
+        }
+    ]
+}

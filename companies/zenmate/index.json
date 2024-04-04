@@ -1,0 +1,23 @@
+{
+    "title": "ZenMate",
+    "description": "#vpn and #cyber-security solutions to encrypt a user web trafic; #tech",
+    "tags": [
+        "vpn",
+        "cyber-security",
+        "tech"
+    ],
+    "job_board_url": "https://zenmate.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4367892,
+                    52.4943559
+                ]
+            }
+        }
+    ]
+}

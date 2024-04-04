@@ -1,0 +1,22 @@
+{
+    "title": "Vistaprint",
+    "description": "#online #printing company offering a large range of custom items",
+    "tags": [
+        "online",
+        "printing"
+    ],
+    "job_board_url": "http://careers.vistaprint.com/search?searchCulture=en&searchText=&searchCareerTracks=&searchLocations=Berlin",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3280522,
+                    52.5160189
+                ]
+            }
+        }
+    ]
+}

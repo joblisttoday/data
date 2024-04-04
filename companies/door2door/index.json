@@ -1,0 +1,21 @@
+{
+    "title": "Door2door",
+    "description": "Door2door solution provides an economical and on-demand #transportation for citizens, employees or rural areas.",
+    "tags": [
+        "transportation"
+    ],
+    "job_board_url": "https://www.door2door.io/jobs.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40297,
+                    52.5300431
+                ]
+            }
+        }
+    ]
+}

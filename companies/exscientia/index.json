@@ -1,0 +1,18 @@
+{
+    "title": "Exscientia",
+    "company_url": "https://www.exscientia.ai/",
+    "job_board_url": "https://apply.workable.com/exscientia",
+    "job_board_provider": "workable",
+    "job_board_hostname": "exscientia",
+    "description": "As a full stack AI drug discovery company, we focus on implementing AI design as well as precision data generation. Together these maximise the power and fidelity of the integrated AI and machine learning systems.  By focusing on both design and experiment, we are able to significantly accelerate the pre-clinical drug discovery stage to enable the delivery of new treatments to patients worldwide.",
+    "tags": [
+        "biotech"
+    ],
+    "twitter_url": "https://twitter.com/exscientiaAI",
+    "linkedin_url": "https://www.linkedin.com/company/ex-scientia/",
+    "positions": [
+        {
+            "city": "Oxford"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Your Superfoods",
+    "description": "We’ve created a product with the nutritional power\nof fresh produce and the convenience of supplements. #bio #food #startup #healthy",
+    "tags": [
+        "bio",
+        "food",
+        "startup",
+        "healthy"
+    ],
+    "job_board_url": "https://yoursuperfoods.de/pages/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3776897,
+                    52.5352256
+                ]
+            }
+        }
+    ]
+}

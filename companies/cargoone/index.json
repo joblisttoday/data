@@ -1,0 +1,23 @@
+{
+    "title": "Cargo.one",
+    "description": "Booking platform for air freight. #startup #transport #aviation",
+    "tags": [
+        "startup",
+        "transport",
+        "aviation"
+    ],
+    "job_board_url": "https://www.cargo.one/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4067992,
+                    52.5378807
+                ]
+            }
+        }
+    ]
+}

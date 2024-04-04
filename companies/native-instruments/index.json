@@ -1,0 +1,24 @@
+{
+    "title": "Native instruments",
+    "description": "#music #software and #hardware for computer-based #audio production and DJing",
+    "tags": [
+        "music",
+        "software",
+        "hardware",
+        "audio"
+    ],
+    "job_board_url": "http://www.native-instruments.com/en/career-center/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4477158,
+                    52.4991645
+                ]
+            }
+        }
+    ]
+}

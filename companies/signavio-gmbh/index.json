@@ -1,0 +1,21 @@
+{
+    "title": "Signavio GmbH",
+    "description": "Vendor of a Business Process Management #software",
+    "tags": [
+        "software"
+    ],
+    "job_board_url": "https://www.signavio.com/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3394667,
+                    52.5054978
+                ]
+            }
+        }
+    ]
+}

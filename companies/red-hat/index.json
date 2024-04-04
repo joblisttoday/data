@@ -1,0 +1,24 @@
+{
+    "title": "Red Hat",
+    "description": "#open-source #software and #it solutions; #multinational",
+    "tags": [
+        "open-source",
+        "software",
+        "it",
+        "multinational"
+    ],
+    "job_board_url": "http://jobs.redhat.com/job-search-results/?technology=-1&marketing=-1&sales=-1&corporate=-1&country=56&city=465004&remote=-1&keywords=Keywords",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.45742,
+                    52.49228
+                ]
+            }
+        }
+    ]
+}

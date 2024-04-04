@@ -1,0 +1,22 @@
+{
+    "title": "Unu",
+    "description": "Creator of the unu electric scooter. #startup #electric",
+    "tags": [
+        "startup",
+        "electric"
+    ],
+    "job_board_url": "https://jobs.lever.co/unu",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3835491,
+                    52.498407
+                ]
+            }
+        }
+    ]
+}

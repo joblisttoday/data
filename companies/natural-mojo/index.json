@@ -1,0 +1,23 @@
+{
+    "title": "Natural Mojo",
+    "description": "We are a dynamic startup from Berlin with the aim of making healthy nutrition available to everyone. #health #nutrition #food",
+    "tags": [
+        "health",
+        "nutrition",
+        "food"
+    ],
+    "job_board_url": "https://naturalmojo.workable.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3895422,
+                    52.515117
+                ]
+            }
+        }
+    ]
+}

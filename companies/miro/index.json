@@ -1,0 +1,18 @@
+{
+    "title": "Miro",
+    "company_url": "https://miro.com",
+    "job_board_url": "https://miro.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "realtimeboardglobal",
+    "description": "Visual collaboration platform. Miro empowers remote, in-office, and hybrid teams to communicate and collaborate across formats, tools, channels, and timezones — without the constraints of physical location, meeting space, and whiteboards. ",
+    "tags": [
+        "collaboration",
+        "whiteboard",
+        "startup"
+    ],
+    "twitter_url": "https://twitter.com/mirohq",
+    "linkedin_url": "https://www.linkedin.com/company/mirohq",
+    "youtube_url": "https://www.youtube.com/user/RealtimeBoardEng",
+    "instagram_url": "https://www.instagram.com/mirohq",
+    "facebook_url": "https://www.facebook.com/TryMiro"
+}

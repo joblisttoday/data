@@ -1,0 +1,23 @@
+{
+    "title": "FinLeap",
+    "job_board_url": "https://www.finleap.com/careers/jobs/",
+    "description": "#fintech #venture-capita based in Berlin. #vc",
+    "tags": [
+        "fintech",
+        "venture-capital",
+        "vc"
+    ],
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3298622,
+                    52.5081977
+                ]
+            }
+        }
+    ]
+}

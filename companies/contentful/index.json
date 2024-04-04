@@ -1,0 +1,22 @@
+{
+    "title": "Contentful",
+    "description": "#startup #tech",
+    "tags": [
+        "startup",
+        "tech"
+    ],
+    "job_board_url": "https://www.contentful.com/careers/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4111829,
+                    52.5020754
+                ]
+            }
+        }
+    ]
+}

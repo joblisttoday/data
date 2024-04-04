@@ -1,0 +1,18 @@
+{
+    "title": "Oxa",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/oxa",
+    "job_board_provider": "workable",
+    "job_board_hostname": "oxa",
+    "description": "Oxbotica enables vehicle autonomy by engineering the software that drives them, with total freedom from external infrastructure dependency. Our software brings autonomy to all vehicles, in all places at all times.  This is Universal Autonomy.",
+    "tags": [
+        "mobility-tech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Oxford"
+        }
+    ]
+}

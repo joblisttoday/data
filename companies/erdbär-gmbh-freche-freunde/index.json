@@ -1,0 +1,24 @@
+{
+    "title": " Erdbär GmbH Freche Freunde",
+    "description": "#bio #eco #food #startup",
+    "tags": [
+        "bio",
+        "eco",
+        "food",
+        "startup"
+    ],
+    "job_board_url": "https://frechefreunde.de/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40675,
+                    52.54059
+                ]
+            }
+        }
+    ]
+}

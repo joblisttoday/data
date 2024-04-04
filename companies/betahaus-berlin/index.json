@@ -1,0 +1,23 @@
+{
+    "title": "Betahaus Berlin",
+    "description": "#coworking space #startup #freelance",
+    "tags": [
+        "coworking",
+        "startup",
+        "freelance"
+    ],
+    "job_board_url": "http://www.betahaus.com/berlin/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4205617,
+                    52.4956458
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Benchling",
+    "company_url": "https://www.benchling.com/",
+    "job_board_url": "https://www.benchling.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "benchling",
+    "description": "Benchling helps scientists accelerate the full R&D lifecycle with our R&D Cloud, which consists of data, collaboration, and insights — built on a trusted and open cloud platform. Learn more Trusted by the world's leading biotech organizations.",
+    "tags": [
+        "science",
+        "biotechnology",
+        "research-development"
+    ],
+    "twitter_url": "https://twitter.com/benchling",
+    "linkedin_url": "https://www.linkedin.com/company/3769390",
+    "youtube_url": "https://www.youtube.com/c/Benchling/videos",
+    "facebook_url": "https://www.facebook.com/benchling",
+    "github_url": "https://github.com/benchling"
+}

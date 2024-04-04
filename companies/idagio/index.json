@@ -1,0 +1,27 @@
+{
+    "title": "Idagio",
+    "description": "#classical-music streaming service. #music #startup #technology",
+    "tags": [
+        "classical-music",
+        "music",
+        "startup",
+        "technology"
+    ],
+    "company_url": "https://idagio.com",
+    "job_board_url": "https://idagio.jobs.personio.de",
+    "job_board_provider": "personio",
+    "job_board_hostname": "idagio",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.383492,
+                    52.4985508
+                ]
+            }
+        }
+    ]
+}

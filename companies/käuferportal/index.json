@@ -1,0 +1,21 @@
+{
+    "title": "Käuferportal",
+    "description": "Käuferportal is Europe's market leader in connecting prospective online customers with specifically selected and verified companies. #startup",
+    "tags": [
+        "startup"
+    ],
+    "job_board_url": "https://company.kaeuferportal.de/karriere/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3756564,
+                    52.5087788
+                ]
+            }
+        }
+    ]
+}

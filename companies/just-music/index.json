@@ -1,0 +1,23 @@
+{
+    "title": "Just Music",
+    "description": "Just Music in an online #music #shop allowing you to purchase any kind of #instruments",
+    "tags": [
+        "music",
+        "shop",
+        "instruments"
+    ],
+    "job_board_url": "http://blog.justmusic.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.408877,
+                    52.5040465
+                ]
+            }
+        }
+    ]
+}

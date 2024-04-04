@@ -1,0 +1,25 @@
+{
+    "title": "Rocket Internet",
+    "description": "Rocket Internet #incubates and #invests in #Internet #companies with proven #business models",
+    "tags": [
+        "incubates",
+        "invests",
+        "Internet",
+        "companies",
+        "business"
+    ],
+    "job_board_url": "https://www.rocket-internet.com/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3932297,
+                    52.5065125
+                ]
+            }
+        }
+    ]
+}

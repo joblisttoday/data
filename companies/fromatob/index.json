@@ -1,0 +1,24 @@
+{
+    "title": "FromAtoB",
+    "description": "multimodal #travel planner and online #booking platform for destinations in all #europe; #startup",
+    "tags": [
+        "travel",
+        "booking",
+        "europe",
+        "startup"
+    ],
+    "job_board_url": "https://fromatob.workable.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4049052,
+                    52.5235909
+                ]
+            }
+        }
+    ]
+}

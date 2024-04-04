@@ -1,0 +1,23 @@
+{
+    "title": "KW-Commerce",
+    "description": "#startup #marketplace #e-commerce",
+    "tags": [
+        "startup",
+        "marketplace",
+        "e-commerce"
+    ],
+    "job_board_url": "https://jobs.kw-commerce.de/Jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3969957,
+                    52.5148845
+                ]
+            }
+        }
+    ]
+}

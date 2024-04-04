@@ -1,0 +1,24 @@
+{
+    "title": "Mixd.tv",
+    "description": "online #video #data services; #tech #startup",
+    "tags": [
+        "video",
+        "data",
+        "tech",
+        "startup"
+    ],
+    "job_board_url": "http://mixd.tv/careers.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.366863,
+                    52.523102
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "LeydenJar Technologies",
+    "company_url": "",
+    "job_board_url": "https://leydenjar.recruitee.com/careers",
+    "job_board_provider": "recruitee",
+    "job_board_hostname": "leydenjar",
+    "description": "Our technology is based on a proprietary linear MW PECVD proces that is unique in its direct depositioning of silicon on copper foil, rather than existing capital intensive coating processes. PECVD is a mature manufacturing process currently applied in the semiconductor and PV industries.",
+    "tags": [
+        "energy",
+        "climate-tech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Leiden"
+        }
+    ]
+}

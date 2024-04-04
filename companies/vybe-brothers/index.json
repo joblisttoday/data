@@ -1,0 +1,22 @@
+{
+    "title": "Vybe Brothers",
+    "description": "#communication #agency",
+    "tags": [
+        "communication",
+        "agency"
+    ],
+    "job_board_url": "https://www.vybebrothers.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4542457,
+                    52.5077221
+                ]
+            }
+        }
+    ]
+}

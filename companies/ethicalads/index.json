@@ -1,0 +1,32 @@
+{
+    "title": "EthicalAds",
+    "company_url": "https://www.ethicalads.io/",
+    "job_board_url": "https://www.ethicalads.io/jobs/",
+    "description": "Advertising for Developers that Just Works. A developer-focused ad network, using machine learning for powerful contextual targeting",
+    "tags": [
+        "ethical",
+        "advertising",
+        "IT",
+        "documentation"
+    ],
+    "twitter_url": "https://twitter.com/ethicaladsio",
+    "linkedin_url": "https://www.linkedin.com/company/ethicalads",
+    "youtube_url": "https://youtube.com/@ethicalads",
+    "github_url": "https://github.com/readthedocs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Read_the_Docs",
+    "positions": [
+        {
+            "country": "USA",
+            "city": "Portland",
+            "postal_code": "OR 97204-2405",
+            "address": "818 SW 3rd Ave #221-5841",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675801,
+                    45.5173322
+                ]
+            }
+        }
+    ]
+}

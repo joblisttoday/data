@@ -1,0 +1,23 @@
+{
+    "title": "Zucker Kommunikation:",
+    "description": "#communication and #pr #agency",
+    "tags": [
+        "communication",
+        "pr",
+        "agency"
+    ],
+    "job_board_url": "https://www.zucker-kommunikation.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40325,
+                    52.53019
+                ]
+            }
+        }
+    ]
+}

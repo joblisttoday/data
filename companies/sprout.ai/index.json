@@ -1,0 +1,18 @@
+{
+    "title": "Sprout.ai",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/sprout",
+    "job_board_provider": "workable",
+    "job_board_hostname": "sprout",
+    "description": "Sprout.ai was founded on the belief that Artificial Intelligence (AI) has the potential to unlock the future of insurance, solving fraud detection and claims automation, while empowering insurers to deliver amazing customer experiences.",
+    "tags": [
+        "aiml"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

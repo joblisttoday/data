@@ -1,0 +1,18 @@
+{
+    "title": "Via",
+    "company_url": "https://ridewithvia.com/",
+    "job_board_url": "https://ridewithvia.com/jobs/",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "via",
+    "description": "#startup #navigation #ride-sharing #transport",
+    "tags": [
+        "startup",
+        "navigation",
+        "ride-sharing",
+        "transport",
+        "mobility"
+    ],
+    "twitter_url": "https://twitter.com/ridewithvia?lang=es",
+    "linkedin_url": "https://www.linkedin.com/company/ridewithvia",
+    "instagram_url": "https://www.instagram.com/ridewithvia/?hl=en"
+}

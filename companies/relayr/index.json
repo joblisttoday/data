@@ -1,0 +1,22 @@
+{
+    "title": "Relayr",
+    "description": "#iot #tech company",
+    "tags": [
+        "iot",
+        "tech"
+    ],
+    "job_board_url": "https://relayr.io/en/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3894672,
+                    52.4900733
+                ]
+            }
+        }
+    ]
+}

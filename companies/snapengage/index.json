@@ -1,0 +1,21 @@
+{
+    "title": "SnapEngage",
+    "description": "#startup",
+    "tags": [
+        "startup"
+    ],
+    "job_board_url": "https://SnapEngage.com/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3251054,
+                    52.4610669
+                ]
+            }
+        }
+    ]
+}

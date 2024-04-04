@@ -1,0 +1,24 @@
+{
+    "title": "lala berlin",
+    "description": "Online #fashion store and #agency; #ecommerce #startup",
+    "tags": [
+        "fashion",
+        "agency",
+        "ecommerce",
+        "startup"
+    ],
+    "job_board_url": "https://www.lalaberlin.com/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3996178,
+                    52.5345253
+                ]
+            }
+        }
+    ]
+}

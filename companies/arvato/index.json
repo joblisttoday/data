@@ -1,0 +1,24 @@
+{
+    "title": "Arvato",
+    "description": "Arvato is a global services company . Its services include #customerSupport, #informationTechnology, #logistics, and #finance.",
+    "tags": [
+        "customerSupport",
+        "informationTechnology",
+        "logistics",
+        "finance"
+    ],
+    "job_board_url": "https://www.arvato.com/en/career/job-offers.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.2679368,
+                    52.5338172
+                ]
+            }
+        }
+    ]
+}

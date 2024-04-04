@@ -1,0 +1,21 @@
+{
+    "title": " RSG Group GmbH (Mc Fit)",
+    "description": "#fitness",
+    "tags": [
+        "fitness"
+    ],
+    "job_board_url": "https://www.mcfit-global-group.com/de/karriere/jobs/mcfit/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.41623,
+                    52.52871
+                ]
+            }
+        }
+    ]
+}

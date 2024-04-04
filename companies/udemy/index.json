@@ -1,0 +1,11 @@
+{
+    "title": "Udemy",
+    "company_url": "https://www.udemy.com/",
+    "job_board_url": "https://boards.greenhouse.io/udemy",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "udemy",
+    "description": "We believe anyone can build the life they imagine through online learning. Today, millions of students around the world are advancing their careers and passions by exploring and mastering new skills on Udemy, and expert instructors are able to share their knowledge with the world. Through our global marketplace and our solutions for businesses and governments, we connect people everywhere with the skills they need for success in work and life.",
+    "tags": [
+        "learning"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Programmfabrik",
+    "description": "Programmfabrik is a #management #software editor aiming to improve workflows and human ressources within companies.",
+    "tags": [
+        "management",
+        "software"
+    ],
+    "job_board_url": "https://www.programmfabrik.de/karriere/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4104639,
+                    52.5340781
+                ]
+            }
+        }
+    ]
+}

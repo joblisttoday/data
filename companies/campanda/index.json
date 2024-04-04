@@ -1,0 +1,21 @@
+{
+    "title": "Campanda",
+    "description": "RV rental platform #startup",
+    "tags": [
+        "startup"
+    ],
+    "job_board_url": "https://campanda-gmbh.workable.com",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3255743,
+                    52.501604
+                ]
+            }
+        }
+    ]
+}

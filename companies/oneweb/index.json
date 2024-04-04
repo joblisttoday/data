@@ -1,0 +1,19 @@
+{
+    "title": "OneWeb",
+    "company_url": "",
+    "job_board_url": "https://boards.greenhouse.io/oneweb",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "oneweb",
+    "description": "Half the world's population still lacks access to the Internet and in many areas access is still inconsistent. Access is critical for growing economies, starting new businesses, expanding access to health care, and providing educational opportunities. This issue impacts all of us, and together we can solve it.",
+    "tags": [
+        "aerospace",
+        "drones"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

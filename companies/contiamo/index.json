@@ -1,0 +1,22 @@
+{
+    "title": "Contiamo",
+    "description": "#dataScience platform. #startup",
+    "tags": [
+        "dataScience",
+        "startup"
+    ],
+    "job_board_url": "https://contiamo.com/careers/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4058121,
+                    52.5242479
+                ]
+            }
+        }
+    ]
+}

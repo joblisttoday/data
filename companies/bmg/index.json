@@ -1,0 +1,21 @@
+{
+    "title": "BMG",
+    "description": "BMG Rights Management GmbH is an international music company focused on the management of music publishing, recording rights and music distribution.\n#music",
+    "tags": [
+        "music"
+    ],
+    "job_board_url": "https://www.bmg.com/de/career.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3882112,
+                    52.5126241
+                ]
+            }
+        }
+    ]
+}

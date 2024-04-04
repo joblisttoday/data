@@ -1,0 +1,22 @@
+{
+    "title": "Kolibri ",
+    "description": "#startup focusing on mobile video #games",
+    "tags": [
+        "startup",
+        "games"
+    ],
+    "job_board_url": "https://www.kolibrigames.com/career/positions/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3840166,
+                    52.5007378
+                ]
+            }
+        }
+    ]
+}

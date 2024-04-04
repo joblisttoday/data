@@ -1,0 +1,17 @@
+{
+    "title": "Grover",
+    "job_board_url": "https://jobs.getgrover.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4214494,
+                    52.5143621
+                ]
+            }
+        }
+    ]
+}

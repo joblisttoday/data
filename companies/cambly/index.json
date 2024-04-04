@@ -1,0 +1,16 @@
+{
+    "title": "Cambly",
+    "company_url": "https://cambly.com",
+    "job_board_url": "https://jobs.cambly.com",
+    "job_board_provider": "lever",
+    "job_board_hostname": "cambly",
+    "description": "Online English classes with native speakers.",
+    "tags": [
+        "language-learning",
+        "english"
+    ],
+    "twitter_url": "https://twitter.com/cambly",
+    "youtube_url": "https://www.youtube.com/user/CamblyEnglish",
+    "instagram_url": "https://www.instagram.com/cambly_global/",
+    "facebook_url": "https://www.facebook.com/camblyapp"
+}

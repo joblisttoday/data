@@ -1,0 +1,24 @@
+{
+    "title": "flyiin",
+    "description": "#startup building user-centric #flight booking experiences based on direct connections to their partner airlines. Designs experiences for travelers to easily search, compare and buy flights and services directly with airlines. #airline #aviation",
+    "tags": [
+        "startup",
+        "flight",
+        "airline",
+        "aviation"
+    ],
+    "job_board_url": "https://www.flyiin.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.372,
+                    52.50317
+                ]
+            }
+        }
+    ]
+}

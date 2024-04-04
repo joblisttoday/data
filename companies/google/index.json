@@ -1,0 +1,22 @@
+{
+    "title": "Google",
+    "description": "#multinational #technology company that specializes in internet related services and products",
+    "tags": [
+        "multinational",
+        "technology"
+    ],
+    "job_board_url": "https://www.google.com/about/careers/search#t=sq&q=j&jl=Berlin,Germany",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3922897,
+                    52.523225
+                ]
+            }
+        }
+    ]
+}

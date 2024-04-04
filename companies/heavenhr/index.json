@@ -1,0 +1,24 @@
+{
+    "title": "HeavenHR",
+    "description": "#hr management platform. #software #startup #tech",
+    "tags": [
+        "hr",
+        "software",
+        "startup",
+        "tech"
+    ],
+    "job_board_url": "https://www.heavenhr.com/DE/de/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3969221,
+                    52.4940644
+                ]
+            }
+        }
+    ]
+}

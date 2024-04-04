@@ -1,0 +1,19 @@
+{
+    "title": "Fenix International",
+    "description": "Fenix International produces solar panel solutions.",
+    "tags": [
+        "energy",
+        "solar"
+    ],
+    "company_url": "https://www.fenixintl.com",
+    "job_board_url": "https://boards.greenhouse.io/fenixinternational",
+    "twitter_url": "https://twitter.com/fenixintl",
+    "linkedin_url": "https://www.linkedin.com/company/fenix-international",
+    "facebook_url": "https://www.facebook.com/fenixintl",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin"
+        }
+    ]
+}

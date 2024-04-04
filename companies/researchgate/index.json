@@ -1,0 +1,24 @@
+{
+    "title": "ResearchGate",
+    "description": "ResearchGate is a #social #networking site for #scientists and #researchers to share papers, ask and answer questions, and find collaborators",
+    "tags": [
+        "social",
+        "networking",
+        "scientists",
+        "researchers"
+    ],
+    "job_board_url": "http://www.researchgate.net/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.383646,
+                    52.530219
+                ]
+            }
+        }
+    ]
+}

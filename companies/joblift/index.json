@@ -1,0 +1,10 @@
+{
+    "title": "Joblift",
+    "description": "general purpose #job-board",
+    "tags": [
+        "job-board"
+    ],
+    "job_board_url": "https://joblift.jobs.personio.de",
+    "job_board_provider": "personio",
+    "job_board_hostname": "joblift"
+}

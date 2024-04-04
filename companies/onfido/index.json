@@ -1,0 +1,18 @@
+{
+    "title": "Onfido",
+    "company_url": "",
+    "job_board_url": "https://jobs.lever.co/onfido",
+    "job_board_provider": "lever",
+    "job_board_hostname": "onfido",
+    "description": "Onfido is the new identity standard for the internet. Our AI-based technology assesses whether a user’s government-issued ID is genuine or fraudulent, and then compares it against their facial biometrics. That’s how we give companies the assurance they need to onboard customers remotely and securely. Our mission is to create a more open world, where identity is the key to access",
+    "tags": [
+        "aiml"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

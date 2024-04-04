@@ -1,0 +1,24 @@
+{
+    "title": "Celeraone",
+    "description": "#startup #big-data #mathematics #software",
+    "tags": [
+        "startup",
+        "big-data",
+        "mathematics",
+        "software"
+    ],
+    "job_board_url": "http://celeraone.com/en/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.39238,
+                    52.54101
+                ]
+            }
+        }
+    ]
+}

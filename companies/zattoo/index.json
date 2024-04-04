@@ -1,0 +1,26 @@
+{
+    "title": "Zattoo",
+    "description": "online #tv #platform for IP-based transmission of #television #channels and #video on demand content to a variety of devices; #tech",
+    "tags": [
+        "tv",
+        "platform",
+        "television",
+        "channels",
+        "video",
+        "tech"
+    ],
+    "job_board_url": "http://zattoo.com/company/en/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4574199,
+                    52.47399
+                ]
+            }
+        }
+    ]
+}

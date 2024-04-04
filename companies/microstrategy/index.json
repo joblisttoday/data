@@ -1,0 +1,18 @@
+{
+    "title": "MicroStrategy",
+    "company_url": "https://www.microstrategy.com",
+    "job_board_url": "https://jobs.smartrecruiters.com/MicroStrategy1",
+    "job_board_provider": "smartrecruiters",
+    "job_board_hostname": "MicroStrategy1",
+    "description": "MicroStrategy provides business intelligence, mobile software, and cloud-based services.",
+    "tags": [
+        "business-intelligence",
+        "bitcoin",
+        "entreprise-analytics",
+        "cryptocurrencies"
+    ],
+    "twitter_url": "https://twitter.com/microstrategy",
+    "linkedin_url": "https://linkedin.com/company/microstrategy",
+    "github_url": "https://github.com/MicroStrategy/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MicroStrategy"
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Edenspiekermann",
+    "description": "Edenspiekermann is #agency for #strategy, #design and #communication with offices in Amsterdam, Berlin, San Francisco, Los Angeles and Singapore",
+    "tags": [
+        "agency",
+        "strategy",
+        "design",
+        "communication"
+    ],
+    "job_board_url": "https://jobs.edenspiekermann.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3654296,
+                    52.5019054
+                ]
+            }
+        }
+    ]
+}

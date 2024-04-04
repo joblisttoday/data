@@ -1,0 +1,26 @@
+{
+    "title": "Paua Ventures",
+    "description": "Paua Ventures is an early stage #venture-capital firm based in Berlin providing capital to #b2b #software companies.",
+    "tags": [
+        "venture-capital",
+        "b2b",
+        "software"
+    ],
+    "company_url": "https://www.pauaventures.com",
+    "job_board_url": "https://pauaventures1.recruitee.com",
+    "twitter_url": "https://twitter.com/pauaventures",
+    "linkedin_url": "https://www.linkedin.com/company/paua-ventures-gmbh",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.404883,
+                    52.523591
+                ]
+            }
+        }
+    ]
+}

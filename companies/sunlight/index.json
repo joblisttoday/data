@@ -1,0 +1,19 @@
+{
+    "title": "Sunlight",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/sunlight",
+    "job_board_provider": "workable",
+    "job_board_hostname": "sunlight",
+    "description": "Sunlight makes performance possible anywhere - from the cloud to the edge. Demanding applications like AI, Big Data, Analytics and Rendering run 3x faster on Sunlight compared to legacy virtualisation, and because Sunlight has a tiny footprint - it’s perfect for the edge. Enterprises and MSPs use Sunlight to cut the costs of delivering high performance IT by 70%.  Sunlight is a complete HCI stack that can be deployed on-premise on standard data center hardware, in AWS and on resource-constrained far-edge devices.",
+    "tags": [
+        "industry-4.0",
+        "robotics"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Cambridge"
+        }
+    ]
+}

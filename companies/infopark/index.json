@@ -1,0 +1,22 @@
+{
+    "title": "Infopark",
+    "description": "Infopark is a #digital #agency accompanying its customers in the digital transformation and creation custom solutions",
+    "tags": [
+        "digital",
+        "agency"
+    ],
+    "job_board_url": "https://infopark.com/de/unternehmen/karriere#jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.37386,
+                    52.43269
+                ]
+            }
+        }
+    ]
+}

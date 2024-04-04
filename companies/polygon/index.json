@@ -1,0 +1,22 @@
+{
+    "title": "Polygon",
+    "company_url": "https://polygon.technology",
+    "job_board_url": "https://polygon.technology/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "Polygon",
+    "description": "Polygon (formerly Matic Network) is an Indian blockchain platform that enables blockchain networks to connect and scale. It aims to create a multi-chain blockchain ecosystem compatible with Ethereum.",
+    "tags": [
+        "blockchain",
+        "dapps",
+        "defi",
+        "nft",
+        "cryptocurrency"
+    ],
+    "twitter_url": "https://twitter.com/0xPolygon",
+    "linkedin_url": "https://www.linkedin.com/company/0xpolygon/",
+    "youtube_url": "https://www.youtube.com/c/PolygonTV",
+    "instagram_url": "https://www.instagram.com/0xpolygon/",
+    "facebook_url": "https://www.facebook.com/0xPolygon.Technology",
+    "github_url": "https://github.com/maticnetwork",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polygon_(blockchain)"
+}

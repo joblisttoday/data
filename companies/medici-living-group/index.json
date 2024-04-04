@@ -1,0 +1,22 @@
+{
+    "title": "Medici Living Group",
+    "description": "Co-living provider. #tech #real-estate",
+    "tags": [
+        "tech",
+        "real-estate"
+    ],
+    "job_board_url": "https://www.medici-living-group.com/career",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.39635,
+                    52.49449
+                ]
+            }
+        }
+    ]
+}

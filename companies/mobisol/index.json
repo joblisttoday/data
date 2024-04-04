@@ -1,0 +1,25 @@
+{
+    "title": "Mobisol",
+    "description": "German company developing, #engineering and delivering rent-to-own #solar home and business systems, appliances and services for emerging economies. #finance",
+    "tags": [
+        "engineering",
+        "solar",
+        "finance"
+    ],
+    "job_board_url": "https://mobisol.jobs.personio.de/",
+    "job_board_provider": "personio",
+    "job_board_hostname": "mobisol",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.436038,
+                    52.500332
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Zendesk",
+    "description": "#customer-service #software company",
+    "tags": [
+        "customer-service",
+        "software"
+    ],
+    "job_board_url": "https://www.zendesk.com/jobs/berlin/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4047183,
+                    52.524686
+                ]
+            }
+        }
+    ]
+}

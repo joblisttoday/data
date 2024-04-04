@@ -1,0 +1,23 @@
+{
+    "title": "Qunomedical",
+    "description": "Find the right doctors at home or abroad; #health #doctor #startup",
+    "tags": [
+        "health",
+        "doctor",
+        "startup"
+    ],
+    "job_board_url": "https://www.qunomedical.com/en/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3863227,
+                    52.5282605
+                ]
+            }
+        }
+    ]
+}

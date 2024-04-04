@@ -1,0 +1,27 @@
+{
+    "title": "Point Nine Capital",
+    "description": "Point Nine Capital is an #early-stage #venture #capital firm primarily focused on SaaS and online marketplaces",
+    "tags": [
+        "early-stage",
+        "venture",
+        "capital"
+    ],
+    "job_board_url": "https://pointninecapital.recruitee.com",
+    "twitter_url": "https://twitter.com/PointNineCap",
+    "linkedin_url": "https://www.linkedin.com/company/point-nine-capital",
+    "facebook_url": "https://www.facebook.com/PointNineCap",
+    "positions": [
+        {
+            "address": "Point Nine Capital, Chausseestraße 19, 10115 Berlin, Germany",
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3842365,
+                    52.5303059
+                ]
+            }
+        }
+    ]
+}

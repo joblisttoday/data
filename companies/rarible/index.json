@@ -1,0 +1,14 @@
+{
+    "title": "Rarible",
+    "company_url": "https://rarible.com",
+    "job_board_url": "https://jobs.lever.co/Rarible",
+    "job_board_provider": "lever",
+    "job_board_hostname": "Rarible",
+    "description": "Rarible is the first community-owned NFT Marketplace. It was launched in 2020 by Alex Salnikov and Alexei Falin. Rarible runs on the Rarible Protocol. As of April 2022, Rarible supports Ethereum, Flow, Tezos, and Polygon in beta. Rarible issues both ERC-721 and ERC-1155 NFTs. Rarible headquarters is located in Los Angeles, California.",
+    "tags": [
+        "cryptocurrency",
+        "nft"
+    ],
+    "twitter_url": "https://twitter.com/rarible",
+    "instagram_url": "http://instagram.com/rarible"
+}

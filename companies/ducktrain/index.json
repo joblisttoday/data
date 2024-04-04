@@ -1,0 +1,18 @@
+{
+    "title": "Ducktrain",
+    "company_url": "",
+    "job_board_url": "https://droiddrive.personio.de",
+    "job_board_provider": "personio",
+    "job_board_hostname": "droiddrive",
+    "description": "We developed Ducktrain: A smart, electric and automated logistics vehicle system made for the urban and industrial last mile. Combining up to 5 single Ducks virtually into a platoon allows you to transport the equivalent payload of a conventional delivery truck.",
+    "tags": [
+        "mobility-tech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Aachen"
+        }
+    ]
+}

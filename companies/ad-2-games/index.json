@@ -1,0 +1,23 @@
+{
+    "title": "Ad 2 Games",
+    "description": "Creates #digital #marketing strategies with a focus on both free-to-play and pay-to-play #games for PC and consoles",
+    "tags": [
+        "digital",
+        "marketing",
+        "games"
+    ],
+    "job_board_url": "https://www.ad2games.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4144283,
+                    52.507636
+                ]
+            }
+        }
+    ]
+}

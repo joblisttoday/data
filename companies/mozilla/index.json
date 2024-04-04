@@ -1,0 +1,25 @@
+{
+    "title": "Mozilla",
+    "description": "#nonprofit organization building browsers, app, code and tools with the aim to keep the Internet open; #tech #software",
+    "tags": [
+        "nonprofit",
+        "tech",
+        "software"
+    ],
+    "job_board_url": "https://careers.mozilla.org",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "mozilla",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4492571,
+                    52.4994658
+                ]
+            }
+        }
+    ]
+}

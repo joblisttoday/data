@@ -1,0 +1,25 @@
+{
+    "title": "The unbelievable Machine Company",
+    "description": "#software and #it provider for #big-data #cloud services and hosting; #consulting",
+    "tags": [
+        "software",
+        "it",
+        "big-data",
+        "cloud",
+        "consulting"
+    ],
+    "job_board_url": "https://unbelievablemachine.bamboohr.co.uk/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3244308,
+                    52.5038104
+                ]
+            }
+        }
+    ]
+}

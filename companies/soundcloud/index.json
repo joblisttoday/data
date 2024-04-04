@@ -1,0 +1,25 @@
+{
+    "title": "Soundcloud",
+    "description": "#music streaming platform; #startup #tech",
+    "tags": [
+        "music",
+        "startup",
+        "tech"
+    ],
+    "job_board_url": "https://soundcloud.com/jobs",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "soundcloud71",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.394882,
+                    52.5368168
+                ]
+            }
+        }
+    ]
+}

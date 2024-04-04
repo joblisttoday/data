@@ -1,0 +1,22 @@
+{
+    "title": "Fit Analytics",
+    "description": "#startup doing clothing size recommendations for online customers by measuring individual dimensions via webcams #ecommerce",
+    "tags": [
+        "startup",
+        "ecommerce"
+    ],
+    "job_board_url": "https://boards.greenhouse.io/fitanalytics",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.467961,
+                    52.514651
+                ]
+            }
+        }
+    ]
+}

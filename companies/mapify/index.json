@@ -1,0 +1,23 @@
+{
+    "title": "Mapify",
+    "description": "#startup #travel #tourism",
+    "tags": [
+        "startup",
+        "travel",
+        "tourism"
+    ],
+    "job_board_url": "https://info.mapify.travel/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40549,
+                    52.553
+                ]
+            }
+        }
+    ]
+}

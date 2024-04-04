@@ -1,0 +1,19 @@
+{
+    "title": "Iceye",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/iceye",
+    "job_board_provider": "workable",
+    "job_board_hostname": "iceye",
+    "description": "ICEYE is building a satellite-based service to provide the world with access to near-real-time imagery from space. Our synthetic aperture radar (SAR) instrument can capture images through clouds, darkness and other obscuring elements, making it more reliable for operational use than optical camera systems.  By using modern engineering methodologies, ICEYE is able to develop SAR technology in a more compact and efficient form than before. In this way we are making SAR imaging accessible and affordable to any size of organization or business.  We believe that broader access to SAR will see the technology being used in entirely new ways to support decision making for trade, exploration, relief efforts, farming, environmental protection and more.",
+    "tags": [
+        "aerospace",
+        "drones"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Espoo"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "MooPpay",
+    "company_url": "https://www.moonpay.com",
+    "job_board_url": "https://www.moonpay.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "moonpay",
+    "description": "MoonPay builds payments infrastructure for cryptocurrencies. Our on-ramp and off-ramp suite of products provides a seamless experience for converting between fiat and crypto using all major payment methods in over 160 countries. Our mission is to make cryptocurrencies accessible to over a billion people by 2030!",
+    "tags": [
+        "cryptocurrency",
+        "blockchain"
+    ],
+    "twitter_url": "https://twitter.com/moonpay",
+    "linkedin_url": "https://www.linkedin.com/company/moonpay",
+    "instagram_url": "https://instagram.com/moonpay",
+    "facebook_url": "https://m.facebook.com/officialmoonpay/"
+}

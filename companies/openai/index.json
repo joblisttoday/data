@@ -1,0 +1,19 @@
+{
+    "title": "OpenAI",
+    "company_url": "https://openai.com",
+    "job_board_url": "https://openai.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "openai",
+    "description": "OpenAI is an artificial intelligence research laboratory consisting of the for-profit corporation OpenAI LP and its parent company, the non-profit OpenAI Inc. The company conducts research in the field of AI with the stated goal of promoting and developing friendly AI in a way that benefits humanity as a whole.",
+    "tags": [
+        "artificial-intelligence",
+        "AI"
+    ],
+    "twitter_url": "https://twitter.com/openai",
+    "linkedin_url": "https://linkedin.com/company/openai",
+    "youtube_url": "https://youtube.com/openai",
+    "instagram_url": "https://www.instagram.com/openaidalle",
+    "facebook_url": "https://facebook.com/openai.research",
+    "github_url": "https://github.com/openai",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenAI"
+}

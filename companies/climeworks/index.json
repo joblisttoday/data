@@ -1,0 +1,19 @@
+{
+    "title": "Climeworks",
+    "company_url": "",
+    "job_board_url": "https://climeworks.recruitee.com/careers",
+    "job_board_provider": "recruitee",
+    "job_board_hostname": "climeworks",
+    "description": "Climeworks develops, builds and operates Direct Air Capture (DAC) machines to capture CO₂ directly from the air, with 15 machines currently in operation. The captured carbon dioxide can either be recycled and reused as a raw material or completely removed from the air by safely storing it underground, permanently.  The raw material, pure CO₂ gas, is used by customers in industries such as commercial agriculture, energy, food and beverage and automotive, for uses such as carbonating drinks or for producing carbon-neutral hydrocarbon fuels and materials. By using Climeworks’ CO₂, customers can reduce their overall emissions as well as lowering their dependence on fossil energy.  Our unique carbon dioxide removal technology also offers businesses a permanent negative emissions solution for their sustainability strategy and for individuals it provides a way for them to remove their carbon footprint and contribute to a climate-positive world.  Climeworks was founded by engineers, Christoph Gebald and Jan Wurzbacher, with a mission to inspire 1 billion people to remove CO₂ from the air, using our direct air capture technology.  A climate-positive world requires us to act now by all means available. Let’s restore a healthy balance of CO₂ and reverse climate change.",
+    "tags": [
+        "energy",
+        "climate-tech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Zürich"
+        }
+    ]
+}

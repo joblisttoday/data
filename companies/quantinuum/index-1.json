@@ -1,0 +1,34 @@
+{
+    "title": "Quantinuum",
+    "company_url": "https://www.quantinuum.com",
+    "job_board_url": "https://www.quantinuum.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "quantinuum",
+    "description": "Our mission is to accelerate quantum computing and use its power to positively transform the world. By applying the laws of quantum physics to computing, we will achieve unprecedented breakthroughs in drug discovery, healthcare, materials science, cybersecurity, energy transformation, and climate change.",
+    "tags": [
+        "quantum-computing",
+        "engineering"
+    ],
+    "twitter_url": "https://twitter.com/QuantinuumQC",
+    "linkedin_url": "https://www.linkedin.com/company/quantinuumqc/",
+    "youtube_url": "https://www.youtube.com/@QuantinuumQC",
+    "instagram_url": "https://www.instagram.com/quantinuumqc/",
+    "facebook_url": "https://www.facebook.com/QuantinuumQC",
+    "github_url": "https://github.com/CQCL",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Quantinuum",
+    "positions": [
+        {
+            "country": " UK",
+            "city": "Cambridge",
+            "postal_code": "CB2 1NL",
+            "address": "TERRINGTON HOUSE, 13-15 Hills Rd",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    0.1293469,
+                    52.1978907
+                ]
+            }
+        }
+    ]
+}

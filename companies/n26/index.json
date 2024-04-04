@@ -1,0 +1,22 @@
+{
+    "title": "N26",
+    "description": "N26 is the Mobile #bank. Free bank account and Mastercard that you can manage directly from your phone. #startup",
+    "tags": [
+        "bank",
+        "startup"
+    ],
+    "job_board_url": "https://n26.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3811811,
+                    52.5098092
+                ]
+            }
+        }
+    ]
+}

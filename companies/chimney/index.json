@@ -1,0 +1,26 @@
+{
+    "title": "Chimney",
+    "description": "#post-production, #production, #editorial, #sound-design, live events, content distribution, performance #analytics and #content-strategy company",
+    "tags": [
+        "post-production",
+        "production",
+        "editorial",
+        "sound-design",
+        "analytics",
+        "content-strategy"
+    ],
+    "job_board_url": "http://www.chimneygroup.com/join-us",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3990322,
+                    52.5247484
+                ]
+            }
+        }
+    ]
+}

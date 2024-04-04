@@ -1,0 +1,23 @@
+{
+    "title": "Fontpit / Androidpit",
+    "description": "Online #news outlet specializing in #android; #tech",
+    "tags": [
+        "news",
+        "android",
+        "tech"
+    ],
+    "job_board_url": "http://fonpit.com/all-jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4210927,
+                    52.525296
+                ]
+            }
+        }
+    ]
+}

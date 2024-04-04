@@ -1,0 +1,15 @@
+{
+    "title": "Qonto",
+    "company_url": "https://qonto.com",
+    "job_board_url": "https://qonto.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "qonto",
+    "description": "The account that powers up your business",
+    "tags": [
+        "online-bank"
+    ],
+    "twitter_url": "https://twitter.com/getqonto",
+    "linkedin_url": "https://www.linkedin.com/company/qonto",
+    "instagram_url": "https://www.instagram.com/qontolife/",
+    "facebook_url": "https://www.facebook.com/getqonto/"
+}

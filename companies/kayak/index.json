@@ -1,0 +1,24 @@
+{
+    "title": "Kayak",
+    "description": "#travel search engine; #tech #startup",
+    "tags": [
+        "travel",
+        "tech",
+        "startup"
+    ],
+    "company_url": "https://www.kayak.de",
+    "job_board_url": "https://www.kayak.de/careers/all",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4040163,
+                    52.4624745
+                ]
+            }
+        }
+    ]
+}

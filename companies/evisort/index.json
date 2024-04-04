@@ -1,0 +1,12 @@
+{
+    "title": "Evisort",
+    "company_url": "https://www.evisort.com",
+    "job_board_url": "https://www.evisort.com/company/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "evisort-2",
+    "description": "Evisort is on a mission to change how companies interact with their most important legal documents, their incoming and outgoing contracts. The company was founded in 2016 out of Harvard Law and MIT research to develop artificial intelligence (AI) algorithms to help companies rapidly and accurately mine contracts for data. Evisort's AI understands meaning and context in legal language, virtually eliminating the need to screen contracts. Evisort helps companies to organize, understand, and extract data from their contracts. With Evisort, information locked away in documents becomes searchable, and key contract terms and important dates can be surfaced to the right people at the right time to accelerate legal review, reduce costs/risks and improve business compliance.",
+    "tags": [
+        "legal-tech",
+        "contract"
+    ]
+}

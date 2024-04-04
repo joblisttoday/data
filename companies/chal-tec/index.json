@@ -1,0 +1,22 @@
+{
+    "title": "Chal-Tec",
+    "description": "Chal-Tel is a #brand #incubator operating all over Europe through various distribution channels",
+    "tags": [
+        "brand",
+        "incubator"
+    ],
+    "job_board_url": "http://chal-tec.com/karriere/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4070539,
+                    52.5105306
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "finreach",
+    "description": "#finance #bank #startup",
+    "tags": [
+        "finance",
+        "bank",
+        "startup"
+    ],
+    "job_board_url": "https://finreachgmbh.recruitee.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.32913,
+                    52.50817
+                ]
+            }
+        }
+    ]
+}

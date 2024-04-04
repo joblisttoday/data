@@ -1,0 +1,28 @@
+{
+    "title": "Cloudreach",
+    "description": "#cloud computing consultancy that specialises in the planning, implementation and operational #support of Amazon Web Services (#aws), #microsoft #azure and #google Cloud Platform solutions. #tech #consulting",
+    "tags": [
+        "cloud",
+        "support",
+        "aws",
+        "microsoft",
+        "azure",
+        "google",
+        "tech",
+        "consulting"
+    ],
+    "job_board_url": "https://www.cloudreach.com/careers/jobs/current-openings/?gh_src=72uvka",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3896525,
+                    52.5143816
+                ]
+            }
+        }
+    ]
+}

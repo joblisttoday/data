@@ -1,0 +1,24 @@
+{
+    "title": "Careship",
+    "description": "Agency that provides hourly care for the #elderly and those in need of #care",
+    "tags": [
+        "elderly",
+        "care"
+    ],
+    "job_board_url": "https://careship.jobs.personio.de/",
+    "job_board_provider": "personio",
+    "job_board_hostname": "careship",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4270243,
+                    52.5321601
+                ]
+            }
+        }
+    ]
+}

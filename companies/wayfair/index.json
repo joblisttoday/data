@@ -1,0 +1,22 @@
+{
+    "title": "Wayfair ",
+    "description": "Wayfair is an American #ecommerce company that sells #home goods",
+    "tags": [
+        "ecommerce",
+        "home"
+    ],
+    "job_board_url": "https://jobs.wayfaircareers.com/jobs?location=berlin&stretch=10&stretchUnit=MILES&page=1",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4152366,
+                    52.5126002
+                ]
+            }
+        }
+    ]
+}

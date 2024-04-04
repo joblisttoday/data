@@ -1,0 +1,28 @@
+{
+    "title": "Sauerbruch Hutton",
+    "description": "#agency for #architecture, #urbanism and #design. #interior-architecture #product-design #engineering #modelmaker",
+    "tags": [
+        "agency",
+        "architecture",
+        "urbanism",
+        "design",
+        "interior-architecture",
+        "product-design",
+        "engineering",
+        "modelmaker"
+    ],
+    "job_board_url": "http://www.sauerbruchhutton.de/en/office#jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3583072,
+                    52.5325307
+                ]
+            }
+        }
+    ]
+}

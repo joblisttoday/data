@@ -1,0 +1,32 @@
+{
+    "title": "Nextdata",
+    "company_url": "https://www.nextdata.com",
+    "job_board_url": "https://www.nextdata.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "nextdata",
+    "description": "Data mesh is the right idea. We’re here to make it a reality.\n\nMore organizations are making the leap to data mesh. But most lack specialists, depend on centralized governance, and can’t share data across boundaries of technology and trust. Our mission is to make the experience of creating, sharing, discovering, and using data connected, fast and fair.",
+    "tags": [
+        "data-mesh",
+        "startup",
+        "decentralization",
+        "ai",
+        "analytics"
+    ],
+    "twitter_url": "https://twitter.com/nextdatatec",
+    "linkedin_url": "https://www.linkedin.com/company/nextdata-technologies",
+    "github_url": "https://github.com/nextdata-technologies",
+    "positions": [
+        {
+            "country": "USA",
+            "address": "1 Cupertino, California",
+            "city": "Cupertino",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0321816,
+                    37.3226967
+                ]
+            }
+        }
+    ]
+}

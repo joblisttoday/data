@@ -1,0 +1,24 @@
+{
+    "title": "JustWatch",
+    "description": "JustWatch offers a solution to browse through your favorite #movies or #tv shows to see if they are available for #streaming at any of your favorite providers or in the #cinema",
+    "tags": [
+        "movies",
+        "tv",
+        "streaming",
+        "cinema"
+    ],
+    "job_board_url": "https://www.justwatch.com/us/talent",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.455574,
+                    52.5134213
+                ]
+            }
+        }
+    ]
+}

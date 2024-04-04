@@ -1,0 +1,25 @@
+{
+    "title": "Aperto GmbH",
+    "description": "Aperto is a  #digital-agency part of IBM interactive Experience (IBM iX); #advertising #marketing #social-media #web-design",
+    "tags": [
+        "digital-agency",
+        "advertising",
+        "marketing",
+        "social-media",
+        "web-design"
+    ],
+    "job_board_url": "http://www.aperto.com/en/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3866469,
+                    52.5278904
+                ]
+            }
+        }
+    ]
+}

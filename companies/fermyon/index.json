@@ -1,0 +1,16 @@
+{
+    "title": "Fermyon",
+    "company_url": "https://www.fermyon.com",
+    "job_board_url": "https://jobs.lever.co/fermyon-technologies",
+    "job_board_provider": "lever",
+    "job_board_hostname": "fermyon-technologies",
+    "description": "Fermyon Technologies is a software company building the next wave of cloud computing based on WebAssembly. By producing top-quality open source software and related tooling, we are creating a new category of cloud computing that prioritizes high performance, robust security, and top-notch developer and operator experiences.",
+    "tags": [
+        "cloud",
+        "wasm"
+    ],
+    "twitter_url": "https://twitter.com/fermyontech",
+    "linkedin_url": "https://www.linkedin.com/company/fermyon/",
+    "youtube_url": "https://www.youtube.com/@fermyontech",
+    "github_url": "https://github.com/fermyon"
+}

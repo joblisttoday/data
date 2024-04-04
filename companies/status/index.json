@@ -1,0 +1,22 @@
+{
+    "title": "Status",
+    "company_url": "https://status.im",
+    "job_board_url": "https://jobs.status.im",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "status72",
+    "description": "Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology",
+    "tags": [
+        "messaging",
+        "security",
+        "cryptocurrency",
+        "wallet",
+        "web3",
+        "dapp"
+    ],
+    "twitter_url": "https://twitter.com/ethstatus",
+    "linkedin_url": "https://www.linkedin.com/company/status.im/",
+    "youtube_url": "https://www.youtube.com/statusim",
+    "instagram_url": "https://www.instagram.com/status.im/",
+    "facebook_url": "https://www.facebook.com/ethstatus",
+    "github_url": "https://github.com/status-im"
+}

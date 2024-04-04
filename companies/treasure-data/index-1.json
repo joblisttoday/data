@@ -1,0 +1,19 @@
+{
+    "title": "Treasure Data",
+    "company_url": "https://www.treasuredata.com",
+    "job_board_url": "https://www.treasuredata.com/company/jobs/",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "treasuredata",
+    "description": "Treasure Data was built to radically simplify customer data management and help brands use all of their customer data to improve campaign performance, achieve operational efficiency, and drive business value with connected customer experiences.",
+    "tags": [
+        "data-management",
+        "data-analysis",
+        "data",
+        "data-mining"
+    ],
+    "twitter_url": "https://twitter.com/treasuredata",
+    "linkedin_url": "https://www.linkedin.com/company/treasure-data-inc-/",
+    "facebook_url": "https://www.facebook.com/TreasureData/",
+    "github_url": "https://github.com/treasure-data",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fluentd"
+}

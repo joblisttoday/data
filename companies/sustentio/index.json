@@ -1,0 +1,23 @@
+{
+    "title": "Sustentio",
+    "description": "#communication and #pr #agency",
+    "tags": [
+        "communication",
+        "pr",
+        "agency"
+    ],
+    "job_board_url": "https://sustentio.eu/category/career/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4129852,
+                    52.5008709
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "IQPC - International Quality and Productivity Centre",
+    "tags": [
+        "event",
+        "networking"
+    ],
+    "company_url": "https://www.iqpc.com/",
+    "job_board_url": "https://iqpc-2.workable.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3887722,
+                    52.5190477
+                ]
+            }
+        }
+    ]
+}

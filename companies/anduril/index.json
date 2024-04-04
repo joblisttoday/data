@@ -1,0 +1,16 @@
+{
+    "title": "Anduril",
+    "company_url": "https://www.anduril.com",
+    "job_board_url": "https://www.anduril.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "anduril",
+    "description": "The next generation of military technology will depend less on advances in shipbuilding and aircraft design than on advances in software engineering and computing. Unlike traditional defense contractors who focus primarily on hardware, Anduril’s core system is Lattice OS, an autonomous sensemaking and command & control platform that serves as the core platform for our suite of capabilities. ",
+    "tags": [
+        "technology",
+        "military",
+        "defense"
+    ],
+    "twitter_url": "https://twitter.com/anduriltech",
+    "linkedin_url": "https://www.linkedin.com/company/andurilindustries/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palmer_Luckey#Anduril_Industries"
+}

@@ -1,0 +1,21 @@
+{
+    "title": "DCMN",
+    "description": "#startup",
+    "tags": [
+        "startup"
+    ],
+    "job_board_url": "http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qrR9Vfw6&s=Website&nl=1&page=Jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4553134,
+                    52.5130762
+                ]
+            }
+        }
+    ]
+}

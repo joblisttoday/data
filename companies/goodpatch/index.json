@@ -1,0 +1,23 @@
+{
+    "title": "Goodpatch",
+    "description": "#digital #design #agency",
+    "tags": [
+        "digital",
+        "design",
+        "agency"
+    ],
+    "job_board_url": "https://goodpatch.com/studios/berlin?lng=en",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.425056,
+                    52.499892
+                ]
+            }
+        }
+    ]
+}

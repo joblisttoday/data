@@ -1,0 +1,16 @@
+{
+    "title": "Scale",
+    "company_url": "https://scale.com",
+    "job_board_url": "https://scale.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "scaleai",
+    "description": "The Data Platform for AI",
+    "tags": [
+        "ai",
+        "startup"
+    ],
+    "twitter_url": "https://twitter.com/scale_ai",
+    "linkedin_url": "https://www.linkedin.com/company/scaleai",
+    "facebook_url": "https://www.facebook.com/scaleapi",
+    "github_url": "https://github.com/scaleapi"
+}

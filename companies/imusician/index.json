@@ -1,0 +1,24 @@
+{
+    "title": "iMusician",
+    "description": "online #music service for digital #music-distribution. Offers musicians services to sell, manage and monetise their music online; #publishing and administration of neighbouring rights; #legal",
+    "tags": [
+        "music",
+        "music-distribution",
+        "publishing",
+        "legal"
+    ],
+    "job_board_url": "https://www.imusiciandigital.com/en/about-us/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4153698,
+                    52.503274
+                ]
+            }
+        }
+    ]
+}

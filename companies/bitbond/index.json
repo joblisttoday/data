@@ -1,0 +1,24 @@
+{
+    "title": "Bitbond",
+    "description": "Loan with cryptocurrencies",
+    "tags": [
+        "cryptocurrencies"
+    ],
+    "company_url": "https://www.bitbond.com",
+    "job_board_url": "https://www.bitbond.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "postal_code": "10119",
+            "address": "Lottumstraße 26 ",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4091568,
+                    52.5299947
+                ]
+            }
+        }
+    ]
+}

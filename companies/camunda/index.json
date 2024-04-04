@@ -1,0 +1,23 @@
+{
+    "title": "Camunda",
+    "description": "#open-source platform for workflow and decision automation that brings #business users and #software developers together",
+    "tags": [
+        "open-source",
+        "business",
+        "software"
+    ],
+    "job_board_url": "https://camunda.com/career/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3961995,
+                    52.4943557
+                ]
+            }
+        }
+    ]
+}

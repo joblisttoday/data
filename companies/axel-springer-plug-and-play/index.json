@@ -1,0 +1,24 @@
+{
+    "title": "Axel Springer Plug And Play",
+    "description": "Berlin-based #pre-seed #startup #accelerator ; #finance",
+    "tags": [
+        "pre-seed",
+        "startup",
+        "accelerator",
+        "finance"
+    ],
+    "job_board_url": "http://www.axelspringerplugandplay.com/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3948897,
+                    52.5055927
+                ]
+            }
+        }
+    ]
+}

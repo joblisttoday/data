@@ -1,0 +1,18 @@
+{
+    "title": "CybelAngel",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/cybelangel",
+    "job_board_provider": "workable",
+    "job_board_hostname": "cybelangel",
+    "description": "CybelAngel is the world-leading digital risk protection platform that detects and resolves external threats before these wreak havoc. Because more data is being shared, processed or stored outside the firewall on cloud services, open databases and connected devices, the digital risk to enterprises has never been greater. Organizations worldwide rely on CybelAngel to discover, monitor and resolve external threats across all layers of the Internet, keeping their critical assets, brand and reputation secure.",
+    "tags": [
+        "cybersecurity"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Paris"
+        }
+    ]
+}

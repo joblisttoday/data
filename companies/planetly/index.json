@@ -1,0 +1,32 @@
+{
+    "title": "Planetly",
+    "description": "Platform for analyzing, reducing and offsetting CO2 in corporations across Europe.",
+    "tags": [
+        "software",
+        "startup",
+        "climate"
+    ],
+    "company_url": "https://www.planetly.org/",
+    "job_board_url": "https://planetly.jobs.personio.de",
+    "job_board_provider": "personio",
+    "job_board_hostname": "planetly",
+    "twitter_url": "https://twitter.com/planetly_berlin",
+    "linkedin_url": "https://www.linkedin.com/company/planetly/",
+    "instagram_url": "https://www.instagram.com/_planetly/",
+    "facebook_url": "https://www.facebook.com/planetly",
+    "positions": [
+        {
+            "country": "germany",
+            "postal_code": "10119",
+            "address": "Gormannstraße 12",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.405662,
+                    52.528307
+                ]
+            }
+        }
+    ]
+}

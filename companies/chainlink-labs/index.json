@@ -1,0 +1,17 @@
+{
+    "title": "Chainlink Labs",
+    "company_url": "https://chainlinklabs.com",
+    "job_board_url": "https://chainlinklabs.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "chainlink",
+    "description": "Chainlink is a decentralized blockchain oracle network built on Ethereum. The network is intended to be used to facilitate the transfer of tamper-proof data from off-chain sources to on-chain smart contracts. Its creators claim it can be used to verify whether the parameters of a smart contract are met in a manner independent from any of the contract's stakeholders by connecting the contract directly to real-world data, events, payments, and other inputs.",
+    "tags": [
+        "blockchain",
+        "cryptocurrency",
+        "oracle",
+        "ethereum"
+    ],
+    "twitter_url": "https://twitter.com/chainlinklabs",
+    "linkedin_url": "https://www.linkedin.com/company/chainlink-labs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chainlink_(blockchain)"
+}

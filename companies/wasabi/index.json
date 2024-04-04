@@ -1,0 +1,13 @@
+{
+    "title": "Wasabi",
+    "company_url": "https://wasabi.com",
+    "job_board_url": "https://wasabi.com/careers-list",
+    "job_board_provider": "lever",
+    "job_board_hostname": "wasabi",
+    "description": "Wasabi hot cloud storage is a new class and category of cloud storage, breaking all traditional barriers and boundaries of storage with a disruptive value proposition of being 1/5th the cost of AWS S3, faster than the competition, with no fees for egress or API request and delivered as a single-tier solution. Cloud storage has never been so simple, so fast and so inexpensive. It’s all part of our vision to make cloud storage the next great global utility, just like electricity.",
+    "tags": [
+        "technology",
+        "storage",
+        "cloud"
+    ]
+}

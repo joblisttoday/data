@@ -1,0 +1,23 @@
+{
+    "title": "Iversity",
+    "description": "iversity.org is an online #learning platform for higher #education and professional development #courses provided by experts from all over Europe",
+    "tags": [
+        "learning",
+        "education",
+        "courses"
+    ],
+    "job_board_url": "https://iversity.org/en/pages/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4398136,
+                    52.5648306
+                ]
+            }
+        }
+    ]
+}

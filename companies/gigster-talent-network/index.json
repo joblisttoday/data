@@ -1,0 +1,11 @@
+{
+    "title": "Gigster Talent Network",
+    "company_url": "https://gigster.com",
+    "job_board_url": "https://gigster.com/talent/",
+    "job_board_provider": "lever",
+    "job_board_hostname": "ionicpartners",
+    "description": "IT talent network",
+    "tags": [
+        "recruiting"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Holiday Pirates Group (Urlaubspiraten)",
+    "description": "online #travel #startup",
+    "tags": [
+        "travel",
+        "startup"
+    ],
+    "job_board_url": "https://holidaypirates.group/jobs#berlin-hq",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.412735,
+                    52.513494
+                ]
+            }
+        }
+    ]
+}

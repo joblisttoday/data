@@ -1,0 +1,18 @@
+{
+    "title": "Kayrros",
+    "company_url": "",
+    "job_board_url": "https://kayrros1.recruitee.com/careers",
+    "job_board_provider": "recruitee",
+    "job_board_hostname": "kayrros1",
+    "description": "Kayrros is the leading advanced data analytics company that helps traders, investors, operators and governments make better decisions. Kayrros extracts value from the integration of alternative and market data into unique solutions and customer product offerings while measuring environmental impact and delivering insight into climate and energy-transition risk.",
+    "tags": [
+        "aiml"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Paris"
+        }
+    ]
+}

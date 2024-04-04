@@ -1,0 +1,22 @@
+{
+    "title": "HomeToGo",
+    "description": "#startup for vacation rentals; #tourism",
+    "tags": [
+        "startup",
+        "tourism"
+    ],
+    "job_board_url": "https://www.hometogo.com/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3445146,
+                    52.528829
+                ]
+            }
+        }
+    ]
+}

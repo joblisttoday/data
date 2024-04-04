@@ -1,0 +1,22 @@
+{
+    "title": "Fotograf.de",
+    "description": "Sales platform for photographers. #startup #photography",
+    "tags": [
+        "startup",
+        "photography"
+    ],
+    "job_board_url": "https://www.fotograf.de/jobs/#jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4281757,
+                    52.5329113
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Volders",
+    "description": "Volders helps users #monitoring their #personal #contracts, such as mobile phone, electricity or gym, from everywhere at any time. Before your contracts are automatically renewed, users are given the option to terminate, prolong or switch contracts via a simple and straightforward process",
+    "tags": [
+        "monitoring",
+        "personal",
+        "contracts"
+    ],
+    "job_board_url": "https://www.volders.de/karriere",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.40785,
+                    52.502278
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Neurosphere",
+    "description": "#neuro-technology #startup",
+    "tags": [
+        "neuro-technology",
+        "startup"
+    ],
+    "job_board_url": "http://neurosphere.io/#jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4032986,
+                    52.517783
+                ]
+            }
+        }
+    ]
+}

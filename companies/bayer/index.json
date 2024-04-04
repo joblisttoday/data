@@ -1,0 +1,23 @@
+{
+    "title": "Bayer",
+    "description": "#pharmaceutical #chemical #multinational",
+    "tags": [
+        "pharmaceutical",
+        "chemical",
+        "multinational"
+    ],
+    "job_board_url": "https://www.karriere.bayer.de/en/working-at-bayer/locations/berlin/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3679809,
+                    52.5423013
+                ]
+            }
+        }
+    ]
+}

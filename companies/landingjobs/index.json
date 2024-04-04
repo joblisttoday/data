@@ -1,0 +1,9 @@
+{
+    "title": "Landing.jobs",
+    "description": "candidate driven #technology #job-board",
+    "tags": [
+        "technology",
+        "job-board"
+    ],
+    "job_board_url": "https://landing.jobs/jobs?city_search=Berlin&country=DE"
+}

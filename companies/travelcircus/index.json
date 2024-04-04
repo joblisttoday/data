@@ -1,0 +1,24 @@
+{
+    "title": "Travelcircus",
+    "description": "#travel platfom, also for #hotels and #events. #startup",
+    "tags": [
+        "travel",
+        "hotels",
+        "events",
+        "startup"
+    ],
+    "job_board_url": "https://www.travelcircus.de/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3541097,
+                    52.5639598
+                ]
+            }
+        }
+    ]
+}

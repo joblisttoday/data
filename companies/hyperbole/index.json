@@ -1,0 +1,25 @@
+{
+    "title": "Hyperbole",
+    "description": "#online #web-tv platform creating #video oriented #content ; #tv",
+    "tags": [
+        "online",
+        "web-tv",
+        "video",
+        "content",
+        "tv"
+    ],
+    "job_board_url": "http://hyperbole.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4573025,
+                    52.5160485
+                ]
+            }
+        }
+    ]
+}

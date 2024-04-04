@@ -1,0 +1,24 @@
+{
+    "title": "Simplaex",
+    "description": "#ai retargeting #technology #startup; #advertising",
+    "tags": [
+        "ai",
+        "technology",
+        "startup",
+        "advertising"
+    ],
+    "job_board_url": "https://www.simplaex.com/careers/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3786549,
+                    52.5084583
+                ]
+            }
+        }
+    ]
+}

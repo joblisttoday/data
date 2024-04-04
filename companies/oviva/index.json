@@ -1,0 +1,22 @@
+{
+    "title": "Oviva",
+    "description": "Digitally enabled nutritional therapy #health #startup",
+    "tags": [
+        "health",
+        "startup"
+    ],
+    "job_board_url": "https://oviva.com/de/de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.053442,
+                    52.3985388
+                ]
+            }
+        }
+    ]
+}

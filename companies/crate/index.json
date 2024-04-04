@@ -1,0 +1,22 @@
+{
+    "title": "Crate",
+    "description": "CrateDB is an #open-source and distributed SQL #database management system.",
+    "tags": [
+        "open-source",
+        "database"
+    ],
+    "job_board_url": "https://crate.io/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.407628,
+                    52.503673
+                ]
+            }
+        }
+    ]
+}

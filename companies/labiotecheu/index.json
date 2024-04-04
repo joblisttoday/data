@@ -1,0 +1,25 @@
+{
+    "title": "Labiotech.eu",
+    "description": "#digital-media covering business and innovations in the European #bio-technology industry; #media #technology #europe",
+    "tags": [
+        "digital-media",
+        "bio-technology",
+        "media",
+        "technology",
+        "europe"
+    ],
+    "job_board_url": "https://labiotech.eu/join-us",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4109338,
+                    52.5548763
+                ]
+            }
+        }
+    ]
+}

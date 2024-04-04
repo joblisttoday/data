@@ -1,0 +1,14 @@
+{
+    "title": "Fathom",
+    "company_url": "https://fathomhealth.com/",
+    "job_board_url": "https://boards.greenhouse.io/fathom",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "fathom",
+    "description": "Fathom is on a mission to understand and structure the world’s medical data. We are a venture-backed company with an engineering team out of organizations like Google, Facebook, and Twitch. We are starting by using NLP deep learning to structure the data contained within physician notes to automate medical coding, a process performed by 125,000 FTEs that costs the US healthcare system over $15B annually.",
+    "tags": [
+        "data",
+        "healthcare"
+    ],
+    "twitter_url": "https://twitter.com/fathom",
+    "linkedin_url": "https://www.linkedin.com/company/fathom-health/"
+}

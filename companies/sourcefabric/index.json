@@ -1,0 +1,25 @@
+{
+    "title": "Sourcefabric",
+    "description": "Developer of #open-source tools for #news #media. #software #tech",
+    "tags": [
+        "open-source",
+        "news",
+        "media",
+        "software",
+        "tech"
+    ],
+    "job_board_url": "https://www.sourcefabric.org/en/home/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.418136,
+                    52.503296
+                ]
+            }
+        }
+    ]
+}

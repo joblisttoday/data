@@ -1,0 +1,26 @@
+{
+    "title": "Gegessen Wird Immer",
+    "description": "#delivery of fresh #organic #fruit and #vegetables, snacks, #groceries. #food",
+    "tags": [
+        "delivery",
+        "organic",
+        "fruit",
+        "vegetables",
+        "groceries",
+        "food"
+    ],
+    "job_board_url": "https://gegessenwirdimmer.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3452202,
+                    52.5459574
+                ]
+            }
+        }
+    ]
+}

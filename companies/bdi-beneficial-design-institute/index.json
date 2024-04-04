@@ -1,0 +1,21 @@
+{
+    "title": "BDI (Beneficial Design Institute)",
+    "description": "Creating Positive Fashion #fashion",
+    "tags": [
+        "fashion"
+    ],
+    "job_board_url": "http://www.bd-i.de/people/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4322401,
+                    52.53145
+                ]
+            }
+        }
+    ]
+}

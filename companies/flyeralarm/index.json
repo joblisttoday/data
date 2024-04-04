@@ -1,0 +1,21 @@
+{
+    "title": "FlyerAlarm",
+    "description": "online #printing service",
+    "tags": [
+        "printing"
+    ],
+    "job_board_url": "https://karriere.flyeralarm.com/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.2858871,
+                    52.511088
+                ]
+            }
+        }
+    ]
+}

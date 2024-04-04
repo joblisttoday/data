@@ -1,0 +1,19 @@
+{
+    "title": "Space Forge",
+    "company_url": "",
+    "job_board_url": "https://apply.workable.com/space",
+    "job_board_provider": "workable",
+    "job_board_hostname": "space",
+    "description": "Space Forge is transforming return from space to enable revolutionary products, for the benefit of humanity.  We manufacture new materials for a new Earth age.",
+    "tags": [
+        "aerospace",
+        "drones"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Bristol"
+        }
+    ]
+}

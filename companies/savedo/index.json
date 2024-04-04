@@ -1,0 +1,23 @@
+{
+    "title": "Savedo",
+    "description": "Savedo is an online #investment #platform allowing to buy attractive #financial products",
+    "tags": [
+        "investment",
+        "platform",
+        "financial"
+    ],
+    "job_board_url": "https://www.savedo.de/ueber/karriere",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4211054,
+                    52.5090673
+                ]
+            }
+        }
+    ]
+}

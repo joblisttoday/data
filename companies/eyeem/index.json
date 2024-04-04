@@ -1,0 +1,22 @@
+{
+    "title": "Eyeem",
+    "description": "#photography #startup connecting brands and photographers",
+    "tags": [
+        "photography",
+        "startup"
+    ],
+    "job_board_url": "https://www.eyeem.com/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.41861,
+                    52.4970123
+                ]
+            }
+        }
+    ]
+}

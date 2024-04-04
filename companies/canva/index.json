@@ -1,0 +1,18 @@
+{
+    "title": "Canva",
+    "company_url": "https://www.canva.com",
+    "job_board_url": "https://www.lifeatcanva.com",
+    "job_board_provider": "lever",
+    "job_board_hostname": "canva",
+    "description": "Canva is an Australian graphic design platform that is used to create social media graphics and presentations. The app includes readymade templates for users to use, and the platform is free and offers paid subscriptions such as Canva Pro and Canva for Enterprise for additional functionality.",
+    "tags": [
+        "design",
+        "social-media"
+    ],
+    "twitter_url": "https://twitter.com/canva",
+    "linkedin_url": "https://www.linkedin.com/company/canva",
+    "youtube_url": "https://youtube.com/channel/UCEDLeLo3HNQZiJOTR2svg2A",
+    "instagram_url": "https://instagram.com/canva",
+    "facebook_url": "https://facebook.com/canva",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canva"
+}

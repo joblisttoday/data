@@ -1,0 +1,12 @@
+{
+    "title": "Nansen",
+    "company_url": "https://www.nansen.ai",
+    "job_board_url": "https://www.nansen.ai/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "nansen",
+    "description": "Nansen is a blockchain analytics platform, which combines on-chain data with a massive and constantly growing database containing millions of wallet labels.",
+    "tags": [
+        "blockchain",
+        "analytics"
+    ]
+}

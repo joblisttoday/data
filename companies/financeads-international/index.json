@@ -1,0 +1,22 @@
+{
+    "title": "financeAds International",
+    "description": "financeAds International GmbH is an international #affiliate network with a focus on the #financial sector. It helps financial service providers to market their products and services online, offering a transaction-based pricing model",
+    "tags": [
+        "affiliate",
+        "financial"
+    ],
+    "job_board_url": "https://www.financeads.com/uk-en/aboutus/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3553899,
+                    52.5219252
+                ]
+            }
+        }
+    ]
+}

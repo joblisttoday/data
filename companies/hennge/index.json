@@ -1,0 +1,30 @@
+{
+    "title": "Hennge",
+    "company_url": "https://hennge.com",
+    "job_board_url": "https://recruit.hennge.com/en/",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "hdeen",
+    "description": "HENNGE is a leading cloud-based security provider in Japan, delivering an additional security layer to companies that move their operations to the cloud. Our service HENNGE One has over 70% market share for cloud security services targeting Microsoft 365/Google Workspace in Japan. We are growing fast and are a listed company on the Tokyo Stock Exchange",
+    "tags": [
+        "IT",
+        "security"
+    ],
+    "twitter_url": "https://twitter.com/hennge_kk",
+    "linkedin_url": "https://www.linkedin.com/company/hennge/",
+    "facebook_url": "https://www.facebook.com/hennge.kk",
+    "positions": [
+        {
+            "country": "Japan",
+            "city": "Tokyo",
+            "postal_code": "150-0036",
+            "address": "Daiwa Shibuya Square, 16-28 Nanpeidaicho, Shibuya City",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    139.6956107,
+                    35.6548603
+                ]
+            }
+        }
+    ]
+}

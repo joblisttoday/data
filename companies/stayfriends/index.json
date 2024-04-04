@@ -1,0 +1,26 @@
+{
+    "title": "StayFriends",
+    "description": "Stayfriends.de is a social network service created in 2002. The #social media #website helps members find, #connect and keep in touch with #friends from #kindergarten, primary #school, high school in Germany. Stayfriends.de had more than 14 million members in Germany in 2014",
+    "tags": [
+        "social",
+        "website",
+        "connect",
+        "friends",
+        "kindergarten",
+        "school"
+    ],
+    "job_board_url": "https://www.stayfriends.com/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3272506,
+                    52.5171398
+                ]
+            }
+        }
+    ]
+}

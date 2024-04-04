@@ -1,0 +1,18 @@
+{
+    "title": "Arrival",
+    "company_url": "https://arrival.com/",
+    "job_board_url": "https://jobs.lever.co/arrival",
+    "job_board_provider": "lever",
+    "job_board_hostname": "arrival",
+    "description": "Arrival is reinventing the automotive industry with its entirely new approach to the design and assembly of electric vehicles. Low CapEx, rapidly scalable Microfactories combined with proprietary in-house developed components, materials and software, enable the production of best in class vehicles competitively priced to fossil fuel variants and with a substantially lower Total Cost of Ownership. This transformative approach provides cities globally with the solutions they need to create sustainable urban environments and exceptional experiences for their citizens.",
+    "tags": [
+        "mobility-tech"
+    ],
+    "twitter_url": "https://twitter.com/arrival",
+    "linkedin_url": "https://www.linkedin.com/company/arrival/",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Datadog",
+    "company_url": "https://datadoghq.com",
+    "job_board_url": "https://www.datadoghq.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "datadog",
+    "description": "Datadog is the essential monitoring platform for cloud applications.",
+    "tags": [
+        "data",
+        "monitoring"
+    ]
+}

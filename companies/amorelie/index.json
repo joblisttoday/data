@@ -1,0 +1,21 @@
+{
+    "title": "Amorelie",
+    "description": "Amorelie is an online #sexshop",
+    "tags": [
+        "sexshop"
+    ],
+    "job_board_url": "http://www.amorelie.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3901186,
+                    52.5412791
+                ]
+            }
+        }
+    ]
+}

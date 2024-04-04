@@ -1,0 +1,19 @@
+{
+    "title": "MetaMundo",
+    "company_url": "",
+    "job_board_url": "https://metamundo.recruitee.com/careers",
+    "job_board_provider": "recruitee",
+    "job_board_hostname": "metamundo",
+    "description": null,
+    "tags": [
+        "web-3",
+        "blockchain"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Amsterdam"
+        }
+    ]
+}

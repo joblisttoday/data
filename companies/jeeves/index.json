@@ -1,0 +1,16 @@
+{
+    "title": "Jeeves",
+    "company_url": "https://www.tryjeeves.com",
+    "job_board_url": "https://www.tryjeeves.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "tryjeeves",
+    "description": "Jeeves is an all-in-one corporate spend and expense management platform for businesses in global markets including North America, Latin America, Europe, and the UK. Cash, corporate cards, and cross-border payments all run on the Jeeves proprietary infrastructure which allows companies to spin up their finance function within minutes. Jeeves can handle multiple currencies for payback. ",
+    "tags": [
+        "expense-management",
+        "finance",
+        "corporate-spend"
+    ],
+    "twitter_url": "https://twitter.com/jeeves_inc",
+    "linkedin_url": "https://www.linkedin.com/company/42083986",
+    "facebook_url": "https://www.facebook.com/tryjeeves"
+}

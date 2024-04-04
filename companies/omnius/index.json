@@ -1,0 +1,23 @@
+{
+    "title": "omni:us",
+    "description": "#startup reshaping the future of #insurance with #ai; offers a personalized experience to customers with real-time",
+    "tags": [
+        "startup",
+        "insurance",
+        "ai"
+    ],
+    "job_board_url": "https://omnius.com/careers/#open-positions",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3445418,
+                    52.5272379
+                ]
+            }
+        }
+    ]
+}

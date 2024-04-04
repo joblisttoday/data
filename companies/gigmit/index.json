@@ -1,0 +1,21 @@
+{
+    "title": "Gigmit",
+    "description": "We ourselves are musicians and music lovers – and we’re passionate about our mission to change the live music industry.Here at gigmit, our goal is to get talented artists where they belong: on stage! #music",
+    "tags": [
+        "music"
+    ],
+    "job_board_url": "https://www.gigmit.com/en/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.418579,
+                    52.491014
+                ]
+            }
+        }
+    ]
+}

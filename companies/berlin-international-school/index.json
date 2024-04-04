@@ -1,0 +1,22 @@
+{
+    "title": "Berlin International School",
+    "description": "#school #teaching",
+    "tags": [
+        "school",
+        "teaching"
+    ],
+    "job_board_url": "http://www.berlin-international-school.de/index.php/en/job-opportunities-bis-en.html",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.2935995,
+                    52.4704836
+                ]
+            }
+        }
+    ]
+}

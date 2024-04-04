@@ -1,0 +1,23 @@
+{
+    "title": "Sunday Natural",
+    "description": "#e-commerce #health company selling natural dietary supplements, organic teas, and an assortment of other superfoods and related products. #food",
+    "tags": [
+        "e-commerce",
+        "health",
+        "food"
+    ],
+    "job_board_url": "https://www.sunday.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.36613,
+                    52.5021
+                ]
+            }
+        }
+    ]
+}

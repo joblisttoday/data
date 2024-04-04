@@ -1,0 +1,23 @@
+{
+    "title": "caseking",
+    "description": "#ecommerce site for #computer #gaming hardware",
+    "tags": [
+        "ecommerce",
+        "computer",
+        "gaming"
+    ],
+    "job_board_url": "https://caseking.recruitee.com/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.312013,
+                    52.530086
+                ]
+            }
+        }
+    ]
+}

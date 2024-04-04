@@ -1,0 +1,18 @@
+{
+    "title": "Pyth Network",
+    "company_url": "https://pyth.network/",
+    "job_board_url": "https://boards.greenhouse.io/pythnetwork",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "pythnetwork",
+    "description": "Pyth Network is an oracle that publishes financial data on-chain for use in DeFi applications. We currently publish real-time prices for cryptocurrencies, FX, and equities on several different blockchains. We are the biggest oracle in the Solana ecosystem, where we secure >$2B of value and power a variety of borrow/lending, derivatives, and other DeFi protocols.",
+    "tags": [
+        "oracle",
+        "defi",
+        "cryptocurrency",
+        "blockchain"
+    ],
+    "twitter_url": "https://twitter.com/PythNetwork",
+    "linkedin_url": "https://www.linkedin.com/company/pyth-network",
+    "youtube_url": "https://www.youtube.com/channel/UCjCkvPN9ohl0UDvldfn1neg",
+    "github_url": "https://github.com/pyth-network"
+}

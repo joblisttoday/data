@@ -1,0 +1,29 @@
+{
+    "title": "SatoshiPay",
+    "description": "#startup that processes #bitcoin (stellar lumens - xlm) #micropayment transactions. Develops a two-way #payment platform that will allow content providers to charge consumers a small fee to read, watch, or listen to content. #software #tech #blockchain #xlm #fintech",
+    "tags": [
+        "startup",
+        "bitcoin",
+        "micropayment",
+        "payment",
+        "software",
+        "tech",
+        "blockchain",
+        "xlm",
+        "fintech"
+    ],
+    "job_board_url": "https://satoshipay.io/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.396494,
+                    52.513757
+                ]
+            }
+        }
+    ]
+}

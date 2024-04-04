@@ -1,0 +1,23 @@
+{
+    "title": "Taxfix",
+    "description": "#startup digital tax #accountant, for #tax declaration and returns",
+    "tags": [
+        "startup",
+        "accountant",
+        "tax"
+    ],
+    "job_board_url": "https://taxfix.de/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.45873,
+                    52.49879
+                ]
+            }
+        }
+    ]
+}

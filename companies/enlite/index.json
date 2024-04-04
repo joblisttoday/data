@@ -1,0 +1,22 @@
+{
+    "title": "Enlite",
+    "description": "#consulting for #energy transition",
+    "tags": [
+        "consulting",
+        "energy"
+    ],
+    "job_board_url": "https://enlite.de/en/career/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3139077,
+                    52.427439
+                ]
+            }
+        }
+    ]
+}

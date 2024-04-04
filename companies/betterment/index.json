@@ -1,0 +1,16 @@
+{
+    "title": "Betterment",
+    "company_url": "https://www.betterment.com",
+    "job_board_url": "https://www.betterment.com/careers",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "betterment",
+    "description": "Betterment is a leading, technology-driven financial services company that offers investing and retirement solutions for retail investors and investment advisors as well as financial wellness solutions, including a 401(k) for small and medium-sized businesses. Our team is passionate about our mission: making people’s lives better. ",
+    "tags": [
+        "financial-services"
+    ],
+    "twitter_url": "http://twitter.com/betterment",
+    "linkedin_url": "http://www.linkedin.com/company/betterment",
+    "instagram_url": "https://www.instagram.com/betterment/",
+    "facebook_url": "http://facebook.com/betterment",
+    "github_url": "https://github.com/Betterment"
+}

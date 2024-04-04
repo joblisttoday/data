@@ -1,0 +1,21 @@
+{
+    "title": "Hypofriend",
+    "description": "Free online #mortgage recommendation calculator.",
+    "tags": [
+        "mortgage"
+    ],
+    "job_board_url": "https://hypofriend.de/en/careers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.405102,
+                    52.529405
+                ]
+            }
+        }
+    ]
+}

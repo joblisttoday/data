@@ -1,0 +1,22 @@
+{
+    "title": "Delivery Hero",
+    "description": "Delivery Hero is an online #food #delivery service",
+    "tags": [
+        "food",
+        "delivery"
+    ],
+    "job_board_url": "https://www.deliveryhero.com/career/jobs/#!/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.3906159,
+                    52.5170497
+                ]
+            }
+        }
+    ]
+}

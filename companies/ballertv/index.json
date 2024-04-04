@@ -1,0 +1,19 @@
+{
+    "title": "BallerTV",
+    "company_url": "https://www.ballertv.com",
+    "job_board_url": "https://jobs.lever.co/baller",
+    "job_board_provider": "lever",
+    "job_board_hostname": "baller",
+    "description": "BallerTV is on a mission to connect families and communities everywhere through the unifying power of live sports. The company brings unprecedented coverage to the world of amateur sports by live-streaming thousands of games across men’s and women’s basketball, volleyball, softball, and football every weekend. Through rapidly scaling technology that enables the company to bring more games to more people, BallerTV has live-streamed more than 250,000 games to date on mobile and desktop, solidifying it as the leading destination for amateur sports throughout the nation.",
+    "tags": [
+        "sports",
+        "tv",
+        "streaming"
+    ],
+    "twitter_url": "https://twitter.com/ballertv",
+    "linkedin_url": "https://www.instagram.com/ballertv",
+    "youtube_url": "https://www.youtube.com/ballertv",
+    "instagram_url": "https://www.instagram.com/ballertv",
+    "facebook_url": "https://www.facebook.com/BallerTV",
+    "github_url": "https://github.com/ballertv"
+}

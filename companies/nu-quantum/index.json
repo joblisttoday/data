@@ -1,0 +1,18 @@
+{
+    "title": "Nu Quantum",
+    "company_url": "",
+    "job_board_url": "https://jobs.lever.co/nuquantum",
+    "job_board_provider": "lever",
+    "job_board_hostname": "nuquantum",
+    "description": "A quantum of light is called a photon.  At Nu Quantum we make quantum devices which can emit and detect single-photons.  Our devices underpin those quantum systems which make single photons carry quantum information or interact in sophisticated ways, to arrive at a new era of communications, simulation, computing, sensing and metrology.",
+    "tags": [
+        "quantum-computing"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "Cambridge"
+        }
+    ]
+}

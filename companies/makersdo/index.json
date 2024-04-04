@@ -1,0 +1,24 @@
+{
+    "title": "Makers.do",
+    "description": "Maker.do is a community and #incubator that help you launching your #startup",
+    "tags": [
+        "incubator",
+        "startup"
+    ],
+    "job_board_url": "https://makers.jobs.personio.de/",
+    "job_board_provider": "personio",
+    "job_board_hostname": "makers",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4066275,
+                    52.5247523
+                ]
+            }
+        }
+    ]
+}

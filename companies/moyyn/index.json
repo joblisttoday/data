@@ -1,0 +1,17 @@
+{
+    "title": "Moyyn",
+    "tags": [
+        "recruitment",
+        "agency"
+    ],
+    "company_url": "https://www.moyyn.com/",
+    "job_board_url": "https://moyyn.com/open-positions",
+    "positions": [
+        {
+            "country": "germany",
+            "postal_code": "13629",
+            "address": "Startup Incubator Berlin, Rohrdamm 88",
+            "city": "berlin"
+        }
+    ]
+}

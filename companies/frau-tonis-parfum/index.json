@@ -1,0 +1,22 @@
+{
+    "title": "Frau Tonis Parfum",
+    "description": "Company providing #perfume for #corporate gifts",
+    "tags": [
+        "perfume",
+        "corporate"
+    ],
+    "job_board_url": "https://www.frau-tonis-parfum.com/karriere-jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.388228,
+                    52.507474
+                ]
+            }
+        }
+    ]
+}

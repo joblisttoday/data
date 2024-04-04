@@ -1,0 +1,23 @@
+{
+    "title": "Flightright",
+    "description": "Judicial enforcement of compensation payments for air passengers #flight #airline #law",
+    "tags": [
+        "flight",
+        "airline",
+        "law"
+    ],
+    "job_board_url": "https://www.flightright.de/jobs",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.2992141,
+                    52.505687
+                ]
+            }
+        }
+    ]
+}

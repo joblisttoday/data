@@ -1,0 +1,25 @@
+{
+    "title": "Get Your Guide",
+    "description": "GetYourGuide is a leading #travel #platform for #booking tours, attractions, excursions & #activities for your next #vacation or weekend adventure",
+    "tags": [
+        "travel",
+        "platform",
+        "booking",
+        "activities",
+        "vacation"
+    ],
+    "job_board_url": "http://careers.getyourguide.com",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4068523,
+                    52.5486606
+                ]
+            }
+        }
+    ]
+}

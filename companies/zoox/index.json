@@ -1,0 +1,34 @@
+{
+    "title": "Zoox",
+    "company_url": "https://zoox.com",
+    "job_board_url": "https://zoox.com/careers",
+    "job_board_provider": "lever",
+    "job_board_hostname": "zoox",
+    "description": "Zoox, Inc. is a subsidiary of Amazon developing autonomous vehicles that provide Mobility-as-a-Service",
+    "tags": [
+        "mobility-as-a-service",
+        "autonomous-vehicle"
+    ],
+    "twitter_url": "https://twitter.com/zoox",
+    "linkedin_url": "https://www.linkedin.com/company/zoox-inc/",
+    "youtube_url": "https://www.youtube.com/channel/UCh5q-FtihPqzTbgEkZQRy3g",
+    "instagram_url": "https://www.instagram.com/zoox/",
+    "facebook_url": "https://www.facebook.com/zooxlife",
+    "github_url": "https://github.com/zooxco",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zoox_(company)",
+    "positions": [
+        {
+            "country": "USA",
+            "city": "Foster City",
+            "postal_code": "CA",
+            "address": "1149 Chess Dr",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2726136,
+                    37.568106
+                ]
+            }
+        }
+    ]
+}

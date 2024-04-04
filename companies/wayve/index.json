@@ -1,0 +1,18 @@
+{
+    "title": "Wayve",
+    "company_url": "",
+    "job_board_url": "https://boards.greenhouse.io/wayve",
+    "job_board_provider": "greenhouse",
+    "job_board_hostname": "wayve",
+    "description": "We are Wayve.  Our AV2.0 technology completely rethinks how to solve self-driving by taking a pure machine learning approach. The result is a next generation AV technology that can scale and adapt to any driving condition, anywhere in the world: unlocking the promise of a better way forward.",
+    "tags": [
+        "mobility-tech"
+    ],
+    "twitter_url": "",
+    "linkedin_url": "",
+    "positions": [
+        {
+            "city": "London"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Mercedes-Benz.io",
+    "description": "automobile; #transport ",
+    "tags": [
+        "transport"
+    ],
+    "job_board_url": "https://www.mercedes-benz.io/jobs/",
+    "positions": [
+        {
+            "country": "germany",
+            "city": "berlin",
+            "map": {
+                "type": "Point",
+                "coordinates": [
+                    13.4023339,
+                    52.5111162
+                ]
+            }
+        }
+    ]
+}
