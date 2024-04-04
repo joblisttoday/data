@@ -1,0 +1,19 @@
+{
+  "created_at": "2024-04-04T10:15:07.654Z",
+  "tags": [
+    "example-tag",
+    "another-tag"
+  ],
+  "title": "test",
+  "slug": "test",
+  "company_url": "https://example.org",
+  "positions": [
+    {
+      "country": "a",
+      "city": "b",
+      "postal_code": "123",
+      "address": "123",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-3.6914062,39.5040407]}"
+    }
+  ]
+}
