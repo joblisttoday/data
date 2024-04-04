@@ -23,13 +23,7 @@
             "city": "San Francisco",
             "postal_code": "CA 94105",
             "address": "580 Howard St. Unit 402",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3980239,
-                    37.7872618
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.3980239,37.7872618]}"
         }
     ]
 }

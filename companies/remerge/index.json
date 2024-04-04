@@ -17,13 +17,7 @@
             "postal_code": "10117",
             "address": "Oranienburger Str. 27",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.394987,
-                    52.524764
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.394987,52.524764]}"
         }
     ]
 }

@@ -17,13 +17,7 @@
         {
             "country": "germany",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.436279296875002,
-                    52.500339730516956
-                ]
-            },
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.436279296875002,52.500339730516956]}",
             "postal_code": "10997",
             "address": "Skalitzer Str. 85"
         }

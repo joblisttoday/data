@@ -22,13 +22,7 @@
             "city": "Toronto",
             "postal_code": "M2N 6K8",
             "address": "4711 Yonge St, 10th Floor",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -79.4102025,
-                    43.7605323
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-79.4102025,43.7605323]}"
         }
     ]
 }

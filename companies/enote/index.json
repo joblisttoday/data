@@ -18,13 +18,7 @@
             "city": "berlin",
             "postal_code": "10178",
             "address": "Gontardstrasse 11",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.411324,
-                    52.5207745
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.411324,52.5207745]}"
         }
     ]
 }

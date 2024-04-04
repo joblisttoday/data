@@ -13,13 +13,7 @@
             "postal_code": "10243",
             "address": "Straße der Pariser Kommune, 8 ",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.439078,
-                    52.513058
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.439078,52.513058]}"
         }
     ]
 }

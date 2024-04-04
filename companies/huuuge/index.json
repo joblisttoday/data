@@ -19,13 +19,7 @@
             "postal_code": "10115",
             "address": "Chausseestraße 84",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.373281,
-                    52.537757
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.373281,52.537757]}"
         }
     ]
 }

@@ -17,13 +17,7 @@
             "postal_code": "13409",
             "address": "Kühnemannstrasse 26",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.381054,
-                    52.566119
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.381054,52.566119]}"
         }
     ]
 }

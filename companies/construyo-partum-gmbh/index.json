@@ -19,13 +19,7 @@
             "postal_code": "10115",
             "address": "Borsigstraße 8",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.390135,
-                    52.529284
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.390135,52.529284]}"
         }
     ]
 }

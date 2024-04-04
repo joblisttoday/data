@@ -19,13 +19,7 @@
             "postal_code": "10178",
             "address": "Poststraße 21-22",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.407282,
-                    52.516404
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.407282,52.516404]}"
         }
     ]
 }

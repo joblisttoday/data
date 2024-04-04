@@ -14,39 +14,21 @@
             "city": "berlin",
             "postal_code": "10789",
             "address": "Tauentzienstraße 14",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.3366934,
-                    52.5037386
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.3366934,52.5037386]}"
         },
         {
             "country": "germany",
             "city": "Saarbrücken",
             "postal_code": "66113",
             "address": "Europaallee 29",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    6.9892327,
-                    49.242772
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[6.9892327,49.242772]}"
         },
         {
             "country": "france",
             "city": "nice",
             "postal_code": "  06000",
             "address": "81 Rue de France",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    7.2571033,
-                    43.6952821
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[7.2571033,43.6952821]}"
         }
     ],
     "title": "Softgarden",

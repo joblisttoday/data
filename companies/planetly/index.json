@@ -20,13 +20,7 @@
             "postal_code": "10119",
             "address": "Gormannstraße 12",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.405662,
-                    52.528307
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.405662,52.528307]}"
         }
     ]
 }

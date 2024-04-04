@@ -22,13 +22,7 @@
             "city": " New York City",
             "postal_code": " 10001",
             "address": " 125 W 25th Street",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9930481,
-                    40.744877
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-73.9930481,40.744877]}"
         }
     ]
 }

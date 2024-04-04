@@ -18,13 +18,7 @@
             "postal_code": "12435",
             "address": "Elsenstraße 106",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.455388,
-                    52.489769
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.455388,52.489769]}"
         }
     ]
 }

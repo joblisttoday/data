@@ -14,13 +14,7 @@
             "postal_code": "12527",
             "address": "Regattastr. 189",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.58559,
-                    52.412671
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.58559,52.412671]}"
         }
     ]
 }

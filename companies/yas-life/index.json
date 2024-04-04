@@ -20,13 +20,7 @@
             "postal_code": "10178",
             "address": "Dircksenstraße 40",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.41406,
-                    52.519956
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.41406,52.519956]}"
         }
     ]
 }

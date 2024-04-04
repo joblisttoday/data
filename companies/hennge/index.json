@@ -18,13 +18,7 @@
             "city": "Tokyo",
             "postal_code": "150-0036",
             "address": "Daiwa Shibuya Square, 16-28 Nanpeidaicho, Shibuya City",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    139.6956107,
-                    35.6548603
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[139.6956107,35.6548603]}"
         }
     ]
 }

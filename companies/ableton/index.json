@@ -22,13 +22,7 @@
         {
             "country": "germany",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4103097,
-                    52.5296161
-                ]
-            },
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4103097,52.5296161]}",
             "postal_code": "10119",
             "address": "Schönhauser Allee 6-7"
         }

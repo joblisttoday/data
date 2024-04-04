@@ -21,13 +21,7 @@
             "postal_code": "10243",
             "address": "Str. der Pariser Kommune 12-16",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.438416,
-                    52.510681
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.438416,52.510681]}"
         }
     ]
 }

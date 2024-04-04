@@ -21,13 +21,7 @@
             "postal_code": "10435",
             "address": "Kastanienallee 4",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.410877,
-                    52.54045
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.410877,52.54045]}"
         }
     ]
 }

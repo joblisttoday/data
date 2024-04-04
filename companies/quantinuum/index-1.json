@@ -22,13 +22,7 @@
             "city": "Cambridge",
             "postal_code": "CB2 1NL",
             "address": "TERRINGTON HOUSE, 13-15 Hills Rd",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    0.1293469,
-                    52.1978907
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[0.1293469,52.1978907]}"
         }
     ]
 }

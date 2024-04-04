@@ -19,13 +19,7 @@
             "city": "berlin",
             "postal_code": "10119",
             "address": "Zionskirchstraße 73a",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4092614,
-                    52.5326804
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4092614,52.5326804]}"
         }
     ]
 }

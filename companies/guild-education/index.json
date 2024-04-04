@@ -19,13 +19,7 @@
             "city": "Denver",
             "postal_code": "CO 80202",
             "address": "370 17th Street",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -104.9886367,
-                    39.7434862
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-104.9886367,39.7434862]}"
         }
     ]
 }

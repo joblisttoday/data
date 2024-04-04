@@ -12,13 +12,7 @@
         {
             "country": "germany",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.366863,
-                    52.523102
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.366863,52.523102]}"
         }
     ]
 }

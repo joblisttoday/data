@@ -21,13 +21,7 @@
             "city": "berlin",
             "postal_code": "10999",
             "address": "Erkelenzdamm 59-61 ",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4128797,
-                    52.4965661
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4128797,52.4965661]}"
         }
     ]
 }

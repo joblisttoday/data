@@ -24,38 +24,20 @@
             "city": "Willich",
             "postal_code": "47877 ",
             "address": "Otto-Brenner-Straße 4a",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    6.5147269,
-                    51.2743408
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[6.5147269,51.2743408]}"
         },
         {
             "country": "UK",
             "city": "Manchester ",
             "address": "5 Brindley Rd, Old Trafford, Stretford",
             "postal_code": "M16 9UN",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -2.2778005,
-                    53.464089
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-2.2778005,53.464089]}"
         },
         {
             "country": "Denmark",
             "city": "Aarhus",
             "postal_code": "8200",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    10.1466473,
-                    56.2165538
-                ]
-            },
+            "map": "{\"type\":\"Point\",\"coordinates\":[10.1466473,56.2165538]}",
             "address": "Lisbjerg Parkvej"
         },
         {
@@ -63,13 +45,7 @@
             "city": "Dongguan",
             "postal_code": "523850",
             "address": "4 东一巷, Shaputou",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    113.798864,
-                    22.8059572
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[113.798864,22.8059572]}"
         }
     ]
 }

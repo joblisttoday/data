@@ -22,13 +22,7 @@
             "city": "München",
             "postal_code": "80335",
             "address": "Seidlstraße 3",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    11.5559643,
-                    48.1425762
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[11.5559643,48.1425762]}"
         }
     ]
 }

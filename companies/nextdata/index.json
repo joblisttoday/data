@@ -20,13 +20,7 @@
             "country": "USA",
             "address": "1 Cupertino, California",
             "city": "Cupertino",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.0321816,
-                    37.3226967
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.0321816,37.3226967]}"
         }
     ]
 }

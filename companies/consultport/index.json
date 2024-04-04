@@ -18,13 +18,7 @@
             "postal_code": "10115",
             "address": "Rheinsberger Str. 73",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.395743,
-                    52.536988
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.395743,52.536988]}"
         }
     ]
 }

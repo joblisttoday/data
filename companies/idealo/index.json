@@ -16,13 +16,7 @@
             "postal_code": "10969",
             "address": "Ritterstraße 11",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4113,
-                    52.501372
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4113,52.501372]}"
         }
     ]
 }

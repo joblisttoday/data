@@ -19,13 +19,7 @@
             "postal_code": "13355",
             "address": "Brunnenstraße 128",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.39465,
-                    52.539526
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.39465,52.539526]}"
         }
     ]
 }

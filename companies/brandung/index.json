@@ -23,13 +23,7 @@
             "postal_code": "10999",
             "address": "Leuschnerdamm 13",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.418955,
-                    52.504636
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.418955,52.504636]}"
         }
     ]
 }

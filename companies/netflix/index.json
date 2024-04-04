@@ -21,13 +21,7 @@
             "city": "berlin",
             "postal_code": "10117",
             "address": "Friedrichstraße 88",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.389,
-                    52.5174075
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.389,52.5174075]}"
         }
     ]
 }

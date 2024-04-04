@@ -20,13 +20,7 @@
             "postal_code": "10178",
             "address": "Münzstraße 7",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.408535,
-                    52.524227
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.408535,52.524227]}"
         }
     ]
 }

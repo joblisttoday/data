@@ -18,13 +18,7 @@
             "postal_code": "10969",
             "address": "Zimmerstr. 16",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.389152,
-                    52.50761
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.389152,52.50761]}"
         }
     ]
 }

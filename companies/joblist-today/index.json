@@ -11,13 +11,7 @@
             "city": "Berlin",
             "postal_code": "12053",
             "address": "Hasenheidenähe",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4163306,
-                    52.4827202
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4163306,52.4827202]}"
         }
     ],
     "title": "joblist.today",

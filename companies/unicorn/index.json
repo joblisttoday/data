@@ -17,13 +17,7 @@
         {
             "country": "germany",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.3873236,
-                    52.5419594
-                ]
-            },
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.3873236,52.5419594]}",
             "address": "Gustav-Meyer-Allee 25, Gebäude 12, Aufgang 2",
             "postal_code": "13355"
         }

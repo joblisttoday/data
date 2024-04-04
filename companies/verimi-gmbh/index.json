@@ -17,13 +17,7 @@
             "postal_code": "10969",
             "address": "Oranienstr. 91",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.412471,
-                    52.503221
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.412471,52.503221]}"
         }
     ]
 }

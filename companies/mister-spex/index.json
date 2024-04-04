@@ -19,13 +19,7 @@
             "postal_code": "10409",
             "address": "Greifswalder Str. 156",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.44123,
-                    52.543733
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.44123,52.543733]}"
         }
     ]
 }

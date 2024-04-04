@@ -16,13 +16,7 @@
             "postal_code": "10178",
             "address": "Kleine Präsidentenstraße 1",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.400306,
-                    52.522346
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.400306,52.522346]}"
         }
     ]
 }

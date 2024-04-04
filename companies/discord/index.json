@@ -21,13 +21,7 @@
             "city": "San Francisco",
             "postal_code": "CA 94107",
             "address": "444 De Haro St Suite 200",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4018983,
-                    37.7645932
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.4018983,37.7645932]}"
         }
     ]
 }

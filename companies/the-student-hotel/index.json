@@ -16,13 +16,7 @@
             "postal_code": "10179",
             "address": "Alexanderstraße 40",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.417794,
-                    52.51757
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.417794,52.51757]}"
         }
     ]
 }

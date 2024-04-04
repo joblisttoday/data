@@ -19,13 +19,7 @@
             "postal_code": "12489",
             "address": "Rudower Chaussee 29",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.528514,
-                    52.428835
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.528514,52.428835]}"
         }
     ]
 }

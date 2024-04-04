@@ -20,13 +20,7 @@
             "city": "Portland",
             "postal_code": "OR 97204-2405",
             "address": "818 SW 3rd Ave #221-5841",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.675801,
-                    45.5173322
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.675801,45.5173322]}"
         }
     ]
 }

@@ -17,13 +17,7 @@
             "postal_code": "10623",
             "address": "Hardenbergstraße 32",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.329166,
-                    52.508326
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.329166,52.508326]}"
         }
     ]
 }

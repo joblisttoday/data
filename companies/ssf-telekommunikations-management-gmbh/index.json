@@ -16,13 +16,7 @@
             "city": "berlin",
             "postal_code": "13509",
             "address": "Wittestraße 3",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.3138785,
-                    52.5768088
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.3138785,52.5768088]}"
         }
     ]
 }

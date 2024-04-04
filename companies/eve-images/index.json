@@ -15,13 +15,7 @@
             "postal_code": "10997",
             "address": "Wrangelstraße 100",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.434926,
-                    52.50178
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.434926,52.50178]}"
         }
     ]
 }

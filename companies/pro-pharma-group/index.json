@@ -17,13 +17,7 @@
             "postal_code": "13627",
             "address": "Siemensdamm 62",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.280331,
-                    52.533348
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.280331,52.533348]}"
         }
     ]
 }

@@ -19,13 +19,7 @@
             "postal_code": "14197",
             "address": "Aßmannshauser Str. 4-6",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.313573,
-                    52.476643
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.313573,52.476643]}"
         }
     ]
 }

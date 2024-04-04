@@ -16,13 +16,7 @@
             "city": "Plan-les-Ouates",
             "postal_code": "1228",
             "address": "Route de la Galaise 32",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    6.1030206,
-                    46.1679991
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[6.1030206,46.1679991]}"
         }
     ],
     "title": "Proton",

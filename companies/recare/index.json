@@ -15,13 +15,7 @@
             "postal_code": "10559",
             "address": "Alt-Moabit 103",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.347322,
-                    52.524779
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.347322,52.524779]}"
         }
     ]
 }

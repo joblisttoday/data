@@ -18,13 +18,7 @@
             "city": "berlin",
             "postal_code": "10827",
             "address": "Kolonnenstraße 8",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.3599168,
-                    52.4863026
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.3599168,52.4863026]}"
         }
     ]
 }

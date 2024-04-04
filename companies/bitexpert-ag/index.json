@@ -19,13 +19,7 @@
             "city": "Mannheim",
             "postal_code": "68169",
             "address": "Industriestrasse 35",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    8.4672023,
-                    49.5124734
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[8.4672023,49.5124734]}"
         }
     ]
 }

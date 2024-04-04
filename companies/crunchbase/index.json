@@ -16,13 +16,7 @@
             "city": "San Francisco",
             "postal_code": "CA 94104",
             "address": "564 Market St",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4011635,
-                    37.7898209
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.4011635,37.7898209]}"
         }
     ],
     "title": "Crunchbase",

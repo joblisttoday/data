@@ -22,13 +22,7 @@
             "city": "Foster City",
             "postal_code": "CA",
             "address": "1149 Chess Dr",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -122.2726136,
-                    37.568106
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-122.2726136,37.568106]}"
         }
     ]
 }

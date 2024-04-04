@@ -18,13 +18,7 @@
             "postal_code": "10785",
             "address": "Potsdamer Platz, Kemperpl. 1",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.372105,
-                    52.510782
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.372105,52.510782]}"
         }
     ]
 }

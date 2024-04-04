@@ -21,39 +21,21 @@
             "city": "Berlin",
             "postal_code": "10997",
             "address": "Schlesische Strasse 26",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.4497837,
-                    52.499205
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.4497837,52.499205]}"
         },
         {
             "country": "France",
             "city": "Paris",
             "postal_code": "75009",
             "address": "24 Rue de Mogador",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    2.3314613,
-                    48.8753932
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[2.3314613,48.8753932]}"
         },
         {
             "country": "United-kingdom",
             "city": "London",
             "postal_code": "EC2A 4NE",
             "address": "86-90 Paul Street",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    -0.0837211,
-                    51.5256396
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[-0.0837211,51.5256396]}"
         }
     ]
 }

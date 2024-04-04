@@ -22,13 +22,7 @@
             "postal_code": "12435",
             "address": "Lohmühlenstraße 65",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.446298,
-                    52.494119
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.446298,52.494119]}"
         }
     ]
 }

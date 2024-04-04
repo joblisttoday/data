@@ -23,13 +23,7 @@
             "postal_code": "10178",
             "address": "Monbijouplatz 5",
             "city": "berlin",
-            "map": {
-                "type": "Point",
-                "coordinates": [
-                    13.399036,
-                    52.523263
-                ]
-            }
+            "map": "{\"type\":\"Point\",\"coordinates\":[13.399036,52.523263]}"
         }
     ]
 }
