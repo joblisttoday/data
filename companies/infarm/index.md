@@ -16,9 +16,6 @@ tags:
   - farming
   - local
   - distribution
-job_board_url: 'https://boards.greenhouse.io/infarm'
-created_at: '2017-06-28T20:39:32.559Z'
-updated_at: '2019-06-16T10:36:08.521Z'
 positions:
   - country: germany
     city: berlin
