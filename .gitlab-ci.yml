@@ -4,7 +4,7 @@ stages:
 variables:
   URL_REMOTE_THEME_REPO: gitlab@job-profile-gatsby:pages
   REF_THEME_REPO: main
-  PROJECT_ID_THEME_REPO: 32362715
+  PROJECT_ID_THEME_REPO: 56629810
 
 # only (remote) build the (profile) site,
 # when there are changes on main branch of the content repo (this on)
