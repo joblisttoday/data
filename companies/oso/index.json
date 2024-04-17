@@ -1,0 +1,15 @@
+{
+  "twitter_url": "https://www.twitter.com/osohq",
+  "job_board_provider": "ashby",
+  "company_url": "https://www.osohq.com",
+  "job_board_hostname": "Oso",
+  "linkedin_url": "https://www.linkedin.com/company/13056430/",
+  "github_url": "https://github.com/osohq",
+  "job_board_url": "https://www.osohq.com/company/jobs",
+  "title": "Oso",
+  "tags": [
+    "authorization",
+    "startup"
+  ],
+  "description": "Oso is a batteries-included system for authorization."
+}
