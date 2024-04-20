@@ -1,0 +1,16 @@
+{
+  "twitter_url": "https://twitter.com/muxhq",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.mux.com",
+  "job_board_hostname": "mux",
+  "linkedin_url": "https://www.linkedin.com/company/mux/",
+  "github_url": "https://github.com/muxinc",
+  "job_board_url": "https://www.mux.com/jobs",
+  "title": "Mux",
+  "tags": [
+    "video",
+    "infrastructure",
+    "streaming"
+  ],
+  "description": "Mux is video for developers. Our mission is to democratize video by solving the hard problems developers face when building video: video encoding and streaming (Mux Video), video monitoring (Mux Data), and more. Video is a huge part of people’s lives, and we want to help make it better."
+}
