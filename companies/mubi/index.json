@@ -1,10 +1,21 @@
 {
-    "title": "Mubi",
-    "description": "#movie streaming website; #startup #media",
-    "tags": [
-        "movie",
-        "startup",
-        "media"
-    ],
-    "job_board_url": "https://mubi.com/jobs"
+  "instagram_url": "https://instagram.com/mubi",
+  "twitter_url": "https://twitter.com/mubi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mubi_(streaming_service)",
+  "job_board_provider": "ashby",
+  "company_url": "https://mubi.com",
+  "job_board_hostname": "MUBI",
+  "linkedin_url": "",
+  "youtube_url": "https://youtube.com/@mubi",
+  "github_url": "https://github.com/mubi",
+  "job_board_url": "https://mubi.com/jobs",
+  "facebook_url": "https://facebook.com/mubi",
+  "title": "Mubi",
+  "tags": [
+    "streaming",
+    "movie",
+    "startup",
+    "media"
+  ],
+  "description": "#movie streaming website; #startup #media"
 }
