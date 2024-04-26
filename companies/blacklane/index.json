@@ -1,17 +1,25 @@
 {
-    "title": "Blacklane",
-    "description": "#startup company providing a #chauffeur portal connecting people to professional chauffeurs via their #mobile application",
-    "tags": [
-        "startup",
-        "chauffeur",
-        "mobile"
-    ],
-    "job_board_url": "https://www.blacklane.com/en/career",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.357146,52.48483]}"
-        }
-    ]
+  "instagram_url": "https://www.instagram.com/blacklane",
+  "twitter_url": "https://www.twitter.com/Blacklane",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.357146,52.48483]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.blacklane.com",
+  "job_board_hostname": "blacklane",
+  "linkedin_url": "https://www.linkedin.com/company/blacklane-gmbh/",
+  "youtube_url": "https://www.youtube.com/user/blacklanelimo",
+  "job_board_url": "https://www.blacklane.com/en/career",
+  "facebook_url": "https://www.facebook.com/Blacklane",
+  "title": "Blacklane",
+  "tags": [
+    "chauffeur",
+    "startup",
+    "mobility"
+  ],
+  "description": "The Blacklane app to easily book safe, private rides while you're on the go."
 }
