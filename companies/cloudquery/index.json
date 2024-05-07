@@ -1,0 +1,27 @@
+{
+  "twitter_url": "https://twitter.com/cloudqueryio",
+  "positions": [
+    {
+      "country": "usa",
+      "city": "NYC",
+      "postal_code": "NY 10001",
+      "address": "368 9th Ave",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-73.9977318,40.7510766]}"
+    }
+  ],
+  "job_board_provider": "workable",
+  "company_url": "https://www.cloudquery.io/",
+  "job_board_hostname": "cloudquery",
+  "linkedin_url": "https://www.linkedin.com/company/cloudqueryio",
+  "youtube_url": "https://www.youtube.com/@cloudqueryio",
+  "github_url": "https://github.com/cloudquery",
+  "job_board_url": "https://apply.workable.com/cloudquery/",
+  "title": "CloudQuery",
+  "tags": [
+    "data",
+    "etl",
+    "platform",
+    "open-source"
+  ],
+  "description": "The open source high performance data integration platform built for developers."
+}
