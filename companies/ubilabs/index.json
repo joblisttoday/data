@@ -1,0 +1,33 @@
+{
+  "twitter_url": "https://twitter.com/ubilabs",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Hamburg",
+      "postal_code": "20099",
+      "address": "Heidi-Kabel-Platz 2",
+      "map": "{\"type\":\"Point\",\"coordinates\":[10.007187,53.5544884]}"
+    },
+    {
+      "country": "Germany",
+      "city": "München",
+      "postal_code": "80331",
+      "address": "Westenriederstraße 8",
+      "map": "{\"type\":\"Point\",\"coordinates\":[11.5778741,48.134911]}"
+    }
+  ],
+  "job_board_provider": "personio",
+  "company_url": "https://ubilabs.com",
+  "job_board_hostname": "ubilabs",
+  "linkedin_url": "https://www.linkedin.com/company/ubilabs/?originalSubdomain=de",
+  "github_url": "https://github.com/ubilabs",
+  "job_board_url": "https://ubilabs.com/karriere",
+  "title": "Ubilabs",
+  "tags": [
+    "IT",
+    "consulting",
+    "data",
+    "location"
+  ],
+  "description": "Where out-of-the-box solutions and generic customer service end, our expertise begins. We stand by our customers in partnership - as consultants, sparring partners, developers, and center of excellence. We believe in technology and the positive impact it can have – on individuals, companies, and our world. Making data visible, tangible, and usable with the help of maps and cloud technologies has a direct impact."
+}
