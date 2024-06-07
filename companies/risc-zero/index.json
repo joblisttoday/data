@@ -1,0 +1,16 @@
+{
+  "twitter_url": "https://twitter.com/risczero",
+  "job_board_provider": "ashby",
+  "company_url": "https://www.risczero.com/",
+  "job_board_hostname": "RiscZero",
+  "youtube_url": "https://www.youtube.com/@risczero",
+  "github_url": "https://github.com/risc0/risc0",
+  "job_board_url": "https://jobs.ashbyhq.com/RiscZero",
+  "title": "Risc Zero",
+  "tags": [
+    "zero-knowledge",
+    "zkVM",
+    "rust"
+  ],
+  "description": "We're on a mission to transform the internet for the better. Our team of innovative hackers, visionary futurists, and passionate nerds is devoted to creating a digital space that's safe, inclusive, and empowers everyone. By developing the world's first zero-knowledge virtual machine, we've laid the groundwork for running arbitrary code as a zero-knowledge proof. Utilizing a ZK Coprocessor to assist or enhance the compute of an on-chain application, we have created a unique package - the RISC Zero ZK Coprocessor, comprised of the zkVM, Bonsai, and ETH Relay. Now, we're ambitiously constructing an entire ecosystem around this groundbreaking technology.\n"
+}
