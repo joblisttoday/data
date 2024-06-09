@@ -1,0 +1,16 @@
+{
+  "twitter_url": "https://twitter.com/chromaticcom",
+  "job_board_provider": "ashby",
+  "company_url": "https://www.chromatic.com/",
+  "job_board_hostname": "Chromatic",
+  "youtube_url": "https://youtube.com/@chromaticui",
+  "github_url": "https://github.com/chromaui/",
+  "job_board_url": "https://www.chromatic.com/company/careers",
+  "title": "Chromatic",
+  "tags": [
+    "storybook",
+    "user-interface",
+    "user-experience"
+  ],
+  "description": "Our mission is to improve the UX of the internet. We build tools that help frontend teams develop and test UIs. Our customers ship UIs that billions of people use."
+}
