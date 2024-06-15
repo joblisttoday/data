@@ -1,0 +1,30 @@
+{
+  "instagram_url": "https://www.instagram.com/nb_leaders/",
+  "twitter_url": "https://twitter.com/nationbuilder",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/NationBuilder",
+  "positions": [
+    {
+      "country": "USA",
+      "city": "Los Angeles",
+      "postal_code": "CA 90017",
+      "address": "750 W 7th St Suite 201",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-118.2578698,34.0487455]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://nationbuilder.com/",
+  "job_board_hostname": "nationbuilder",
+  "linkedin_url": "https://www.linkedin.com/company/nationbuilder",
+  "youtube_url": "https://www.youtube.com/c/NationBuilder",
+  "github_url": "https://github.com/nationbuilder",
+  "job_board_url": "https://nationbuilder.com/careers",
+  "facebook_url": "https://www.facebook.com/nationbuilder",
+  "title": "NationBuilder",
+  "tags": [
+    "crm",
+    "software",
+    "marketing",
+    "communication"
+  ],
+  "description": "NationBuilder is a Los Angeles based technology start-up that develops content management and customer relationship management (CRM) software. Although the company initially targeted political campaigns and nonprofit organizations, it later expanded its marketing efforts to include other people and organizations trying to build an online following, such as artists, musicians and restaurants.[1] The software uses voter data such as names, addresses and other information, such as previous voting records in the case of political campaigns, to allow users to centralize, build and manage campaigns by integrating various communication tools like websites, newsletters, text messaging and social media channels under one platform."
+}
