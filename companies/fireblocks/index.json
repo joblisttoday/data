@@ -1,0 +1,18 @@
+{
+  "twitter_url": "https://twitter.com/FireblocksHQ",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.fireblocks.com/",
+  "job_board_hostname": "fireblocks",
+  "linkedin_url": "https://www.linkedin.com/company/fireblocks",
+  "youtube_url": "https://www.youtube.com/c/Fireblocks",
+  "github_url": "https://github.com/fireblocks",
+  "job_board_url": "https://www.fireblocks.com/careers/",
+  "facebook_url": "https://www.facebook.com/pg/FireblocksHQ",
+  "title": "Fireblocks",
+  "tags": [
+    "blockchain",
+    "assets",
+    "finance"
+  ],
+  "description": "Enable every business to easily and securely support digital assets and cryptocurrencies."
+}
