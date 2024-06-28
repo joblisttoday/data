@@ -1,0 +1,28 @@
+{
+  "instagram_url": "https://instagram.com/substackinc",
+  "twitter_url": "https://twitter.com/SubstackInc",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Substack",
+  "positions": [
+    {
+      "country": "USA",
+      "city": "San Francisco",
+      "postal_code": "CA 94104",
+      "address": "111 Sutter St 7th Floor",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-122.4025513,37.7898328]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://substack.com/",
+  "job_board_hostname": "substack",
+  "linkedin_url": "https://www.linkedin.com/company/substack",
+  "youtube_url": "https://www.youtube.com/@substackinc",
+  "github_url": "https://github.com/substackinc",
+  "job_board_url": "https://substack.com/jobs",
+  "facebook_url": "https://facebook.com/substackinc",
+  "title": "Substack",
+  "tags": [
+    "publishing",
+    "platform"
+  ],
+  "description": "Substack is an American online platform that provides publishing, payment, analytics, and design infrastructure to support subscription newsletters. It allows writers to send digital newsletters directly to subscribers. Founded in 2017, Substack is headquartered in San Francisco."
+}
