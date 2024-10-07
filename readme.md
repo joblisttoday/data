@@ -1,7 +1,5 @@
 Github: [![.github/workflows/sync-to-gitlab.yml](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml/badge.svg)](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml) → to synchronise/backup this repo to gitlab
 
-Gitlab: [![pipelines](https://gitlab.com/joblist/data/badges/main/pipeline.svg)](https://gitlab.com/joblist/data/-/pipelines) → to deploy [joblist.today](https://joblist.today/)
-
 # Data
 
 A list of projects and companies potentially hirring, editable by
