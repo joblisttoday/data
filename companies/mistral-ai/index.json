@@ -1,0 +1,27 @@
+{
+  "instagram_url": "",
+  "twitter_url": "https://twitter.com/MistralAI",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mistral_AI",
+  "positions": [
+    {
+      "country": "France",
+      "city": "Paris",
+      "postal_code": "75001",
+      "address": "15 Rue des Halles",
+      "map": "{\"type\":\"Point\",\"coordinates\":[2.3461861,48.8601521]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://mistral.ai/",
+  "job_board_hostname": "mistral",
+  "linkedin_url": "https://www.linkedin.com/company/mistralai/",
+  "github_url": "https://github.com/mistralai",
+  "job_board_url": "https://jobs.lever.co/mistral",
+  "title": "Mistral AI",
+  "tags": [
+    "ai",
+    "open-source",
+    "llm"
+  ],
+  "description": "Mistral AI is a French company specializing in artificial intelligence (AI) products. Founded in April 2023 by former employees of Meta Platforms and Google DeepMind, the company has quickly risen to prominence in the AI sector.\n\nThe company focuses on producing open source large language models, emphasizing the foundational importance of free and open-source software, and positioning itself as an alternative to proprietary models."
+}
