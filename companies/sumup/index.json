@@ -1,16 +1,26 @@
 {
-    "title": "SumUp",
-    "description": "#startup #fintech building a device that allows small merchants to accept card payments anywhere with a smartphone",
-    "tags": [
-        "startup",
-        "fintech"
-    ],
-    "job_board_url": "https://sumup.com/careers/positions/",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.4127558,52.5197018]}"
-        }
-    ]
+  "instagram_url": "https://instagram.com/sumupusa",
+  "twitter_url": "https://twitter.com/sumup",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/SumUp",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4127558,52.5197018]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.sumup.com",
+  "job_board_hostname": "sumup",
+  "linkedin_url": "https://linkedin.com/company/sumup",
+  "youtube_url": "https://www.youtube.com/SumUpGlobal",
+  "github_url": "https://github.com/sumup",
+  "job_board_url": "https://sumup.com/careers/positions/",
+  "facebook_url": "https://facebook.com/sumup.us",
+  "title": "SumUp",
+  "tags": [
+    "startup",
+    "fintech"
+  ],
+  "description": "#startup #fintech building a device that allows small merchants to accept card payments anywhere with a smartphone"
 }
