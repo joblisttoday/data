@@ -1,0 +1,30 @@
+{
+  "instagram_url": "https://www.instagram.com/memrise",
+  "twitter_url": "https://twitter.com/memrise",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Memrise",
+  "positions": [
+    {
+      "country": "uk",
+      "city": "London",
+      "postal_code": "WC1N 3AX",
+      "address": "27 Old Gloucester Street",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-0.1220391,51.5207321]}"
+    }
+  ],
+  "job_board_provider": "workable",
+  "company_url": "https://www.memrise.com",
+  "job_board_hostname": "memrise",
+  "linkedin_url": "https://www.linkedin.com/company/memrise",
+  "youtube_url": "https://www.youtube.com/@memrise",
+  "github_url": "https://github.com/Memrise",
+  "job_board_url": "https://www.memrise.com/jobs",
+  "facebook_url": "https://www.facebook.com/memrise",
+  "title": "Memrise",
+  "tags": [
+    "languages",
+    "learning",
+    "spaced-repetition",
+    "community"
+  ],
+  "description": "Memrise is a language learning platform that offers authentic, useful and personalised content. Learn words, listen to native speaker videos and practice speaking with AI scenarios."
+}
