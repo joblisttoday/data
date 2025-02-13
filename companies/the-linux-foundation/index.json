@@ -9,6 +9,13 @@
       "postal_code": "1000",
       "address": "Av. des Arts 56",
       "map": "{\"type\":\"Point\",\"coordinates\":[4.3669041,50.8414599]}"
+    },
+    {
+      "country": "United States",
+      "city": "San Francisco",
+      "postal_code": "CA 94104",
+      "address": "548 Market St",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-122.4008365,37.7900347]}"
     }
   ],
   "job_board_provider": "smartrecruiters",
