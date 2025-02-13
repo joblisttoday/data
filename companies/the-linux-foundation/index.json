@@ -1,0 +1,28 @@
+{
+  "instagram_url": "https://www.instagram.com/linux_foundation",
+  "twitter_url": "https://twitter.com/linuxfoundation",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Linux_Foundation",
+  "positions": [
+    {
+      "country": "Belgium",
+      "city": "Bruxelles",
+      "postal_code": "1000",
+      "address": "Av. des Arts 56",
+      "map": "{\"type\":\"Point\",\"coordinates\":[4.3669041,50.8414599]}"
+    }
+  ],
+  "job_board_provider": "smartrecruiters",
+  "company_url": "https://www.linuxfoundation.org",
+  "job_board_hostname": "LinuxFoundation",
+  "linkedin_url": "https://www.linkedin.com/company/208777",
+  "youtube_url": "https://www.youtube.com/@LinuxfoundationOrg",
+  "github_url": "https://github.com/LF-Engineering",
+  "job_board_url": "https://www.linuxfoundation.org/careers",
+  "facebook_url": "https://www.facebook.com/TheLinuxFoundation",
+  "title": "The Linux Foundation",
+  "tags": [
+    "open-source",
+    "linux"
+  ],
+  "description": "The Linux Foundation is a non-profit organization established in 2000 to support the development of the Linux operating system and promote open-source software projects. It serves as a hub for various collaborative projects and initiatives across different technology sectors, including cloud computing, networking, and blockchain."
+}
