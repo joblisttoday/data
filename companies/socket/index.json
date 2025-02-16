@@ -1,0 +1,25 @@
+{
+  "twitter_url": "https://twitter.com/SocketSecurity",
+  "positions": [
+    {
+      "country": "USA",
+      "city": "Wilmington ",
+      "postal_code": "DE 19802",
+      "address": "2810 N Church St",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-75.5286244,39.7526672]}"
+    }
+  ],
+  "job_board_provider": "ashby",
+  "company_url": "https://socket.dev",
+  "job_board_hostname": "socket",
+  "linkedin_url": "https://www.linkedin.com/company/socketinc/",
+  "github_url": "https://github.com/SocketDev",
+  "job_board_url": "https://socket.dev/careers",
+  "title": "Socket",
+  "tags": [
+    "security",
+    "IT",
+    "supply-chain"
+  ],
+  "description": "Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies."
+}
