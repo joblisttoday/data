@@ -1,0 +1,21 @@
+{
+  "instagram_url": "https://www.instagram.com/perplexity.ai",
+  "twitter_url": "https://x.com/perplexity_ai",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Perplexity_AI",
+  "positions": [],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.perplexity.ai",
+  "job_board_hostname": "perplexityai",
+  "linkedin_url": "https://www.linkedin.com/company/perplexity-ai/",
+  "youtube_url": "https://www.youtube.com/@perplexity-ai",
+  "github_url": "https://github.com/perplexityai",
+  "job_board_url": "https://www.perplexity.ai/hub/careers",
+  "facebook_url": "https://www.facebook.com/perplexityofficial/",
+  "title": "Perplexity",
+  "tags": [
+    "ai",
+    "llm",
+    "search-engine"
+  ],
+  "description": "Perplexity AI is a conversational search engine that uses large language models (LLMs) to answer queries using sources from the web and cites links within the text response."
+}
