@@ -1,15 +1,23 @@
 {
-    "title": "Beatport",
-    "description": "Online electronic #music store",
-    "tags": [
-        "music"
-    ],
-    "job_board_url": "http://about.beatport.com/careers",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.4408174,52.5028033]}"
-        }
-    ]
+  "instagram_url": "https://www.instagram.com/beatport",
+  "twitter_url": "https://www.twitter.com/beatport",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Beatport",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4408174,52.5028033]}"
+    }
+  ],
+  "company_url": "https://beatport.com",
+  "linkedin_url": "https://www.linkedin.com/company/beatport",
+  "youtube_url": "https://www.youtube.com/c/beatport",
+  "github_url": "https://github.com/beatport",
+  "job_board_url": "https://about.beatport.com/careers",
+  "facebook_url": "https://www.facebook.com/beatport",
+  "title": "Beatport",
+  "tags": [
+    "music"
+  ],
+  "description": "For over 20 years, Beatport has been the global leader in DJ and club culture, pushing the boundaries of dance music to all corners of the world. Created by DJs for DJs, Beatport has always been dedicated to innovating new products and services to support evolving generations of music performers and producers. The Beatport Group includes some of the best-known brands in DJ culture, including Beatport, Beatsource, DJcity, Loopmasters, Plugin Boutique, Loopcloud, Beatport Streaming, Ampsuite, LabelRadar, Beatport.io & The International Music Summit (IMS). "
 }
