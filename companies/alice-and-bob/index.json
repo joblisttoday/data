@@ -1,18 +1,26 @@
 {
-    "title": "Alice & Bob",
-    "company_url": "",
-    "job_board_url": "https://apply.workable.com/alice",
-    "job_board_provider": "workable",
-    "job_board_hostname": "alice",
-    "description": "Until now, errors were the main barrier to useful quantum computers. Our self-correcting quantum bits enable fault-tolerant quantum computing and can run any quantum algorithm. We aim to dramatically increase our computing power to tackle your toughest challenges. Now, what would you do with exponential computing power?  We are a spin-off from the ENS Paris and ENS de Lyon based in Paris, France.",
-    "tags": [
-        "quantum-computing"
-    ],
-    "twitter_url": "",
-    "linkedin_url": "",
-    "positions": [
-        {
-            "city": "Paris"
-        }
-    ]
+  "twitter_url": "https://twitter.com/Alice__Bob",
+  "positions": [
+    {
+      "city": "Paris",
+      "country": "France",
+      "postal_code": " 75015",
+      "address": "49 Bd du Général Martial Valin ",
+      "map": "{\"type\":\"Point\",\"coordinates\":[2.2742747,48.8372892]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://alice-bob.com/",
+  "job_board_hostname": "alice-bob",
+  "linkedin_url": "https://www.linkedin.com/company/alice-bob",
+  "youtube_url": "https://www.youtube.com/@alicebob5464",
+  "github_url": "https://github.com/Alice-Bob-SW",
+  "job_board_url": "https://alice-bob.com/join-us/",
+  "facebook_url": "",
+  "title": "Alice & Bob",
+  "tags": [
+    "quantum-computing",
+    "startup"
+  ],
+  "description": "Alice & Bob is building the first universal, fault-tolerant quantum computer, to tackle some of the world's hardest problems. Our technology based on self-correcting cat qubits provides a solution to the biggest roadblock faced by quantum computers today: computation errors."
 }
