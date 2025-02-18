@@ -34,14 +34,14 @@
       "city": "Frankfurt am Main",
       "postal_code": "60314",
       "address": "Hanauer Landstraße 114",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[8.7099246,50.1111874]}"
     },
     {
       "country": "Australia",
       "city": "Bayswater",
       "postal_code": "3153",
-      "address": "Mountain Hwy",
-      "map": ""
+      "address": "867-885, Mountain Hwy",
+      "map": "{\"type\":\"Point\",\"coordinates\":[145.2797473,-37.8371044]}"
     },
     {
       "country": "Canada",
