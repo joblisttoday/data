@@ -76,28 +76,28 @@
       "city": "Tokyo",
       "postal_code": "151-8583",
       "address": "9F Odakyu Southern Tower",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[139.700452,35.6862528]}"
     },
     {
       "country": "South Africa",
       "city": "Pretoria",
       "postal_code": "0081",
       "address": "Tijgervallei Office Park, Block 6, Silverlakes Road, Silverlakes",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[28.3587037,-25.7840646]}"
     },
     {
       "country": "UAE",
       "city": "Dubai",
       "postal_code": "",
       "address": "Expo City Dubai, Level 6, Building Parcel A, 4 Al Wasl Avenue, Mobility District",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[55.150181,24.9602429]}"
     },
     {
       "country": "South Korea",
       "city": "Seoul",
       "postal_code": "",
       "address": "LYNN square, 17F, 39 Enoju-ro 30-gil",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[127.053947,37.4913794]}"
     }
   ],
   "job_board_provider": "lever",
