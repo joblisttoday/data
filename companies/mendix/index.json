@@ -1,0 +1,116 @@
+{
+  "instagram_url": "https://www.instagram.com/mendixinc/",
+  "positions": [
+    {
+      "country": "Netherlands",
+      "city": "Rotterdam",
+      "postal_code": "3072 AP",
+      "address": "Wilhelminakade 197",
+      "map": "{\"type\":\"Point\",\"coordinates\":[4.4870241,51.9058887]}"
+    },
+    {
+      "country": "United States",
+      "city": "Boston",
+      "postal_code": "02210",
+      "address": "22 Boston Wharf Rd",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-71.0469495,42.3504227]}"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "postal_code": "EC4Y 0AY",
+      "address": "22 Tudor Street",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-0.1063877,51.5126552]}"
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "postal_code": "348615",
+      "address": "60 MacPherson Rd, #11-00",
+      "map": "{\"type\":\"Point\",\"coordinates\":[103.8708176,1.3273854]}"
+    },
+    {
+      "country": "Germany",
+      "city": "Frankfurt am Main",
+      "postal_code": "60314",
+      "address": "Hanauer Landstraße 114",
+      "map": "{\"type\":\"Point\",\"coordinates\":[8.7099246,50.1111874]}"
+    },
+    {
+      "country": "Australia",
+      "city": "Bayswater",
+      "postal_code": "3153",
+      "address": "867-885, Mountain Hwy",
+      "map": "{\"type\":\"Point\",\"coordinates\":[145.2797473,-37.8371044]}"
+    },
+    {
+      "country": "Canada",
+      "city": "Oakville",
+      "postal_code": "L6H 0H6",
+      "address": "1577 North Service Rd East",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-79.6743846,43.4883076]}"
+    },
+    {
+      "country": "China",
+      "city": "Shanghai",
+      "postal_code": "200082",
+      "address": "500 Dalian Road, 5-8F, Building B",
+      "map": "{\"type\":\"Point\",\"coordinates\":[481.5090357,31.2611597]}"
+    },
+    {
+      "country": "France",
+      "city": "Chatillon",
+      "postal_code": "92320",
+      "address": "107 Av. de la République",
+      "map": "{\"type\":\"Point\",\"coordinates\":[2.2976741,48.8047381]}"
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "postal_code": "400018",
+      "address": "130, Pandurang Budhkar Marg",
+      "map": "{\"type\":\"Point\",\"coordinates\":[72.8207328,19.0060092]}"
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "postal_code": "151-8583",
+      "address": "9F Odakyu Southern Tower",
+      "map": "{\"type\":\"Point\",\"coordinates\":[139.700452,35.6862528]}"
+    },
+    {
+      "country": "South Africa",
+      "city": "Pretoria",
+      "postal_code": "0081",
+      "address": "Tijgervallei Office Park, Block 6, Silverlakes Road, Silverlakes",
+      "map": "{\"type\":\"Point\",\"coordinates\":[28.3587037,-25.7840646]}"
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai",
+      "postal_code": "",
+      "address": "Expo City Dubai, Level 6, Building Parcel A, 4 Al Wasl Avenue, Mobility District",
+      "map": "{\"type\":\"Point\",\"coordinates\":[55.150181,24.9602429]}"
+    },
+    {
+      "country": "South Korea",
+      "city": "Seoul",
+      "postal_code": "",
+      "address": "LYNN square, 17F, 39 Enoju-ro 30-gil",
+      "map": "{\"type\":\"Point\",\"coordinates\":[127.053947,37.4913794]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://www.mendix.com",
+  "job_board_hostname": "mendix",
+  "linkedin_url": "http://www.linkedin.com/company/mendix",
+  "youtube_url": "https://www.youtube.com/@MendixOnline",
+  "job_board_url": "https://www.mendix.com/careers/",
+  "facebook_url": "https://www.facebook.com/mendixsoftware",
+  "title": "Mendix",
+  "tags": [
+    "coding",
+    "application-development"
+  ],
+  "description": "The Mendix Platform uses visual modeling to abstract long-form coding out of application development. Our customers use Mendix to create and deploy better software for the enterprise, faster. Mendix enables collaboration between business users and developers to work together throughout the development process."
+}
