@@ -1,0 +1,25 @@
+{
+  "instagram_url": "https://www.instagram.com/mendixinc/",
+  "positions": [
+    {
+      "country": "Netherlands",
+      "city": "Rotterdam",
+      "postal_code": "3072 AP",
+      "address": "Wilhelminakade 197 ",
+      "map": "{\"type\":\"Point\",\"coordinates\":[4.4870241,51.9058887]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://www.mendix.com",
+  "job_board_hostname": "mendix",
+  "linkedin_url": "http://www.linkedin.com/company/mendix",
+  "youtube_url": "https://www.youtube.com/@MendixOnline",
+  "job_board_url": "https://www.mendix.com/careers/",
+  "facebook_url": "https://www.facebook.com/mendixsoftware",
+  "title": "Mendix",
+  "tags": [
+    "coding",
+    "application-development"
+  ],
+  "description": "The Mendix Platform uses visual modeling to abstract long-form coding out of application development. Our customers use Mendix to create and deploy better software for the enterprise, faster. Mendix enables collaboration between business users and developers to work together throughout the development process."
+}
