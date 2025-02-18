@@ -47,29 +47,29 @@
       "country": "Canada",
       "city": "Oakville",
       "postal_code": "L6H 0H6",
-      "address": "North Service Rd East",
-      "map": ""
+      "address": "1577 North Service Rd East",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-79.6743846,43.4883076]}"
     },
     {
       "country": "China",
       "city": "Shanghai",
       "postal_code": "200082",
-      "address": "No. 500 Dalian Road, 5-8F, Building B",
-      "map": ""
+      "address": "500 Dalian Road, 5-8F, Building B",
+      "map": "{\"type\":\"Point\",\"coordinates\":[481.5090357,31.2611597]}"
     },
     {
       "country": "France",
       "city": "Chatillon",
       "postal_code": "92320",
       "address": "107 Av. de la République",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[2.2976741,48.8047381]}"
     },
     {
       "country": "India",
       "city": "Mumbai",
       "postal_code": "400018",
       "address": "130, Pandurang Budhkar Marg",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[72.8207328,19.0060092]}"
     },
     {
       "country": "Japan",
