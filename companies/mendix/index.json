@@ -5,8 +5,99 @@
       "country": "Netherlands",
       "city": "Rotterdam",
       "postal_code": "3072 AP",
-      "address": "Wilhelminakade 197 ",
+      "address": "Wilhelminakade 197",
       "map": "{\"type\":\"Point\",\"coordinates\":[4.4870241,51.9058887]}"
+    },
+    {
+      "country": "United States",
+      "city": "Boston",
+      "postal_code": "02210",
+      "address": "22 Boston Wharf Rd",
+      "map": ""
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "postal_code": "EC4Y 0AY",
+      "address": "22 Tudor Street",
+      "map": ""
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "postal_code": "348615",
+      "address": "60 MacPherson Rd, #11-00",
+      "map": ""
+    },
+    {
+      "country": "Germany",
+      "city": "Frankfurt am Main",
+      "postal_code": "60314",
+      "address": "Hanauer Landstraße 114",
+      "map": ""
+    },
+    {
+      "country": "Australia",
+      "city": "Bayswater",
+      "postal_code": "3153",
+      "address": "Mountain Hwy",
+      "map": ""
+    },
+    {
+      "country": "Canada",
+      "city": "Oakville",
+      "postal_code": "L6H 0H6",
+      "address": "North Service Rd East",
+      "map": ""
+    },
+    {
+      "country": "China",
+      "city": "Shanghai",
+      "postal_code": "200082",
+      "address": "No. 500 Dalian Road, 5-8F, Building B",
+      "map": ""
+    },
+    {
+      "country": "France",
+      "city": "Chatillon",
+      "postal_code": "92320",
+      "address": "107 Av. de la République",
+      "map": ""
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "postal_code": "400018",
+      "address": "130, Pandurang Budhkar Marg",
+      "map": ""
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "postal_code": "151-8583",
+      "address": "9F Odakyu Southern Tower",
+      "map": ""
+    },
+    {
+      "country": "South Africa",
+      "city": "Pretoria",
+      "postal_code": "0081",
+      "address": "Tijgervallei Office Park, Block 6, Silverlakes Road, Silverlakes",
+      "map": ""
+    },
+    {
+      "country": "UAE",
+      "city": "Dubai",
+      "postal_code": "",
+      "address": "Expo City Dubai, Level 6, Building Parcel A, 4 Al Wasl Avenue, Mobility District",
+      "map": ""
+    },
+    {
+      "country": "South Korea",
+      "city": "Seoul",
+      "postal_code": "",
+      "address": "LYNN square, 17F, 39 Enoju-ro 30-gil",
+      "map": ""
     }
   ],
   "job_board_provider": "lever",
