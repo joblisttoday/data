@@ -13,7 +13,7 @@
       "city": "Boston",
       "postal_code": "02210",
       "address": "22 Boston Wharf Rd",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[-71.0469495,42.3504227]}"
     },
     {
       "country": "United Kingdom",
