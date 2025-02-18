@@ -1,16 +1,18 @@
 {
-    "title": "CoinMarketCap",
-    "company_url": "https://coinmarketcap.com",
-    "job_board_url": "https://coinmarketcap.com/jobs",
-    "job_board_provider": "greenhouse",
-    "job_board_hostname": "cmc",
-    "description": "CoinMarketCap is the world’s most trusted and accurate source of data for cryptocurrencies. Used by millions of individuals, organizations, and exchanges, CoinMarketCap brings the most up-to-date market capitalizations, pricing, and cryptocurrency information to our users.\n\nPulling data from multiple exchanges and combining our robust research allows us to provide the most realistic representation of each cryptocurrency. As we grow, we will continue to provide access to our data wherever, whenever, and however is most helpful to our users.",
-    "tags": [
-        "cryptocurrencies",
-        "blockchain",
-        "analytics"
-    ],
-    "twitter_url": "https://twitter.com/CoinMarketCap",
-    "instagram_url": "https://www.instagram.com/coinmarketcap/",
-    "facebook_url": "https://www.facebook.com/CoinMarketCap"
+  "instagram_url": "https://www.instagram.com/coinmarketcap/",
+  "twitter_url": "https://twitter.com/CoinMarketCap",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Coinmarketcap",
+  "job_board_provider": "lever",
+  "company_url": "https://coinmarketcap.com",
+  "job_board_hostname": "coinmarketcap",
+  "linkedin_url": "https://www.linkedin.com/company/coinmarketcap",
+  "job_board_url": "https://coinmarketcap.com/jobs",
+  "facebook_url": "https://www.facebook.com/CoinMarketCap",
+  "title": "CoinMarketCap",
+  "tags": [
+    "cryptocurrencies",
+    "blockchain",
+    "analytics"
+  ],
+  "description": "CoinMarketCap is the world’s most trusted and accurate source of data for cryptocurrencies. Used by millions of individuals, organizations, and exchanges, CoinMarketCap brings the most up-to-date market capitalizations, pricing, and cryptocurrency information to our users.\n\nPulling data from multiple exchanges and combining our robust research allows us to provide the most realistic representation of each cryptocurrency. As we grow, we will continue to provide access to our data wherever, whenever, and however is most helpful to our users."
 }
