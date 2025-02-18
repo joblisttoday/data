@@ -20,14 +20,14 @@
       "city": "London",
       "postal_code": "EC4Y 0AY",
       "address": "22 Tudor Street",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[-0.1063877,51.5126552]}"
     },
     {
       "country": "Singapore",
       "city": "Singapore",
       "postal_code": "348615",
       "address": "60 MacPherson Rd, #11-00",
-      "map": ""
+      "map": "{\"type\":\"Point\",\"coordinates\":[103.8708176,1.3273854]}"
     },
     {
       "country": "Germany",
