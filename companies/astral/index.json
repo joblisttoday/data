@@ -1,0 +1,17 @@
+{
+  "twitter_url": "https://twitter.com/astral_sh",
+  "job_board_provider": "ashby",
+  "company_url": "https://astral.sh",
+  "job_board_hostname": "astral",
+  "linkedin_url": "https://www.linkedin.com/company/astral-sh/",
+  "github_url": "https://github.com/astral-sh",
+  "job_board_url": "https://jobs.ashbyhq.com/astral",
+  "title": "Astral",
+  "tags": [
+    "programing",
+    "python",
+    "code",
+    "devx"
+  ],
+  "description": "We build high-performance developer tools for the Python ecosystem. Our mission is to make the Python ecosystem more productive. By building tools that enable developers to ship great software, faster. Tools that change how we work.\n"
+}
