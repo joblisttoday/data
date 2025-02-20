@@ -1,0 +1,28 @@
+{
+  "instagram_url": "https://www.instagram.com/figure_robot/",
+  "twitter_url": "https://twitter.com/figure_robot",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Figure_AI",
+  "positions": [
+    {
+      "country": "United States",
+      "city": "Sunnyvale",
+      "postal_code": "CA 94089",
+      "address": "1247 Elko Dr",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-121.9881849,37.4067778]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.figure.ai",
+  "job_board_hostname": "figureai",
+  "linkedin_url": "https://www.linkedin.com/company/figure-ai/",
+  "youtube_url": "https://www.youtube.com/@figureai",
+  "github_url": "https://github.com/figurerobotics",
+  "job_board_url": "https://www.figure.ai/careers",
+  "title": "Figure AI",
+  "tags": [
+    "robotics",
+    "ai",
+    "startup"
+  ],
+  "description": "United States-based robotics company specializing in the development of AI-powered humanoid robots."
+}
