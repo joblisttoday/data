@@ -1,18 +1,28 @@
 {
-    "title": "JustWatch",
-    "description": "JustWatch offers a solution to browse through your favorite #movies or #tv shows to see if they are available for #streaming at any of your favorite providers or in the #cinema",
-    "tags": [
-        "movies",
-        "tv",
-        "streaming",
-        "cinema"
-    ],
-    "job_board_url": "https://www.justwatch.com/us/talent",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.455574,52.5134213]}"
-        }
-    ]
+  "twitter_url": "https://www.twitter.com/JustWatch",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/JustWatch",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.455574,52.5134213]}",
+      "postal_code": "10405",
+      "address": "Saarbrücker Str. 38"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://www.justwatch.com/",
+  "job_board_hostname": "justwatch",
+  "linkedin_url": "https://www.linkedin.com/company/justwatch",
+  "github_url": "https://www.github.com/justwatchcom",
+  "job_board_url": "https://www.justwatch.com/us/talent",
+  "facebook_url": "https://www.facebook.com/justwatch",
+  "title": "JustWatch",
+  "tags": [
+    "movies",
+    "tv",
+    "streaming",
+    "cinema"
+  ],
+  "description": "JustWatch offers a solution to browse through your favorite #movies or #tv shows to see if they are available for #streaming at any of your favorite providers or in the #cinema"
 }
