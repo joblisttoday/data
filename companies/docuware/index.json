@@ -1,0 +1,28 @@
+{
+  "instagram_url": "https://www.instagram.com/life.at.docuware",
+  "twitter_url": "https://twitter.com/DocuWare_de",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/DocuWare",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "Germering",
+      "postal_code": "82110",
+      "address": "Planegger Str. 1",
+      "map": "{\"type\":\"Point\",\"coordinates\":[11.3670432,48.1268894]}"
+    }
+  ],
+  "job_board_provider": "personio",
+  "company_url": "https://docuware.com",
+  "job_board_hostname": "docuware",
+  "linkedin_url": "https://www.linkedin.com/company/101401/",
+  "youtube_url": "https://www.youtube.com/user/docuware",
+  "github_url": "https://github.com/DocuWare",
+  "job_board_url": "https://careers.docuware.com",
+  "facebook_url": "https://www.facebook.com/DocuWareDE",
+  "title": "DocuWare",
+  "tags": [
+    "software",
+    "document-management"
+  ],
+  "description": "DocuWare is cloud-based Software as a Service provider. DocuWare software provides document management, repository, and workflow automation functions."
+}
