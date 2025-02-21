@@ -1,15 +1,23 @@
 {
-    "title": "Amorelie",
-    "description": "Amorelie is an online #sexshop",
-    "tags": [
-        "sexshop"
-    ],
-    "job_board_url": "http://www.amorelie.de/jobs/",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.3901186,52.5412791]}"
-        }
-    ]
+  "instagram_url": "https://www.instagram.com/amorelie/",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.3901186,52.5412791]}"
+    }
+  ],
+  "job_board_provider": "personio",
+  "company_url": "https://amorelie.de",
+  "job_board_hostname": "amorelie",
+  "linkedin_url": "https://www.linkedin.com/company/amorelie/",
+  "job_board_url": "https://jobs.amorelie.de/",
+  "facebook_url": "https://www.facebook.com/amorelieDE/",
+  "title": "Amorelie",
+  "tags": [
+    "sex",
+    "love",
+    "relationships"
+  ],
+  "description": "We encourage people to have happy and fulfilled sexual relationships—with themselves or others. Ambitious ideas help us develop and offer toys, lingerie and love making essentials"
 }
