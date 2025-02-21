@@ -1,17 +1,19 @@
 {
-    "title": "Architrave GmbH",
-    "description": "#real-estate #software #startup",
-    "tags": [
-        "real-estate",
-        "software",
-        "startup"
-    ],
-    "job_board_url": "https://www.architrave.de/ueber-uns/karriere/",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.4512515,52.4923632]}"
-        }
-    ]
+  "title": "Architrave GmbH",
+  "description": "#real-estate #software #startup",
+  "tags": [
+    "real-estate",
+    "software",
+    "startup"
+  ],
+  "job_board_url": "https://career.architrave.de/",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4512515,52.4923632]}"
+    }
+  ],
+  "company_url": "https://architrave.de",
+  "linkedin_url": "https://www.linkedin.com/company/architrave-gmbh/mycompany/"
 }
