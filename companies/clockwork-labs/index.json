@@ -1,0 +1,18 @@
+{
+  "twitter_url": "https://twitter.com/clockwork_labs",
+  "job_board_provider": "workable",
+  "company_url": "https://clockworklabs.io",
+  "job_board_hostname": "clockwork-labs",
+  "linkedin_url": "https://www.linkedin.com/company/clockwork-labs/",
+  "youtube_url": "https://youtube.com/@ClockworkLabs",
+  "github_url": "https://github.com/clockworklabs/",
+  "job_board_url": "https://clockworklabs.io/join",
+  "facebook_url": "https://www.facebook.com/clockwork.labs.inc/",
+  "title": "Clockwork Labs",
+  "tags": [
+    "game-studio",
+    "mmo",
+    "social-interaction"
+  ],
+  "description": "We are a new venture backed game studio, which is focused on building massively-multiplayer “societal games” that are less focused on pure combat and instead encourage social interaction and cooperation between players. We aim to rekindle the social spirit of massively multiplayer games and foster creative collaboration in our virtual worlds."
+}
