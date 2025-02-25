@@ -1,0 +1,15 @@
+{
+  "twitter_url": "https://twitter.com/rerundotio",
+  "job_board_provider": "ashby",
+  "company_url": "https://rerun.io",
+  "job_board_hostname": "rerun",
+  "linkedin_url": "https://www.linkedin.com/company/rerun-io/",
+  "github_url": "https://github.com/rerun-io/rerun",
+  "job_board_url": "https://rerun.io/careers",
+  "title": "Rerun",
+  "tags": [
+    "ai",
+    "multimodal"
+  ],
+  "description": "We're building the Multimodal Data Stack for embodied AI. Some of the best companies in the world are building the future of AI in the physical world with Rerun. Joining us brings you into the front row of that revolution."
+}
