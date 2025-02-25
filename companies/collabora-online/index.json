@@ -1,0 +1,29 @@
+{
+  "instagram_url": "https://www.instagram.com/collaboraoffice/",
+  "twitter_url": "https://twitter.com/CollaboraOffice",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Collabora_Online",
+  "positions": [
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge ",
+      "postal_code": "CB4 0DS",
+      "address": "The Platinum Building, Cowley Rd, Milton",
+      "map": "{\"type\":\"Point\",\"coordinates\":[0.1520894,52.2343172]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://www.collaboraonline.com",
+  "job_board_hostname": "collabora",
+  "linkedin_url": "https://uk.linkedin.com/company/collaboraproductivity",
+  "youtube_url": "https://www.youtube.com/@CollaboraOnline",
+  "github_url": "https://github.com/CollaboraOnline",
+  "job_board_url": "https://www.collaboraonline.com/careers",
+  "facebook_url": "https://www.facebook.com/collaboraoffice/",
+  "title": "Collabora Online",
+  "tags": [
+    "libre-office",
+    "open-source",
+    "office-automation"
+  ],
+  "description": "Collabora Productivity provides Collabora Online, the feature rich and compatible open source solution for editing and collaboration, and a range of other products and consulting to enterprise and government. Powered by the largest team of certified LibreOffice engineers in the world, it is a leading contributor to the LibreOffice codebase and community."
+}
