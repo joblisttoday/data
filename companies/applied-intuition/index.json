@@ -1,0 +1,26 @@
+{
+  "twitter_url": "https://twitter.com/AppliedInt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Applied_Intuition",
+  "positions": [
+    {
+      "country": "United States",
+      "city": "Mountain View",
+      "postal_code": "CA 94041",
+      "address": "145 E Dana St",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-122.0671007,37.3869618]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.appliedintuition.com",
+  "job_board_hostname": "appliedintuition",
+  "linkedin_url": "https://www.linkedin.com/company/18808325/",
+  "youtube_url": "https://www.youtube.com/channel/UC387DsaWqxA5CFOLXcNkqkA",
+  "github_url": "https://github.com/AppliedIntuition",
+  "job_board_url": "https://www.appliedintuition.com/careers",
+  "title": "Applied Intuition",
+  "tags": [
+    "mobility",
+    "ai"
+  ],
+  "description": "Applied Intuition is a vehicle software supplier that accelerates the adoption of safe and intelligent machines worldwide. "
+}
