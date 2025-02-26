@@ -1,16 +1,29 @@
 {
-    "title": "Contentful",
-    "description": "#startup #tech",
-    "tags": [
-        "startup",
-        "tech"
-    ],
-    "job_board_url": "https://www.contentful.com/careers/",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.4111829,52.5020754]}"
-        }
-    ]
+  "instagram_url": "https://www.instagram.com/contentful.inc/",
+  "twitter_url": "https://x.com/contentful",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Contentful",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.3841023,52.5395913]}",
+      "postal_code": "13355",
+      "address": "Max-Urich-Straße 3"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.contentful.com",
+  "job_board_hostname": "contentful",
+  "linkedin_url": "https://www.linkedin.com/company/contentful/",
+  "youtube_url": "https://www.youtube.com/c/Contentfulinc",
+  "github_url": "https://github.com/contentful",
+  "job_board_url": "https://www.contentful.com/careers/",
+  "facebook_url": "https://www.facebook.com/contentful",
+  "title": "Contentful",
+  "tags": [
+    "cms",
+    "startup",
+    "tech"
+  ],
+  "description": "Contentful is a modern, API-first content management platform (CMP) designed to empower organizations in creating, managing, and delivering digital content across multiple channels. As a headless CMS, Contentful decouples the content repository (backend) from the presentation layer (frontend), providing flexibility and scalability for developers, marketers, and content creators."
 }
