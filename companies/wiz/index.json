@@ -1,0 +1,16 @@
+{
+  "twitter_url": "https://twitter.com/wiz_io",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wiz_(company)",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.wiz.io",
+  "job_board_hostname": "wizinc",
+  "linkedin_url": "https://linkedin.com/company/wizsecurity",
+  "job_board_url": "https://www.wiz.io/careers",
+  "facebook_url": "https://facebook.com/wiz.io.sec",
+  "title": "Wiz",
+  "tags": [
+    "security",
+    "cloud"
+  ],
+  "description": "Organizations of all sizes and industries use Wiz to rapidly identify and remove the most critical risks in AWS, Azure, GCP, OCI, Alibaba Cloud and Kubernetes so they can build faster and more securely."
+}
