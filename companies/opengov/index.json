@@ -1,0 +1,17 @@
+{
+  "twitter_url": "https://twitter.com/OpenGovInc",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/OpenGov",
+  "job_board_provider": "lever",
+  "company_url": "https://opengov.com",
+  "job_board_hostname": "opengov",
+  "linkedin_url": "https://www.linkedin.com/company/opengov-inc",
+  "job_board_url": "https://opengov.com/careers",
+  "facebook_url": "https://www.facebook.com/opengovinc",
+  "title": "OpenGov",
+  "tags": [
+    "startup",
+    "governement",
+    "public-sector"
+  ],
+  "description": "OpenGov Inc. is a government technology company that offers cloud software for public sector accounting, planning, budgeting, citizen services, and procurement."
+}
