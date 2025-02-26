@@ -1,17 +1,17 @@
 {
-    "title": "Deel",
-    "company_url": "https://www.deel.com",
-    "job_board_url": "https://www.deel.com/careers",
-    "job_board_provider": "hashby",
-    "job_board_hostname": "Deel",
-    "description": "Deel helps companies hire anyone, anywhere through its global payment management and compliance solution. With its platform, companies - regardless of type and size - can hire, manage and pay independent workers and full-time employees in more than 150 countries, in a few minutes, compliantly. For more information, visit Deel.com.",
-    "tags": [
-        "recruiting",
-        "payment-management",
-        "human-resources"
-    ],
-    "twitter_url": "https://twitter.com/deel",
-    "linkedin_url": "https://www.linkedin.com/company/deel",
-    "instagram_url": "https://www.instagram.com/getdeel",
-    "facebook_url": "https://www.facebook.com/GetDeel"
+  "instagram_url": "https://www.instagram.com/getdeel",
+  "twitter_url": "https://twitter.com/deel",
+  "job_board_provider": "ashby",
+  "company_url": "https://www.deel.com",
+  "job_board_hostname": "Deel",
+  "linkedin_url": "https://www.linkedin.com/company/deel",
+  "job_board_url": "https://www.deel.com/careers",
+  "facebook_url": "https://www.facebook.com/GetDeel",
+  "title": "Deel",
+  "tags": [
+    "recruiting",
+    "payment-management",
+    "human-resources"
+  ],
+  "description": "Deel helps companies hire anyone, anywhere through its global payment management and compliance solution. With its platform, companies - regardless of type and size - can hire, manage and pay independent workers and full-time employees in more than 150 countries, in a few minutes, compliantly. For more information, visit Deel.com."
 }
