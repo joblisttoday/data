@@ -1,0 +1,29 @@
+{
+  "instagram_url": "https://www.instagram.com/shield_ai/",
+  "twitter_url": "https://twitter.com/shieldaitech",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shield_AI",
+  "positions": [
+    {
+      "country": "United States",
+      "city": "San Diego",
+      "postal_code": "CA 92101",
+      "address": "600 W Broadway Suite 450",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-117.1687225,32.7161329]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://shield.ai",
+  "job_board_hostname": "shieldai",
+  "linkedin_url": "https://www.linkedin.com/company/shield-ai",
+  "youtube_url": "https://www.youtube.com/channel/UC8aLANyMb6HeGsOpK9HYMQQ",
+  "github_url": "https://github.com/shield-ai",
+  "job_board_url": "https://jobs.lever.co/shieldai",
+  "facebook_url": "https://www.facebook.com/shieldai/",
+  "title": "Shield AI",
+  "tags": [
+    "defense",
+    "ai",
+    "drone"
+  ],
+  "description": "Defense technology company whose mission is to protect service members and civilians with intelligent systems. In pursuit of this mission, Shield AI is building the world’s best AI pilot. Its AI pilot, Hivemind, has flown a fighter jet (F-16), a vertical takeoff and landing drone (V-BAT), and a quadcopter (Nova). Shield AI’s products and people are currently in the field actively supporting operations with the U.S. Department of Defense and U.S. allies."
+}
