@@ -1,0 +1,18 @@
+{
+  "twitter_url": "https://twitter.com/databricks",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Databricks",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.databricks.com",
+  "job_board_hostname": "databricks",
+  "linkedin_url": "https://www.linkedin.com/company/databricks",
+  "youtube_url": "https://www.youtube.com/@Databricks",
+  "github_url": "https://github.com/databricks",
+  "job_board_url": "https://www.databricks.com/company/careers",
+  "facebook_url": "https://www.facebook.com/databricksinc/",
+  "title": "Databricks",
+  "tags": [
+    "data",
+    "analytics"
+  ],
+  "description": "Databricks is a cloud-based platform designed for data engineering, analytics, and artificial intelligence, enabling teams to process and analyze large volumes of data efficiently. It combines the features of a data lake and a data warehouse, allowing organizations to manage both structured and unstructured data for various analytics and machine learning tasks."
+}
