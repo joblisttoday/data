@@ -1,0 +1,28 @@
+{
+  "instagram_url": "https://instagram.com/tucows_inc",
+  "twitter_url": "https://twitter.com/tucows",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tucows",
+  "positions": [
+    {
+      "country": "United States",
+      "postal_code": "MS 39759",
+      "city": "Starkville",
+      "address": "421 Dr Martin Luther King Jr Dr E #2",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-88.8077286,33.4661861]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.tucows.com",
+  "job_board_hostname": "remotetcx",
+  "linkedin_url": "https://www.linkedin.com/company/tucows/",
+  "youtube_url": "https://youtube.com/channel/UCwqAfMGmFx9W29yn0ErnMeA",
+  "github_url": "https://github.com/tucows",
+  "job_board_url": "https://www.tucows.com/careers",
+  "facebook_url": "https://www.facebook.com/tucowsinc/",
+  "title": "Tucows",
+  "tags": [
+    "internet-services",
+    "telecommunications"
+  ],
+  "description": "Tucows Inc. is an American-Canadian publicly traded Internet services and telecommunications company headquartered in Toronto, Ontario, Canada, and incorporated in Pennsylvania, United States. The company is composed of three independent businesses: Tucows Domains, Ting Internet, and Wavelo."
+}
