@@ -1,0 +1,26 @@
+{
+  "instagram_url": "http://instagram.com/proximafusion",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Munich",
+      "postal_code": "81369",
+      "address": " Flößergasse 2",
+      "map": "{\"type\":\"Point\",\"coordinates\":[11.5369288,48.1064641]}"
+    }
+  ],
+  "job_board_provider": "lever",
+  "company_url": "https://www.proximafusion.com",
+  "job_board_hostname": "proximafusion",
+  "linkedin_url": "https://www.linkedin.com/company/proximafusion",
+  "youtube_url": "https://www.youtube.com/@proximafusion",
+  "job_board_url": "https://www.proximafusion.com/careers",
+  "title": "Proxima Fusion",
+  "tags": [
+    "nuclear",
+    "fusion",
+    "energy",
+    "startup"
+  ],
+  "description": "Building stellarator fusion power plants—the clearest, most robust path to commercial fusion energy."
+}
