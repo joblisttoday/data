@@ -1,0 +1,18 @@
+{
+  "twitter_url": "https://x.com/KandjiOfficial",
+  "job_board_provider": "lever",
+  "company_url": "https://www.kandji.io/",
+  "job_board_hostname": "kandji",
+  "linkedin_url": "https://www.linkedin.com/company/kandji/",
+  "youtube_url": "https://www.youtube.com/@KandjiOfficial",
+  "github_url": "https://github.com/kandji-inc",
+  "job_board_url": "https://www.kandji.io/company/careers",
+  "facebook_url": "https://www.facebook.com/KandjiOfficial",
+  "title": "Kandji",
+  "tags": [
+    "device-management",
+    "security",
+    "apple"
+  ],
+  "description": "Apple device management and security platform, we empower organizations to seamlessly transform their Apple devices into enterprise-ready endpoints."
+}
