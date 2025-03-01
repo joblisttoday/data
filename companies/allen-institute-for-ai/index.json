@@ -1,0 +1,26 @@
+{
+  "twitter_url": "https://x.com/allen_ai",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Allen_Institute_for_AI",
+  "positions": [
+    {
+      "country": "United States",
+      "city": "Seattle",
+      "postal_code": "WA 98103",
+      "address": "2157 N Northlake Way #110",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-122.3318677,47.6486882]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://allenai.org",
+  "job_board_hostname": "thealleninstitute",
+  "linkedin_url": "https://www.linkedin.com/company/allen-ai/",
+  "github_url": "https://github.com/allenai",
+  "job_board_url": "https://allenai.org/careers",
+  "title": "Allen Institute for AI",
+  "tags": [
+    "AI",
+    "non-profit",
+    "research"
+  ],
+  "description": "Allen Institute for AI (Ai2) is a Seattle based non-profit AI research institute founded in 2014 by the late Paul Allen. We develop foundational AI research and innovation to deliver real-world impact through large-scale open models, data, robotics, conservation, and beyond."
+}
