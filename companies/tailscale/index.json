@@ -1,0 +1,28 @@
+{
+  "twitter_url": "https://twitter.com/tailscale",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tailscale",
+  "positions": [
+    {
+      "country": "Canada",
+      "city": "Toronto",
+      "postal_code": "ON M5V 2T3",
+      "address": "720 King St W #125",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-79.4042717,43.6439107]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://tailscale.com",
+  "job_board_hostname": "tailscale",
+  "linkedin_url": "https://www.linkedin.com/company/tailscale",
+  "youtube_url": "https://www.youtube.com/@Tailscale",
+  "github_url": "https://github.com/tailscale",
+  "job_board_url": "https://tailscale.com/careers",
+  "facebook_url": "https://www.facebook.com/tailscale/",
+  "title": "Tailscale",
+  "tags": [
+    "vpn",
+    "wireguard",
+    "mesh-network"
+  ],
+  "description": "Tailscale builds on top of WireGuard and provides OAuth2 (SSO), OpenID, and SAML authentication for peers to build a mesh network. It is crossplatform, has ACL settings and internal DNS."
+}
