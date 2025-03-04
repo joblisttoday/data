@@ -1,0 +1,19 @@
+{
+  "instagram_url": "https://www.instagram.com/bitwarden/",
+  "twitter_url": "https://twitter.com/bitwarden",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bitwarden",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://bitwarden.com",
+  "job_board_hostname": "bitwarden",
+  "linkedin_url": "https://www.linkedin.com/company/bitwarden1",
+  "youtube_url": "https://www.youtube.com/channel/UCId9a_jQqvJre0_dE2lE_Rw",
+  "github_url": "https://github.com/bitwarden",
+  "job_board_url": "https://bitwarden.com/careers",
+  "facebook_url": "https://www.facebook.com/bitwarden/",
+  "title": "Bitwarden",
+  "tags": [
+    "password-management",
+    "security"
+  ],
+  "description": "Bitwarden is a freemium open-source password management service that is used to store sensitive information, such as website credentials, in an encrypted vault."
+}
