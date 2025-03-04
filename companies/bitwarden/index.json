@@ -2,6 +2,15 @@
   "instagram_url": "https://www.instagram.com/bitwarden/",
   "twitter_url": "https://twitter.com/bitwarden",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Bitwarden",
+  "positions": [
+    {
+      "country": "United States",
+      "city": "Santa Barbara",
+      "postal_code": "CA 93103",
+      "address": "1 N Calle Cesar Chavez #102",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-119.6829214,34.4185979]}"
+    }
+  ],
   "job_board_provider": "greenhouse",
   "company_url": "https://bitwarden.com",
   "job_board_hostname": "bitwarden",
