@@ -1,0 +1,16 @@
+{
+  "twitter_url": "https://twitter.com/zeddotdev",
+  "job_board_provider": "ashby",
+  "company_url": "https://zed.dev",
+  "job_board_hostname": "zed",
+  "linkedin_url": "",
+  "youtube_url": "https://www.youtube.com/@zeddotdev",
+  "github_url": "https://github.com/zed-industries",
+  "job_board_url": "https://zed.dev/jobs",
+  "title": "Zed ",
+  "tags": [
+    "code-editor",
+    "ai"
+  ],
+  "description": "Zed is a next-generation code editor designed for high-performance collaboration with humans and AI."
+}
