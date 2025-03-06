@@ -1,0 +1,20 @@
+{
+  "instagram_url": "https://instagram.com/icon3dtech",
+  "twitter_url": "https://twitter.com/icon3dtech",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.iconbuild.com",
+  "job_board_hostname": "iconcareers",
+  "linkedin_url": "https://www.linkedin.com/company/icon3dtech",
+  "youtube_url": "https://www.youtube.com/icon3dtech",
+  "job_board_url": "https://www.iconbuild.com/careers/",
+  "facebook_url": "https://www.facebook.com/icon3dtech",
+  "title": "ICON",
+  "tags": [
+    "construction",
+    "robotics",
+    "housing",
+    "3d-printing",
+    "concrete"
+  ],
+  "description": "Construction technology company developing robotic and AI systems to lower the cost and increase the speed and quality of construction to tackle the global housing crisis and prepare to build on other worlds. As a pioneer of large-scale 3D printing, ICON continually sets new standards for delivering resilient, dignified housing and recently unveiled a radical new robotic printer that enables multi-story construction, a new low-carbon building material, a digital catalog for residential architecture, and an AI architect for home design and construction."
+}
