@@ -1,0 +1,31 @@
+{
+  "instagram_url": "https://www.instagram.com/raspberrypi",
+  "twitter_url": "https://x.com/Raspberry_Pi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation",
+  "positions": [
+    {
+      "country": "United Kingdom",
+      "city": "Cambridge",
+      "postal_code": "CB2 1NT",
+      "address": "37 Hills Rd",
+      "map": "{\"type\":\"Point\",\"coordinates\":[0.1308244,52.1962046]}"
+    }
+  ],
+  "job_board_provider": "workable",
+  "company_url": "https://www.raspberrypi.com",
+  "job_board_hostname": "raspberrypi",
+  "linkedin_url": "https://www.linkedin.com/company/raspberrypi/",
+  "youtube_url": "https://youtube.com/raspberrypi",
+  "github_url": "https://github.com/raspberrypi",
+  "job_board_url": "https://www.raspberrypi.com/jobs/",
+  "facebook_url": "https://www.facebook.com/raspberrypi",
+  "title": "Raspberry Pi Foundation",
+  "tags": [
+    "computing",
+    "open-source",
+    "open-hardware",
+    "education",
+    "embedded"
+  ],
+  "description": "Raspberry Pi Foundation produces a series of low-cost single-board computers used for educational purposes and embedded systems."
+}
