@@ -1,0 +1,29 @@
+{
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spark_Networks",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "postal_code": "10999",
+      "address": "Kohlfurter Straße 41/43",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4182889,52.4969139]}"
+    },
+    {
+      "country": "USA",
+      "city": "New York",
+      "postal_code": "11012",
+      "address": "524 Broadway, We Work",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-73.9987874,40.7227945]}"
+    }
+  ],
+  "job_board_provider": "rippling",
+  "company_url": "https://www.spark.net/",
+  "job_board_hostname": "spark-networks-careers",
+  "linkedin_url": "https://www.linkedin.com/company/spark-networks",
+  "job_board_url": "https://www.spark.net/careers/jobs",
+  "title": "Spark Networks",
+  "tags": [
+    "dating"
+  ],
+  "description": "Spark Networks GmbH is an American-German dating company with a portfolio of brands designed for singles seeking serious relationships. These online dating brands include Zoosk, SilverSingles, EliteSingles, Jdate, ChristianMingle, eDarling, JSwipe, AdventistSingles, LDSSingles, and Attractive World. Formed in 2017 through the merger of Affinitas GmbH and Spark Networks, Inc., the company has a presence in 29 countries worldwide."
+}
