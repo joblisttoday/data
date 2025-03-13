@@ -1,0 +1,19 @@
+{
+  "instagram_url": "https://www.instagram.com/PitchHq",
+  "twitter_url": "https://www.twitter.com/pitch",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://pitch.com",
+  "job_board_hostname": "pitch",
+  "linkedin_url": "https://www.linkedin.com/company/pitchhq",
+  "youtube_url": "https://www.youtube.com/@Pitchhq",
+  "github_url": "https://github.com/pitch-io",
+  "job_board_url": "https://pitch.com/jobs",
+  "facebook_url": "https://www.facebook.com/pitchhq",
+  "title": "Pitch",
+  "tags": [
+    "presentations",
+    "business",
+    "customer"
+  ],
+  "description": "Pitch is the complete pitching platform. From crafting sleek presentations to closing deals with personalized pitch rooms, Pitch empowers teams to manage the entire customer lifecycle in one seamless workflow. With an intuitive slide editor, deal rooms that nurture clients, CRM integrations, and advanced analytics to track engagement, Pitch goes beyond traditional presentation software."
+}
