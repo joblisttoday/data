@@ -1,6 +1,15 @@
 {
   "instagram_url": "https://www.instagram.com/PitchHq",
   "twitter_url": "https://www.twitter.com/pitch",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "postal_code": "10119",
+      "address": "Joachimstraße 7",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4010046,52.5274405]}"
+    }
+  ],
   "job_board_provider": "greenhouse",
   "company_url": "https://pitch.com",
   "job_board_hostname": "pitch",
