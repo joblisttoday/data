@@ -1,0 +1,20 @@
+{
+  "instagram_url": "https://instagram.com/waymo",
+  "twitter_url": "https://twitter.com/Waymo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Waymo",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://waymo.com/",
+  "job_board_hostname": "waymo",
+  "linkedin_url": "https://www.linkedin.com/company/waymo",
+  "youtube_url": "https://youtube.com/channel/UCh5Yo6HN5b2Hco70HosIzZA",
+  "github_url": "https://github.com/waymo-research/",
+  "job_board_url": "https://careers.withwaymo.com/",
+  "facebook_url": "https://facebook.com/waymo",
+  "title": "Waymo",
+  "tags": [
+    "ai",
+    "self-driving",
+    "automotive"
+  ],
+  "description": "Waymo LLC, formerly known as the Google Self-Driving Car Project, is an American autonomous driving technology company headquartered in Mountain View, California. It is a subsidiary of Alphabet Inc. The company traces its origins to the Stanford Racing Team, which competed in the 2005 and 2007 Defense Advanced Research Projects Agency Grand Challenges."
+}
