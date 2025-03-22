@@ -1,0 +1,27 @@
+{
+  "instagram_url": "https://www.instagram.com/vastspacestation/",
+  "twitter_url": "https://twitter.com/vast",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vast_(company)",
+  "positions": [
+    {
+      "country": "USA",
+      "city": "Long Beach",
+      "postal_code": "CA 90806",
+      "address": "2851 Orange Ave",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-118.1767781,33.8103974]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.vastspace.com",
+  "job_board_hostname": "vast",
+  "linkedin_url": "https://www.linkedin.com/company/vastspace",
+  "youtube_url": "https://www.youtube.com/@vastspacestation",
+  "github_url": "",
+  "job_board_url": "https://www.vastspace.com/careers",
+  "title": "Vast",
+  "tags": [
+    "aerospace",
+    "space-station"
+  ],
+  "description": "Vast (also styled Vast Space) is a privately-held American aerospace company headquartered in Long Beach, California. It was founded in 2021 by entrepreneur Jed McCaleb with the goal of developing artificial gravity space stations to \"expand humanity beyond the solar system\"."
+}
