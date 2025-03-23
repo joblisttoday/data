@@ -1,0 +1,19 @@
+{
+  "instagram_url": "https://www.instagram.com/couchbase/",
+  "twitter_url": "https://twitter.com/couchbase/",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.couchbase.com",
+  "job_board_hostname": "couchbaseinc",
+  "linkedin_url": "https://www.linkedin.com/company/couchbase/",
+  "youtube_url": "https://www.youtube.com/c/CouchbaseServer/",
+  "github_url": "https://github.com/couchbase/",
+  "job_board_url": "https://www.couchbase.com/careers/",
+  "facebook_url": "https://www.facebook.com/Couchbase/",
+  "title": "Couchbase",
+  "tags": [
+    "database",
+    "nosql"
+  ],
+  "description": "Couchbase, Inc. is an American public (NASDAQ symbol BASE) software company that develops and provides commercial packages and support for Couchbase Server and Couchbase Lite both of which are open-source, NoSQL, multi-model, document-oriented database software packages that store JSON documents or a pure key-value database."
+}
