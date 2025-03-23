@@ -2,6 +2,15 @@
   "instagram_url": "https://www.instagram.com/couchbase/",
   "twitter_url": "https://twitter.com/couchbase/",
   "wikipedia_url": "https://en.wikipedia.org/wiki/Couchbase,_Inc.",
+  "positions": [
+    {
+      "country": "USA",
+      "city": "Santa Clara",
+      "postal_code": "CA 95054 ",
+      "address": "3250 Olcott Street ",
+      "map": "{\"type\":\"Point\",\"coordinates\":[-121.967503,37.3804405]}"
+    }
+  ],
   "job_board_provider": "greenhouse",
   "company_url": "https://www.couchbase.com",
   "job_board_hostname": "couchbaseinc",
