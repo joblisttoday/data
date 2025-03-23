@@ -1,19 +1,22 @@
 {
-    "title": "ThoughtWorks",
-    "description": "#tech company providing #agile #software design and delivery, as well as #consulting services. #multinational",
-    "tags": [
-        "tech",
-        "agile",
-        "software",
-        "consulting",
-        "multinational"
-    ],
-    "job_board_url": "https://www.thoughtworks.com/careers/browse-jobs",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.3913559,52.5075292]}"
-        }
-    ]
+  "instagram_url": "https://www.instagram.com/thoughtworks/",
+  "twitter_url": "https://x.com/thoughtworks",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thoughtworks",
+  "positions": [],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.thoughtworks.com",
+  "job_board_hostname": "thoughtworks",
+  "linkedin_url": "https://www.linkedin.com/company/thoughtworks",
+  "youtube_url": "https://www.youtube.com/user/thoughtworks",
+  "github_url": "https://github.com/thoughtworks",
+  "job_board_url": "https://www.thoughtworks.com/careers",
+  "facebook_url": "https://www.facebook.com/Thoughtworks",
+  "title": "ThoughtWorks",
+  "tags": [
+    "consulting",
+    "agile",
+    "software",
+    "multinational"
+  ],
+  "description": "Thoughtworks Holding, Inc. is a privately-held, global technology company with 49 offices in 18 countries. It provides software design and delivery, and tools and consulting services. The company is closely associated with the movement for agile software development, and has contributed to open source products. Thoughtworks business includes Digital Product Development Services, Digital Experience and Distributed Agile software development."
 }
