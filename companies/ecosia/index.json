@@ -1,0 +1,30 @@
+{
+  "instagram_url": "https://www.instagram.com/ecosia/",
+  "twitter_url": "https://twitter.com/Ecosia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ecosia",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "postal_code": "13347",
+      "address": "Gerichtstraße 23, Hof 4/Aufgang4",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.3735353,52.5451094]}"
+    }
+  ],
+  "job_board_provider": "ashby",
+  "company_url": "https://www.ecosia.org",
+  "job_board_hostname": "ecosia.org",
+  "linkedin_url": "https://fr.linkedin.com/company/ecosia",
+  "youtube_url": "https://www.youtube.com/user/EcosiaORG",
+  "github_url": "https://github.com/ecosia",
+  "job_board_url": "https://explore.ecosia.org/jobs",
+  "facebook_url": "https://www.facebook.com/ecosia",
+  "title": "Ecosia",
+  "tags": [
+    "search-engine",
+    "ecology",
+    "biodiversity",
+    "trees"
+  ],
+  "description": "A better planet with every search - Ecosia, the search engine that plants trees, is one of the world's largest social businesses and the first B Corporation in Germany. As part of our mission to cultivate a more environmentally, socially, and economically sustainable world, we are planting and protecting forests by enabling people to channel their everyday actions into environmental good. So far our 20+ million users have planted over 220 million trees. Our reach expands as we grow and plant native and biodiverse trees worldwide!\n\n"
+}
