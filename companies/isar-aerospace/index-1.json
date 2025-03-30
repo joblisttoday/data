@@ -1,0 +1,37 @@
+{
+  "instagram_url": "https://www.instagram.com/isaraerospace/",
+  "twitter_url": "https://twitter.com/isaraerospace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isar_Aerospace",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Ottobrunn",
+      "postal_code": "85521",
+      "address": "Gewerbegebiet Nord, Finsinger Feld 9",
+      "map": "{\"type\":\"Point\",\"coordinates\":[11.6462764,48.0719306]}"
+    },
+    {
+      "country": "Germany",
+      "city": "Ottobrunn",
+      "postal_code": "85521",
+      "address": "Caroline-Herschel-Straße 2",
+      "map": "{\"type\":\"Point\",\"coordinates\":[11.660331,48.0527351]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "company_url": "https://isaraerospace.com",
+  "job_board_hostname": "isaraerospace",
+  "linkedin_url": "https://www.linkedin.com/company/isaraerospace/",
+  "youtube_url": "https://www.youtube.com/channel/UCjRAGiZtCpR6lrkirDtJP0Q",
+  "github_url": "https://github.com/isar-aerospace",
+  "job_board_url": "https://isaraerospace.com/career",
+  "facebook_url": "https://www.facebook.com/isaraerospace/",
+  "title": "Isar Aerospace",
+  "tags": [
+    "space",
+    "rocket",
+    "aerospace",
+    "europe"
+  ],
+  "description": "Isar Aerospace is a German aerospace company based in Munich, Germany. The company is developing Spectrum, a two-stage, liquid-fueled rocket designed to launch 1,000 kilograms to low Earth orbit. Isar Aerospace intends to manufacture 80% of the rocket themselves, using primarily technology from the tech firms in the area surrounding Munich."
+}
