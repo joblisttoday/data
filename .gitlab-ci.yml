@@ -10,7 +10,7 @@ variables:
 # when there are changes on main branch of the content repo (this on)
 # not used since no more theme/companies repo
 .build-remote-site:
-  stage: trigger-remote-build
+  # stage: trigger-remote-build
   rules:
     - if: $CI_COMMIT_REF_NAME == "main"
   script:
