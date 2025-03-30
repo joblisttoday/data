@@ -1,5 +1,6 @@
-# stages:
-#   - trigger-remote-build
+# unused because no more companies theme repo
+stages:
+  - trigger-remote-build
 
 variables:
   URL_REMOTE_THEME_REPO: gitlab@job-profile-gatsby:pages
@@ -8,9 +9,8 @@ variables:
 
 # only (remote) build the (profile) site,
 # when there are changes on main branch of the content repo (this on)
-# not used since no more theme/companies repo
-.build-remote-site:
-  # stage: trigger-remote-build
+build-remote-site:
+  stage: trigger-remote-build
   rules:
     - if: $CI_COMMIT_REF_NAME == "main"
   script:
