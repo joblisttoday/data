@@ -1,0 +1,21 @@
+{
+  "instagram_url": "https://www.instagram.com/esrigram/",
+  "twitter_url": "https://x.com/Esri",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Esri",
+  "job_board_provider": "greenhouse",
+  "company_url": "https://www.esri.com",
+  "job_board_hostname": "esri",
+  "linkedin_url": "https://www.linkedin.com/company/esri",
+  "youtube_url": "https://www.youtube.com/user/esritv/",
+  "github_url": "https://github.com/Esri",
+  "job_board_url": "https://www.esri.com/careers",
+  "facebook_url": "https://www.facebook.com/esrigis",
+  "title": "Esri",
+  "tags": [
+    "software",
+    "GIS",
+    "geodatabase",
+    "geographic"
+  ],
+  "description": "Environmental Systems Research Institute (Esri) is an American multinational geographic information system (GIS) software company, best known for its ArcGIS products. Esri is one of the world's leading supplier of GIS software, web GIS and geodatabase management applications."
+}
