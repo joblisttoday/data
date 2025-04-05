@@ -1,0 +1,20 @@
+{
+  "instagram_url": "https://www.instagram.com/strapijs/",
+  "twitter_url": "https://x.com/strapijs",
+  "job_board_provider": "lever",
+  "company_url": "https://strapi.io/",
+  "job_board_hostname": "strapi",
+  "linkedin_url": "https://www.linkedin.com/company/strapi",
+  "youtube_url": "https://www.youtube.com/c/Strapi/featured",
+  "github_url": "https://github.com/strapi",
+  "job_board_url": "https://strapi.io/careers",
+  "facebook_url": "https://www.facebook.com/strapijs/",
+  "title": "Strapi",
+  "tags": [
+    "open-source",
+    "cms",
+    "headless-cms",
+    "node-js"
+  ],
+  "description": "Strapi is an open-source headless content management system (CMS) that allows developers to create, manage, and distribute content across various platforms and devices. It provides a flexible and customizable framework for building APIs, enabling users to manage content through a user-friendly admin panel."
+}
