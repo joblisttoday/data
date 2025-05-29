@@ -1,17 +1,20 @@
 {
-    "title": "Babbel",
-    "description": "Babbel is the new way to #learn a foreign #language. The comprehensive learning system combines effective #education methods with state-of-the-art technology",
-    "tags": [
-        "learn",
-        "languages",
-        "education"
-    ],
-    "job_board_url": "http://jobs.babbel.com/en/",
-    "positions": [
-        {
-            "country": "germany",
-            "city": "berlin",
-            "map": "{\"type\":\"Point\",\"coordinates\":[13.4082086,52.5246187]}"
-        }
-    ]
+  "title": "Babbel",
+  "description": "Babbel is the new way to learn a foreign language. The comprehensive learning system combines effective #education methods with state-of-the-art technology",
+  "tags": [
+    "learn",
+    "languages",
+    "education"
+  ],
+  "job_board_url": "http://jobs.babbel.com/en/",
+  "positions": [
+    {
+      "country": "germany",
+      "city": "berlin",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4082086,52.5246187]}"
+    }
+  ],
+  "job_board_provider": "greenhouse",
+  "job_board_hostname": "babbel",
+  "company_url": "https://www.babbel.com/"
 }
