@@ -11,13 +11,13 @@
       "map": "{\"type\":\"Point\",\"coordinates\":[-79.4102025,43.7605323]}"
     }
   ],
-  "job_board_provider": "lever",
+  "job_board_provider": "ashby",
   "company_url": "https://1password.com",
   "job_board_hostname": "1password",
   "linkedin_url": "https://www.linkedin.com/company/1password/",
   "youtube_url": "https://www.youtube.com/1PasswordVideos",
   "github_url": "https://github.com/1Password",
-  "job_board_url": "https://1password.com/jobs",
+  "job_board_url": "https://1password.com/careers",
   "facebook_url": "https://www.facebook.com/1Password",
   "title": "1password",
   "tags": [
