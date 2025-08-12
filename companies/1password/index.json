@@ -11,9 +11,9 @@
       "map": "{\"type\":\"Point\",\"coordinates\":[-79.4102025,43.7605323]}"
     }
   ],
-  "job_board_provider": "greenhouse",
+  "job_board_provider": "ashby",
   "company_url": "https://1password.com",
-  "job_board_hostname": "greenhouse",
+  "job_board_hostname": "1password",
   "linkedin_url": "https://www.linkedin.com/company/1password/",
   "youtube_url": "https://www.youtube.com/1PasswordVideos",
   "github_url": "https://github.com/1Password",
