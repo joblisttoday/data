@@ -5,8 +5,8 @@
       "country": "germany",
       "city": "berlin",
       "map": "{\"type\":\"Point\",\"coordinates\":[13.3873236,52.5419594]}",
-      "address": "Gustav-Meyer-Allee 25, Gebäude 12, Aufgang 2",
-      "postal_code": "13355"
+      "address": "Prinzessinnenstrasse 19",
+      "postal_code": "10969 Berlin"
     }
   ],
   "job_board_provider": "personio",
@@ -21,5 +21,5 @@
     "startup",
     "prop-tech"
   ],
-  "description": "Workspace as a Service. Flexible offices with the best price-performance and efficient sustainability. We offer everything from team offices to tailor-made offices and facilities for your meetings and events. #coworking spaces #startup from Berlin"
+  "description": "Workspace as a Service. Flexible offices with the best price-performance and efficient sustainability. We offer everything from team offices to tailor-made offices and facilities for your meetings and events. We’re looking for you to work with us in: Berlin, Hamburg, Cologne, Potsdam or Munich. A modern, value-driven working environment, Barista-style coffee flat rate, great colleagues (your fellow Unicorns) and lots of benefits await you. #coworking spaces #startup from Berlin"
 }
