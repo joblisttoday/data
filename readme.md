@@ -1,8 +1,6 @@
-Github: [![.github/workflows/sync-to-gitlab.yml](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml/badge.svg)](https://github.com/joblisttoday/data/actions/workflows/sync-to-gitlab.yml) → to synchronise/backup this repo to gitlab
-
 # Data
 
-A list of projects and companies potentially hirring, editable by
+A list of companies and projects potentially hirring, editable by
 everyone in full transparency with open authoring, each updates
 submitted through git(hub).
 
