@@ -35,7 +35,6 @@ use:
 - [edit.joblist.today](https://edit.joblist.today) to add a new company/projects
   and edit existing ones. The other way is by making a PR to this
   repository, editting any part of the content.
-- [profiles.joblist.today](https://profiles.joblist.today) to explore the content of this project, companies data.
 - [joblist.today](https://joblist.today) to search all the jobs that
   can automatically be indexed
 
