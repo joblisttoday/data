@@ -1,0 +1,17 @@
+{
+  "twitter_url": "https://twitter.com/motherduck",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDB",
+  "job_board_provider": "ashby",
+  "company_url": "https://motherduck.com/",
+  "job_board_hostname": "MotherDuck",
+  "linkedin_url": "https://linkedin.com/company/motherduck",
+  "youtube_url": "https://www.youtube.com/@motherduckdb",
+  "github_url": "https://github.com/motherduckdb",
+  "job_board_url": "https://motherduck.com/careers/",
+  "title": "MotherDuck",
+  "tags": [
+    "database",
+    "data-warehouse"
+  ],
+  "description": "DuckDB cloud data warehouse scaling to terabytes\nfor customer-facing analytics and BI"
+}
