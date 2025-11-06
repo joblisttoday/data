@@ -1,0 +1,30 @@
+{
+  "instagram_url": "https://www.instagram.com/enpal.de",
+  "twitter_url": "https://twitter.com/enpal_de",
+  "wikipedia_url": "https://de.wikipedia.org/wiki/Enpal",
+  "positions": [
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "postal_code": "10245",
+      "address": "Bödikerstraße 25",
+      "map": "{\"type\":\"Point\",\"coordinates\":[13.4645242,52.5016404]}"
+    }
+  ],
+  "job_board_provider": "smartrecruiters",
+  "company_url": "https://enpal.com",
+  "job_board_hostname": "EnpalBV",
+  "linkedin_url": "https://www.linkedin.com/company/enpal/mycompany/",
+  "youtube_url": "https://www.youtube.com/channel/UCWmDScVMOCEDbQyzzigec1A",
+  "job_board_url": "https://www.jobs.enpal.com",
+  "facebook_url": "https://www.facebook.com/Enpal.de",
+  "title": "Enpal",
+  "tags": [
+    "energy",
+    "solar-panels",
+    "heat-pumps",
+    "startup",
+    "energy-transition"
+  ],
+  "description": "Enpal is a German renewable energy equipment company based in Berlin that primarily sells and installs photovoltaic systems and heat pumps."
+}
