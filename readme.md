@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **joblist.today has closed (October 2026).** This repository is archived and read-only. The joblist.today domain and its services are retired. Thanks to everyone who used and contributed to joblist over the years.
+
 # Data
 
 A list of companies and projects potentially hirring, editable by
